@@ -1,0 +1,150 @@
+Entry,Intro1,,,,,,,None,TeacherThinking
+Intro1,Intro2,,"Welcome to Bondage Teacher.  Be open-minded and curious, there are hidden items.",,,,,,
+Intro2,Thinking1,,Click on a character on the bottom left to know more about her or see your inventory.,,,,,,
+Thinking1,Thinking2,,"I'm so nervous, it will be hard to sleep tonight.",,,,,Teacher,
+Thinking2,Thinking3,,I hope I'm not forgetting anything.,,,,,,
+Thinking3,,,You're fine hun.  Are you coming to bed?,,,,,Mia,MiaWaiting
+Thinking3,Review0,Please give me a few minutes.  (Review your list.),(You turn away from Mia and get back at talking to yourself.),,,,-1,,TeacherThinking
+Thinking3,Review0,Hold on.  (Review your list.),(You turn away from Mia and get back at talking to yourself.),,,,1,,TeacherThinking
+Thinking3,JoinBed1,"Yes sweetie, good idea.  (Join her in bed.)",,,,1,-1,Mia,TeacherMiaBedTalk
+Thinking3,JoinBed1,"Fine, maybe I can get some sleep.  (Join her in bed.)",,,,-1,1,Mia,TeacherMiaBedTalk
+Review0,Review1,,"First thing in the morning, I need to meet the college director.",,,,,Teacher,
+Review1,Review2,,"I better be sharp and professional.  Since she's the one who hired me, she could also get me fired.",,,,,Teacher,
+Review2,Review3,,She was very strict and direct in the job interview.  I hope we will get along well.,,,,,,
+Review3,Review4,,I don't even know which class I'll be teaching tomorrow.  This is scary.,,,,,,
+Review4,Review5,,I hope everything will work out.  I really need this job.,,,,,,
+Review5,,,"You're thinking too much.  Come to bed, it's late.",,,,,Mia,MiaWaiting
+Review5,JoinBed1,(Reluctantly join her.),,,,-2,,Mia,TeacherMiaBedTalk
+Review5,JoinBed1,(Happily join her.),,,,1,,Mia,TeacherMiaBedTalk
+JoinBed1,JoinBed2,,I'm glad you got this teaching job hun.,,,,,,
+JoinBed2,,,The bills are piling up and the fridge is empty.  We need some money.,,,,,,
+JoinBed2,JoinBed3,I will work extra hard sweetie.,Wow!  I'm sure you will hun.,,,1,-1,,
+JoinBed2,JoinBed3,Why don't you get a job?,Don't tell me what to do!  I've reviewed my resume today.,,,-2,1,,
+JoinBed2,JoinBed3,I'll climb the college ladder quickly.,(She nods quickly.)  I have faith in you.,,,,2,,
+JoinBed2,JoinBed3,You could ask your family for money.,I've already told you that I don't want to get my mom involved.,,,-1,,,
+JoinBed2,JoinBed3,Love is all we need.,This is so sweet.  But having some restaurant money would be nice also.,,,2,-1,,
+JoinBed2,NoSex1,I don't want to talk.  I need some sleep.,Fine!  I don't care!,,,-3,,,
+JoinBed3,,,Are you still nervous about your new boss?,,,,,,
+JoinBed3,JoinBed4,I'm freaking out.,(She caresses your hand.)  Everything will be alright hun.,,,,-2,,
+JoinBed3,JoinBed4,I'm better now.,"It sounds good, don't focus too much on her.",,,,,,
+JoinBed3,JoinBed4,"It's fine, I will handle her.",(She giggles.)  Maybe they will give you her job.,,,,2,,
+JoinBed3,JoinBed4,She's really strict you know.,You'll need to take your place.,,,,-1,,
+JoinBed4,JoinBed5,,Some bosses can be control freaks.,,,,,,
+JoinBed5,,,Nobody is going to control me.,,,,,,
+JoinBed5,Chocolate1,This attitude is probably why you're not finding work.,(She pouts.)  I will find a job soon.,,,-2,1,,
+JoinBed5,Chocolate1,I control your heart.,Wow!  You're so kind hun.  You do control my heart.,,,1,1,,
+JoinBed5,Chocolate1,You're a true rebel.,I'm born to be free!,,,,-1,,
+JoinBed5,Chocolate1,Maybe you would enjoy being controlled.,(She laughs.)  That's a good one.,,,,1,,
+Chocolate1,Chocolate2,,(She picks up a big chocolate cookie.),,,,,,MiaBedCookie
+Chocolate2,,,Do you want some?,,,,,,
+Chocolate2,Chocolate3,It's too late for me to get sugar.,More sweets for me then!,,,,-1,,
+Chocolate2,Chocolate3,Please don't eat in our bed.,No need to nag.  I won't leave any crumbs.,,,-2,1,,
+Chocolate2,Chocolate3,"Ok, I'll have a bite.",(She gives you a bite and smiles.),,,1,-1,,
+Chocolate3,Chocolate4,,"(She quickly finishes the whole cookie, leaving some crumbs in the bed.)",,,,,,TeacherMiaBedTalk
+Chocolate4,,,That is some good chocolate!,,,,,,
+Chocolate4,Chocolate5,You better clean your crumbs.,"Wow!  Ok, ok!  (She cleans her cookie crumbs reluctantly.)",,,-2,2,,
+Chocolate4,Chocolate5,You certainly love these cookies.,(She nods and wipes the cookie crumbs from the bed.),,,1,,,
+Chocolate4,Chocolate5,How can you eat before sleeping?,(She shrugs and wipes the cookie crumbs from the bed.),,,-1,1,,
+Chocolate4,Chocolate5,(Clean the cookie crumbs.),(You clean the cookie crumbs as she grins.)  You could also get a maid job.,,,,-2,,
+Chocolate5,Chocolate6,,,,,,,,MiaBedTummy
+Chocolate6,,,(She picks up the fat on her belly and grumbles.),,,,,,
+Chocolate6,Chocolate7,You've picked up some weight my love.,No way!  I'm still as pretty as the day we met.  Don't you think so?,,,-2,1,,
+Chocolate6,Chocolate7,Your curves are cute.,(She smiles.)  Thanks hun.  Am I still as pretty as the day we met?,,,1,,,
+Chocolate6,Chocolate7,"You're getting chunky, you know.",That's not very kind.  I hope you still find me as pretty as the day we met.,,,-3,2,,
+Chocolate6,Chocolate7,(Do the same with your smaller tummy.),(She looks at you and grins.)  I hope you still find me as pretty as the day we met.,,,,-1,,
+Chocolate7,MiaSubmit1,Strip and I'll tell you.,Wow!  Yes hun.  (She seems surprised and starts to remove her pajamas to show you her body.),DialogDominationGreater(4),,,1,,
+Chocolate7,MiaSubmit1,(Blush.)  Maybe you should get naked so I can let you know.,(She laughs and slowly removes her pajamas to show you her body.),DialogDominationGreater(4),,,-1,,
+Chocolate7,Cuddle1,Strip and I'll tell you.,(She stares at you.)  I'm not a stripper hun.,"DialogDominationBetween(-3, 3)",,,1,,TeacherMiaBedTalk
+Chocolate7,Cuddle1,(Blush.)  Maybe you should get naked so I can let you know.,(She giggles.)  I'm not stripping for you hun.,"DialogDominationBetween(-3, 3)",,,-1,,TeacherMiaBedTalk
+Chocolate7,TeacherSubmit1,Strip and I'll tell you.,"I'm not stripping for you.  In fact, why don't you strip for me hun?  Get naked.",DialogDominationLower(-4),,,1,,
+Chocolate7,TeacherSubmit1,(Blush.)  Maybe you should get naked so I can let you know.,"Forget it.  Actually, why don't you strip for me girl?  Get naked.",DialogDominationLower(-4),,,-1,,
+Chocolate7,Cuddle1,We don't get better with age you know.,(She pouts.)  I know!  You don't need to remind me.,,,-1,,,TeacherMiaBedTalk
+Chocolate7,Cuddle1,You're even prettier ,(She smiles.)  You're so kind tonight hun.,,,1,,,TeacherMiaBedTalk
+Chocolate7,Cuddle1,You're just the same.,(She nods.)  That's what I thought.,,,,,,TeacherMiaBedTalk
+MiaSubmit1,MiaSubmit2,,,,,,,,MiaNakedDisplay1
+MiaSubmit1,MiaSubmit2,InventoryDialogPhone,(You take a picture of her on your phone.)  Keep that image for yourself hun.,,PictureAdd(),,,,
+MiaSubmit2,MiaSubmit3,,,,,,,,MiaNakedDisplay2
+MiaSubmit2,MiaSubmit3,InventoryDialogPhone,(She blushes as you snap a picture on your phone.)  I hope this is a good pose.,,PictureAdd(),,,,
+MiaSubmit3,MiaSubmit4,,,,,,,,MiaNakedDisplay3
+MiaSubmit3,MiaSubmit4,InventoryDialogPhone,(You make a thumbs up and take a picture of your naked girlfriend.)  I feel like a porn star.,,PictureAdd(),,,,
+MiaSubmit4,MiaSubmit5,,"(After making many naked poses for you, she puts her hands behind her head.)",,,,,,
+MiaSubmit5,,,Do I still look sexy to you hun?,,,,,,
+MiaSubmit5,MiaSubmit6,You should train to lose some weight.,I know!  No need to nag me about it again!  I will start training soon.,,,-2,1,,
+MiaSubmit5,MiaSubmit6,You're adorable.,"You're very kind, hun.  Maybe I should train and do some exercise though.",,,1,,,
+MiaSubmit5,MiaSpank1,You're very spankable.  (Caress her butt.),"(You stand up and caress her butt, getting ready to spank her.)",,,1,,,
+MiaSubmit5,MiaSpank1,(Stay silent and spank her.),"(You stand up and grope her butt, getting ready to spank her.)",,,,1,,
+MiaSubmit6,Cuddle1,We could train together.,"(She nods and gets back to bed.)  That's a good idea, let's do that soon.",,,,-1,,MiaNakedBed
+MiaSubmit6,Cuddle1,That's a good idea.,(She nods and gets back to bed.),,,,,,MiaNakedBed
+MiaSubmit6,Cuddle1,I will train you soon.,(She seems surprised by your answer and slowly gets back to bed.),,,,1,,MiaNakedBed
+MiaSubmit6,MiaSpank1,I will train you now.  (Spank her.),"(You stand up and grope her butt, getting ready to spank her.)",,,,1,,
+MiaSpank1,MiaSpank2,,,,"LogAdd(""Mia"", ""IntroSpank"")",,,,TeacherSpankingMia
+MiaSpank2,MiaSpank3,,,,"MiniGameStart(""Spanking"", ""BedroomMia"")",,,,
+MiaSpank3,MiaSpank4,,(You stop as she laughs at you.)  That doesn't work hun.  I should do the spankings.,"MiniGameResultBetween(0, 24)",,-2,-3,,
+MiaSpank3,MiaSpank4,,(You stop as she grumbles.)  Enough hun!  You're not very good at it.,"MiniGameResultBetween(25, 49)",,-1,-1,,
+MiaSpank3,MiaSpank4,,(You stop as she checks her butt.)  That wasn't bad hun.  Maybe we can practice another time.,"MiniGameResultBetween(50, 74)",,,1,,
+MiaSpank3,MiaSpank4,,(You stop as she shakes a little.)  Hun!  I didn't know you were a good spanker.,"MiniGameResultBetween(75, 99)",,1,2,,
+MiaSpank3,MiaSpank4,,"(You stop as she trembles and moans.)  Wow!  That was truly amazing hun, I'm speechless.","MiniGameResultBetween(100, 100)",,2,3,,
+MiaSpank4,MiaSpank5,,"Let's get to bed, it's already late.",,,,,,
+MiaSpank5,Cuddle1,,(You both get back to bed.),,,,,,MiaNakedBed
+TeacherSubmit1,TeacherSubmit2A,Naked?  I guess it's hot tonight.  (Strip naked.),(You start to undress as she watches the show.),,,,,,
+TeacherSubmit1,TeacherSubmit2A,"Anything for you, my love.  (Strip naked.)",(She smirks as you start to undress for a naked show.),,,1,-1,,
+TeacherSubmit1,Cuddle1,I'm not getting naked now.,(She pouts.)  Fine!  Do as you want.,,,-1,1,,TeacherMiaBedTalk
+TeacherSubmit2A,TeacherSubmit2B,,,,,,,,TeacherNakedDisplay1
+TeacherSubmit2A,TeacherSubmit2B,InventoryDialogPhone,(She picks your phone and snaps a picture of you.)  So sexy!,,"PictureAdd(""Teacher"")",,,,
+TeacherSubmit2B,TeacherSubmit2C,,,,,,,,TeacherNakedDisplay2
+TeacherSubmit2B,TeacherSubmit2C,InventoryDialogPhone,(She takes a naked picture using your phone.)  Say: Cheese!,,"PictureAdd(""Teacher"")",,,,
+TeacherSubmit2C,TeacherSubmit3,,,,,,,,TeacherNakedDisplay3
+TeacherSubmit2C,TeacherSubmit3,InventoryDialogPhone,(She zooms on you and take a sexy picture.)  For your Christmas cards!  (She laughs.),,"PictureAdd(""Teacher"")",,,,
+TeacherSubmit3,,,(She stops you after a few poses.)  Did I ever tell you that you have a sexy butt?,,,,,,
+TeacherSubmit3,TeacherSubmit4,(Giggle and wiggle your butt.),"(She watches you and laughs.)  I used to tickle you when we started dating, do you remember?",,,,-1,,
+TeacherSubmit3,TeacherSubmit4,You rarely tell me anymore.,"(She sighs.)  I guess we are a boring couple now.  I used to tickle you when we started dating, do you remember?",,,-1,,,
+TeacherSubmit3,TeacherSubmit4,Your butt is way sexier sweetheart.,"(She smiles.)  That's very kind, hun.  I used to tickle you when we started dating, do you remember?",,,1,1,,
+TeacherSubmit4,TeacherSubmit5,I remember it was kind of crazy.,(She jumps out of bed and gets ready to tickle you.),,,,,,
+TeacherSubmit4,TeacherSubmit5,"Oh yes, I loved it when you tickled me.",(She jumps out of bed and gets ready to tickle you.),,,1,-1,,
+TeacherSubmit4,Cuddle1,"Yeah, and I did not enjoy that.",I know.  (She pouts as you come back to bed.),,,-2,1,,TeacherNakedBed
+TeacherSubmit5,TeacherSubmit6,,,,"LogAdd(""Mia"", ""IntroTickle"")",,,,MiaTickleTeacher
+TeacherSubmit6,TeacherSubmit7,,(She laughs and tickles your naked body playfully.),,,,,,
+TeacherSubmit7,TeacherSubmit8,Eeeeeahahaha!,(She smirks and tickles you one last time.)  That's enough.  Come to bed hun.,,,,-1,,
+TeacherSubmit7,TeacherSubmit8,"You're in a kinky mood, my love.",(She nods and tickles you one last time.)  We don't get kinky enough.  Come to bed hun.,,,1,1,,
+TeacherSubmit7,Cuddle1,That's enough.  (Get back in bed.),You're no fun.  (She grumbles as you both get back to bed.),,,-2,2,,TeacherNakedBed
+TeacherSubmit8,Cuddle1,"Yeah, enough silliness.  (Get in bed.)",(You both get back to bed.),,,-1,1,,TeacherNakedBed
+TeacherSubmit8,Cuddle1,"Of course, it's getting late.  (Get in bed.)",(You both get back to bed.),,,,,,TeacherNakedBed
+TeacherSubmit8,Cuddle1,Yes!  That was fun!  (Get in bed.),(You both get back to bed.),,,1,,,TeacherNakedBed
+Cuddle1,Cuddle2,,,,,,,,
+Cuddle2,,,Are you still nervous?  Will you be able to sleep?,,,,,,
+Cuddle2,Cuddle3,(Blush.)  There's one thing that could help me to relax.,You mean sex?  I guess we can do that if it helps you.  (She winks at you.),DialogLoveGreater(13),,,-1,,
+Cuddle2,Cuddle3,A good fuck would calm me down.,Wow!  That was blunt!  I guess we can do that if it helps you.  (She winks at you.),DialogLoveGreater(13),,,1,,
+Cuddle2,NoSex1,(Blush.)  There's one thing that could help me to relax.,You mean sex?  I'm not in the mood.,DialogLoveLower(12),,,-1,,
+Cuddle2,NoSex1,A good fuck would calm me down.,"Wow!  That was blunt!  Sorry, I'm not in the mood.",DialogLoveLower(12),,,1,,
+Cuddle2,NoSex1,I should be fine.  Let's try to sleep now.,(She nods in agreement.),,,,,,
+Cuddle2,NoSex1,"Enough questions, I need rest.",(She nods and sighs.),,,-1,1,,
+Cuddle3,Cuddle4,,(You smile at each other and get naked.),,,,,,
+Cuddle4,Cuddle5,,,,,,,,TeacherMiaNakedBed
+Cuddle5,,,How long since we last made love?,,,,,,
+Cuddle5,Sex1,I don't know.,(She shrugs as you start to touch each other.),,,,,,
+Cuddle5,Sex1,Way too long!,I agree hun.  (You start to touch each other.),,,,1,,
+Cuddle5,Sex1,I didn't want to push you.,Shhh.  Time for sex!  (You start to touch each other.),,,,-1,,
+Sex1,Sex2,,,,,,,,TeacherMiaMasturbateBed
+Sex2,,,(She moans and works on your clitoris slowly with two fingers.),,,,,,
+Sex2,Sex3,(Stay silent.),"(She frowns as you stay silent.  You masturbate each other skillfully, getting close to an orgasm.)",,,-1,,,
+Sex2,Sex3,Oh yes!  Fuck me my love!,"(She smirks and picks up more speed.  You masturbate each other skillfully, getting close to an orgasm.)",,,,-1,,
+Sex2,Sex3,LOVE YOU!,LOVE YOU!  (You masturbate each other skillfully.),,,1,,,
+Sex2,Sex3,(Masturbate her slowly.),(You masturbate each other skillfully.),,,,,,
+Sex2,Sex3,"You're so hot, my girl.",(She blushes a little from your words.  You masturbate each other skillfully.),,,,1,,
+Sex3,Sex4,,,,"LogAdd(""Mia"", ""IntroSex"")",,,,
+Sex4,,,(You're both getting close to an orgasm.),,,,,,
+Sex4,Sex5A,(Orgasm with her.),,,,3,,,TeacherMiaOrgasmBed
+Sex4,Sex5B,(Fake your orgasm.),,,,-1,,,TeacherMiaOrgasmBed
+Sex5A,Sex6,,(You both get a wonderful orgasm.  Moaning together in unison.),,,,,,
+Sex5B,Sex6,,"(You moan together in unison.  She gets her orgasm, but you're not sure if she knows you're faking it.)",,,,,,
+Sex6,Sex7A,,,,,,,,
+Sex7A,Sex7B,,,,,,,,TeacherMiaMasturbateBed
+Sex7B,Sex8,,,,,,,,TeacherMiaNakedBed
+Sex8,Sex9,,Wow!  Your fingers are magical.  Use them on me whenever you want hun.,DialogDominationGreater(4),,,,,
+Sex8,Sex9,,That was so nice.  We need to make love more often hun.,"DialogDominationBetween(-3, 3)",,,,,
+Sex8,Sex9,,"Girl, you're so sexy when you orgasm.  I'll make you cum more often.",DialogDominationLower(-4),,,,,
+Sex9,NoSex1,,I hope it was relaxing.  That you will get sexy dreams.,,,,,,
+NoSex1,,,I'll close the lights hun.  We both need some sleep.,,,,,,
+NoSex1,End,Sleep well.,,,"CommonSetScreen(""Intro"", ""IntroBedroomEnd"")",,,,
+NoSex1,End,"Fine, you do that.",,,"CommonSetScreen(""Intro"", ""IntroBedroomEnd"")",-2,,,
+NoSex1,End,Good night my love.,,,"CommonSetScreen(""Intro"", ""IntroBedroomEnd"")",1,,,

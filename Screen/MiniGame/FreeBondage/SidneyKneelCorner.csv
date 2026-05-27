@@ -1,0 +1,46 @@
+Stage,Type,Option,Name,Dialog,ZoneX,ZoneY,ZoneWidth,ZoneHeight,BlushFactor,BlinkTimer,StressFactor,ArousalFactor,NextStage,Condition,Comments
+Intro,Menu,InventoryHandcuffs,Handcuffs,Oh shit!|(She stares at the cuffs.),,,,,,,,,,,
+Intro,Menu,InventoryRope,Rope,Ropes in school?|(She shivers at the ropes.),,,,,,,,,,,
+Intro,Menu,InventoryPanelGag,Panel Gag,Fuck!  Don't gag me.|(She shakes her head no.),,,,,,,,,,,
+Intro,Menu,InventoryHeadset,Headset,My headset!|Gimme that back.,,,,,,,,,,,
+Intro,Menu,Remove,Remove,,,,,,,,,,,,
+Intro,Menu,ActionCaress,Caress,(She looks at you.)|What are you doing?,,,,,,,,,,,
+Intro,Menu,ActionTickle,Tickle,(Her eyes widen.)|The hell?,,,,,,,,,,,
+Intro,Menu,ActionSlap,Slap,(She gulps.)|Don't you dare!,,,,,,,,,,,
+Intro,Menu,InventoryCrop,Leather Crop,(She whimpers.)|(She seems scared.),,,,,,,,,,,
+Intro,Menu,Exit,End Session,,,,,,,,,,,,
+Intro,Zone,InventoryHandcuffs,Wrist,(She tries to get comfy.),595,630,75,110,1,1,1.1,1.1,,"!MiniGameParameterGetBool(""InventoryRope"", ""Wrist"")",
+Intro,Zone,InventoryRope,Wrist,(She tests the ropes.),595,630,75,110,1,1,1.1,1.2,,"!MiniGameParameterGetBool(""InventoryHandcuffs"", ""Wrist"")",
+Intro,Zone,InventoryHandcuffs,Elbow,This is too tight!,615,450,110,150,4,1,1.2,1.1,,"!MiniGameParameterGetBool(""InventoryRope"", ""Elbow"")",
+Intro,Zone,InventoryRope,Elbow,This is extreme!,615,450,110,150,4,1,1.2,1.2,,"!MiniGameParameterGetBool(""InventoryHandcuffs"", ""Elbow"")",
+Intro,Zone,InventoryHandcuffs,Ankle,Careful there.,660,780,140,205,2,1,1.1,1.1,,"!MiniGameParameterGetBool(""InventoryRope"", ""Ankle"")",
+Intro,Zone,InventoryRope,Ankle,I'm safe in boots.,660,780,140,205,1,2,1,1.1,,"!MiniGameParameterGetBool(""InventoryHandcuffs"", ""Ankle"")",
+Intro,Zone,InventoryPanelGag,Mouth,(She gets angry.),710,210,140,75,3,0,1.2,0.75,,,
+Intro,Zone,InventoryHeadset,Head,Rock on!|(She bangs her head.),625,10,250,245,2,0,0.75,1,,,
+Intro,Zone,Blush,Level1,,770,190,60,40,,,,,,,
+Intro,Zone,Blush,Level2,,770,190,60,40,,,,,,,
+Intro,Zone,Blush,Level3,,770,190,60,40,,,,,,,
+Intro,Zone,ActionCaress,Activity,Mmmmmh!|Thank you.,710,100,140,175,5,5,-4,2,,,Face
+Intro,Zone,ActionSlap,Activity,Hey!|(She cringes.),710,100,140,175,7,1,6,1,,,Face
+Intro,Zone,InventoryCrop,Activity,(She cowers in pain.)|(She cries a little.),710,100,140,175,10,2,10,-2,,,Face
+Intro,Zone,ActionCaress,Activity,Oh yeah.|(She blushes.),820,330,95,160,10,3,4,5,,,Breast
+Intro,Zone,ActionSlap,Activity,What the fuck?|That's needed?,820,330,95,160,4,1,6,3,,,Breast
+Intro,Zone,InventoryCrop,Activity,This is too much!|Please stop.,820,330,95,160,7,1,8,1,,,Breast
+Intro,Zone,ActionTickle,Activity,Eeeeh!  Hahaha!|(She laughs out loud.),730,490,150,95,8,3,2,3,,,Ribs
+Intro,Zone,InventoryCrop,Activity,Ouch!|You bastard!,730,490,150,95,5,2,6,-1,,,Ribs
+Intro,Zone,ActionCaress,Activity,Be gentle.|(She closes her eyes.),670,645,130,155,2,2,-3,2,,,Butt
+Intro,Zone,ActionSlap,Activity,Ow!|Damn it!,670,645,130,155,4,1,-1,1,,,Butt
+Intro,Zone,InventoryCrop,Activity,Shit!|It stings!,670,645,130,155,8,2,3,3,,,Butt
+Intro,Zone,ActionCaress,Activity,Woooah!|(She moans slowly.),845,650,100,110,10,4,5,8,,,Pussy
+Intro,Zone,InventoryCrop,Activity,"No!  No, no no!|(She shivers in pain.)",845,650,100,110,10,3,9,6,,,Pussy
+Intro,Zone,ActionCaress,Activity,That's nice.|(She closes her eyes.),805,760,195,180,3,3,-1,5,,,Thigh
+Intro,Zone,ActionTickle,Activity,Hahaoeehaha!|You're funny.,805,760,195,180,2,0,-2,4,,,Thigh
+Intro,Zone,ActionSlap,Activity,Stop that!|Hey!,805,760,195,180,4,1,3,1,,,Thigh
+Intro,Zone,InventoryCrop,Activity,Ow!  Enough already!|Fuck that crop!,805,760,195,180,7,1,6,-1,,,Thigh
+Intro,Meter,Stress,#FFFF00,(She gets attentive.)|(She stares at you.),41,50,50,,,,,,,,
+Intro,Meter,Stress,#80FF80,(Her focus is on you.)|(You have her full attention.),50,59,100,,,,,,,,
+Intro,Meter,Stress,#FFFF00,(She gets more nervous.)|(Her stress is getting up.),59,68,50,,,,,,,,
+Intro,Meter,Stress,#00000000,(She's very anxious.)|(She trembles without control.),76,84,-50,,,,,,,,
+Intro,Meter,Stress,#C000C0,(She's fully stressed out.)|(She's in panic mode.),84,100,-100,,,,,,,,
+Intro,Meter,Arousal,#FFFF00,SHIT YEAH!|I'M CLOSE!,82,91,50,,,,,,,,
+Intro,Meter,Arousal,#80FF80,FUUUUUUUUUCK!|(She gets a strong orgasm.),91,100,100,,,,,,,,

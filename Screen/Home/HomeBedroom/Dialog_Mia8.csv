@@ -1,0 +1,420 @@
+Entry,Intro1,,,,,,,Mia,TeacherEnter
+Intro1,Intro2,,(You come back home to your girlfriend.  Your seventh week of work is done.),"DialogCurrentDS(""Mia"", """")",,,,,
+Intro1,Intro2,,(You come back home to your submissive girlfriend.  Your seventh week of work is done.),"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+Intro1,Intro2,,(You come back home to your Dominant girlfriend.  Your seventh week of work is done.),"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+Intro2,Intro3,,(She rushes to you for a long French-kiss.),DialogLoveGreater(25),,,,,TeacherMiaStandFrenchKiss
+Intro2,Intro3,,(She rushes to you for a hug.),DialogLoveLower(24),,,,,TeacherMiaStandHug
+Intro3,Intro3,,*** TO BE CONTINUED IN A FUTURE VERSION ***,,,,,,
+Intro3TODO,Intro4,,"(She whispers in your ear.)  Hun, my sister is here for a few hours.  Sorry I did not warn you.","DialogCurrentDS(""Mia"", """")",,,,,
+Intro3TODO,Intro4,,"(She whispers in your ear.)  Miss, my sister is here for a few hours.  She doesn't know that I submit to you.","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+Intro3TODO,Intro4,,"(She whispers in your ear.)  Girl, my sister is here for a few hours.  She doesn't know you submit to me.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+Intro4,Intro5,,"(She raises her voice again.)  It's wonderful to see you, my love.",DialogLoveGreater(25),,,,,
+Intro4,Intro5,,"(She raises her voice again.)  It's great to see you, hun.","DialogLoveBetween(10, 24)",,,,,
+Intro4,Intro5,,(She raises her voice again.)  It's nice to see you.,DialogLoveLower(9),,,,,
+Intro5,Intro6,,Charlotte is here for a few hours.  She has a date in town tonight.,,"CharacterAdd(""Charlotte"", ""Charlotte"")",,,,
+Intro6,Intro7,,,,,,,Charlotte,TeacherMiaCharlotteStandTalk
+Intro7,Intro8,,"It's been a few months, PlayerName.  Congrats on your teacher's job.",,,,,,
+Intro8,,,I hope it's going well at your college.,,,,,,
+Intro8,Intro9,The students can be troublesome.,"Hahaha, I bet!  Don't let them boss you around.",,,,-1,,
+Intro8,Intro9,"It's great to see you.  Yes, my job is fun.",That's awesome.  It's a prestigious school.,,,1,,,
+Intro8,Intro9,"It's fine, I can handle any student.","Hahaha, I don't worry.  I'm sure you can boss them around.",,,,1,,
+Intro8,Intro9,Let's not speak about work.,"Ok, I guess you're tired after a long week.",,,-1,,,
+Intro9,Intro10,,I won't be there for long.  I'm meeting a man in town tonight.,,,,,,
+Intro10,Intro11,,I met him on a dating site.  He's inviting me to a fancy restaurant.,,,,,,CharlotteStandTalk
+Intro11,,,Don't judge!  He's forty-three years old.,,,,,,
+Intro11,Intro12,Are you sure he's not married?,Nuh uh!  Don't bring me down.  I've checked.,,,-1,-1,,
+Intro11,Intro12,Make sure to bring preservative.,(She blushes.)  You sound just like my mother.,,,,2,,
+Intro11,Intro12,You've become a sugar-baby.,"Nuh uh!  Absolutely not, but it's fine if a man wants to pay.",,,-1,1,,
+Intro11,Intro12,It sounds like you will be treated well.,"Hahaha, yes.  I'll have some expensive wine also.",,,1,-1,,
+Intro11,Intro12,You should date girls like me.  (Wink at Mia.),"Hahaha, no thanks.  I don't play in your league.",,,1,1,,
+Intro12,Intro13,,"I know I've had bad dates in the past, but I have a good feeling today.",,,,,,
+Intro12,Intro13,InventoryDialogPhone,(She smiles as you whip your phone for a picture.),,PictureAdd(),1,,,
+Intro13,,,I've bought some beer.  Do you girls want one?,,,,,,TeacherMiaCharlotteStandTalk
+Intro13,Intro14,Yes!  What a great idea!,"Hahaha, you're easy to corrupt, I love it.  (She gets three cans.)",,"DialogVariableSet(""Beer"", ""True"")",1,-1,,
+Intro13,Intro14,"Ok, only one beer.","Very good, that's wise.  (She gets three cans.)",,"DialogVariableSet(""Beer"", ""True"")",1,1,,
+Intro13,Intro14,"No, you should not get drunk before your date.",Nuh uh!  You're worse than mom.  (She gets two cans.),,"DialogVariableSet(""Beer"", ""False"")",-1,1,,
+Intro13,Intro14,"No, I thought you stopped drinking.",Nuh uh!  You know I only drink socially.  (She gets two cans.),,"DialogVariableSet(""Beer"", ""False"")",-1,-1,,
+Intro14,Intro15,,,"DialogVariableIs(""Beer"", ""True"")",,,,,TeacherMiaCharlotteTalkThreeBeers
+Intro14,Intro15,,,"DialogVariableIs(""Beer"", ""False"")",,,,,TeacherMiaCharlotteTalkTwoBeers
+Intro15,Intro16,,(You all open a beer and start to relax.),"DialogVariableIs(""Beer"", ""True"")",,,,,
+Intro15,Intro16,,(They both open a beer and start to relax.),"DialogVariableIs(""Beer"", ""False"")",,,,,
+Intro16,,,You finally found a job big sis?,,,,,,
+Intro16,Intro17,(Laugh out loud.),"Don't laugh, it's not easy to find a good job.",,,-1,,,
+Intro16,Intro17,(Roll your eyes up.),"PlayerName, you don't seem to think she can do it.",,,,-1,,
+Intro16,Intro17,The job market is complicated.,"Yeah, that's what I've heard.",,,,,,
+Intro16,Intro17,She will find a job soon.,"Absolutely, you can do it big sis.",,,1,,,
+Intro16,Intro17,We will send resumes this weekend.,"That's a good start, I'm sure you can help her.",,,,1,,
+Intro17,Intro18,,"There's no rush, take your time to find a great place to work.",,,,,,
+Intro18,Intro19,,(Charlotte quickly finishes her beer and takes another one.),,,,,,
+Intro19,Intro20,,,,,,,,CharlotteSitBedTalkBeer
+Intro20,Intro21,,(She sits on your bed.)  What could we do to kill time before my date?,,,,,,
+Intro21,Intro22,,Do you have games around here?  (She looks around.),,,,,,
+Intro21,Intro22,InventoryDialogPhone,(She raises her beer as you take a picture.)  Cheers!,,PictureAdd(),,,,
+Intro22,Intro23,,(She pulls up your school briefcase.),,,,,,
+Intro23,Intro24,,,,,,,,CharlotteSitBedTalkBriefcaseCurious
+Intro24,,,What's in there?,,,,,,
+Intro24,Curious1,"Open it, curious little cat.",(She giggles and opens your school briefcase.),,,1,1,,
+Intro24,Curious1,You can look inside but please don't judge.,(She winks and opens your school briefcase.),,,1,-1,,
+Intro24,EarlyOutro1,"Don't touch it girl, it's my work material.","Fine, fine, fine.  I don't care anyway.",,,-1,1,,
+Intro24,EarlyOutro1,"Sorry, I cannot open it outside of school.",You're so boring.  I don't care anyway.,,,-1,-1,,
+Curious1,Curious2,,,,,,,,CharlotteSitBedTalkBriefcaseStare
+Curious2,Curious3,,"(She opens the briefcase, quickly looks inside and closes it right away.)",,,,,,
+Curious3,Curious4,,(She stares at you two.)  Whaaaaa?  It's full of restraints and gags!,,,,,,
+Curious4,,,What are you doing with that?,,,,,,
+Curious4,Curious5,Are you scared?,Scared?  Me?  Nuh uh!,,,,1,,
+Curious4,Curious5,(Blush.)  Can you guess how we use that?,(She smirks.)  I'm pretty sure I can guess.,,,,-1,,
+Curious4,Curious5,We have lots of fun.,"(She laughs.)  Hahaha, I'm sure you do.",,,1,,,
+Curious4,Curious5,Don't pretend you don't understand.,"(She frowns.)  Ok, ok, I understand.",,,-1,,,
+Curious5,Curious6,,So you two play naughty games on the weekend.,,,,,,
+Curious6,,,You get bound and try to escape?  It's fun?,,,,,,CharlotteSitBedTalkBriefcaseCurious
+Curious6,Curious7,It's lots of fun.  Would you like to try?,"(She ponders.)  Hahaha, alright, I'm game.",DialogLoveGreater(7),,,,,
+Curious6,EarlyOutro1,It's lots of fun.  Would you like to try?,"(She ponders.)  Hahaha, thanks, but I'll pass.  I need to be in top shape for my date.",DialogLoveLower(6),,,,,
+Curious6,EarlyOutro1,"It is, but we cannot do it with you.","(She nods.)  Yeah, that kinky stuff is for lovers only.",,,-1,,,
+Curious7,Curious8,,"But I cannot play for too long, I have a big date tonight.",,,,,,
+Curious8,,,How do we start your game?,,,,,,
+Curious8,Dom1,"It's easy, we will restrain you.","(She giggles.)  Hahaha, ok, I'm sure it will be fun.",DialogDominationGreater(-1),,,1,,
+Curious8,Sub0,"It's easy, we will restrain you.",(She shakes her head from left to right.)  Nuh uh!  You two should get bound.,DialogDominationLower(-2),,,1,,
+Curious8,Sub0,You could restrain us both.,"Hahaha, ok, it will be fun to get you two restrained.",DialogDominationLower(1),,,-1,,
+Curious8,Dom1,You could restrain us both.,"(She seems nervous.)  I don't know, maybe I should be the one restrained.",DialogDominationGreater(2),,,-1,,
+Dom1,Dom2,,Though I don't want to mess my jacket.  I guess I'll remove my clothes.,,,,,,
+Dom2,Dom3,,,,,,,,CharlotteUnderwearSitBedStare
+Dom3,Dom4,,(She puts her clothes away.)  I'm ready girls!,,,,,,
+Dom3,Dom4,InventoryDialogPhone,(She frowns as you take a photo.)  Don't share that pic!,,PictureAdd(),-1,1,,
+Dom4,,,What do we do now?,,,,,,
+Dom4,Dom5,We get the cuffs.,(She shivers as you start to cuff her.),,,,1,,
+Dom4,Dom5,We get your pretty butt locked up.,(She blushes as you start to cuff her.),,,1,1,,
+Dom4,Dom5,We lock you up for the evening.,Don't joke with that!  I can't miss my date.  (She frowns as you start to cuff her.),,,-1,1,,
+Dom4,Dom5,InventoryDialogHandcuffs,(She shivers as you start to cuff her.),,,,1,,
+Dom5,Dom6,,,,,,,,CharlotteUnderwearCuffedMiaBedTalk
+Dom6,Dom7,,"Big sis, it's weird to be cuffed on your bed",,,,,,
+Dom7,Dom8,,It reminds me of when we played cops and robbers.,,,,,,
+Dom7,Dom8,InventoryDialogPhone,(You take a stealth picture as they talk.),,PictureAdd(),,,,
+Dom8,Dom9,,"(Mia laughs.)  Wow!  It's been a while since we played games like that, little sis.",,,,,Mia,
+Dom9,Dom10,,Do you think you can escape?,,,,,,
+Dom10,Dom11,,,,,,,Charlotte,CharlotteUnderwearCuffedBedStruggle
+Dom11,Dom12,,(She struggles on the bed for a while.),,,,,,
+Dom12,Dom13,,(She thrashes and tugs hard against the steel.),,,,,,
+Dom12,Dom13,InventoryDialogPhone,(She's too busy struggling to see that you capture the moment.),,PictureAdd(),,,,
+Dom13,Dom14,,Nuh uh!  I don't think I can get out.,,,,,,
+Dom14,Dom15,,"This is way too hard, I'm no magician.",,,,,,
+Dom15,Dom16,,(Mia giggles.)  I never thought you would end up bound tonight.,"!DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,CharlotteUnderwearCuffedMiaBedTalk
+Dom15,DomTickle1,,(Mia smirks.)  I never thought you would end up bound tonight.,"DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,CharlotteUnderwearCuffedMiaBedTalk
+Dom16,,,"Hun, what should we do with her?",,,,,,
+Dom16,DomTickle1,We could tickle her.,Wow!  Yes!  What a good plan.,,,1,,,
+Dom16,DomBeer1,We can drink her beer.,"That's not very kind, but we can do that.",,,-1,,,
+Dom16,DomStruggle1,We can watch her struggle.,"Yes, it could be a fun show.",,,,,,
+Dom16,DomDuo1,I could cuff you with her.,"Wow!  Ok, hun.  (She blushes and starts to strip down.)",DialogDominationGreater(10),,,1,,
+Dom16,DomStruggle1,I could cuff you with her.,"I don't think so, let's watch her struggle.",DialogDominationLower(9),,,1,,
+Dom16,DomDuo1,"My pet, you will join her in bondage.","Wow!  Yes, Miss.  (She blushes and starts to strip down.)","DialogCurrentDS(""Mia"", ""Sub"")",,,1,,
+DomTickle1,DomTickle2,,"(You wink at each other and get closer to Charlotte, getting ready to tickle her.)","!DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+DomTickle1,DomTickle2,,"Come here hun, we will tickle her.  (You both get closer to Charlotte, getting ready to tickle her.)","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+DomTickle2,DomTickle3,,,,,,,Charlotte,CharlotteUnderwearCuffedTeacherMiaBedTickle
+DomTickle3,DomTickle4,,(You team up to tickle her without mercy.),,,,,,
+DomTickle4,DomTickle5,,"(She laughs and cries, begging for mercy.)",,,1,,,
+DomTickle5,DomTickle6,,Eeeeeeeeehahahaeeehe!  This is so unfair!,,,,,,
+DomTickle5,DomTickle6,InventoryDialogBallgag,(You muffle her laughs with a ball gag.  She doesn't seem to mind too much.),,,,,,CharlotteUnderwearCuffedBallGagTeacherMiaBedTickle
+DomTickle5,DomTickle6,InventoryDialogPanelGag,(You muffle her laughs with a panel gag.  She doesn't seem to appreciate.),,,-1,1,,CharlotteUnderwearCuffedPanelGagTeacherMiaBedTickle
+DomTickle6,DomTickle7,,(You tickle her feet while Mia works on the armpits and ribs.),,"LogAdd(""Charlotte"", ""DomTickle"")",,,,
+DomTickle7,DomTickle8,,(You team up against Charlotte for a while as she snorts and tugs on the cuffs.),,,,,,
+DomTickle8,DomTickle9,,(Time passes and you eventually need to release her.),,,,,,
+DomTickle9,DomTickle10,,,,,,,,CharlotteUnderwearSitBedStare
+DomTickle10,DomTickle11,,"That was quite funny.  Mia, you tickled me a lot when we were young.",,,,,,
+DomTickle11,DomTickle12,,"(She grabs her beer and her clothes, dressing back up quickly.)",,,,,,
+DomTickle12,EarlyOutro2,,,,,,,,CharlotteSitBedTalkBeer
+DomBeer1,DomBeer2,,(You go to the fridge to get more beers.),,,,,,
+DomBeer2,DomBeer3,,,,,,,Charlotte,CharlotteUnderwearCuffedTeacherMiaBedBeer
+DomBeer3,DomBeer4,,(You start drinking and talking with your girlfriend as her sister gets mad.),,,,,,
+DomBeer4,DomBeer5,,That was your plan?  Get me bound and drink my beer!,,,-1,,,
+DomBeer5,DomBeer6,,Don't ignore me!  What about sister solidary?,,,,,,
+DomBeer5,DomBeer6,InventoryDialogBallgag,(You stop her complaints with a ball gag.  She doesn't seem to mind too much.),,,,,,CharlotteUnderwearCuffedBallGagTeacherMiaBedBeer
+DomBeer5,DomBeer6,InventoryDialogPanelGag,(You stop her complaints with a panel gag.  She doesn't seem to appreciate.),,,-1,1,,CharlotteUnderwearCuffedPanelGagTeacherMiaBedBeer
+DomBeer6,DomBeer7,,"(She struggles hard against the cuffs, almost hurting herself.)",,"LogAdd(""Charlotte"", ""DomBeer"")",,,,
+DomBeer7,DomBeer8,,(Time passes as she gets exhausted and you get tipsy.),,,,,,
+DomBeer8,DomBeer9,,(You eventually need to release her.),,,,,,
+DomBeer9,DomBeer10,,,,,,,,CharlotteUnderwearSitBedStare
+DomBeer10,DomBeer11,,I hope you didn't drink my can.  It's mine!,,,,,,
+DomBeer11,DomBeer12,,"(She grabs her beer and her clothes, dressing back up quickly.)",,,,,,
+DomBeer12,EarlyOutro2,,,,,,,,CharlotteSitBedTalkBeer
+DomStruggle1,DomStruggle2,,(You get closer to watch Chalotte's struggles.),,,,,,
+DomStruggle2,DomStruggle3,,,,,,,Charlotte,CharlotteUnderwearCuffedBedStruggleShow
+DomStruggle3,DomStruggle4,,"(She moans and tugs against the cuffs, making no progress.)",,,,,,
+DomStruggle4,DomStruggle5,,(You look at the show with Mia and laugh.),,,,1,,
+DomStruggle5,DomStruggle6,,Giiiiiiiiiiiirls!  Stop staring!  This is humiliating!,,,,,,
+DomStruggle5,DomStruggle6,InventoryDialogBallgag,(You stop her complaints with a ball gag.  She doesn't seem to mind too much.),,,,,,CharlotteUnderwearCuffedBallGagBedStruggleShow
+DomStruggle5,DomStruggle6,InventoryDialogPanelGag,(You stop her complaints with a panel gag.  She doesn't seem to appreciate.),,,-1,1,,CharlotteUnderwearCuffedPanelGagBedStruggleShow
+DomStruggle6,DomStruggle7,,(Time passes as she whimpers and gets exhausted.),,"LogAdd(""Charlotte"", ""DomStruggle"")",,,,
+DomStruggle7,DomStruggle8,,(You eventually need to release her.),,,,,,
+DomStruggle8,DomStruggle9,,,,,,,,CharlotteUnderwearSitBedStare
+DomStruggle9,DomStruggle10,,"I hope you enjoyed the show, that was embarrassing.",,,,,,
+DomStruggle10,DomStruggle11,,"(She grabs her beer and her clothes, dressing back up quickly.)",,,,,,
+DomStruggle11,EarlyOutro2,,,,,,,,CharlotteSitBedTalkBeer
+DomDuo1,DomDuo2,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedTalk
+DomDuo2,DomDuo3,,(Mia gets in her underwear as you also lock her up.),,,,,,
+DomDuo3,DomDuo4,,"Hun, it feels weird to get bound like that with my little sis.","!DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomDuo3,DomDuo4,,"Miss, it feels weird to get bound like that with my little sis.","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomDuo4,DomDuo5,,(They struggle together and keep on talking.),,,,,,
+DomDuo4,DomDuo5,InventoryDialogPhone,(Mia seems to disapprove of the naughty family picture.),,PictureAdd(),-1,1,,
+DomDuo5,DomDuo6,,"Mia, is this what you do all week instead of looking for a job?",,,,,Charlotte,
+DomDuo6,DomDuo7,,"(She winks at her sister.)  Hahaha, I must admit this is kind of fun.",,,,,,
+DomDuo7,,,"(She turns to you.)  PlayerName, we are your prisoners.",,,,,,
+DomDuo7,DomDuo8,(Drink her beer.),(She frowns and struggles harder as you drink her beer.),,,-1,,,
+DomDuo7,DomDuo8,(Tickle them.),(They both laugh and struggle as you tickle them in bed.),,,1,,,
+DomDuo7,DomDuo8,(Watch them struggle.),(They struggle playfully as you watch the show.),,,,,,
+DomDuo7,DomDuo8,"Mia, you should please your sister.","(They both refuse promptly.)  Nuh uh!  You're a freak, PlayerName.","!DialogCurrentDS(""Mia"", ""Sub"")",,-4,,,
+DomDuo7,DomDuoSex1,"Mia, my pet, you will please your sister.",(Mia blushes red and obeys reluctantly.)  Big sis!  What the fuck?,"DialogCurrentDS(""Mia"", ""Sub"")",,-2,1,,
+DomDuo8,DomDuo9,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedStruggle
+DomDuo9,DomDuo10,,(They look at each other and struggle against the restraints.),,,,,,
+DomDuo10,DomDuoEnd1,,"(They roll in bed, not making any progress.)",,,,,,
+DomDuo10,DomDuoEnd1,InventoryDialogPhone,(Nobody notices that you save the moment on your device.),,PictureAdd(),,,,
+DomDuoSex1,DomDuoSex2,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedLickReady
+DomDuoSex2,DomDuoSex3,,(Mia positions herself as Charlotte panics.)  We can't make out!  You're my sister!,,,-1,,,
+DomDuoSex2,DomDuoSex3,InventoryDialogPhone,(They don't seem to notice the stealth picture.),,PictureAdd(),,,,
+DomDuoSex3,,,I'm not a lesbian!,,,,,,
+DomDuoSex3,DomDuoSex4,It doesn't matter.,(She grumbles and seems to disagree.),,,-1,,,
+DomDuoSex3,DomDuoSex4,You can't be fully sure until you've tried it.,(She rolls her eyes up.),,,,-1,,
+DomDuoSex3,DomDuoSex4,A cutie like you should try all pleasures.,(She blushes and looks away.),,,1,,,
+DomDuoSex3,DomDuoSex4,You will become one.,(Her eyes widen as she gulps.),,,,1,,
+DomDuoSex4,DomDuoSex5,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedLickZoomOut
+DomDuoSex5,DomDuoSex6,,(Your girlfriend starts to lick her own sister who blushes red.),,,,,Mia,
+DomDuoSex6,DomDuoSex7,,Ooooooh!  Big sis!   How can yoooOOOOooou do that?,,,,,Charlotte,
+DomDuoSex7,DomDuoSex8A,,(Mia doesn't have any problem sliding her tongue under her panties.),,,,,Mia,
+DomDuoSex8A,DomDuoSex8B,,(Charlotte starts to moan and breath faster.),,,,,Charlotte,
+DomDuoSex8B,DomDuoSex8C,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedLickZoomIn
+DomDuoSex8C,DomDuoSex9,,What will our paaaAAAAAaaaarents say?,,,,,,
+DomDuoSex9,DomDuoSex10,,"(Mia works faster and faster, Charlotte cannot resist her tongue.)",,,,,,
+DomDuoSex10,,,(What will you do?),,,,,,
+DomDuoSex10,DomDuoSex11,(Let her climax.),"(She tugs madly against the cuffs and loses control of her body,)",,,1,,,
+DomDuoSex10,DomTrioSex1,(Get naked and join them.),(You strip down to join the fun.),,,,,,
+DomDuoSex10,DomDuoEnd1,(Stop them.),(You separate them right before her orgasm.  They pout and start to talk again.),,,-1,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedTalk
+DomDuoSex11,DomDuoSex12,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedLickOrgasm
+DomDuoSex12,DomDuoSex13,,"(Chalotte squirts on her big sister's face, soaking her wet.)",,,,,,
+DomDuoSex12,DomDuoSex13,InventoryDialogPhone,(You take a picture at the perfect moment.),,PictureAdd(),,,,
+DomDuoSex13,DomDuoSex14,,Eeeeeyyyyaaaaa...  Whaaaaaa...  Big sis...  (Mia slowly pulls back.),,,,,,
+DomDuoSex14,DomDuoSex15,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedLickReady
+DomDuoSex15,DomDuoSex16,,That was unexpected.  So good!   But we can never tell anyone.,,,,,,
+DomDuoSex16,DomDuoSex17,,The family can never know about that.  We will get banned or shunned.,,,,,,
+DomDuoSex17,DomDuoEnd1,,"(They both nod, agreeing to keep the secret.)",,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedTalk
+DomTrioSex1,DomTrioSex2,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedTeacherNakedBedSex
+DomTrioSex2,DomTrioSex3,,(You sit on her face as Mia continues to lick rapidly.),,,,,,
+DomTrioSex3,DomTrioSex4,,(You can hear her muffled screams of pleasure underneath your legs.),,,,,,
+DomTrioSex4,DomTrioSex5,,(She's reluctant at first but starts to lick you clumsily.),,,,,,
+DomTrioSex5,DomTrioSex6,,(It seems to be the first time she eats a woman but it's still pleasurable.),,,,,,
+DomTrioSex6,DomTrioSex7,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedTeacherNakedBedOrgasm
+DomTrioSex7,DomTrioSex8,,"(You get a powerful orgasm together, squirting on both faces.)",,,,,,
+DomTrioSex8,DomTrioSex9,,(You tremble and moan in unison from a shared climax with your sister-in-law.),,,1,,,
+DomTrioSex9,DomTrioSex10,,(You slowly recover from the pleasure and stand back up.),,,,,,
+DomTrioSex10,DomTrioSex11,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedTalk
+DomTrioSex11,DomDuoSex15,,Whaaaaa...  Big sis...  PlayerName...,,,,,,
+DomDuoEnd1,DomDuoEnd2,,(Time flies and Charlotte slowly becomes restless.),,,,,,
+DomDuoEnd2,,,"PlayerName, it was fun, but I must go soon.  Can you unlock us?",,,,,,
+DomDuoEnd2,DomDuoRelease1,Of course.  (Unlock her.),(You release them both.),,,1,,,
+DomDuoEnd2,DomDuoEnd3,"Charlotte, I'm keeping you for the weekend.",(Her eyes widen as she starts to panic.),,,-2,2,,
+DomDuoEnd3,DomDuoEnd4,,Nuh uh!  You cannot do that!  I have a date!,,,,,,CharlotteUnderwearCuffedBedStare
+DomDuoEnd4,,,Please!  Release me now!,,,,,,
+DomDuoEnd4,DomDuoEnd5,It will be a good time to bond with your sister.,(They look at each and nods.)  I guess this is true.,,,1,,,
+DomDuoEnd4,DomDuoEnd5,You two will be my prisoners until Monday.,(She bows her head.)  I can't believe I'm missing a free dinner.,,,,1,,
+DomDuoEnd4,DomDuoEnd5,"I know it's harsh, but it's for your own good.",It's very harsh!  (She tugs some more in defiance.),,,,-1,,
+DomDuoEnd4,DomDuoEnd5,You will not become a sugar-baby.,(She gets angrier and pouts.)  I'm not a sugar-baby!,,,-1,,,
+DomDuoEnd5,DomDuoEnd6,,,,,,,,CharlotteUnderwearCuffedMiaUnderwearCuffedBedStruggle
+DomDuoEnd6,DomDuoEnd7,,Big sis!  Do something!  I'm missing my date!,,,-1,,,
+DomDuoEnd7,DomDuoEnd8,,(They struggle and complain for a while before accepting their fate.),,,,,,
+DomDuoEnd8,DomDuoEnd9,,,,,,,Mia,CharlotteUnderwearCuffedMiaUnderwearCuffedTeacherUnderwearBedSleep
+DomDuoEnd9,DomDuoEnd10,,(You join them in bed to cuddle for the night.),,,,,,
+DomDuoEnd10,DomDuoEnd11,,(It will be a tight weekend for the sisters.),,"LogAdd(""Mia"", ""PrisonerWithCharlotte"")",-1,2,,
+DomDuoEnd11,Outro,,"(Time flies by quickly, Monday will come soon.)",,"DialogVariableSet(""MiaSleep"", ""PrisonerWithCharlotte"")",,,,
+DomDuoRelease1,DomDuoRelease2,,,,,,,,CharlotteUnderwearSitBedStare
+DomDuoRelease2,DomDuoRelease3,,"PlayerName, it was kind of fun to be cuffed with my sister but let's not tell mom.",,,,,,
+DomDuoRelease3,DomDuoRelease4,,"(She grabs her beer and her clothes, dressing back up quickly.)",,,,,,
+DomDuoRelease4,EarlyOutro2,,,,,,,,CharlotteSitBedTalkBeer
+Sub0,Sub1,,,,,,,,CharlotteSitBedBriefcaseShowCuffs
+Sub1,Sub2,,"(She dangles handcuffs.)  I'm warning you, I won't go easy.  You won't be able to escape.",,,,,,
+Sub2,Sub3,,"Two girlfriends locked up together.  Prisoners for the evening, until I come back.",,,,,,
+Sub2,Sub3,InventoryDialogPhone,(She jingles the cuffs playfully while you take a picture.),,PictureAdd(),1,,,
+Sub3,,,"(She smirks.)  Get naked, you lovebirds!",,,,,,
+Sub3,Sub4,Don't go crazy with power.  (Get naked.),"Nuh uh!  Don't worry, PlayerName.  (She stares as you remove your clothes.)",,,,,,
+Sub3,Sub4,"Yes, Miss Charlotte.  (Get naked.)",Such good girls.  (She smirks as you remove your clothes.),,,,-2,,
+Sub3,Sub4,(Nod and get naked.),(She giggles as you remove your clothes.),,,,-1,,
+Sub3,EarlyOutro1,"This is too much, let's forget that plan.","Fine, fine, fine.  You're no fun.  We can forget it.",,,-1,1,,
+Sub4,Sub5,,,,,,,,TeacherNakedMiaNakedCharlotteSitBedBriefcaseShowCuffs
+Sub5,Sub6,,(You both strip naked in front of your sister-in-law.),,,,,,
+Sub6,Sub7,,You've gained some weight big sis.  You're cute though.,,,,,,
+Sub7,Sub8,,"Get on the bed you two, with your hands behind your back.",,,,,,
+Sub8,Sub9,,,,,,,,CharlotteTeacherNakedCuffedMiaNakedCuffedBedTalk
+Sub9,Sub10,,(She cuffs you both and giggles.)  Two lovers locked up together.,,,,,,
+Sub10,Sub11,,"Here's the plan, you two will stay bound while I go on my date.",,,,,,
+Sub11,Sub12,,I'll come back later tonight to free you.,,,,,,
+Sub12,,,"You can be naughty all you want, no need to thank me.",,,,,,
+Sub12,Sub13,"Thank you, Charlotte.",(She spanks your butt and laughs.)  My pleasure!,,,1,-1,,
+Sub12,Sub13,We will get you someday.  (Wink at her.),(She winks back and laughs.)  Nuh uh!,,,1,1,,
+Sub12,Sub13,You can't do that!,I can and I did.  You can't do anything about it.,,,-1,1,,
+Sub12,Sub13,"This is very harsh, Miss Charlotte.",I know but I told you I'll be back soon.,,,-1,-1,,
+Sub12,Sub13,(Nod and tug on the cuffs.),(She laughs as you both struggle.),,,,,,
+Sub12,SubPunish1,"That plan sucks, get us out right now!",Nuh uh!  You think you're the boss?  (She grumbles and picks two gags from the briefcase.),,"DialogVariableSetRandom(""Gag"", 2)",-2,1,,
+Sub13,Sub14,,"Enjoy your evening you two, I'm keeping the keys.",,,,,,
+Sub14,Sub15,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedTalk
+Sub15,Sub16,,(She grabs her beer cans and heads for the door.),,,,,,
+Sub15,Sub16,InventoryDialogPhone,"(She saves a picture right before leaving, sending you a copy.)",,"PictureAdd(""Mia"")",,,,
+Sub16,Sub17,,"Wow!  Hun, that was a wild plan!","DialogCurrentDS(""Mia"", """")",,,,Mia,
+Sub16,Sub17,,"Wow!  Miss, that was a wild plan!","DialogCurrentDS(""Mia"", ""Sub"")",,,,Mia,
+Sub16,Sub17,,"Wow!  My pet, that was a wild plan!","DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,
+Sub17,Sub18,,We will be stuck in cuffs together for the evening.,,,,,,
+Sub18,Sub19,,Let's hope she doesn't go sleep with her date.,"!DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+Sub18,SubEatMia1,,"My love prisoner, it's time to get that tongue to work.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+Sub19,,,"What should we do, bound like that?",,,,,,
+Sub19,SubEnd1,We could simply cuddle and talk.,"(She nods and sighs.)  That's it?  Ok, we can relax.",,,-1,-1,,
+Sub19,SubEatTeacher1,You could pleasure me.,(She seems surprised and a little disappointed.)  Wow!  Alright hun.,"!DialogCurrentDS(""Mia"", ""Sub"")",,,1,,
+Sub19,SubEatTeacher1,"My girl, you will pleasure me.","(She bows her head, seeming disappointed.)  Yes, Miss PlayerName.","DialogCurrentDS(""Mia"", ""Sub"")",,,1,,
+Sub19,SubEatMia1,I could lick you dry.,"(She smirks and nods happily.)  Wow!  Yes!  Get to work, hun.","!DialogCurrentDS(""Mia"", ""Sub"")",,1,-1,,
+Sub19,SubEatMia1,"My girl, I will lick you dry.",(She seems surprised but nods happily.)  Wow!  What a lovely idea.,"DialogCurrentDS(""Mia"", ""Sub"")",,1,-1,,
+Sub19,SubEatTogether1,We could eat each other all night.,"(She nods happily.)  Wow!  Yes!  Great plan, hun.","!DialogCurrentDS(""Mia"", ""Sub"")",,1,,,
+Sub19,SubEatTogether1,"My girl, we will eat each other all night.","(She nods happily.)  Wow!  Yes!  What a great plan, Miss PlayerName.","DialogCurrentDS(""Mia"", ""Sub"")",,1,,,
+SubEatMia1,SubEatMia2,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatMiaReady
+SubEatMia2,SubEatMia3,,(She positions herself clumsily to be licked.),,,,,,
+SubEatMia3,,,Wow!  This will be heaven.,,,,,,
+SubEatMia3,SubEatMia4,(Eat her vigorously.),(You plunge in and start to eat her eagerly.),,,,1,,
+SubEatMia3,SubEatMia4,(Lick her timidly.),"(You lick her slowly, taking your time.)",,,,-1,,
+SubEatMia3,SubEatMia4,(Work your tongue with passion.),"(You lick her passionately, enjoying every drop of juice.)",,,1,,,
+SubEatMia4,SubEatMia5,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatMiaPlunge
+SubEatMia5,SubEatMia6,,"(She moans louder and louder, getting closer.)",,,,,,
+SubEatMia6,SubEatMia7,,Wow!  Hun!  That's the spot!,"DialogCurrentDS(""Mia"", """")",,,,,
+SubEatMia6,SubEatMia7,,Wow!  Miss!  That's the spot!,"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SubEatMia6,SubEatMia7,,Wow!  My pet!  That's the spot!,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubEatMia7,SubEatMia8,,(She shivers without control.)  Eeeeeeeeeeeyyyyyyeeeaaaaaa!,,,1,,,
+SubEatMia8,SubEatMia9,,That!   That was amazing!,,,,,,
+SubEatMia9,SubEnd1,,(You struggle to get into a cuddling position as she recovers.),,,,,,
+SubEatTeacher1,SubEatTeacher2,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTeacherReady
+SubEatTeacher2,SubEatTeacher3,,(You position yourself clumsily to be licked.),,,,,,
+SubEatTeacher3,,,Wow!  Hun!  I'm hungry!,"DialogCurrentDS(""Mia"", """")",,,,,
+SubEatTeacher3,,,Wow!  Miss!  I'm hungry!,"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SubEatTeacher3,,,Wow!  My pet!  I'm hungry!,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubEatTeacher3,SubEatTeacher4,Please don't eat too quickly.,(She laughs out loud and rapidly starts to work.),,,,-1,,
+SubEatTeacher3,SubEatTeacher4,It's all you can eat!,Yummy!  (She smiles and eagerly starts to work.),,,1,,,
+SubEatTeacher3,SubEatTeacher4,You can start your diet later.,Unfair!  (She pouts and starts to work.),,,,1,,
+SubEatTeacher3,SubEatTeacher4,Don't count your calories tonight.,Let's not talk about that.  (She frowns and starts to work.),,,-1,,,
+SubEatTeacher4,SubEatTeacher5,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTeacherPlunge
+SubEatTeacher5,SubEatTeacher6,,"(She works hard with her tongue, exploring your pussy.)",,,,,,
+SubEatTeacher6,SubEatTeacher7,,(Her nose rubs on your clit as she digs deeper.),,,,,,
+SubEatTeacher7,,,(You can feel the arousal growing.),,,,,,
+SubEatTeacher7,SubEatTeacher8,(Get a loud orgasm.),"(You tremble and get a powerful orgasm, squirting on her face.)",,,1,1,,
+SubEatTeacher7,SubEatTeacher8,(Get a soft orgasm.),(You get a timid but wonderful orgasm as she moans.),,,1,-1,,
+SubEatTeacher7,SubEatTeacher8,(Fake an orgasm.),(You don't know if she notices the fake orgasm.),,,,,,
+SubEatTeacher7,SubEatTeacher9,(Don't get an orgasm.),"(She works for a long time, but you don't get any orgasm.  She sighs loudly and pulls out.)",,,-2,,,TeacherNakedCuffedMiaNakedCuffedBedEatTeacherReady
+SubEatTeacher8,SubEatTeacher9,,(She pulls back and smiles.)   You're adorable when you cum.  Always my favorite meal!,DialogLoveGreater(15),,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTeacherReady
+SubEatTeacher8,SubEatTeacher9,,(She pulls back.)   You're cute when you cum.  Such a good meal!,DialogLoveLower(14),,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTeacherReady
+SubEatTeacher9,SubEnd1,,"(After all that kinky exercise, you struggle together to get into a cuddling position.)",,,,,,
+SubEatTogether1,SubEatTogether2,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTogetherReady
+SubEatTogether2,SubEatTogether3,,(You clumsily work to get into a position to lick each other.),,,,,,
+SubEatTogether3,SubEatTogether4,,(She tickles your clitoris playfully and rocks her hips.),,,,,,
+SubEatTogether4,,,(You can see she's quite wet.),DialogLoveGreater(15),,,,,
+SubEatTogether4,,,(She's not yet very wet.),DialogLoveLower(14),,,,,
+SubEatTogether4,SubEatTogether5,(Eat her vigorously.),(You plunge in and start to eat her eagerly.),,,,1,,
+SubEatTogether4,SubEatTogether5,(Lick her timidly.),"(You lick her slowly, taking your time.)",,,,-1,,
+SubEatTogether4,SubEatTogether5,(Work your tongue with passion.),"(You lick her passionately, enjoying every drop of juice.)",,,1,,,
+SubEatTogether4,SubEatTogether5,(Let her do most of the work.),"(You barely lick her, letting her do most of the work.)",,,-1,,,
+SubEatTogether5,SubEatTogether6,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedEatTogetherPlunge
+SubEatTogether6,SubEatTogether7,,"(You work together as lovers, licking each other.)",,,,,,
+SubEatTogether7,SubEatTogether8,,(You can hear her moan louder and louder.),,,,,,
+SubEatTogether8,,,(You can feel your arousal growing.),,,,,,
+SubEatTogether8,SubEatTogether9,(Get a loud orgasm.),"(You tremble and get a powerful orgasm together, probably waking up the neighbors.)",,,1,1,,
+SubEatTogether8,SubEatTogether9,(Get a soft orgasm.),"(You get a timid but wonderful orgasm together, moaning softly in unison.)",,,1,-1,,
+SubEatTogether8,SubEatTogether9,(Fake an orgasm.),(You don't know if she notices the fake orgasm of if hers is real or not.),,,,,,
+SubEatTogether8,SubEatTogether9,(Don't get an orgasm.),(You both work for a long time but no orgasm is achieved.  She sighs loudly.),,,-2,,,
+SubEatTogether9,SubEnd1,,"(After all that kinky exercise, you struggle together to get into a cuddling position.)",,,,,,
+SubPunish1,SubPunish2,,,"DialogVariableIs(""Gag"", ""0"")",,,,,CharlotteStandTeacherAndMiaNakedCuffedBallGagBedCuddle
+SubPunish1,SubPunish2,,,"DialogVariableIs(""Gag"", ""1"")",,,,,CharlotteStandTeacherAndMiaNakedCuffedPanelGagBedCuddle
+SubPunish2,SubPunish3,,"(She straps a tight ball gag on both of you, pushing you on the bed.)","DialogVariableIs(""Gag"", ""0"")",,,,,
+SubPunish2,SubPunish3,,"(She straps a tight panel gag on both of you, pushing you on the bed.)","DialogVariableIs(""Gag"", ""1"")",,,,,
+SubPunish3,SubPunish4,,"PlayerName, you might be dating my big sis, but you cannot boss me around.",,,,,,
+SubPunish4,,,Especially when you're in cuffs!,,,,,,
+SubPunish4,SubPunish5,(Grumble in your gag.),"Complain all you want, you two will stay bound and gagged.",,,-1,,,
+SubPunish4,SubPunish5,(Wink at her.),"Hahaha, you're quite funny my sister-in-law.",,,1,,,
+SubPunish4,SubPunish5,(Bow your head.),"You seem to be used to being locked up, PlayerName.",,,,-1,,
+SubPunish4,SubPunish5,Ih han ahn Ih hhil!,"(She rolls her eyes up.)  Hahaha, you still try to lead?",,,,1,,
+SubPunish5,SubPunish6,,"I'm going out, you'll spend the night like that.",,,,,,
+SubPunish6,SubPunish7,,I'll be back tomorrow to release you.,,,,,,
+SubPunish7,SubPunish8,,,"DialogVariableIs(""Gag"", ""0"")",,,,Mia,TeacherAndMiaNakedCuffedBallGagBedCuddle
+SubPunish7,SubPunish8,,,"DialogVariableIs(""Gag"", ""1"")",,,,Mia,TeacherAndMiaNakedCuffedPanelGagBedCuddle
+SubPunish8,SubPunish9,,(Charlotte heads for the door as Mia stares at you.),,,,,,
+SubPunish8,SubPunish9,InventoryDialogPhone,(Charlotte captures the moment on her phone and sends you a copy before leaving.),,"PictureAdd(""Mia"")",,,,
+SubPunish9,SubPunish10,,(Your lover mumbles in her gag and tugs on the cuffs.),,,,,,
+SubPunish10,,,Hhah how?,,,,,,
+SubPunish10,SubPunish11,(Tug hard on the cuffs.),(She stares as you struggle vigorously in vain.),,,,,,
+SubPunish10,SubPunish11,(Cuddle with her.),(She moans softly as you cuddle together.),,,1,-1,,
+SubPunish10,SubPunish11,(Shrug and look at the clock.),(She rolls her eyes up as you seem clueless.),,,,-2,,
+SubPunish10,SubPunish11,(Complain in your gag.),(She sighs as you complain in your gag.),,,-1,-1,,
+SubPunish11,SubPunish12A,,(You look at each other as the hours go by.),,,,,,
+SubPunish12A,SubPunish12B,,,,"DialogSetBackgroundFilter(""#00000080"")",,,None,
+SubPunish12B,SubPunish13,,"(It will be a tight and long night, prisoner with your lover.)",,,,,,
+SubPunish13,SubPunish14,,(You sleep together as best as you can.),,,,,,
+SubPunish14,SubPunish15A,,,,"DialogSetBackgroundFilter("""")",,,,
+SubPunish15A,SubPunish15B,,(The sun rises but you are still stuck in your restraints.),,,,,,
+SubPunish15B,SubPunish15C,,"(After a while, the door opens and Charlottre steps inside.)",,,,,,
+SubPunish15C,SubPunish16,,,"DialogVariableIs(""Gag"", ""0"")",,,,Charlotte,CharlotteStandTeacherAndMiaNakedCuffedBallGagBedCuddle
+SubPunish15C,SubPunish16,,,"DialogVariableIs(""Gag"", ""1"")",,,,Charlotte,CharlotteStandTeacherAndMiaNakedCuffedPanelGagBedCuddle
+SubPunish16,SubPunish17,,(She stares at you two with a wide smirk.),,,,,,
+SubPunish17,SubPunish18,,"Wakey, wakey.  It's time to get up, you lazy lovers.",,,,,,
+SubPunish18,SubEnd9,,I hope you slept tight and you will remember that lesson.,,,,,,
+SubEnd1,SubEnd2,,,,,,,,TeacherNakedCuffedMiaNakedCuffedBedCuddle
+SubEnd2,SubEnd3,,"(You cuddle, talk and struggle playfully together for a while.)",,,,,,
+SubEnd3,SubEnd4,,"(You are kept bound for many hours, unable to go drink or use the toilet.)",,,,,,
+SubEnd4,SubEnd5,,(You wait patiently until Charlotte opens the door again.),,,,,,
+SubEnd5,SubEnd6,,,,,,,Charlotte,CharlotteTeacherNakedCuffedMiaNakedCuffedBedTalk
+SubEnd6,SubEnd7,,(She grins and opens a beer.)  There you are!  Such cute lovebirds.,,,,,,
+SubEnd7,SubEnd8,,"Mia, consider this your late birthday present.",,,,,,
+SubEnd8,,,It's time to get you free.  I hope you had fun.,,,,,,
+SubEnd8,SubEnd9,You took a long while!,(She frowns.)  Next time I will gag you.,,,-1,,,
+SubEnd8,SubEnd9,Quick!  I need to pee.,"(She laughs.)  Hahaha, poor girl.",,,,-1,,
+SubEnd8,SubEnd9,We had a very naughty evening.,"(She smiles.)  Big sis, call me anytime to boost your couple.",,,1,,,
+SubEnd8,SubEnd9,"Yes, but that's enough now.","(She nods.)  Yeah, I know, let's be reasonable.",,,,1,,
+SubEnd8,SubPunish1,"You little bitch, get us out right now!",Nuh uh!  You think you're the boss?  (She grumbles and picks two gags from the briefcase.),,"DialogVariableSetRandom(""Gag"", 2)",-2,1,,
+SubEnd9,SubEnd10,,(She picks up the keys to unlock you both.),,,,,,
+SubEnd10,SubEnd11,,,,,,,,TeacherNakedMiaNakedSitBed
+SubEnd11,SubEnd12,,I have to run.  I have another party.  ,,,,,,
+SubEnd12,SubEnd13,,Enjoy the weekend you two.  I'll call you soon Mia.,,,,,,
+SubEnd13,SubEnd14,,(You both wave as she leaves in a hurry.),,,,,Mia,
+SubEnd14,Loop,,Wow!  That was one kinky way to start the weekend.,,,,,,
+EarlyOutro1,EarlyOutro2,,(She puts the briefcase away and continues to drink.),,,,,,CharlotteSitBedTalkBeer
+EarlyOutro2,EarlyOutro3,,(You talk for a while about their family and her date tonight.),,,,,,
+EarlyOutro3,Outro1,,(Her phone rings after a few hours.  She needs to go.),,,,,,
+Outro1,Outro2,,,,,,,,TeacherMiaCharlotteStandTalk
+Outro2,Outro3,,"Have a good evening, girls.  I love you, big sis.",,,,,,
+Outro3,Outro4,,"It was a true pleasure to see you, PlayerName.",DialogLoveGreater(8),,,,,
+Outro3,Outro4,,"It was nice to see you, PlayerName.","DialogLoveBetween(3, 7)",,,,,
+Outro3,Outro4,,"Take care, PlayerName.",DialogLoveLower(2),,,,,
+Outro4,Outro5,,(She waves and leaves you with Mia.),,,,,Mia,
+Outro5,Outro6,,I hope she will finally find a good man.  I found the best woman.  (She smiles.),DialogLoveGreater(15),,,,,MiaStandHappy
+Outro5,Outro6,,I hope she will finally find a good man.,DialogLoveLower(14),,,,,MiaStandBored
+Outro6,OutroSwitch1,,"Hun, we have the rest of the weekend for us.","DialogCurrentDS(""Mia"", """")",,,,,
+Outro6,OutroDom1,,"Miss, we have the rest of the weekend for us.","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+Outro6,OutroSub1,,"My girl, we have the rest of the weekend for us.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+OutroSwitch1,,,Do you have any plans?,,,,,,
+OutroSwitch1,OutroSwitch2,We could get naked in bed.,That's good plan!  (She smiles as you both get naked.),,,1,,,
+OutroSwitch1,OutroSwitch2,My plan starts with us getting naked.,I love how that plan begins.  (She giggles as you both get naked.),,,1,1,,
+OutroSwitch1,OutroSwitch2,(Blushes.)  Should we strip down?,You're cute when you blush.  (She smirks as you both get naked.),,,1,-1,,
+OutroSwitch1,EarlySleep1,"I'm exhausted, I don't want to do anything.","(She sighs.)  Fine, another boring weekend.  (You go get your pajamas.)",,,-4,1,,MiaStandBored
+OutroSwitch1,Breakup,My plan is to kick you out.  (Breakup with her.),"Fuck you, PlayerName!  I'm out!",DialogLoveLower(9),,-6,,,MiaStandBored
+OutroSwitch2,Loop,,,,,,,,TeacherNakedMiaNakedSitBed
+OutroDom1,,,"What should we do this weekend, Miss PlayerName?",,,,,,
+OutroDom1,OutroDom2,We could get naked in bed.,That's good plan!  (She smiles as you both get naked.),,,1,,,
+OutroDom1,OutroDom2,We get naked first.,I love how that plan begins.  (She giggles as you both get naked.),,,1,1,,
+OutroDom1,OutroDom2,(Blushes.)  Should we strip down?,"You're so cute when you blush, Miss.  (She smirks as you both get naked.)",,,1,-1,,
+OutroDom1,EarlySleep1,"I'm exhausted, I don't want to do anything.","(She sighs.)  Yes Miss, another boring weekend.  (You go get your pajamas.)",,,-4,1,,MiaStandBored
+OutroDom1,Breakup,My plan is to kick you out.  (Breakup with her.),"Fuck you, PlayerName!  I'm out!",DialogLoveLower(9),,-6,,,MiaStandBored
+OutroDom2,Loop,,,,,,,,TeacherNakedMiaNakedSitBed
+OutroSub1,,,"I've already planned everything.  First, we get naked in bed.",,,,,,
+OutroSub1,OutroSub2,That sounds wonderful.,(She smiles as you both get naked.),,,1,,,
+OutroSub1,OutroSub2,It sounds like we have the same planning.,Naughty minds think alike.  (She giggles as you both get naked.),,,1,1,,
+OutroSub1,OutroSub2,"I love your plan, Miss Mia.",We are just beginning.  (She smirks as you both get naked.),,,1,-1,,
+OutroSub1,OutroSub2,"I'm exhausted, can we get some sleep?","No!  Get naked right now, my pet.  (She frowns as you both get naked.)",DialogDominationLower(-5),,-2,2,,MiaStandBored
+OutroSub1,EarlySleep1,"I'm exhausted, can we get some sleep?","(She sighs.)  I give up, another boring weekend.  (You go get your pajamas.)",DialogDominationGreater(-4),,-4,1,,MiaStandBored
+OutroSub1,Breakup,I don't care.  I want freedom.  (Breakup with her.),"Fuck you, PlayerName!  I'm out!",DialogLoveLower(9),,-6,3,,MiaStandBored
+OutroSub2,Loop,,,,,,,,TeacherNakedMiaNakedSitBed
+EarlySleep1,EarlySleep2,,,DialogLoveGreater(13),,,,,TeacherMiaBedSleepSpoon
+EarlySleep1,EarlySleep2,,,DialogLoveLower(12),,,,,TeacherMiaBedSleep
+EarlySleep2,,,(You both get ready to sleep.),,"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,
+EarlySleep2,Outro,(Fall asleep quickly.),"(You quickly fall asleep, way before her.)",,,-1,,,
+EarlySleep2,Outro,(Kiss her goodnight.),(You exchange a few good night kisses before falling asleep.),,,1,,,
+EarlySleep2,Outro,Sleep well.,"Sleep well, hun.  (You both fall asleep.)",,,,,,
+Loop,,,,,"DialogLoad(""MiaLoop"")",,,,
+Breakup,,,,,"DialogLoad(""MiaBreakupStart"")",,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

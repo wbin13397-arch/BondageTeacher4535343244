@@ -1,0 +1,33 @@
+Entry,Leave1,,"From now on, you shall not be employed in this establishment.  You are fired.",,,,,Evelyn,EvelynDeskAngry
+Leave1,Leave2,,You shall return the documents and tools acquired from the college.,"DialogCurrentDS(""Evelyn"", """")",,,,,
+Leave1,LeaveDom1,,(She lowers her voice.)  Miss PlayerName...,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,EvelynDeskShush
+Leave1,LeaveSub1,,(She lowers her voice.)  My girl...,"DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,EvelynDeskShush
+Leave2,BadEnd1,,"If you need work references, I shall help you to acquire another job.",DialogLoveGreater(5),,,,,
+Leave2,BadEnd1,,"If you need work references, contact my secretary.","DialogLoveBetween(-4, 4)",,,,,
+Leave2,BadEnd1,,"Don't bother me with any work references, they shall be negative.",DialogLoveLower(-5),,,,,
+LeaveDom1,LeaveDom2,,"Do not worry, you still have a place to stay at my home.",DialogLoveGreater(10),,,,,
+LeaveDom1,BadEnd1,,"I shall not be your submissive anymore, I'm breaking up.",DialogLoveLower(9),,,,,
+LeaveDom2,LeaveDom3,,,,,,,,EvelynEnter
+LeaveDom3,LeaveDom4,,(She gets to the door and looks at you.),,,,,,
+LeaveDom4,LeaveDom5,,"Please leave Miss PlayerName, you shall require the bus back to my house.",,,,,,
+LeaveDom5,LeaveDom6,,You can be comfortable at home while you wait.  I promise to be back early.,,,,,,
+LeaveDom6,LeaveDom7,,(You lost your job as a teacher.  This story ends here.),,"LogAdd(""College"", ""Leave"")",,,,
+LeaveDom7,,,,,"DialogGameEnd(""DominantEvelynHouse"")",,,,
+LeaveSub1,LeaveSub2,,"If you desire, you have a place to stay at my home.",DialogLoveGreater(10),,,,,
+LeaveSub1,BadEnd1,,"I shall not keep you as a submissive, you are dismissed from my home.",DialogLoveLower(9),,,,,
+LeaveSub2,,,Shall you be my permanent house slave?,,,,,,
+LeaveSub2,LeaveSub3,"Yes, Mistress Evelyn.",(She makes a large grin.)  Good girl.,,,1,2,,
+LeaveSub2,LeaveSub3,"Alright, I accept.",(She nods.)  Very good.,,,,,,
+LeaveSub2,BadEnd1,I cannot do that.,(She sighs loudly.)  I understand.,,,-1,-2,,
+LeaveSub2,BadEnd1,Are you insane?,(She clinches her fists but doesn't say a word.),,,-3,-3,,
+LeaveSub3,LeaveSub4,,,,,,,,EvelynEnter
+LeaveSub4,LeaveSub5,,(She gets to the door and looks at you.),,,,,,
+LeaveSub5,LeaveSub6,,"You shall take the bus back home and wait for me inside, naked.",,,,,,
+LeaveSub6,LeaveSub7,,"I shall prepare a simpler life for you, free of mundane work.",,,,,,
+LeaveSub7,LeaveSub8,,(You lost your job as a teacher.  This story ends here.),,"LogAdd(""College"", ""Leave"")",,,,
+LeaveSub8,,,,,"DialogGameEnd(""SlaveEvelynHouse"")",,,,
+BadEnd1,BadEnd2,,,,,,,,EvelynEnter
+BadEnd2,BadEnd3,,(She gets to the door and stares at you.),,,,,,
+BadEnd3,BadEnd4,,"Get out PlayerName, this office and college are off limits to you.",,,,,,
+BadEnd4,BadEnd5,,(You lost your job as a teacher.  This story ends here.),,"LogAdd(""College"", ""Leave"")",,,,
+BadEnd5,,,,,"DialogGameEnd("""")",,,,

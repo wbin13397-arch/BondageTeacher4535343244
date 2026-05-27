@@ -1,0 +1,310 @@
+Entry,Intro1,,,,,,,Teacher,TeacherEnter
+Intro1,Intro2,,(You come back home to your girlfriend.  Your third week of work is done.),,MiniGameParameterClear(),,,,
+Intro2,Intro3,,(Mia comes to greet you.),,,,,Mia,
+Intro3,IntroDom1,,(She stands close to you and bows her head.),DialogDominationGreater(8),,,,,MiaStandShy
+Intro3,Intro4,,(She stands in front of you and smiles.),"DialogDominationBetween(-7, 7)",,,,,MiaStandIdle
+Intro3,IntroSub1,,(She stands in front of you with a grin on her face.),DialogDominationLower(-8),,,,,MiaStandProud
+IntroDom1,IntroDom2,,"My love, I've been thinking a lot.",DialogLoveGreater(16),,,,,
+IntroDom1,IntroDom2,,I've been thinking a lot.,DialogLoveLower(15),,,,,
+IntroDom2,IntroDom3,,You've been so strong lately.  I'm your loser girlfriend that doesn't do anything.,,,,,,
+IntroDom3,IntroDom4,,I'm feeling cheap.  I feel like I could do more for you.,,,,,,
+IntroDom4,,,What could I do for?,,,,,,
+IntroDom4,DomMaid1,"You could clean the place, it's getting dirty.","(She looks around and nods.)  Yes, I could move my butt.",,,,1,,
+IntroDom4,DomSex1,I want some sex.  You'll be my horny prisoner.,Your horny prisoner?  (She blushes.)  It could be fun.,,,1,,,
+IntroDom4,EarlySleep1,I'm exhausted.  I need to sleep now.,"(She bows her head and sighs.)  Ok, let's get some sleep.  (You go get your pajamas.)",,,-3,-2,,
+IntroDom4,Breakup,Nothing!  Leave me alone.  (Breakup with her.),Fine!  I don't care.  Stay alone forever.,DialogLoveLower(9),,-6,-2,,
+Intro4,Intro5,,"Hey Hun, it's awesome to see you.",DialogLoveGreater(16),,,,,MiaStandHappy
+Intro4,Intro5,,"Hey there, it's nice to see you.","DialogLoveBetween(8, 15)",,,,,
+Intro4,Intro5,,Oh!  There you are.,DialogLoveLower(7),,,,,MiaStandBored
+Intro5,,,I hope you're not too tired from your week of work.,,,,,,
+Intro5,Intro6,"When you get a job, you will understand.",(She pouts.)  I know!  There's no need to repeat it.,,,-1,,,
+Intro5,Intro6,I'm full of energy!,That's great!  I don't know how you do it.,,,,1,,
+Intro5,Intro6,I admit it was a tough week.,"Poor hun, they give you too much stuff to do.",,,,-1,,
+Intro5,Intro6,Seeing you recharges my batteries.,"(She smiles.)  This is very kind, thanks hun.",,,1,,,
+Intro5,EarlySleep1,I'm exhausted.  I need to sleep now.,"(She bows her head and sighs.)  Ok, let's get some sleep.  (You go get your pajamas.)",,,-3,,,
+Intro5,Breakup,Leave me alone!  (Breakup with her.),Fine!  I don't care.  Stay alone forever.,DialogLoveLower(9),,-6,,,
+Intro6,IntroSex1,,"My love, I've been thinking about you all week.",DialogLoveGreater(16),,,,,
+Intro6,IntroMaid1,,"PlayerName, the apartment is getting dirty.",DialogLoveLower(15),,,,,
+IntroSex1,IntroSex2,,"You're hot, I desire you like on our first date.",,,,,,
+IntroSex2,IntroSex3,,I've seen the cuffs and gags you carry around.,,,,,,
+IntroSex3,IntroSex4,,We could have some kinky sex this weekend.,,,,,,
+IntroSex4,,,"I could be your prisoner, or you could be mine.  What do you think?",,,,,,
+IntroSex4,SubSex3,"Alright, I'll be your prisoner.",Great!  (She strips you down.)  Now listen to my plan.,,,1,-1,,MiaStandDominantTeacherNaked
+IntroSex4,DomSex1,"That sounds good, you'll be my prisoner.",(She blushes.)  It would be fun.,,,-1,1,,MiaStandShy
+IntroSex4,EarlySleep1,"I'm too tired, let's get some sleep.","(She bows her head and sighs.)  Ok, let's get some sleep.  (You go get your pajamas.)",,,-3,,,
+IntroMaid1,,,Someone needs to clean it up.  Will you do it?,,,,,,
+IntroMaid1,SubMaid1,"Sure, I'll be clean the place.",Great!  Now listen to my plan.,,,1,-1,,MiaStandProud
+IntroMaid1,DomMaid1,"Mia, I work all week, you will clean up.",(She sighs and nods.)  I guess you're right.  I could move my butt.,,,-1,1,,MiaStandShy
+IntroMaid1,EarlySleep1,"I'm too tired, let's get some sleep.","(She bows her head and sighs.)  Ok, let's get some sleep.  (You go get your pajamas.)",,,-3,,,
+DomMaid1,DomMaid2,,It will be lots of boring work to clean the place.,,,,,,
+DomMaid2,DomMaid3,,Oh!  I have an idea to make it more fun.,,,,,,
+DomMaid3,DomMaid4,,I think I still have my maid costume from last Halloween.,,,,,,
+DomMaid4,,,Should I dress up as a maid?,,,,,,
+DomMaid4,DomMaid5,"Change quickly, you have lots to do.","Yes Hun, I'll be quick, don't worry.",,,,1,,MiaStandShy
+DomMaid4,DomMaid5,Do you think it will still fit you?,That's not very kind.,,,-1,,,MiaStandBored
+DomMaid4,DomMaid5,You have great ideas.,I know!  It will be way more fun.,,,,-1,,MiaStandProud
+DomMaid4,DomMaid5,You will be a sexy maid.,"Thanks hun, I want to be pretty for you.",,,1,,,MiaStandHappy
+DomMaid5,DomMaid6,,(She searches for her costume and finally finds it.)  Time to dress up!,,,,,,
+DomMaid6,DomMaid7,,,,,,,,MiaStandMaidIdle
+DomMaid7,DomMaid8,,How does it look?  It's still sexy?,,,,,,
+DomMaid7,DomMaid8,InventoryDialogPhone,(She giggles as you take a picture of her dressed up as a maid.),,PictureAdd(),,,,
+DomMaid8,DomMaid9,,,,,,,,MiaStandMaidCurtsy
+DomMaid9,DomMaid10,,Your maid is ready to work!  (She bends in a curtsy.),,,,,,
+DomMaid9,DomMaid10,InventoryDialogPhone,(She bends the knees a little more for a better picture.),,PictureAdd(),1,,,
+DomMaid10,DomMaid11,,,,,,,,MiaStandMaidClean1
+DomMaid11,DomMaid12,,"(She starts to clean the apartment, putting away her old stuff.)",,,,,,
+DomMaid11,DomMaid12,InventoryDialogPhone,(You immortalize her work on your phone.),,PictureAdd(),,,,
+DomMaid12,DomMaid13,,,,,,,,MiaStandMaidClean2
+DomMaid13,DomMaid14,,(She picks up a broom to remove the dust on the floor.)  We should do this more often.,,,,,,
+DomMaid13,DomMaid14,InventoryDialogPhone,(She waves her broom as you add a new picture to your collection.),,PictureAdd(),,,,
+DomMaid14,DomMaid15,,,,,,,,MiaStandMaidClean3
+DomMaid15,DomMaid16,,(She fixes the bed to finish the job.)  Almost done!,,,,,,
+DomMaid15,DomMaid16,InventoryDialogPhone,(She scrubs hard as you capture the moment on your device.),,PictureAdd(),,,,
+DomMaid16,DomMaid17,,Wow!  I think this is it.,,,,,,MiaStandMaidIdle
+DomMaid17,DomMaid18,,"Everything is clean, Miss!  (She giggles and does another curtsy.)",,,,,,MiaStandMaidCurtsy
+DomMaid18,,,What will be my salary?,,,,,,
+DomMaid18,DomMaid19,"Next time, I'll do it for you.",(She nods.)  That's a fair deal.,,,,-1,,
+DomMaid18,DomMaid19,Your salary is that you don't get spanked.,(She gulps.)  You're a tough boss.,,,,1,,
+DomMaid18,DomMaid19,I'll pay you in orgasms.,(She smiles.)  Wow!  We have a deal!,,,1,,,
+DomMaid18,DomMaid19,The calories that you've burned.,Boring!  You can do better.,,,-1,,,
+DomMaid19,DomMaid20,,"Hun, all this kinky exercise got me in the mood.",DialogLoveGreater(10),,,,,MiaStandMaidIdle
+DomMaid19,EarlySleep1,,I'm exhausted!  Let's get to bed.  (She seems tired as you both get your pajamas.),DialogLoveLower(9),,,,,
+DomMaid20,,,Would you like to have some sexy fun with your maid?,,,,,,MiaStandMaidCurtsy
+DomMaid20,DomMaid21,"Yes, get naked girl.",Yes Miss!  (She laughs and starts to strip down.),,,1,1,,
+DomMaid20,DomMaid21,"Same here, I love how you think.",Dirty minds think alike.  (She smirks and starts to strip down.),,,1,-1,,
+DomMaid20,EarlySleep1,"No, I'm not in that mood.","(She bows her head and sighs.)  Ok, let's get some sleep then.  (You go get your pajamas.)",,,-3,1,,
+DomMaid20,EarlySleep1,"No, I'm way too tired.","(She bows her head and sighs.)  Ok, let's get some sleep then.  (You go get your pajamas.)",,,-3,-1,,
+DomMaid21,DomMaid22,,,,,,,,MiaStandNakedSubmissive
+DomMaid22,DomMaid23,,"Hun, it's fun to dress and undress for you.  I feel like a doll.",,,,,,
+DomMaid23,DomMaid24,,"I was your sexy maid, now I can be your love prisoner.",,,,,,
+DomMaid24,DomSex28,,Use your prisoner as you wish.  (She moves toward the bed.),,,,,,
+DomSex1,DomSex2,,I'm not sure what it means to be your prisoner.,,,,,,
+DomSex2,,,What should I do?,,,,,,
+DomSex2,DomSex3,"First, show me your curves.  Get naked.","My curves?  Alright, hun.  (She sighs and starts to strip down.)",,,-1,,,
+DomSex2,DomSex3,"Strip down, girl.",(She nods slowly and starts to strip down.),,,,1,,
+DomSex2,DomSex3,I want to see your sexy body.  Get naked.,"I want to be sexy for you, hun.  (She smiles and starts to strip down.)",,,1,,,
+DomSex2,DomSex3,(Undress her yourself.),(She giggles as you work to remove her clothes.),,,,-1,,
+DomSex3,DomSex4,,,,,,,,MiaStandNakedSubmissive
+DomSex4,DomSex5,,Here we go!  Am I ready to be your love prisoner?,,,,,,
+DomSex4,DomSex5,InventoryDialogPhone,Will that be my mug shot?  (She winks as you take a picture of her.),,PictureAdd(),,,,
+DomSex5,DomSex6,,This is kind of hot.  It's fun to submit to you.,,,,,,
+DomSex6,,,What can your prisoner do for you?,,,,,,
+DomSex6,DomSex7,"First, you will be in cuffs to pleasure me.",(She nods as you get the cuffs to lock her securely.),,,,,,
+DomSex6,DomSex7,(Giggle and show her your cuffs.),(You both laugh as you lock her up.),,,,-1,,
+DomSex6,DomSex28,I only want to fuck you.  (Point at the bed.),(She pouts and slowly gets on the bed.),,,-1,,,
+DomSex6,DomSex28,"Get in bed, my cute love prisoner.",(She smiles and quickly jumps on the bed.),,,1,,,
+DomSex6,DomSex7,InventoryDialogHandcuffs,(You stay silent and lock her up very securely.),,,,1,,
+DomSex7,DomSex8,,,,,,,,MiaStandNakedDoubleCuffs
+DomSex8,DomSex9,,Wow!  Both the wrists and ankles!  It will be hard to escape.,,,,,,
+DomSex9,DomSex10,,(She struggles a little to test her bondage.),,,,,,
+DomSex9,DomSex10,InventoryDialogPhone,This must be a very naughty picture!,,PictureAdd(),,,,
+DomSex10,,,I can barely move.  What should I do now?,,,,,,
+DomSex10,DomSex11,Lay on your back my sexy prisoner.,"(She nods happily and clumsily gets on the bed, laying on her back.)",,,1,,,
+DomSex10,DomSex11,(Stay silent and point at the bed.),"(She clumsily gets on the bed, laying on her back.)",,,,,,
+DomSex10,DomSex11,You like to eat?  I have a meal for you.,"(She grumbles and clumsily gets on the bed, laying on her back.)",,,-1,,,
+DomSex11,DomSex12,,,,,,,,MiaBedDoubleCuffs
+DomSex12,DomSex13,,I'm ready!  My sexy warden.,DialogLoveGreater(16),,,,,
+DomSex12,DomSex13,,I'm ready!,DialogLoveLower(15),,,,,
+DomSex12,DomSex13,InventoryDialogPhone,Don't send this one to my parents.  (She pulls her tongue at you playfully.),,PictureAdd(),,,,
+DomSex13,DomSex14,,(You strip down and get on the bed with her.),,,,,,
+DomSex14,DomSex15,,,,,,,,MiaBedDoubleCuffsTeacherFaceSitting
+DomSex15,DomSex16,,"(You sit on her face, restricting her breathing a little.)",,,,,,
+DomSex16,DomSex17,,(She mumbles and struggles for a little while but slowly starts to work.),,,,,,
+DomSex17,DomSex18,,"(She nuzzles your clitoris slowly, shaking her head from left to right.)",,,,,,
+DomSex18,DomSex19,,"(Her tongue starts to caress your pussy lips, slowly licking the juices.)",,,,,,
+DomSex19,DomSex20,,(She slides inside eagerly as you squeeze her head between your legs.),,,,,,
+DomSex20,DomSex21,,"(She works hard to explore inside, while tugging on the cuffs.)",,,,,,
+DomSex21,,,(You are getting closer.),,,,,,
+DomSex21,DomSex22,FUCK!  (Yell and get a strong orgasm.),(You yell and probably wake up your neighbors with a shattering orgasm.),,,2,-1,,MiaBedDoubleCuffsTeacherFaceSittingOrgasm
+DomSex21,DomSex22,(Suffocate her a little as you get your orgasm.),(You choke her between your legs as you get a powerful orgasm.),,,-1,2,,MiaBedDoubleCuffsTeacherFaceSittingOrgasm
+DomSex21,DomSex25,Enough!  (Stand up and stop her.),(She pouts as you stop everything and get up.),,,-2,1,,
+DomSex21,DomSex22,YEEEEAH!  (Fake your orgasm.),"(You put on quite a show and fake a great orgasm, you're not sure if she knows.)",,,1,-2,,MiaBedDoubleCuffsTeacherFaceSittingOrgasm
+DomSex22,DomSex23,,,,,,,,
+DomSex23,DomSex24,,(You recover as she slowly catches up her breath.),,,,,,
+DomSex24,DomSex25,,(She mumbles in your pussy as you get up from her.),,,,,,
+DomSex25,DomSex26,,"Wow!  Being your prisoner is lots of work, but I don't mind.",,,,,,MiaBedDoubleCuffs
+DomSex26,DomSex27,,"Boss, I'm ready for more kinky work.",,,,,,
+DomSex27,DomSex28,,(You unlock her as she gets ready for more sex.),,,,,,
+DomSex28,DomSex29,,,,,,,,MiaBedReadyForSex
+DomSex29,,,"(She gets her butt up.)  You can use the strap-on if you want, I'm not sure where it is.",,,,,,
+DomSex29,DomSex30,"Don't worry, I already have it.",(She shivers and nods.),"InventoryAvailable(""Strapon"")",,,,,
+DomSex29,DomSex30,"It must be around, but I cannot find it.","(She shrugs.)  No worries, we'll find it again someday.","!InventoryAvailable(""Strapon"")",,,,,
+DomSex29,DomSexFindStrapOn,SecretDialog,,"!InventoryAvailable(""Strapon"")",,0,500,500,200
+DomSexFindStrapOn,,,(You find your old strap-on dildo squeezed between the mattress and the wall.),,,,,Teacher,HiddenStrapon
+DomSexFindStrapOn,DomSex30,(Pick it up.),(You take the dildo strap-on and keep it close.),,"InventoryAdd(""Strapon"")",,,,
+DomSexFindStrapOn,DomSex30,(Leave it there.),(You leave it there and return to Mia.),,,,,,
+DomSex30,DomSex31,,,,"MiniGameStart(""FreeBondage"", ""MiaBed"", ""MiaBed"")",,,Mia,MiniGameBackgroundFreeBondage
+DomSex31,DomSex32,,"(Mia still moans loudly, recovering from a strong orgasm.)","MiniGameFreeBondageResultGreater(""Arousal"", 100)",,1,,,
+DomSex31,DomSex32,,"(Mia pouts and seems unsatisfied, not having reached her orgasm.)","MiniGameFreeBondageResultLower(""Arousal"", 99)",,-1,,,
+DomSex32,DomSex33,,"(She seems very docile after this session, calmer and obedient.)","MiniGameFreeBondageResultGreater(""Stress"", 100)",,,1,,
+DomSex32,DomSex33,,"(She seems a little stressed after this session, the training wasn't perfect.)","MiniGameFreeBondageResultLower(""Stress"", 99)",,,-1,,
+DomSex33,DomSex34,,(You help her to get up.),,,,,,MiaStandNakedSubmissive
+DomSex34,DomSex35,,Wow!  It was some very intense sex.  I want more!  (She giggles.),"MiniGameFreeBondageResultGreater(""Arousal"", 50)",,1,,,
+DomSex34,DomSex35,,"Hun, I did not cum.  We need to retry later.","MiniGameFreeBondageResultLower(""Arousal"", 49)",,-2,,,
+DomSex35,DomSex36,,It did feel good to be under your control.,"MiniGameFreeBondageResultGreater(""Stress"", 50)",,,1,,
+DomSex35,DomSex36,,I'm confused though.  Maybe I'm not a good prisoner.  (She shrugs.),"MiniGameFreeBondageResultLower(""Stress"", 49)",,,-2,,
+DomSex36,DomSex37,,(She slowly recovers and looks at you.),,,,,,
+DomSex37,,,"My love, this is quite intense.",DialogLoveGreater(16),,,,,
+DomSex37,,,This is very intense.,DialogLoveLower(15),,,,,
+DomSex37,Dominate,It's only the beginning.  (Propose to be her Domme.),(She gulps and gets on her knees as you sit naked on the bed.),DialogDominationGreater(12),,,1,,
+DomSex37,DomSex38,It's only the beginning.  (Propose to be her Domme.),"(You talk for a while, but she refuses.)  Sorry, I don't think this a good idea.",DialogDominationLower(11),,,,,
+DomSex37,DomSex38,"That's true, it's enough for now.",(She nods in agreement.)  Well said.,,,,-1,,
+DomSex38,EndCuddle1,,Let's get to bed.  I'm tired.,,,,,,
+IntroSub1,IntroSub2,,There you are!  I've been waiting for you.,,,,,,
+IntroSub2,IntroSub3,,Things have evolved between us.  I have a plan for the weekend.,,,,,,
+IntroSub3,,,(She stares at you.)  Get naked!,,,,,,MiaStandDominant
+IntroSub3,IntroSub4,What?  Are you serious?,Very serious.  (She grabs your clothes and strips you down.),,,-1,,,
+IntroSub3,IntroSub4,"Wait, I just came back home.",There's no time to waste.  (She grabs your clothes and strips you down.),,,,1,,
+IntroSub3,IntroSub4,You're in a kinky mood?,You'll see.  (She grabs your clothes and strips you down.),,,1,,,
+IntroSub3,IntroSub4,(Nod and strip down.),Good girl.  (She smirks as you strip down.),,,,-1,,
+IntroSub3,EarlySleep1,I'm too exhausted.  I need to sleep now.,"(She bows her head and sighs.)  Ok, let's get some sleep.  (You go get your pajamas.)",,,-3,2,,
+IntroSub3,Breakup,No!  Leave me alone.  (Breakup with her.),Fine!  I don't care.  Stay alone forever.,DialogLoveLower(9),,-6,2,,
+IntroSub4,IntroSub5,,,,,,,,MiaStandDominantTeacherNaked
+IntroSub5,SubSex1,,That's much better.,DialogLoveGreater(16),,,,,
+IntroSub5,SubMaid1,,That's much better.,DialogLoveLower(15),,,,,
+SubSex1,SubSex2,,"Hun, I've been thinking about you a lot.",,,,,,
+SubSex2,SubSex3,,"You're hot, you still drive me wild with desire.",,,,,,
+SubSex3,SubSex4,,"This weekend, we will try a new fantasy of mine.",,,,,,
+SubSex4,,,You will be my love prisoner.,,,,,,
+SubSex4,SubSex5,That sounds sexy.,"Oh yes!  Hun, it will be very sexy.",,,1,,,
+SubSex4,SubSex5,Your what?,Trust me on this.,,,-1,,,
+SubSex4,SubSex5,(Bow your head.),You're already in the mood!,,,,-1,,
+SubSex4,SubSex5,You'll need to explain first.,"Fine, I'll give you the details.",,,,1,,
+SubSex5,SubSex6,,"As my love prisoner, you will stay naked all weekend.",,,,,,
+SubSex6,SubSex7,,(She thinks for a while.),,,,,,
+SubSex7,SubSex8,,"In fact, I think I will keep you in your teacher's cuffs all weekend.",,,,,,
+SubSex8,,,"Hun, turn and give me your hands!",,,,,,
+SubSex8,SubSex9,(Be bratty and struggle a little.),(You give her a hard as she uses your own cuffs on you.),,,,1,,
+SubSex8,SubSex9,(Grumble and pout.),(You don't seem to have fun as she uses your own cuffs on you.),,,-1,,,
+SubSex8,SubSex9,(Moan and put your arms back.),(You moan seductively as she uses your own cuffs on you.),,,1,,,
+SubSex8,SubSex9,InventoryDialogHandcuffs,(She grins as you use your own cuffs on yourself.),,,,-1,,
+SubSex9,SubSex10,,,,,,,,MiaStandDominantTeacherNakedCuffed
+SubSex10,SubSex11,,There we go!  You're ready for the next two days.,,,,,,
+SubSex11,SubSex12,,"As my love prisoner.  You will be naked, bound and... fucked!",,,,,,
+SubSex12,SubSex13,,"All weekend, I want you to count your orgasms.  You better be honest.",,,,,,
+SubSex13,SubSex14,,I've been dreaming of this all week.  Wow!  It will be sweet.,,,,,,
+SubSex14,,,"Are you ready, hun?",,,,,,
+SubSex14,SubSex15,Ready for what?,You're clueless for a teacher.  For sex!,,,-1,,,
+SubSex14,SubSex15,I'm ready Miss!,You're a good love prisoner.,,,,-1,,
+SubSex14,SubSex15,I don't think I am.,You better get ready quick.,,,,1,,
+SubSex14,SubSexDance1,(Start to dance for her.),(You take a step back and start a sensual dance in your cuffs.),,,,,,
+SubSexDance1,SubSexDance2,,,,,,,,TeacherNakedCuffedDance1
+SubSexDance1,SubSexDance2,InventoryDialogPhone,(She takes a picture of you and sends it over.),,"PictureAdd(""Teacher"")",,,,
+SubSexDance2,SubSexDance3,,,,,,,,TeacherNakedCuffedDance2
+SubSexDance2,SubSexDance3,InventoryDialogPhone,(She smirks and takes a sexy picture of your dance.),,"PictureAdd(""Teacher"")",,,,
+SubSexDance3,SubSexDance4,,,,,,,,TeacherNakedCuffedDance3
+SubSexDance3,SubSexDance4,InventoryDialogPhone,(She does the wolf whistle as you shake your body in cuffs for her.),,"PictureAdd(""Teacher"")",,,,
+SubSexDance4,SubSex15,,"Hun, you just earned an extra orgasm for that sexy dance.",,,1,,,
+SubSex15,SubSex16,,I'm so horny today.  (She starts to strip down.),,,,,,MiaStandDominantTeacherNakedCuffed
+SubSex16,SubSex17,,,,,,,,MiaStandNakedTeacherNakedCuffed
+SubSex17,SubSex18,,"Let's talk about sex, baby!",,,,,,
+SubSex18,SubSex19,,"Before you get your orgasms, I want mine.",,,,,,
+SubSex19,SubSex20,,,,,,,,MiaStandNakedTeacherNakedCuffedOral
+SubSex20,SubSex21,,(She pushes you down and brings you closer to her pussy.),,,,,,
+SubSex21,,,"Get to work, love prisoner.",,,,,,
+SubSex21,SubSex22,(Nuzzle her clitoris slowly.),(She moans a little but gets tired.)  Let's try something else.,,,-1,,,
+SubSex21,SubSex22,(Push your tongue deep inside and explore.),(Her hips tremble as she gets a quick but powerful orgasm.)  Wow!,,,1,1,,MiaStandNakedTeacherNakedCuffedOralOrgasm
+SubSex21,SubSex22,(Lick eagerly and suck her juices.),(She screams of joy as she squirts on your face.)  Fuck!,,,1,-1,,MiaStandNakedTeacherNakedCuffedOralOrgasm
+SubSex21,SubSex22,(Tickle her lips passively.),(She moans a little but gets tired.)  Let's try something else.,,,-1,,,
+SubSex22,SubSex23,,I might get used to keeping you restrained.,,,,,,MiaStandNakedTeacherNakedCuffedOral
+SubSex23,SubSex24,,"Maybe we could go get some ropes soon, it would be sexy.",,,,,,
+SubSex24,SubSex25,,,,,,,,MiaStrapOnDisplay
+SubSex25,SubSex26,,(She wears her strap-on and smirks.),,,,,,
+SubSex26,SubSex27,,I want to fuck you my love prisoner.,,,,,,
+SubSex27,SubSex28,,(She looks at your panel gag and smirks.),,,,,,
+SubSex28,,,Open wide!,,,,,,
+SubSex28,SubSex29,(Happily open your mouth.),(She pushes the gag deep inside and locks it tight.),,,,-1,,
+SubSex28,SubSex29,(Slowly open up.),(She pushes the gag inside and smiles.),,,,,,
+SubSex28,SubSex29,Do you really have to gag me?,(She shoves the gag inside and laughs.)  Does that answer your question?,,,,1,,
+SubSex29,SubSex30,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex30,SubSex31,,"You will beg me, love prisoner.",,,,,,
+SubSex31,SubSex32,,(She thrusts the strap-on deep inside.),,,,,,
+SubSex32,SubSex33,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex33,SubSex34,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex34,SubSex35,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex35,SubSex36,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex36,SubSex37,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex37,,,Beg me to cum!,,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex37,SubSex42,(Scream loudly.),"That's not how you beg, love prisoner.  You'll have to get better.",,,,1,,
+SubSex37,SubSex38,(Whimper and beg in your gag.),"(She thrusts in and out, faster and faster.)",,,,-1,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex37,SubSex42,Mmh hog hohing oh geg.,This is how you beg?  You'll have to get better.,,,-1,,,
+SubSex37,SubSex38,(Moan loudly for your orgasm.),"(She thrusts in and out, faster and faster.)",,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex37,SubSex42,(Push the gag out to talk.),(She laughs as you fail to push the gag out.)  You'll have to get better.,,,-1,1,,
+SubSex38,SubSex39,,,,,,,,TeacherNakedCuffedPanelGagMiaStraponOrgasm
+SubSex39,SubSex40,,"(You get a shattering orgasm, trembling and moaning loudly.)",,,2,,,
+SubSex40,SubSex41,,"This is only the first one, my love prisoner.",,,,,,
+SubSex41,SubSex42,,I will make love to you all weekend.  Two days of restraints and sex.,,,,,,
+SubSex42,SubSexStart1,,Wow!  This is hot!  We could make this more permanent.,DialogDominationLower(-12),,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex42,SubSex43,,"Maybe we'll do this more often, I'll think about it.",DialogDominationGreater(-11),,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex43,SubSex44,,"Enough chit chat, it's time for sex, love prisoner.",,,,,,
+SubSex44,SubSex45,,,,,,,None,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex45,SubSex46,,(Mia keeps you in different bondage positions all weekend.),,,,,,
+SubSex46,SubSex47,,(You make love so often that you lose count of your orgasms.),,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSex47,SubSex48,,(Time goes by quickly with these two days of hot sex.),,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSex48,EndCuddle1,,"(She finally releases you, getting ready for bed.)","!LogQuery(""Mia"", ""Submit"")",,,,Mia,
+SubSex48,Outro,,(She keeps you naked and bound to sleep at night.),"LogQuery(""Mia"", ""Submit"")",,,,,TeacherNakedCuffedCuddle
+SubSexStart1,SubSexStart2,,(She thrusts in and out while talking.),,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSexStart2,SubSexStart3,,How would you feel about becoming my pet?,,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSexStart3,SubSexStart4,,"Every weekend, you could be bound, fucked and more.",,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSexStart4,SubSexStart5,,"You would boss your class, and I would boss the apartment.",,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSexStart5,,,"Nod if you accept, shake your head if you don't.",,,,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSexStart5,SubSexStart6,(Nod submissively.),"Such a good girl, you will be a great submissive.",,,1,-2,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSexStart5,SubSexStart6,(Nod while getting an orgasm.),What a kinky submissive.  (She continues to talk as you succumb to a wonderful orgasm.),,,2,-1,,TeacherNakedCuffedPanelGagMiaStraponOrgasm
+SubSexStart5,SubSex43,(Shake your head no.),"No?  Too bad, it would have been fun.",,"LogAdd(""Mia"", ""SubmitRefuse"")",-2,4,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSexStart6,SubSexStart7,,"Starting next week, our relationship will evolve.",,"LogAdd(""Mia"", ""Submit"")",,,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSexStart7,SubSexStart8,,"We will have lots of love, lots of sex and lots of bondage.",,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubSexStart8,SubSexStart9,,"As your Dominant, I will be strict but fair.",,,,-1,,TeacherNakedCuffedPanelGagMiaStraponIn
+SubSexStart9,SubSex43,,"You will be trained to please, serve and love me.",,,,,,TeacherNakedCuffedPanelGagMiaStraponOut
+SubMaid1,SubMaid2,,The place is getting dirty.  We need someone to clean it.,,,,,,
+SubMaid2,,,Remember my Halloween maid costume?  You will wear it.,,,,,,
+SubMaid2,SubMaid3,This isn't necessary.,(She frowns.)  I will decide what's necessary.,,,-1,,,
+SubMaid2,SubMaid3,What a fun idea!,I know!  Wow!  You will be super cute.,,,1,,,
+SubMaid2,SubMaid3,Yes Miss!,(She grins.)  You will make a good servant.,,,,-1,,
+SubMaid2,SubMaid3,(Roll your eyes up.),Pish posh!  No complaining little maid.,,,,1,,
+SubMaid3,SubMaid4,,Let's find that costume for you.,,,,,,
+SubMaid4,SubMaid5,,,,,,,,TeacherStandMaidIdle
+SubMaid5,SubMaid6,,(She claps her hands as you dress up as a maid.)  Adorable!,,,,,,
+SubMaid5,SubMaid6,InventoryDialogPhone,(She makes a thumbs up and takes a picture for you.),,"PictureAdd(""Teacher"")",,,,
+SubMaid6,SubMaid7,,"Cleaning up is easy for you, you've done it often.",,,,,,
+SubMaid7,SubMaid8,,"I'll give you a better challenge today, you'll be my prisoner maid.",,,,,,
+SubMaid8,,,(She picks up your teacher's cuffs and gags.)  Let's get you ready to work.,,,,,,
+SubMaid8,SubMaid9,Are you serious?,Very serious!  (She cuffs and gags you securely.),,,,1,,
+SubMaid8,SubMaid9,What a naughty plan!,Wow!  Very naughty!  We'll see if you can do it or not.  (She cuffs and gags you.),,,1,,,
+SubMaid8,SubMaid9,I cannot clean while in bondage.,We'll see that right now.  (She cuffs and gags you.),,,-1,,,
+SubMaid8,SubMaid9,InventoryDialogHandcuffs,(She smirks as you cuff yourself.  She adds the gag right after.),,,,-1,,
+SubMaid9,SubMaid10,,,,,,,,TeacherStandMaidCuffedPanelGag1
+SubMaid10,SubMaid11,,A good maid doesn't need to be heard.  She needs to work.,,,,,,
+SubMaid10,SubMaid11,InventoryDialogPhone,(She takes a picture of you and sends it over.),,"PictureAdd(""Teacher"")",,,,
+SubMaid11,SubMaid12,,There's no time to get lazy.  Get that broom and work!,,,,,,
+SubMaid12,SubMaid13,,,,,,,,TeacherStandMaidCuffedPanelGag2
+SubMaid13,SubMaid14,,(She yawns like a monarch.)  It's so hard to get good servants nowadays.  (She laughs right after.),,,,,,
+SubMaid13,SubMaid14,InventoryDialogPhone,(She smirks and snaps a picture while you work.),,"PictureAdd(""Teacher"")",,,,
+SubMaid14,SubMaid15,,,,,,,,TeacherStandMaidCuffedPanelGag3
+SubMaid15,SubMaid16,,You're almost done!  Keep it up maid PlayerName.  Scrub harder!,,,,,,
+SubMaid15,SubMaid16,InventoryDialogPhone,(She saves another picture of you and giggles.),,"PictureAdd(""Teacher"")",,,,
+SubMaid16,SubMaid17,,(You finish cleaning the place as she looks at you.),,,,,,TeacherStandMaidCuffedPanelGag1
+SubMaid17,SubMaid18,,Watching you clean up as a maid got me in the mood.,DialogLoveGreater(10),,,,,
+SubMaid17,EarlySleep1,,"You must be exhausted.  I'm also sleepy, let's call it a night.  (She releases you for bed.)",DialogLoveLower(9),,,,,
+SubMaid18,,,"(She grins.)  Would you like to get fucked, maid PlayerName?",,,,,,
+SubMaid18,SubMaid19,(Nod and moan.),You're so naughty!  Wow!  It seems that we are in the same mood.,,,1,1,,
+SubMaid18,SubMaid19,(Nod and blush.),What a good maid.  (She pets your head.),,,1,-1,,
+SubMaid18,EarlySleep1,(Shake your head no.),You're no fun.  Let's call it a night then.  (She releases you for sleep.),DialogDominationGreater(-9),,-3,1,,
+SubMaid18,SubMaid19,(Shake your head no.),"Too bad, bound like that you will be fucked.  I'll get you in the mood.",DialogDominationLower(-10),,-1,1,,
+SubMaid19,SubMaid20,,,,,,,,MiaStrapOnDisplay
+SubMaid20,SubMaid21,,(She wears her strap-on and smirks.),,,,,,
+SubMaid21,SubMaid22,,I want to fuck you so bad.  I'll change you from maid to love prisoner.,,,,,,
+SubMaid22,SubMaid23,,,,,,,,TeacherNakedCuffedDance1
+SubMaid23,SubSex29,,(She locks you up naked.)  Now you're ready!,,,,,,
+EarlySleep1,EarlySleep2,,,DialogLoveGreater(13),,,,,TeacherMiaBedSleepSpoon
+EarlySleep1,EarlySleep2,,,DialogLoveLower(12),,,,,TeacherMiaBedSleep
+EarlySleep2,,,(You both get ready to sleep.),,,,,,
+EarlySleep2,Outro,(Fall asleep quickly.),"(You quickly fall asleep, way before her.)",,,-1,,,
+EarlySleep2,Outro,(Kiss her goodnight.),(You exchange a few good night kisses before falling asleep.),,,1,,,
+EarlySleep2,Outro,Sleep well.,"Sleep well, hun.  (You both fall asleep.)",,,,,,
+EndCuddle1,EndCuddle2,,,DialogLoveGreater(16),,,,,TeacherMiaBedSleepSpoon
+EndCuddle1,EndCuddle2,,,DialogLoveLower(15),,,,,TeacherMiaBedSleep
+EndCuddle2,Outro,,(You cuddle closely in bed.  Another week of work is coming soon.),DialogLoveGreater(16),,,,,
+EndCuddle2,Outro,,(You both get to sleep.  Another week of work is coming soon.),DialogLoveLower(15),,,,,
+Breakup,,,,,"DialogLoad(""MiaBreakupStart"")",,,,
+Dominate,,,,,"DialogLoad(""MiaDominateStart"")",,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

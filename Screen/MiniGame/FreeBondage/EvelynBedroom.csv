@@ -1,0 +1,61 @@
+Stage,Type,Option,Name,Dialog,ZoneX,ZoneY,ZoneWidth,ZoneHeight,BlushFactor,BlinkTimer,StressFactor,ArousalFactor,NextStage,Condition,Flags/Comments
+All,Menu,InventoryHandcuffs,Handcuffs,Nothing defeats steel.|(Her eyes widen.),,,,,,,,,,"!MiniGameParameterNameIsSet(""Ankle"")",
+All,Menu,InventoryRope,Rope,Shibari is a true art.|(She shivers in anticipation.),,,,,,,,,,"!MiniGameParameterNameIsSet(""Ankle"")",
+All,Menu,InventoryPanelGag,Panel Gag,Work material in bed?|(She opens wider.),,,,,,,,,,"!MiniGameParameterNameIsSet(""Mouth"")",
+All,Menu,InventoryBallgag,Ball Gag,"Enjoy your gift, Mistress.|(She licks her lips.)",,,,,,,,,,"!MiniGameParameterNameIsSet(""Mouth"")",
+All,Menu,InventoryHeadset,Headset,Is that from a pupil?|Classical music please.,,,,,,,,,,,
+All,Menu,InventoryDildo,Plug Dildo,(She blushes red.)|Such a naughty toy.,,,,,,,,,,"!MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+All,Menu,ActionDildoLow,Low Vibration,,,,,,,,,,,"MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+All,Menu,ActionDildoHigh,High Vibration,,,,,,,,,,,"MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+All,Menu,Remove,Remove,,,,,,,,,,,,
+All,Menu,ActionCaress,Caress,(She wiggles her butt.)|I love your caring touch.,,,,,,,,,,,
+All,Menu,ActionTickle,Tickle,I'm not ticklish.|(She shakes her head no.),,,,,,,,,,,
+All,Menu,ActionInsert,Insert,(You pull two fingers.)|(She stares at your fingers.),,,,,,,,,,,
+All,Menu,ActionSlap,Slap,Shall you spank me?|(She takes a deep breath.),,,,,,,,,,,
+All,Menu,InventoryCrop,Leather Crop,Is this from college?|(She takes a deep breath.),,,,,,,,,,,
+All,Menu,InventoryPaddle,Paddle,For students and directors?|(She bites her lips.),,,,,,,,,,,
+All,Menu,InventoryStrapon,Strap-on,This isn't a great idea.|(She shakes her head no.),,,,,,,,,,,
+All,Menu,Exit,End Session,,,,,,,,,,,,
+Intro,Zone,InventoryHandcuffs,Ankle,,340,630,315,300,3,1,1.1,1.2,Unbound,,
+Unbound,Zone,InventoryHandcuffs,Ankle,(You lock the cuffs.)|An interesting bondage.,340,630,315,300,3,1,1.1,1.2,Intro,,
+Unbound,Zone,InventoryHandcuffs,Ankle,(You lock the cuffs.)|An interesting bondage.,1135,650,200,150,3,1,1.1,1.2,Intro,,
+Intro,Zone,InventoryRope,Ankle,,340,630,315,300,1,2,0.9,1.1,Unbound,,
+Unbound,Zone,InventoryRope,Ankle,(You wrap her tight.)|Effective and sensual.,340,630,315,300,1,2,0.9,1.1,Intro,,
+Unbound,Zone,InventoryRope,Ankle,(You wrap her tight.)|Effective and sensual.,1135,650,200,150,1,2,0.9,1.1,Intro,,
+All,Zone,InventoryPanelGag,Mouth,(You lock the gag.)|(She adjusts her jaw.),1150,460,135,180,3,3,1.2,1.05,,,StageImage
+All,Zone,InventoryBallgag,Mouth,(You strap it tightly.)|(She chews on the ball.),1150,460,135,180,5,1,1.05,1.2,,,StageImage
+All,Zone,InventoryHeadset,Head,(She looks dubious.)|(She relaxes a little.),1210,275,295,370,1,0,0.8,0.8,,,
+All,Zone,InventoryDildo,Vagina,(You insert the device.)|Oooooh!,450,150,195,145,6,2,1,1.1,,,
+All,Zone,Blush,Level1,,1250,520,70,110,,,,,,,
+All,Zone,Blush,Level2,,1250,520,70,110,,,,,,,
+All,Zone,Blush,Level3,,1250,520,70,110,,,,,,,
+All,Zone,ActionCaress,Activity,(You caress her gently.)|(She moans softly.)|This feels nice.,1225,485,150,145,3,1,-1,4,,,Face
+All,Zone,ActionSlap,Activity,(She tries to be strong.)|(She whimpers silently.)|It also hurts emotionally.,1225,485,150,145,7,2,4,2,,,Face
+All,Zone,InventoryCrop,Activity,Careful now!|(She cringes hard.)|(She soaks the pain.),1225,485,150,145,10,3,10,4,,,Face
+All,Zone,InventoryStrapon,Activity,(She gulps and sucks.)|(She chokes on it.)|(She grumbles and licks.)|Mnngh!,1220,555,65,70,5,0,4,1,,"!MiniGameParameterNameIsSet(""Mouth"")",Mouth
+All,Zone,ActionInsert,Activity,(You explore her mouth.)|(She sucks your fingers.)|Aaauuugnm.,1220,555,65,70,2,0,2,1,,"!MiniGameParameterNameIsSet(""Mouth"")",Mouth
+All,Zone,ActionTickle,Activity,(She seems annoyed.)|Pointless and futile.,1100,475,75,75,1,2,1,-2,,,ArmPit
+All,Zone,InventoryStrapon,Activity,Take it slow please.|(She trembles a little.)|(She seems nervous.),515,175,110,100,4,3,8,4,,"!MiniGameParameterNameIsSet(""Vagina"")",Vagina
+All,Zone,ActionDildoLow,Activity,(She moans softly.)|(She closes her eyes.)|Such a tease.,450,150,195,145,6,2,5,6,,,Vagina
+All,Zone,ActionDildoHigh,Activity,(She moans loudly.)|(She trembles madly.)|This is relentless!,450,150,195,145,9,0,9,10,,,Vagina
+All,Zone,ActionCaress,Activity,(She shivers in bliss.)|Such wonderful hands.|(She enjoys your caresses.),515,175,110,100,6,1,5,8,,"!MiniGameParameterNameIsSet(""Vagina"")",Vagina
+All,Zone,ActionSlap,Activity,(She jumps a little.)|(She takes a deep breath.)|Ow!|Hey!,515,175,110,100,2,4,6,3,,"!MiniGameParameterNameIsSet(""Vagina"")",Vagina
+All,Zone,ActionInsert,Activity,(She rocks her hips.)|(You trust in and out.)|Aaaooww!,515,175,110,100,3,2,7,5,,"!MiniGameParameterNameIsSet(""Vagina"")",Vagina
+All,Zone,InventoryCrop,Activity,It stings!|HEY!|(She tries to endure.)|(She clenches her fists.),515,175,110,100,3,5,8,4,,"!MiniGameParameterNameIsSet(""Vagina"")",Vagina
+All,Zone,InventoryStrapon,Activity,Stop it please.|It hurts quite bad.|(She doesn't enjoy.),550,70,100,105,4,4,12,-4,,,Anal
+All,Zone,ActionInsert,Activity,Not your best move.|This is not proper.|(She seems annoyed.),550,70,100,105,2,2,4,-2,,,Anal
+All,Zone,ActionTickle,Activity,(She seems bored.)|(She doesn't react.)|It shall not work.,540,375,475,250,0,0,0,-1,,,Thighs
+All,Zone,ActionCaress,Activity,You have soft hands.|(She moans silently.)|(She slowly relaxes.),540,375,475,250,2,1,-2,3,,,Thighs
+All,Zone,ActionSlap,Activity,(You slap her hard.)|(She jumps suprised.)|Do I deserve that?|Aooow!,540,375,475,250,2,2,4,2,,,Thighs
+All,Zone,InventoryCrop,Activity,(She whimpers softly.)|(Her eyes widen.)|It really hurts!|Ouch!,540,375,475,250,3,4,7,4,,,Thighs
+All,Zone,ActionTickle,Activity,This is not funny.|(She tries not to laugh.)|(She wiggles her feet.),145,720,220,230,0,3,4,1,,,Feet
+All,Zone,InventoryCrop,Activity,(She tries to avoid it.)|(She sighs and endure.)|It strings so bad.|No!,145,720,220,230,3,3,6,2,,,Feet
+All,Zone,InventoryPaddle,Activity,(She struggle to keep balance.)|(She jumps as you hit.)|Spank your naughty director.|Oh yes!,445,25,400,375,5,3,3,5,,,Butt
+All,Meter,Stress,#FFFF00,(She looks submissive.)|(She takes a deep breath.),51,59,50,,,,,,,,
+All,Meter,Stress,#80FF80,(She reached sub space.)|(She focuses on you.),59,67,100,,,,,,,,
+All,Meter,Stress,#FFFF00,(It looks a little intense.)|(She shivers rapidly.),67,75,50,,,,,,,,
+All,Meter,Stress,#00000000,(She looks stressed.)|(It's not going well.),75,85,-50,,,,,,,,
+All,Meter,Stress,#C000C0,(She seems frenzied.)|(She's panicking.),85,100,-100,,,,,,,,
+All,Meter,Arousal,#FFFF00,(She's about to climax.)|(She's losing control.),82,94,50,,,,,,,,
+All,Meter,Arousal,#80FF80,(She gets a powerful orgasm.)|(She squirts and wets the bed.),94,100,100,,,,,,,,
+All,Dialog,Position,,,1020,170,420,60,,,,,,,

@@ -1,0 +1,35 @@
+Teacher - Mouth - Panel Gag: 0, 0.005, -0.072, 0, 0, 0, 1.3, 1, 0.875
+Evelyn - Mouth - Panel Gag: 0, 0.004, -0.071, 0, 0, 0, 1.29, 1, 0.89
+Sidney - Mouth - Panel Gag: 0, 0.005, -0.071, 0, 0, 0, 1.2, 1, 0.87
+Mia - Mouth - Panel Gag: 0, 0.005, -0.072, 0, 0, 0, 1.3, 1, 0.95
+Teacher - Hat - ZTHC.II Headset (No Mic): 0, -0.16, 0, 0, 0, 0, 0.900, 0.950, 1.000 - Color 2 White
+Evelyn - Hat - ZTHC.II Headset (No Mic): 0.004, -0.16, 0, 0, 0, 0, 1.000, 1.000, 1.000 - Color 2 White
+Sidney - Hat - ZTHC.II Headset (No Mic): 0, -0.16, 0, 0, 0, 0, 0.900, 0.950, 1.000 - Color 2 White
+Teacher - Mouth - Ball Gag (chinstrap): 0, 0, -0.067, 0, 0, 0, 1, 0.875, 0.875
+Evelyn - Mouth - Ball Gag (chinstrap): 0, 0, -0.068, 0, 0, 0, 1.05, 0.875, 0.875
+Mia - Mouth - Ball Gag (chinstrap): 0, 0, -0.063, 0, 0, 0, 1.1, 0.875, 0.85
+Teacher - Glasses - Blindfold: 0, -0.014, 0.021, 0, 0, 0, 1.5, 1.5, 1.5
+Teacher - Neck - Collar: 0, 0, 0, 0, 0, 0, 0.55, 0.55, 0.55 - E8E8E8 - BBBBBB
+	+ Neck - Simple Nipple Ring: 0, -0.002, 0.042, 0, 0, 0, 1, 1, 1 - Default
+Teacher - Felicia Collar: 0.002, 0.002, 0.014, 350, 0, 0, 0.8, 0.8, 0.8 - E00000 - 800000
+Teacher - Hips - Chastity Belt Open: 0, -0.115, -0.025, 0, 0, 0, 1.15, 1.15, 1.15
+Evelyn - Hips - Chastity Belt Open: 0, -0.1, -0.02, 0, 0, 0, 1.2, 1.3, 1.12
+Samriddhi
+VibeDildo-Pink
+
+College Uniform
+
+#F6AE6FFF
+Uniform (Blazer)
+Short-Sleeved Shirt - #F4F4F4FF
+Neck Tie
+PSize 90
+PWidth 90
+
+Pleated Skirt B
+#1B2B5FFF
+Pattern 5
+PSize W 25
+75
+#808FB3FF
+

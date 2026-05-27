@@ -1,0 +1,12 @@
+SaveGame,"Enter a description, select the folder on the left and click on the slot to save."
+LoadGame,Select the folder on the left and click on the saved game on the right to load it.
+Empty,Empty slot
+Week,Week #
+Back,Back to menu
+Exit,Exit game
+Continue,Continue
+Description,Description:
+ScreenFirstBossMeeting,Boss Meeting
+ScreenDetention,Class
+ScreenBossOffice,Boss Office
+ScreenHomeBedroom,Home

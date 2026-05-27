@@ -1,0 +1,319 @@
+Entry,Intro1,,,,,,,Teacher,TeacherBusWhite
+Intro1,Intro2,,(You take a few different buses to reach Evelyn's house for the weekend.),,MiniGameParameterClear(),,,,
+Intro2,Intro3,,(She instructed you to wear the white top.  It will be your first visit to your Dominant home.),,,,,,
+Intro3,Intro4,,"(You travel far in the city suburbs, surrounded by forests and hills.)",,,,,,
+Intro4,Intro5,,"(You reach a rich neighborhood, with big houses and lots of empty space between them.)",,,,,,
+Intro5,Intro6,,,,,,,,TeacherWhiteEvelynHouseEntrance
+Intro6,Intro7,,"(You arrive at Evelyn house, as she comes outside to greet you.)",,,,,,
+Intro7,Intro8,,"It's a pleasure to see you on time, my submissive.  Punctuality is important.",,,,,Evelyn,
+Intro8,,,I hope you had a safe trip.,,,,,,
+Intro8,Intro9,"I did, Miss Evelyn.",It pleases me to hear that.,,,,-1,,
+Intro8,Intro9,You live way too far.,You shall not judge my lifestyle little one.,,,,1,,
+Intro8,Intro9,I almost got lost.,"I shall prepare a map for you, my clueless girl.",,,-1,,,
+Intro8,Intro9,Your house is splendid.,Well thank you my dear.,,,1,,,
+Intro9,Intro10,,I bought this house a few years ago and made many renovations.,,,,,,
+Intro10,Intro11,,It's secluded enough so no neighbors can see or hear us.  Follow me.,,,,,,
+Intro11,Intro12,,,,,,,,TeacherEvelynHouseVisit
+Intro12,Intro13,,(She takes you inside for a tour.  The place is big and well decorated.),,,,,,
+Intro13,Intro14,,"As my submissive, please know that you can call this house your home.",,,,,,
+Intro14,Intro15,,You can visit whenever you require but you shall follow my rules.,,,,,,
+Intro15,Intro16,,"Some doors are locked, it simply means you are not allowed.",,,,,,
+Intro16,Intro17,,,,,,,,EvelynHouseSitCouch
+Intro17,Intro18,,(She gets comfy on her couch and looks at you.),,,,,,
+Intro18,Intro19,,"As your Dominant, I shall require control of every aspect of your life.",,,,,,
+Intro19,Intro20,,"This weekend, I shall claim control over your body.  You shall surrender it to me.",,,,,,
+Intro20,Intro21,,"What you do, what you wear and what you eat shall be supervised by me.",,,,,,
+Intro21,,,"Now strip naked, my submissive.",,,,,,
+Intro21,Intro22,(Strip sensually for her.),"I did not ask you to entice me, simply strip.  (She pouts as you strip sensually.)",,,-1,,,
+Intro21,Intro22,Are you serious?,"Very serious, now obey.  (She frowns as you strip down.)",,,,1,,
+Intro21,Intro22,(Nod and strip swiftly.),(She watches you carefully as you strip rapidly.),,,,-1,,
+Intro21,Intro22,You want sex now?,Do not put words in my mouth and strip.  (She pouts as you strip down.),,,-1,1,,
+Intro21,Dismiss1,"Sorry, I cannot do that.  I should go.",I'm very disappointed but I respect your honesty.  (She points at the exit.),,,-4,2,,
+Intro22,Intro23,,,,,,,,TeacherNakedHouseInspect
+Intro23,Intro24,,"From now on, I shall choose the clothes you wear or don't wear.",,,,,,
+Intro24,Intro25,,"If it pleases me to have you naked, you shall strip without questions.",,,,,,
+Intro24,Intro25,InventoryDialogPhone,"(You try to reach your phone, but she grabs it first and takes a picture of you.)",,"PictureAdd(""Teacher"")",,,,
+Intro25,Intro26,,"I shall inspect this body often, to make sure you keep it healthy and eat well.",,,,,,
+Intro26,,,"Sit on the ground, on your knees.",,,,,,
+Intro26,Intro27,(Blush and get on your knees.),(You get on your knees silently.),,,1,-1,,
+Intro26,Intro27,"Miss, I'm nervous.","I shall try my best to remove your fears, my little one.  (You slowly kneel for her.)",,,-1,,,
+Intro26,Intro27,Yes Director.,We are not on college grounds here.  (She shakes her head as you kneel.),,,,,,
+Intro27,Intro28,,,,,,,,TeacherNakedKneelEvelynSitHouse
+Intro28,Intro29,,"When I require you on your knees, you shall kneel.",,,,,,
+Intro29,Intro30,,"You shall not question my orders or think about them, you simply comply.",,,,,,
+Intro30,Intro31,,This body is mine to do as I please.  My possession.,,,,,,
+Intro31,Intro32,,"To remind you that you don't own it anymore, you shall be restrained often.",,,,,,
+Intro32,,,Put your arms behind your back.,,,,,,
+Intro32,Intro33,(Put your hands behind.),(She produces a rope coil and grabs your arms.),,,,,,
+Intro32,Intro33,(Sigh and obey.),"(She sighs louder, produces a rope coil and grabs your arms.)",,,-1,,,
+Intro32,Intro33,"With pleasure, Miss Evelyn.","(She smiles, produces a rope coil and grabs your arms.)",,,1,,,
+Intro33,Intro34,,,,,,,,TeacherNakedKneelRopedHouse
+Intro34,Intro35,,"Hemp rope might seem primitive or insecure compared to cuffs, but it's far from the case.",,,,,,
+Intro35,Intro36,,"It has been used to restrain, dominate and train for millenniums, the techniques were honed with the ages.",,,,,,
+Intro36,Intro37,,"In this bondage, you follow the path of a plethora of submissives before you.",,,,,,
+Intro36,Intro37,InventoryDialogPhone,(She smirks and cannot resist taking a picture of you in your predicament.),,"PictureAdd(""Teacher"")",,,,TeacherNakedKneelRopedHouseZoom
+Intro37,Intro38,,"It's meant to be both comfortable and secure, so you can be kept like that for a long period.",,,,,,
+Intro38,Intro39,,"Being in ropes is a constant reminder that you do not control this body, I do.","InventoryAvailable(""Rope"")",,,,,TeacherNakedKneelRopedHouseHands
+Intro38,IntroGiveRope1,,"Being in ropes is a constant reminder that you do not control this body, I do.","!InventoryAvailable(""Rope"")",,,,,
+IntroGiveRope1,IntroGiveRope2,,"In fact, I shall give you some ropes.  To get accustomed to them.",,"InventoryAdd(""Rope"")",,,,
+IntroGiveRope2,Intro39,,Cherish them like they cherish you.  (She puts rope coils in your bag.),,,,,,
+Intro39,Intro40,,"My role shall be to protect, train and cherish it as my property.",,,,,,TeacherNakedKneelRopedHouseHands
+Intro40,Intro41,,"I shall control the quality and quantity of your meals.  Dessert is a privilege, not a right.",,,,,,
+Intro41,Intro42,,,,,,,,EvelynHouseSitCouchPOV
+Intro42,Intro43,,You shall exercise every day.  (She stops to think for a while.),,,,,,
+Intro43,,,"In fact, we shall try some jogging right now, in your situation.",,,,,,
+Intro43,Intro44,Jogging naked?,Answering with a question is not what I expect from you.,,,-1,,,
+Intro43,Intro44,(Blush and nod slowly.),(She smirks and stares at you.),,,,-1,,
+Intro43,Intro44,Oh!  Very well.,I'm certain we shall both enjoy the experience.,,,,,,
+Intro43,Intro44,It would be safer to untie me first.,Do not discuss my orders.  I shall ensure that everything is safe.,,,,1,,
+Intro43,Intro44,I'm curious to try that.,(She smiles at you.)  I'm certain we shall both enjoy the experience.,,,1,,,
+Intro44,Patience1,,Wait here until I return.  I shall get dressed for our exercise trip.,,,,,,
+Patience1,Patience2,,,,,,,Teacher,TeacherNakedKneelRopedHouseZoom
+Patience2,Patience3,,"(Evelyn leaves with your clothes, leaving you alone and bound in the big room.)",,,,,,
+Patience3,,,(What will you do?),,,,,,
+Patience3,Patience4,(Walk to stretch your legs.),"(You walk a little to be comfier and stretch your legs, waiting on Evelyn.)",,,,,,TeacherNakedStandRopedHouseAlone
+Patience3,Patience4,(Try to get loose.),"(You tug hard on the ropes, trying to get some slack or reach a knot, but you cannot do much.)",,,,,,TeacherNakedStandRopedHouseAlone
+Patience3,Patience4,(Wait on your knees.),(You try to get comfy on your knees and wait patiently for Evelyn.),,,,,,TeacherNakedKneelRopedHouseZoom
+Patience3,Patience4,(Touch and pleasure yourself.),(You try to touch yourself as best as you can but cannot achieve much pleasure.),,,,,,TeacherNakedKneelRopedHouseZoom
+Patience3,PatienceSecret1,(Search the room.),(You search the room clumsily and find a kinky picture frame of Evelyn between two books.),,,,,,TeacherNakedStandRopedHouseAlone
+Patience3,Patience4,(Go explore the house.),(You try to leave the room but struggle against the door and cannot open it.),,,,,,TeacherNakedStandRopedHouseDoor
+PatienceSecret1,PatienceSecret2,,,,,,,,EvelynNakedHiddenPicture
+PatienceSecret2,PatienceSecret3,,(It looks like a photo made for a lover.  You can't really keep it while bound.),,,,,,
+PatienceSecret2,PatienceSecret3,InventoryDialogPhone,(You clumsily pick up your phone to take a picture of the photo.),,"PictureAdd(""Evelyn"")",,,,
+PatienceSecret3,Patience4,,(You put the frame back between the books.),,,,,,TeacherNakedStandRopedHouseAlone
+Patience4,Patience5,,(Time goes by but she's not coming back.),,,,,,
+Patience5,,,(What will you do?),,,,,,
+Patience5,Patience6,(Walk to stretch your legs.),"(You walk a little to be comfier and stretch your legs, waiting on Evelyn.  The door opens abruptly.)",,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""1"")",,,,TeacherNakedStandRopedHouseAlone
+Patience5,Patience6,(Try to get loose.),"(You tug hard on the ropes, trying to get some slack or reach a knot, but you cannot do much.  The door opens abruptly.)",,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""2"")",,,,TeacherNakedStandRopedHouseAlone
+Patience5,Patience6,(Wait on your knees.),(You try to get comfy on your knees and wait patiently for Evelyn.  The door opens abruptly.),,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""0"")",,,,TeacherNakedKneelRopedHouseZoom
+Patience5,Patience6,(Touch and pleasure yourself.),(You try to touch yourself as best as you can but cannot achieve much pleasure.  The door opens abruptly.),,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""1"")",,,,TeacherNakedKneelRopedHouseZoom
+Patience5,Patience6,(Search the room.),(You walk around and search in the room as the door opens abruptly.),,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""2"")",,,,TeacherNakedStandRopedHouseAlone
+Patience5,Patience6,(Go explore the house.),(You try to leave the room but struggle against the door as it opens before you.),,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""3"")",,,,TeacherNakedStandRopedHouseDoor
+Patience6,Patience7,,,,,,,Evelyn,EvelynHouseReadyJogging
+Patience7,Patience8,,(Evelyn comes back suddenly with gym clothes and looks at you.),,,,,,
+Patience8,Patience9,,I'm pleased to see that someone was a good girl.  We shall go easy with today's jogging.,"MiniGameParameterIs(""Rhythm"", ""Difficulty"", ""0"")",,1,-1,,
+Patience8,Patience9,,It seems that someone requires movement.  Jogging shall allow you to move.,"MiniGameParameterIs(""Rhythm"", ""Difficulty"", ""1"")",,,,,
+Patience8,Patience9,,"It seems that someone got busy.  Your jogging shall be quite busy, little one.","MiniGameParameterIs(""Rhythm"", ""Difficulty"", ""2"")",,-1,,,
+Patience8,Patience9,,It seems that someone cannot follow the rules.  Be prepared for a very harsh jogging.,"MiniGameParameterIs(""Rhythm"", ""Difficulty"", ""3"")",,-2,1,,
+Patience9,Patience10,,"Follow me, submissive girl.",,,,,,
+Patience10,Patience11,,,,"MiniGameStart(""Rhythm"", ""TeacherNakedRopedEvelynJogging"")",,,,TeacherNakedRopedEvelynJoggingStop
+Patience11,Patience12,,"(After a long jogging session, she finally stops.)",,,,,,TeacherNakedRopedEvelynJoggingStop
+Patience12,Patience13,,"(She stares at you in disbelief.)  You are an amazing runner, congratulations.","MiniGameResultBetween(100, 100)",,3,1,,
+Patience12,Patience13,,"(She smiles at you.)  You did very well, my girl.  Continue your training.","MiniGameResultBetween(90, 99)",,2,,,
+Patience12,Patience13,,"(She looks at you.)  More training is required, but I see potential in you.","MiniGameResultBetween(75, 89)",,1,,,
+Patience12,Patience13,,"(She seems disappointed.)  You require lots more training, you are not in good shape.","MiniGameResultBetween(50, 74)",,-1,,,
+Patience12,Patience13,,"(She shakes her head from left to right.)  That was pathetic, lots of improvements are required if I keep you. ","MiniGameResultBetween(10, 49)",,-3,-1,,
+Patience12,Dismiss1,,Enough!  I shan't support blatant laziness.  (She releases you and points at your clothes.),"MiniGameResultBetween(0, 9)",,-6,,,
+Patience13,Shower1,,"Come inside, it's time for your shower.",,,,,,
+Shower1,Shower2,,,,,,,,TeacherNakedRopedShowerEvelynJogging
+Shower2,Shower3,,(She leads you to her shower room.),,,,,,
+Shower3,Shower4,,"This body of mine requires exercise, feeding and cleaning.",,,,,,
+Shower4,Shower5,,"You shall take a shower at least once every day, bound or not.",,,,,,
+Shower5,,,A poor hygiene shall get you punished.,,,,,,
+Shower5,Shower6,I can simply put perfume.,(She frowns.)  No!  You shall clean up every day.,,,-1,,,
+Shower5,Dismiss1,Fuck that!  You won't tell me how to shower.,Enough!  You have crossed a red line.  (She releases you and points at your clothes.),,,-6,3,,
+Shower5,Shower6,I will always smell good for you.,"(She smiles.)  This is amazing my submissive, it pleases me.",,,1,,,
+Shower5,Shower6,"Don't worry, I know about hygiene.","(She nods.)  Very well, we shall see if you are correct soon enough.",,,,1,,
+Shower5,Shower6,I'll adapt to this new reality.,There shall be lots of adaptations in the coming weeks.,,,,-1,,
+Shower6,Shower7,,,,,,,Evelyn-NoGlasses,TeacherNakedRopedShowerEvelynNaked
+Shower7,Shower8,,"(She strips down.  Squinting without her glasses, she starts to shower with you.)",,,,,,
+Shower8,Shower9,,"When restrained, I shall ensure the cleanliness of this body.",,,,,,
+Shower9,Shower10,,"When unrestrained, you shall clean it.  You might also wash me when I require it.",,,,,,
+Shower10,Shower11,,I shall explain how to wash me up properly when we get there.,,,,,,
+Shower11,Shower12,,"(She soaps you up and washes you tenderly, rubbing her breast on yours.)",DialogLoveGreater(19),,,,,TeacherNakedRopedShowerEvelynNakedTouch
+Shower11,Shower12,,(She soaps you up and washes you methodically.),DialogLoveLower(18),,,,,TeacherNakedRopedShowerEvelynNakedTouch
+Shower12,Shower13,,(The ropes are soaking wet but still feel tight and secure on your skin.),,,,,,
+Shower13,Shower14,,"(She washes every inch of your skin, including your labia.)",,,,,,
+Shower14,,,These genitals shall also be cleaned at least once a day.,,,,,,
+Shower14,Shower15,(Nod in agreement.),(She barely rubs your clitoris and smirks.),,,,,,
+Shower14,Shower15,"I'll have perfect hygiene for you, Miss.","(She caresses your clitoris.)  Of course you shall, my precious little one.",,,1,-1,,
+Shower14,Shower15,"I know, there's no need to tell me that.",(She pinches your clitoris.)  Rules shall be both repeated and enforced.  To ensure they are respected.,,,-1,1,,
+Shower15,Shower16,,Unpleasant or unfeminine odors shall not be accepted.,,,,,,
+Shower15,Shower16,InventoryDialogPhone,(She grabs your phone and takes a picture of you bound in the shower.),,"PictureAdd(""Teacher"")",,,,TeacherNakedRopedShowerZoom
+Shower16,Shower17,,(She finishes her work and smirks.),,,,,,TeacherNakedRopedShowerEvelynNaked
+Shower17,Bedroom0,,"Once dry, we shall continue our visit onward the bedroom.",,,,,,
+Bedroom0,Bedroom1,,,,,,,Evelyn,EvelynNightieBedroomStand
+Bedroom1,Bedroom2,,(She drags you to her bedroom and puts on an elegant nightie.),,,,,,
+Bedroom2,Bedroom3,,"Access to my bedroom is a privilege, not a right.",,,,,,
+Bedroom3,Bedroom4,,"If you've been a bad girl, you might be required to sleep in another room of my choice.",,,,,,TeacherNakedRopedBedroomEvelynNightieStand
+Bedroom4,,,Sleeping in my bed shall be a reward that you must earn.,,,,,,
+Bedroom4,Dismiss1,"Evelyn, this is too much.  I quit.",I'm very disappointed but I respect your honesty.  (She releases you and points at your clothes.),,,-4,2,,
+Bedroom4,Bedroom5,It will be a wonderful experience.,(She smiles widely.)  These words are music to my ears.,,,1,,,
+Bedroom4,Bedroom5,I'll strive hard for that reward.,(She pets your head.)  We shall see about that.,,,,-1,,
+Bedroom4,Bedroom5,A naughty reward.,(She slaps your butt playfully.)  For a naughty submissive.,,,,,,
+Bedroom4,Bedroom5,That's quite unfair.,"Your journey is about submission, not fairness.",,,-1,,,
+Bedroom4,Bedroom5,I don't sleep well on couches.,(She shakes her head from left to right.)  I've never said anything about a couch.,,,,1,,
+Bedroom5,Bedroom6,,,,,,,,TeacherNakedRopedBedroomEvelynNightieCaress
+Bedroom6,Bedroom7,,"(She caresses your pussy.)  Since I own this body, I shall also control your sexuality.",,,,,,
+Bedroom7,Bedroom8,,You shall not touch yourself or make love without my permission.,,,,,,
+Bedroom8,Bedroom9,,"Before any orgasm, you shall ask me for my authorization.",,,,,,
+Bedroom9,,,Unapproved orgasms shall get you punished.,,,,,,
+Bedroom9,Bedroom10,It's not that easy to control them.,I never said that your submissive journey would be easy.,,,,1,,
+Bedroom9,Bedroom10,(Shiver and nod.),"Do not be afraid, you shall do fine.",,,,-1,,
+Bedroom9,Bedroom10,I will try my best.,You shall not try.  You shall achieve.,,,,,,
+Bedroom10,Bedroom11,,I have many tools to control your orgasms.  We shall review them another day.,DialogLoveGreater(0),,,,,
+Bedroom10,Bedroom11,,(She thinks aloud and sighs.)  I shall be honest with you PlayerName.,DialogLoveLower(-1),,,,,
+Bedroom11,Sex1,,(She smiles at you.),DialogLoveGreater(20),,,,,EvelynNightieBedroomHappy
+Bedroom11,Bed1,,(She stares at you.),"DialogLoveBetween(10, 19)",,,,,EvelynNightieBedroomIdle
+Bedroom11,Bound1,,(She gives you a stern look.),"DialogLoveBetween(0, 9)",,,,,EvelynNightieBedroomBored
+Bedroom11,Dismiss1,,This isn't working for me.  (She releases you and points at your clothes.),DialogLoveLower(-1),,,,,EvelynNightieBedroomBored
+Sex1,Sex2,,"My wonderful submissive, since you are exceeding my expectations, I have a gift for you.",,,,,,
+Sex2,Sex3,,"This weekend, you shall enjoy your first controlled orgasm.",,,,,,
+Sex3,Sex4,,,,,,,,TeacherNakedRopedEvelynNightieBedroomSitBed
+Sex4,Sex5,,(She pulls on your ropes and drags you along in bed.),,,,,,
+Sex5,Sex6,,"Remember that I own this body, and each climax is a favor I grant.",,,,,,
+Sex6,,,Am I not generous?,,,,,,
+Sex6,Bed7,Oh yeah!  Let's fuck!,(She shakes her head no.)  This foul language made me change my mind.  We shall skip intercourse.,,,-2,,,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+Sex6,Sex7,Making love sounds wonderful.,It shall be a pleasant experience for us both.,,,1,,,
+Sex6,Bound2,That's not generous at all.,"(She steps up angrily.)  This unpleasant comment made me change my mind, little one.",,,-3,1,,EvelynNightieBedroomBored
+Sex6,Sex7,"You're very generous, Miss Evelyn.",Remember that my generosity is motivated by your behavior.,,,,-1,,
+Sex6,Dismiss1,"I give up, all of this is insane.",Enough!  You have crossed a red line.  (She releases you and points at your clothes.),,,-6,3,,EvelynNightieBedroomBored
+Sex6,Sex7,(Nod slowly.),Remember that my generosity is motivated by your behavior.,,,,,,
+Sex7,Sex8,,Unauthorized orgasms shall get you punished.  Patience is a virtue.,,,,,,
+Sex8,Sex9,,,,,,,Evelyn-NoGlasses,TeacherNakedRopedEvelynNakedBedroomBed69Intro
+Sex9,Sex10,,"(She strips and pushes you down on the bed, facing your thighs.  You can smell her arousal.)",,,,,,
+Sex10,Sex11,,Orgasms must be approved and earned.  Work shall be required for them.,,,,,,
+Sex11,,,"Get busy, my submissive.",,,,,,
+Sex11,Sex12,(Lick her juices slowly.),(You eagerly get closer to lick her juices.  She also plunges in.),,,,-1,,
+Sex11,Sex12,(Nuzzle her clitoris.),(She shivers as you get closer to nuzzle her clitoris.  She also plunges in.),,,1,,,
+Sex11,Bed7,(Enjoy yourself and let her work.),"(She stops, dresses and sits you back up.)  Your lack of motivation made you lose your orgasm.",,,-2,,Evelyn,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+Sex11,Sex12,(Pushes your tongue deep.),(You quickly get busy quickly and push your tongue deep inside.  She follows your moves.),,,,1,,
+Sex11,Bound2,(Kick her away.),"(She steps up and dresses angrily.)  This rude kick made you lose your bed access, little one.",,,-4,1,Evelyn,EvelynNightieBedroomBored
+Sex12,Sex13,,,,,,,,TeacherNakedRopedEvelynNakedBedroomBed69Wrap
+Sex13,Sex14,,(She wraps her legs around you tightly.  Pushing you closer and making it hard to breathe.),,,,,,
+Sex14,Sex15,,"Ah!  (She starts to sweat and moan.)  Not yet, little one.  ",,,,,,
+Sex15,,,Pursue your endeavor.,,,,,,
+Sex15,Sex16,(Continue your work.),"(You both continue your naughty job, while moaning in unison.)",,,,,,
+Sex15,Bed7,(Take a break.),"(She stops, dresses and sits you back up.)  Your lack of motivation made you lose your orgasm.",,,-3,,Evelyn,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+Sex15,SexEarly1,(Get an orgasm.),(She wraps her legs very tight.  You almost suffocate as you get a powerful orgasm.),,,-1,1,,
+Sex16,Sex17,,"Your every move, your sexuality, even your breathing is mine.",,,,,,
+Sex17,Sex18,,"(She squeezes your head harder, making you gasp for air.)",,,,,,
+Sex18,,,"Not now, continue.",,,,,,
+Sex18,Sex19,(Continue your work.),"(Her body starts to tremble rapidly, you can feel she's about to climax.)",,,,,,
+Sex18,Bed7,(Take a break.),"(She stops, dresses and sits you back up.)  Your lack of motivation made you lose your orgasm.",,,-3,,Evelyn,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+Sex18,SexEarly1,(Get an orgasm.),(She wraps her legs very tight.  You almost suffocate as you get a powerful orgasm.),,,-1,1,,
+Sex19,Sex19,,"(She moans and rocks her legs madly, shaking your squeezed head.)",,,,,,
+Sex19,,,Now!,,,,,,
+Sex19,SexMiss1,(Continue your work.),(You continue to lick eagerly as she stops working and gets a silent but powerful orgasm.),,,-1,1,,TeacherNakedRopedEvelynNakedBedroomBed69Orgasm
+Sex19,Bed7,(Take a break.),"(She stops, dresses and angrily sits you back up.)  You certainly picked the worst time to get lazy.",,,-4,,Evelyn,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+Sex19,Sex20,(Get an orgasm.),(You both tremble and share a long and powerful orgasm.),,,1,-1,,TeacherNakedRopedEvelynNakedBedroomBed69Orgasm
+Sex20,Sex21,,,,,,,,
+Sex21,Sex22,,My little one.  My wonderful submissive.  That was amazing.,,,1,,,
+Sex22,Sex23,,Our Dominant and submissive journey is only beginning and its already pure bliss.,,,1,,,
+Sex23,Sex24,,I'm thrilled about getting full ownership.  I do not regret my proposal at the museum.,,,,,,TeacherNakedRopedEvelynNakedBedroomBed69Intro
+Sex24,Bed7,,"To show my appreciation, you shall sleep bound in my bed tonight.",,,,,,
+SexMiss1,SexMiss2,,,,,,,,
+SexMiss2,SexMiss3,,"(She takes rapid breath, recovering slowly from her orgasm.)",,,,,,
+SexMiss3,SexMiss4,,"You missed your opportunity, little one.  It seems that I shall have the sole orgasm.",,,,,,TeacherNakedRopedEvelynNakedBedroomBed69Intro
+SexMiss4,SexMiss5,,"Do not be sad, perfect timing is hard to achieve.",,,,,,
+SexMiss5,SexMiss6,,"You shall have other opportunities to climax when ordered, for a more fulfilling experience.",,,,,,
+SexMiss6,Bed7,,We shall sleep together tonight but more ropes are required first.,,,,,,
+SexEarly1,SexEarly2,,,,,,,,TeacherNakedRopedEvelynNakedBedroomBed69EarlyOrgasm
+SexEarly2,SexEarly3,,(You tremble from a long orgasm as your body struggles for air.),,,,,,
+SexEarly3,SexEarly4,,(She squeezes your head harshly for a few more seconds before letting you go.),,,,,,
+SexEarly4,SexEarly5,,,,,,,Evelyn,TeacherNakedRopedEvelynNightieBedroomSitBedAngry
+SexEarly5,SexEarly6,,"Submissive, I do not wish to hear your excuses, you failed.",,,-1,,,
+SexEarly6,SexEarly7,,It means that you require more training and discipline.,,,,,,
+SexEarly7,Bound3,,"As punishment, you lost access to my bed.  You shall sleep restrained on the ground.",,,,,,
+Bed1,Bed2,,"My submissive, since you are meeting some of my expectations, I shall reward you.",,,,,,
+Bed2,Bed3,,"This weekend, you shall have the privilege of sleeping in my bed.",,,,,,
+Bed3,Bed4,,"This favor is only meant for good girls.  If you fail to please me, the floor shall await you.",,,,,,
+Bed4,,,Am I not generous?,,,,,,
+Bed4,Bound2,That's not generous at all.,"(She ponders and then smirks.)  This unpleasant comment made me change my mind, little one.",,,-2,1,,EvelynNightieBedroomBored
+Bed4,Bed5,Sleeping together sounds wonderful.,It shall be a pleasant experience for us both.,,,1,,,EvelynNightieBedroomHappy
+Bed4,Bound2,I'm not sleeping on the floor anyway.,"(She frowns and then smirks.)  This cocky comment made me change my mind, little one.",,,-2,1,,EvelynNightieBedroomBored
+Bed4,Bed5,"You're very generous, Miss Evelyn.",Remember that my generosity is motivated by your behavior.,,,,-1,,
+Bed4,Dismiss1,"I give up, this is fucking crazy.",Enough!  You have crossed a red line.  (She releases you and points at your clothes.),,,-6,3,,EvelynNightieBedroomBored
+Bed4,Bed5,(Nod slowly.),Remember that my generosity is motivated by your behavior.,,,,,,
+Bed5,Bed6,,,,,,,,TeacherNakedRopedEvelynNightieBedroomSitBed
+Bed6,Bed7,,(She pulls on your ropes and drags you along in bed.),,,,,,
+Bed7,Bed8A,,Sleeping in bondage is a positive experience for most submissives.,,,,,,
+Bed8A,Bed8B,,,,,,,Evelyn,TeacherNakedRopedBedroomLayBed
+Bed8B,Bed8C,,(She helps you to get comfortable in her bed.),,,,,,
+Bed8B,Bed8C,InventoryDialogPhone,(She notices your phone and smirks while capturing a naughty image of you.),,"PictureAdd(""Teacher"")",,,,
+Bed8C,Bed9,,The restraints shall slowly become a blanket.  Keeping you warm and ensuring a sound sleep.,,,,,,
+Bed9,Bed10,,"(She thinks aloud and gets more ropes.)  In fact, let's be certain that you don't get cold.",,,,,,
+Bed10,Bed11,,,,,,,,TeacherNakedDoubleRopedBedroomLayBed
+Bed11,Bed12,,"(She tightens many new ropes around your legs, until you can barely move.)",,,,,,
+Bed11,Bed12,InventoryDialogPhone,(She uses your phone to immortalize your strict rope bondage.),,"PictureAdd(""Teacher"")",,,,
+Bed12,Bed13,,"Sleeping restrained is an acquiring taste.  If you cannot do it, meditate on serving me better.",,,,,,
+Bed13,,,"(She stares at the gag.)  Little one, do you snore?",,,,,,
+Bed13,BedGag1,Why do you ask?,Answering with a question is not what I expect from you.  (She grabs the gag.),,,,,,
+Bed13,Bed14,I don't snore.,I shall trust you tonight.  Do not disappoint me.,,,,,,
+Bed13,BedGag1,I do snore.,"Your honesty is appreciated, but a gag is still required.",,,1,,,
+Bed13,Bed14,(Shake your head no.),You can sleep ungagged then.  Do not disappoint me.,,,,1,,
+Bed13,BedGag1,(Open your mouth wide.),(She smirks and grabs the gag.),,,,-1,,
+Bed13,BedGag1,You can't gag me!,I can and I shall.  (She grabs the gag.),,,,1,,
+BedGag1,BedGag2,,,,,,,,TeacherNakedDoubleRopedGaggedEvelynNightieBedroomSleep
+BedGag2,BedGag3,,(She straps a small ballgag around your head and lays with you.),,,,,,
+BedGag3,Bed16,,"To pursue your training, I require a good and silent night of sleep.",,,,,,
+Bed14,Bed15,,,,,,,,TeacherNakedDoubleRopedEvelynNightieBedroomSleep
+Bed15,Bed16,,(She smiles and cuddles in bed with you.),,,,,,
+Bed16,Bed17,,"(You will sleep together, while you are bound in very secure ropes.)",,,,,None,
+Bed17,Bed18,,,,,,,,
+Bed18,Bed19,,(Morning finally comes and she wakes up.  You did not rest that much.),,,,,,
+Bed19,End1,,"(She slides her hands all over you, slowly undoing the knots to release you.)",,,,,,
+Bound1,Bound2,,"My submissive, I shall be harsh, you are not yet meeting my expectations.",,,,,,
+Bound2,,,You are not allowed in my bed tonight.  You shall sleep bound on the floor.,,,,,,
+Bound2,Bound3,(Sigh and pout.),"This poor attitude shall not get you in my bed, little one.",,,-1,,,
+Bound2,Bound3,This is very strict.,Learn to please me and your journey shall become more pleasant.,,,,1,,
+Bound2,Dismiss1,This is bullshit!,Enough!  You have crossed a red line.  (She releases you and points at your clothes.),,,-6,3,,
+Bound2,Bound3,"Yes Miss, I'll sleep on the floor.",I'm certain you shall learn from it.,,,,-1,,EvelynNightieBedroomIdle
+Bound2,Bound3,I'll be comfy thinking of you.,These words are pleasant to me.  You might find your way to my bed soon.,,,1,,,EvelynNightieBedroomHappy
+Bound3,Bound4,,Sleeping in bondage shall be a positive experience for you.,,,,,,
+Bound4,Bound5,,(She grabs more ropes and comes closer.),,,,,,
+Bound5,Bound6,,,,,,,,TeacherNakedHogtiedBedroomFloor
+Bound6,Bound7,,(She puts you in a strict hogtie.),,,,,,
+Bound6,Bound7,InventoryDialogPhone,(She notices your phone and immortalizes your hogtie.),,"PictureAdd(""Teacher"")",,,,
+Bound7,Bound8,,"You might not rest much, but you shall meditate on how to serve me better.",,,,,,
+Bound8,,,"(She stares at a ballgag on a shelve.)  Little one, do you snore?",,,,,,
+Bound8,BoundGag1,Why do you ask?,Answering with a question is not what I expect from you.  (She grabs the gag.),,,,,,
+Bound8,Bound9,I don't snore.,I shall trust you tonight.  Do not disappoint me.,,,,,,
+Bound8,BoundGag1,I do snore.,"Your honesty is appreciated, but a gag is still required.",,,1,,,
+Bound8,Bound9,(Shake your head no.),You can sleep ungagged then.  Do not disappoint me.,,,,1,,
+Bound8,BoundGag1,(Open your mouth wide.),(She smirks and grabs the gag.),,,,-1,,
+Bound8,BoundGag1,You can't gag me!,I can and I shall.  (She grabs the gag.),,,,1,,
+BoundGag1,BoundGag2,,,,,,,,TeacherNakedHogtiedGaggedBedroomFloor
+BoundGag2,BoundGag3,,(She straps a small ballgag around your head.),,,,,,
+BoundGag2,BoundGag3,InventoryDialogPhone,(She uses your phone and snaps a very kinky picture of you.),,"PictureAdd(""Teacher"")",,,,
+BoundGag3,Bound9,,"To pursue your training, I require a good and silent night of sleep.",,,,,,
+Bound9,,,"(She gets to bed, leaving you bound on the floor for the night.)",,,,,Teacher,
+Bound9,Bound10,(Try hard to get free.),(You struggle as hard as you can but cannot reach any knots.),,,,,,
+Bound9,Bound10,(Struggle playfully.),"(You struggle playfully in the ropes, not really trying to escape.)",,,,,,
+Bound9,Bound10,(Accept your fate.),(You take a deep breath and slowly accept the ropes.),,,,,,
+Bound10,Bound11,,(It will be tough to sleep like that.  You won't be able to rest much.),,,,,,
+Bound11,Bound12,,,,,,,,
+Bound12,Bound13,,"(Morning finally comes, you did not sleep much.)",,,,,,
+Bound13,End1,,(She comes back to untie you.),,,,,,
+End1,End2,,,,,,,Evelyn,TeacherNakedEvelynNightieBedroomWakeUp
+End2,End3,,"Rise and shine my young submissive, you shall catch your bus soon.",,,,,,
+End3,End4,,This weekend was an introduction to submission.  Your journey is only starting.,,,,,,
+End4,End5,,"Under my protective wing, you shall blossom and become what you truly aim for.",,,,,,
+End5,End6,,I shall ask you the same question as in the museum.  Answer with your heart.,,,,,,
+End6,,,"Young lady, shall you submit to me?",,,,,,
+End6,End7,"Yes, Miss Evelyn.  (Kneel for her.)",(She smiles widely as you get on your knees.),,,2,-1,,
+End6,Dismiss1,"No, this is too intense for me.",I'm very disappointed but I respect your honesty.  (She points at your clothes.),,,-4,2,,
+End7,End8,,,,,,,,TeacherNakedEvelynNightieHouseKneel
+End8,End9,,"For the second time, you've embraced your submission toward me.",,,,,,
+End9,End10,,"Using your free will, you've surrendered control of this body that was once yours.",,,,,,
+End10,End11,,"Be warned, my submissive, the next time I ask you this question shall be the last.",,,,,,
+End11,End12,,"If you accept once again, you shall never make another choice in your life.  You shall be fully mine.",,,,,,
+End12,End13,,"Keep that thought in mind and get dressed.  Your bus shall not wait, young submissive.",,,,,,
+End13,End14,,,,,,,,TeacherWhiteEvelynHouseEntrance
+End14,End15,,(You dress back up and she escorts you out.),,,,,,
+End15,End16,,We shall meet again next weekend to pursue this journey together.,,,,,,
+End16,End17,,"Until then, stay professional on college grounds.  Our pupils are our priority.",,,,,,
+End17,End18,,Now hurry up or you shall miss the public transport.,,,,,,
+End18,End19,,,,,,,Teacher,TeacherBusWhite
+End19,End20,,(You think about your growing submission as you head back to your apartment.),,,,,,
+End20,Outro,,(Another week at the college will begin soon.),,,,,,
+Dismiss1,Dismiss2,,,,,,,,TeacherWhiteEvelynHouseEntrance
+Dismiss2,Dismiss3,,(She takes a deep breath and escorts you out.),,,,,,
+Dismiss3,Dismiss4,,"PlayerName, our Dominant and submissive journey cannot go any further.",,"LogDelete(""Evelyn"", ""Submit"")",,,,
+Dismiss4,Dismiss5,,"I wish you the best of luck, but we are not meant for each other.",,"LogAdd(""Evelyn"", ""Breakup"")",,,,
+Dismiss5,Dismiss6,,We shall forget it ever happened and stay professional on college grounds.,,,,,,
+Dismiss6,Dismiss7,,Now hurry up or you shall miss the public transport.,,,,,,
+Dismiss7,Dismiss8,,,,,,,Teacher,TeacherBusWhite
+Dismiss8,Dismiss9,,"(Having been dismissed by Evelyn, you head back to your apartment.)",,,,,,
+Dismiss9,Outro,,(Another week at the college will begin soon.),,,,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

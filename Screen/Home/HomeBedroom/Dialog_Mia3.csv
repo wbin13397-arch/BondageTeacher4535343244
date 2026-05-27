@@ -1,0 +1,105 @@
+Entry,Intro1,,,,,,,Teacher,TeacherEnter
+Intro1,Intro2,,(You come back home to your girlfriend.  Your second week of work is done.),,,,,,
+Intro2,Intro3,,I'm back!,,,,,,
+Intro3,Intro4,,(Mia gets up from bed.),,,,,Mia,
+Intro4,Intro5,,Welcome back hun.  It's great to see you.,DialogLoveGreater(16),,,,,MiaStandHappy
+Intro4,Intro5,,(She waves hello.)  Hi hun.,"DialogLoveBetween(6, 15)",,,,,MiaStandIdle
+Intro4,Intro5,,Hey there.,DialogLoveLower(5),,,,,MiaStandBored
+Intro5,Visit1,,I talked with mom today.  She's inviting us over for the weekend.,DialogLoveGreater(16),,,,,
+Intro5,Alone1,,I talked with mom today.  She wants me to come over for the weekend.,DialogLoveLower(15),,,,,
+Visit1,,,It would be an honor if you would accompany me.,DialogDominationGreater(7),,,,,
+Visit1,,,Would you like to see my parents?,"DialogDominationBetween(-6, 6)",,,,,
+Visit1,,,Pack your clothes!  We are going to see them.,DialogDominationLower(-7),,,,,
+Visit1,Visit2,That sounds fun!,Wow!  That's the spirit!,,,2,-1,,
+Visit1,Visit2,"Fine, let's do a short trip.","Alright, a short trip then.",DialogDominationGreater(-6),,1,1,,
+Visit1,Visit2,"Fine, let's do a short trip.",(She shakes her head from left to right.)  I will decide the length of the trip.,DialogDominationLower(-7),,1,1,,MiaStandProud
+Visit1,Alone2,I have better stuff to do.,"(She gets annoyed.)  Fine, do what you want.  I'll go alone.",DialogDominationGreater(-6),,-2,1,,MiaStandBored
+Visit1,Visit2,I have better stuff to do.,"(She shakes her head from left to right.)  Nonsense, you are coming with me.",DialogDominationLower(-7),,-2,1,,MiaStandProud
+Visit1,Alone2,"Sorry hun, I have work to do.","(She gets annoyed.)  Fine, do your work.  I'll go alone.",DialogDominationGreater(-6),,-1,-1,,MiaStandBored
+Visit1,Visit2,"Sorry hun, I have work to do.","(She shakes her head from left to right.)  Nonsense, you are coming with me.",DialogDominationLower(-7),,-1,-1,,MiaStandProud
+Visit1,Stay1,"No girl, we are both staying here.",(She bows her head.)  Alright hun.,DialogDominationGreater(7),,-2,1,,MiaStandShy
+Visit2,Visit3,,(You both pack your bags for the weekend.),,,,,,
+Visit3,Visit4,,,,,,,,TeacherMiaBus
+Visit4,Visit5,,(You take the bus and head to meet Mia's parents.),,,,,,
+Visit5,Visit6,,(Mia seems nervous on the bus ride.),,,,,,
+Visit6,Visit7,,,,"LogAdd(""Mia"", ""VisitMiaParents"")",,,,TeacherMiaParentsHouse
+Visit7,Visit8,,(Her parents seem disappointed by their daughter.),,,,,,
+Visit8,Visit9,,"(They are cold with her and with you, it's not pleasant.)",,,,,,
+Visit9,Visit10,,(It's a long and uneventful weekend.),DialogLoveLower(19),,,,,
+Visit9,VisitSex1,,"(As soon as possible, you call it a night and go to sleep.)",DialogLoveGreater(20),,,,,
+VisitSex1,VisitSex2,,,,,,,,TeacherMiaParentsHouseSex
+VisitSex2,VisitSex3,,"(As two kinky lovebirds, you dare to have sex in the guest bed.)",,,,,,
+VisitSex3,VisitSex4,,"(It's not easy to make love without being caught, but it's part of the thrill.)",,,1,,,
+VisitSex4,Visit10,,(The hidden orgasms certainly help to go through this long weekend.),,,,,,
+VisitSex4,VisitSelfie,InventoryDialogPhone,,,,,,,TeacherMiaParentsHouseNudeSelfie
+VisitSelfie,Visit10,,"(Before leaving, you snap a naughty selfie of you two and giggle.)",,PictureAdd(),,,,
+Visit10,Visit11,,,,,,,,TeacherMiaBus
+Visit11,Visit12,,(You take the same bus back .),,,,,,
+Visit12,Visit13,,(You finally get back to your apartment.),,,,,,
+Visit13,Visit14,,,,,,,,TeacherMiaBedSleepSpoon
+Visit14,Outro,,(You quickly fall asleep after a long and tiring weekend.),,,,,,
+Alone1,,,I hope you don't mind spending the weekend alone.,DialogDominationGreater(7),,,,,
+Alone1,,,I will be back in a few days.,"DialogDominationBetween(-6, 6)",,,,,
+Alone1,,,You can clean the place while I'm gone.,DialogDominationLower(-7),,,,,
+Alone1,Alone2,Please enjoy your trip!,Wow!  I will!  Thanks hun.,,,2,-1,,MiaStandHappy
+Alone1,Alone2,Come back soon Mia.,"Of course hun, very soon.",,,1,1,,MiaStandProud
+Alone1,Alone2,Another plan to avoid doing job interviews?,I don't like your attitude hun.,,,-1,1,,MiaStandBored
+Alone1,Alone2,(Sob.)  I'll be lonesome.,"Don't cry, I will be back soon.",,,-1,-1,,MiaStandProud
+Alone1,Alone2,Go!  I'm better alone.,Fine!  Stay alone then!,,,-2,1,,MiaStandBored
+Alone1,Breakup1,"If you go, never come back.  (Breakup with her.)",Fuck you PlayerName.  I'm not coming back then.,DialogLoveLower(9),,-6,,,MiaStandBored
+Alone1,Stay1,"No girl, you will stay here with me.","(She nods slowly.)  Wow!  Very well hun, I will cancel my visit.",DialogDominationGreater(7),,-2,1,,MiaStandShy
+Alone1,Visit2,You're not going alone girl.  I'm coming with you.,"(She gulps and nods.)  Wow!  Yes hun, let's go together then.",DialogDominationGreater(7),,2,1,,MiaStandShy
+Breakup1,Breakup2,,We are through!  Enjoy your boring career and life.,,,,,,
+Breakup2,Breakup3,,(Mia packs her stuff and leaves for good.  You are now single.),,"LogAdd(""Mia"", ""Breakup"")",,,Teacher,TeacherStandAlone
+Breakup3,Breakup4,,(You will spend the weekend alone.),,,,,,
+Breakup4,,,(How will you sleep?),,,,,,
+Breakup4,Breakup5,(Sleep in your teacher outfit.),,,,,,,TeacherSleepAloneOutfit
+Breakup4,Breakup5,(Wear your pajamas.),,,,,,,TeacherSleepAlonePajamas
+Breakup4,Breakup5,(Sleep fully naked.),,,,,,,TeacherSleepAloneNaked
+Breakup5,Outro,,(You flip the lights off and close your eyes.  Another work week will begin soon.),,,,,,
+Alone2,Alone3,,(She packs her bags and heads to her parents' house for the weekend.),,,,,,
+Alone3,Alone4,,,,,,,Teacher,TeacherStandAlone
+Alone4,Alone5,,(You will spend the weekend alone.),,,,,,
+Alone5,Alone6,,(It's a good time to relax and review your work.),,,,,,
+Alone6,,,(How will you sleep?),,,,,,
+Alone6,Alone7,(Sleep in your teacher outfit.),,,,,,,TeacherSleepAloneOutfit
+Alone6,Alone7,(Wear your pajamas.),,,,,,,TeacherSleepAlonePajamas
+Alone6,AloneNaked,(Sleep fully naked.),,,,,,,TeacherSleepAloneNaked
+Alone7,Outro,,(You flip the lights off and close your eyes.  Mia should be back before you go back to work.),,,,,,
+AloneNaked,,,(You lie in bed alone naked.),,,,,,
+AloneNaked,Outro,(Turn off the lights.),(You flip the lights off and close your eyes.  Mia should be back before you go back to work.),,,,,,
+AloneNaked,AloneNakedMasturbate,(Masturbate.),,,,,,,TeacherSleepAloneNakedMasturbate
+AloneNaked,AloneNakedCuffed1,InventoryDialogHandcuffs,,,,,,,TeacherSleepAloneNakedCuffed
+AloneNakedMasturbate,Alone7,,"(You masturbate and orgasm alone in bed, your thoughts wander with sexy scenarios.)",,,,,,
+AloneNakedMasturbate,AloneNakedCuffed1,InventoryDialogHandcuffs,,,,,,,TeacherSleepAloneNakedCuffed
+AloneNakedCuffed1,AloneNakedCuffed2,,(You cuff yourself in the back and lie in bed.),,,,,,
+AloneNakedCuffed2,AloneNakedCuffed3,,(You will spend the weekend restrained.),,,,,,
+AloneNakedCuffed3,AloneNakedCuffed4,,,,"LogAdd(""Mia"", ""TeacherSleepCuffed"")",,,Mia,TeacherNakedCuffedCuddle
+AloneNakedCuffed4,AloneNakedCuffed5,,(Mia finally comes back and gets to bed with you.),,,,-3,,
+AloneNakedCuffed5,Outro,,"(She flips the lights off, leaving you bound one last night.)",,,,,,
+Stay1,Stay2,,(She pouts for a few minutes and calls her mom to cancel the trip.),,,,,,
+Stay2,,,What are your plans for the weekend then?,,,,,,
+Stay2,Stay3,We will relax together.,It sounds pretty good!,,,1,,,MiaStandHappy
+Stay2,Stay3,I will cook for you.,Wow!  You're the best!,,,1,-1,,MiaStandProud
+Stay2,Stay3,You will search for a job.,"(She sighs.)  Fine, I'll do that.",,,-1,1,,MiaStandBored
+Stay2,StayBound1,You will get naked in cuffs again.,"(She gulps and nods.)  Fine, I will get naked hun.","LogQuery(""Mia"", ""MiaNakedCuffed"")",,,1,,MiaStandShy
+StayBound1,StayBound2,,,,,,,,TeacherMiaNakedCuffedBed
+StayBound2,StayBound3,,(She shivers as you cuff her hands behind her back.),,,,,,
+StayBound3,,,What kinky plan do you have hun?,,,,,,
+StayBound3,StayBound4,I'll work to please you tonight.,,,"LogAdd(""Mia"", ""MiaCuffedOralReceive"")",,-2,,TeacherMiaCuffedOralReceiveOrgasm
+StayBound3,StayBound4,Get on your knees.  You will please me.,,,"LogAdd(""Mia"", ""MiaCuffedOralGive"")",,1,,TeacherMiaCuffedOralGiveWork
+StayBound3,Stay5,I simply want to sleep with you like that.,,,"LogAdd(""Mia"", ""MiaSleepCuffed"")",,,,TeacherMiaNakedCuffedSleep
+StayBound3,StayBound4,InventoryDialogStrapon,,,"LogAdd(""Mia"", ""TeacherStrapOnSex"")",,2,,TeacherStrapOnMiaCuffedSex
+StayBound3,FindStrapOn,SecretDialog,,"!InventoryAvailable(""Strapon"")",,200,600,300,200
+FindStrapOn,,,(You find your old strap-on dildo squeezed between the mattress and the wall.),,,,,,HiddenStrapon
+FindStrapOn,StayBound4,(Pick it up and use it.),,,"InventoryAdd(""Strapon"")",,2,,TeacherStrapOnMiaCuffedSex
+FindStrapOn,StayBound3,(Leave it there.),(You leave the device under the bed and return to Mia.),,,,,,TeacherMiaNakedCuffedBed
+StayBound4,StayBound5,,(You spend a spicy weekend with Mia.  With many orgasms on the program.),,,2,,,
+StayBound5,,,(You can choose how she will sleep.),,,,,,
+StayBound5,Stay5,(Unlock her so she can sleep in her pajamas.),,,,,-1,,TeacherMiaBedSleepSpoon
+StayBound5,Stay5,(Make her sleep in cuffs.),,,"LogAdd(""Mia"", ""MiaSleepCuffed"")",,1,,TeacherMiaNakedCuffedSleep
+Stay3,Stay4,,(You spend a quiet weekend with Mia.  Nothing special happens.),,,,,,
+Stay4,Stay5,,,,,,,,TeacherMiaBedSleepSpoon
+Stay5,Stay6,,(You both lie in bed before falling asleep.),,,,,,
+Stay6,Outro,,(You flip the lights off and cuddle with her before drifting asleep.),,,,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

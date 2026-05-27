@@ -1,0 +1,39 @@
+Stage,Type,Option,Name,Dialog,ZoneX,ZoneY,ZoneWidth,ZoneHeight,BlushFactor,BlinkTimer,StressFactor,ArousalFactor,NextStage,Condition,Comments
+Intro,Menu,InventoryHandcuffs,Handcuffs,,,,,,,,,,,,
+Intro,Menu,InventoryPanelGag,Panel Gag,,,,,,,,,,,,
+Intro,Menu,InventoryHeadset,Headset,,,,,,,,,,,,
+Intro,Menu,Remove,Remove,,,,,,,,,,,,
+Intro,Menu,ActionCaress,Caress,,,,,,,,,,,,
+Intro,Menu,ActionSlap,Slap,,,,,,,,,,,,
+Intro,Menu,ActionInsert,Insert,,,,,,,,,,,,
+Intro,Menu,Exit,End Session,,,,,,,,,,,,
+Intro,Zone,InventoryHandcuffs,Wrist,(You cuff your hands.)|(You handcuff yourself.),875,645,140,125,2,0,1,1.2,Handcuffs,,
+Intro,Zone,InventoryHandcuffs,Wrist,(You cuff your hands.)|(You handcuff yourself.),550,460,120,120,2,0,1,1.2,Handcuffs,,
+Intro,Zone,InventoryPanelGag,Mouth,(You gag yourself.)|(You lock the panel gag.),700,243,155,85,3,1,1,1.2,,,
+Intro,Zone,InventoryHeadset,Head,(The music isn't great.)|(You wear the headset.),640,25,280,250,1,0,1,0.75,,,
+Intro,Zone,Blush,Level1,,700,205,165,45,,,,,,,
+Intro,Zone,Blush,Level2,,700,205,165,45,,,,,,,
+Intro,Zone,Blush,Level3,,700,205,165,45,,,,,,,
+Intro,Zone,ActionCaress,Activity,Oh yeah!|(You close your eyes.)|So good.|(You masturbate slowly.),775,760,125,125,5,1,0,7,,,Pussy
+Intro,Zone,ActionSlap,Activity,Ow!|(You slap yourself.),775,760,125,125,3,3,0,4,,,Pussy
+Intro,Zone,ActionInsert,Activity,YEEES!|(You finger yourself.)|oooOOOOoooh!|(You thrust in and out.),775,760,125,125,7,1,0,8,,,Pussy
+Intro,Zone,ActionCaress,Activity,Mmmmmh!|(You grope yourself.)|Oooooh!|(You caress slowly.),635,425,255,105,6,2,0,6,,,Breast
+Intro,Zone,ActionSlap,Activity,Ngn!|(You slap your breast.),635,425,255,105,2,4,0,3,,,Breast
+Intro,Meter,Arousal,#FFFF00,(You're getting close.)|(You tremble madly.),82,91,50,,,,,,,,
+Intro,Meter,Arousal,#80FF80,YEEEEEEAAAAAH!|(You get a strong orgasm.),91,100,100,,,,,,,,
+Handcuffs,Menu,Remove,Remove,,,,,,,,,,,,
+Handcuffs,Menu,ActionCaress,Caress,,,,,,,,,,,,
+Handcuffs,Menu,ActionSlap,Slap,,,,,,,,,,,,
+Handcuffs,Menu,ActionInsert,Insert,,,,,,,,,,,,
+Handcuffs,Menu,Exit,End Session,,,,,,,,,,,,
+Handcuffs,Zone,InventoryHandcuffs,Wrist,,700,645,315,165,0,0,1,1.2,Intro,,
+Handcuffs,Zone,InventoryPanelGag,Mouth,NO REMOVE,700,243,155,85,3,1,1,1.2,,,
+Handcuffs,Zone,InventoryHeadset,Head,NO REMOVE,640,25,280,250,1,0,1,0.75,,,
+Handcuffs,Zone,Blush,Level1,,700,205,165,45,,,,,,,
+Handcuffs,Zone,Blush,Level2,,700,205,165,45,,,,,,,
+Handcuffs,Zone,Blush,Level3,,700,205,165,45,,,,,,,
+Handcuffs,Zone,ActionCaress,Activity,Oh yeah!|(You close your eyes.)|So good.|(You masturbate slowly.),775,760,125,125,5,1,0,7,,,Pussy
+Handcuffs,Zone,ActionSlap,Activity,Ow!|(You slap yourself.),775,760,125,125,3,3,0,4,,,Pussy
+Handcuffs,Zone,ActionInsert,Activity,YEEES!|(You finger yourself.)|oooOOOOoooh!|(You thrust in and out.),775,760,125,125,7,1,0,8,,,Pussy
+Handcuffs,Meter,Arousal,#FFFF00,(You're getting close.)|(You tremble madly.),82,91,50,,,,,,,,
+Handcuffs,Meter,Arousal,#80FF80,YEEEEEEAAAAAH!|(You get a strong orgasm.),91,100,100,,,,,,,,

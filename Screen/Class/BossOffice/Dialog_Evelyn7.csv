@@ -1,0 +1,443 @@
+Entry,Intro1,,,,,,,Evelyn,EvelynDesk
+Intro1,Intro2,,"(Evelyn waves at you.)  It is a pleasure to see you, PlayerName.",DialogLoveGreater(5),,,,,EvelynDeskHappy
+Intro1,Intro2,,"(Evelyn looks at you.)  There you are, young lady.","DialogLoveBetween(-4, 4)",,,,,
+Intro1,Intro2,,(Evelyn looks at you and frowns.)  It's you?  Let's do this quickly.,DialogLoveLower(-5),,,,,EvelynDeskAngry
+Intro2,Intro3,,"Please come closer, a discussion is required.",DialogDominationGreater(-5),,,,,
+Intro2,Intro3,,"Come here, a discussion is required.",DialogDominationLower(-6),,,,,
+Intro3,Intro4,,,,,,,,TeacherEvelynDesk
+Intro4,IntroNormal1,,"Once again, a review of the quality of your work is needed.","DialogCurrentDS(""Evelyn"", """")",,,,,
+Intro4,IntroDom1,,"(She lowers her voice.)  Miss PlayerName, I trust that you remember our agreement.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,EvelynDeskShush
+Intro4,IntroSub1,,"(She lowers her voice.)  My submissive girl, I trust that you remember our agreement.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,EvelynDeskShush
+IntroNormal1,Intro5,,(She keeps her voice low.)  I remember with disgust being forsaken in that cage.,"LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,,EvelynDeskShush
+IntroNormal1,Intro5,,Our college has high standards that we must comply to.,"!LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,,
+IntroDom1,IntroDom2,,"I am your submissive outside of college, but on these grounds, I am your director.",,,,,,
+IntroDom2,Intro5,,Being professional is of the upmost importance for our careers.,,,,,,
+IntroSub1,IntroSub2,,"You fully submit to me outside of college, but on these grounds, I am your director and nothing else.",,,,,,
+IntroSub2,Intro5,,Being professional is of the upmost importance for our careers.,,,,,,
+Intro5,Intro6,,We shall monitor our students' progress.,,,,,,EvelynDesk
+Intro6,Intro7,,(She looks at some student files in her computer.),,,,,,EvelynComputer
+Intro7,Intro8,,(She looks at the screen with a huge smile.)  You are doing a tremendous job.  Congratulations.,"DialogGradesDeltaBetween(""14"", ""10000"")",,2,,,
+Intro7,Intro8,,(She looks at the screen and smiles.)  You seem to be doing a fine job.  Progress is on the horizon.,"DialogGradesDeltaBetween(""6"", ""13"")",,1,,,
+Intro7,Punish1,,(She looks at the screen carefully.)  I am not seeing much progress so far.,"DialogGradesDeltaBetween(""0"", ""5"")",,,,,
+Intro7,Punish1,,"(She frowns while looking at the screen.)  You are doing a poor job, young lady.","DialogGradesDeltaBetween(""-7"", ""-1"")",,-1,,,
+Intro7,Expel1,,"(She stares at the screen and gets angry.)  Young lady, this is not working.  You are doing an awful job.","DialogGradesDeltaBetween(""-10000"", ""-8"")",,-3,,,
+Intro8,Intro9,,"With such results, we shall surely give you a raise next semester.",,,,,,EvelynDeskHappy
+Intro9,Belt1,,Let's conclude this review.  I have another tool for your arsenal.,,,,,,
+Punish1,Punish2,,Hiring you might have been a mistake on my part.,,,,,,EvelynDeskAngry
+Punish2,Punish3,,"To motivate you, and for our students' future, a punishment is required.",,,,,,
+Punish3,,,"Young lady, you shall be spanked.","!LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish3,,,"Once again, you shall be spanked.","LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish3,Punish4,Alright.,(She nods and cracks her knuckles.),,,,,,
+Punish3,Punish4,You can't be serious!,I am very serious.  (She cracks her knuckles.),,,-1,1,,
+Punish3,Punish4,Yes Director.,(She smirks and cracks her knuckles.),,,,-1,,
+Punish3,Punish4,I understand your methods.,(She smiles and cracks her knuckles.),,,1,,,
+Punish3,LeaveJob,"If you try to touch me, I will quit.  (Leave your job.)",(She takes a long deep breath.)  We shall end your career then.,,,-3,,,
+Punish3,Punish23,"You won't touch me, my submissive.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Punish3,Punish23,Should I publish the images of your cage trip?,"(Her eyes widen and she lowers her voice.)  Fine, we shall postpone this spanking.","LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,-3,1,,EvelynDeskShush
+Punish4,Punish5,,This punishment shall be a lesson for you.,"!LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish4,Punish5,,It seems that frequent spankings might be mandatory for you.,"LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish5,Punish6,,"Bend over and put your palms on the desk, young lady.",,,,,,
+Punish6,Punish7,I don't like it.,(She grumbles as you reluctantly put your palms on her desk.),,,-1,,,
+Punish6,Punish7,Alright.,(You put your palms on her desk.),,,,,,
+Punish6,Punish7,Yes Director.,(She smirks as you quickly put your palms on her desk.),,,,-1,,
+Punish6,Punish7,With pleasure.,(She smiles as you rapidly put your palms on her desk.),,,1,,,
+Punish6,Punish7,Is it really necessary?,(She frowns as you reluctantly put your palms on her desk.),,,,1,,
+Punish6,Punish23,"My girl, you will not spank me.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Punish7,Punish8,,,,,,,,TeacherDeskPrepareSpank
+Punish8,Punish9,,I shall not leave marks but ensure that you remember your lesson.,,,,,,
+Punish9,Punish10,,,,,,,,TeacherDeskSpankAim
+Punish10,Punish11,,"Take a deep breath, young lady.",,,,,,
+Punish11,Punish12,,(She aims carefully and spanks your butt hard.),,,,,,
+Punish12,Punish13,,,,"LogAdd(""Evelyn"", ""TeacherSpanked"")",,,,TeacherDeskSpankHit
+Punish13,Punish14,,"Pain and humiliation are key here, not violence.",,,,,,TeacherDeskSpankAim
+Punish14,Punish15,,Good spanking should be more mental than physical.,,,,,,TeacherDeskSpankHit
+Punish15,Punish16,,Remember that your career depends on your performance.,,,,,,TeacherDeskSpankAim
+Punish16,Punish17,,And remember that your job depends on me.,,,,,,TeacherDeskSpankHit
+Punish17,Punish18,,"(She whispers.)  This spanking shall be repeated at home, with full force.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,TeacherDeskSpankAim
+Punish17,Punish18,,Stricter labor shall save your butt at our next meeting.,"!DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,TeacherDeskSpankAim
+Punish18,Punish19,,"(She spanks you a few more times, with a grin on her face.)",,,,,,TeacherDeskSpankHit
+Punish19,Punish20,,(She stops and takes a deep breath.),,,,,,TeacherDeskSpankAim
+Punish20,Punish21,,I hope that lesson was clear and understood.,,,,,,TeacherDeskPrepareSpank
+Punish21,Punish22,,You require harder work to improve our students' grades.,,,,,,
+Punish22,Punish23,,(She returns to her desk.) ,,,,,,EvelynDeskAngry
+Punish23,Belt1,,This punishment is over.  I have another tool for your arsenal.,,,,,,
+Expel1,Fired1,,You have been warned previously about being expelled.  Things did not improve.,"LogQuery(""College"", ""LastWarning"")",,,,,
+Expel1,Expel2,,I have serious doubts about keeping you on our staff.,"!LogQuery(""College"", ""LastWarning"")",,,,,EvelynDeskAngry
+Expel2,Expel3,,You do not have what it takes to be a proper teacher.,,,,,,
+Expel3,,,Do you wish to give up and quit your job?,,,,,,
+Expel3,Expel4,I want to keep my job,(She looks at the computer once again.),,,,,,EvelynComputer
+Expel3,Expel4,I want to become a good teacher.,(She nods and looks at the computer once again.),,,1,,,EvelynComputer
+Expel3,LeaveJob,I want to quit.  (Leave your job.),"(She sighs and nods.)  Teaching was never in your blood, young lady.",,,-3,-1,,
+Expel3,Expel7,"That's enough, my girl.  I'm keeping this job.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Expel3,Expel4,"Mistress, could you help me keep my job?",(She gives you a stern look and checks her computer again.),"DialogCurrentDS(""Evelyn"", ""Dom"")",,-1,-1,,EvelynComputer
+Expel3,Expel7,Should I publish the images of your cage trip?,"(Her eyes widen and she lowers her voice.)  Fine, we shall postpone that review.","LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,-3,1,,EvelynDeskShush
+Expel4,Expel5,,I shall give you one last chance.,,"LogAdd(""College"", ""LastWarning"")",,,,
+Expel5,Expel6,,"If our students' grades do not improve, you shall be expelled.",,,,,,
+Expel6,,,Do you understand?,,,,,,EvelynDeskAngry
+Expel6,Expel7,I understand.,Very well.  I do hope this is correct.,,,,,,
+Expel6,Expel7,"Yes, Director.  I understand very well.","Very good, young lady.",,,,-1,,
+Expel6,Expel7,"Don't worry, the grades will improve.",(She nods.)  I shall remember these words.,,,,1,,
+Expel6,LeaveJob,Fuck this work.  (Leave your job.),(She frowns at you.)  This is the final nail in the coffin.,,,-4,,,
+Expel7,Belt1,,This discussion is over.  I have another tool for your arsenal.,,,,,,
+Fired1,Fired2,,"Young lady, your teaching record gives us two choices.",,,,,,
+Fired2,,,Should I fire you or would you like to quit on your own?,,,,,,
+Fired2,LeaveJob,"You can fire me, I don't care.","(She sighs and nods.)  Teaching was never in your blood, young lady.",,,-3,1,,
+Fired2,LeaveJob,"Fine, I will quit.","(She sighs and nods.)  Teaching was never in your blood, young lady.",,,-3,-1,,
+Fired2,LeaveJob,I'm sure there's a third option!,"(She shakes her head from left to right.)  Teaching is not in your blood, young lady.",,,-1,,,
+Fired2,Expel7,"That's enough, my girl.  I'm keeping this job.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Fired2,LeaveJob,"Mistress, could you help me keep my job?","(She shakes her head from left to right.)  Teaching is not in your blood, my slave.","DialogCurrentDS(""Evelyn"", ""Dom"")",,-1,-1,,
+Fired2,Expel7,Should I publish the images of your cage trip?,"(Her eyes widen and she lowers her voice.)  Fine, we shall postpone that review.","LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,-3,1,,EvelynDeskShush
+LeaveJob,,,,,"DialogLoad(""CollegeLeave"")",,,,
+Belt1,Belt2,,,,,,,,EvelynDeskDisplayBelt
+Belt2,Belt3,,(She puts a large metallic item on her desk.),,,,,,
+Belt3,,,Have you seen a similar device before?,,,,,,
+Belt3,Belt4,No.  What is it?,"You need to review your history books, young lady.",,,-1,,,
+Belt3,Belt4,(Blush and nod.),(She smirks.)  It seems that you have previous experience.,,,,-1,,
+Belt3,Belt4,"Yes, medieval tools are fascinating.",(She nods in agreement.)  Quite fascinating.,,,1,,,
+Belt3,Belt4,I've locked up some girls before.,(She nods rapidly.)  I am impressed.,,,,1,,
+Belt4,Belt5,,This chastity belt is used to control our students' hormones.,,,,,,
+Belt5,Belt6,,,,,,,,DeskChastityBelt
+Belt6,Belt7,,It is a device from an older era with a modern touch.,,,,,,
+Belt7,Belt8,,A student can wear it all day or night with no major discomfort.,,,,,,
+Belt8,Belt9A,,"Under its shield, no sexual activity can occur.",,,,,,
+Belt9A,Belt9B,,It can be a tool to punish or help if your pupil lacks focus.,,,,,,
+Belt9B,Belt10,,,,,,,,EvelynDeskDisplayBeltStare
+Belt10,Belt11,,(She stares at you.),"DialogCurrentDS(""Evelyn"", """")",,,,,
+Belt10,EvelynBelt1,,"Mistress, it will be my pleasure to wear it for you as demonstration.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+Belt10,TeacherBelt1,,"Slave, you will wear it as demonstration.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,
+Belt11,,,Is a demonstration required?,,,,,,
+Belt11,EvelynBelt1,You could wear it to show me.,"(She nods slowly.)  Fine, I am willing to demonstrate it on myself.",DialogDominationGreater(-3),,,1,,
+Belt11,TeacherBelt1,You could wear it to show me.,"(She shakes her head from left to right.)  Young lady, we will demonstrate on yourself.",DialogDominationLower(-4),,,1,,
+Belt11,TeacherBelt1,"I could wear it, but don't lock it.",The locking mechanism is part of the demonstration.,,,,,,
+Belt11,TeacherBelt1,"(Blush.)  Please demonstrate on me, Director.","You will make a fine model, young lady.",,,,-1,,
+Belt11,Outro1,"I'm fine, we can skip the demonstration.",(She nods in agreement.)  Please take a few belts before you vacate.,DialogDominationGreater(1),,,1,,
+EvelynBelt1,EvelynBelt2,,I shall undress promptly to show you how to attach it.,,,,,,
+EvelynBelt2,EvelynBelt3,,(She removes her outfit and puts it away.),,,,,,
+EvelynBelt3,EvelynBelt4,,,,,,,,TeacherEvelynUnderwearDisplayBeltOffice
+EvelynBelt4,EvelynBelt5,,This device can be worn with or without undergarments.,,,,,,
+EvelynBelt5,EvelynBelt6,,It depends on how long you require the chastity sentence to last.,,,,,,
+EvelynBelt6,EvelynBelt7,,The mechanism locks around the waist and over the vulva.,,,,,,
+EvelynBelt7,EvelynBelt8,,(She slides the belt around her hips as you take the key.),,,,,,
+EvelynBelt8,EvelynBelt9,,,,,,,,EvelynUnderwearBeltedLeanDesk
+EvelynBelt9,EvelynBelt10,,(She shivers as you lock the device securely in place.),,,,1,,
+EvelynBelt10,EvelynBelt11,,"The steel is strong, but it shall not bruise the skin or rust.",,,,,,
+EvelynBelt10,EvelynBelt11,InventoryDialogPhone,(She frowns as you capture the moment.)  These kinds of pictures are forbidden on college ground.,,PictureAdd(),-1,,,
+EvelynBelt11,,,Can you now fathom the enforced control?,,,,,,
+EvelynBelt11,EvelynBelt12,I understand but I don't like it.,(She frowns.)  Do not judge too hastily.,,,-1,,,
+EvelynBelt11,EvelynBelt12,It will be an excellent tool for our pupils.,(She nods in agreement.)  We think alike.,,,,1,,
+EvelynBelt11,EvelynBelt12,Yes!  And it looks good on you.,(She blushes a little.)  I guess this esthetic is also a positive.,,,1,,,
+EvelynBelt11,EvelynBelt12,This might be too strict for our students.,(She shakes her head no.)  Do not discard this tool too quickly.,,,,-1,,
+EvelynBelt11,EvelynBelt12,InventoryDialogCrop,(She jumps out of surprise as you whip her butt.)  You do fathom!,,,,2,,
+EvelynBelt11,EvelynBelt12,InventoryDialogPaddle,(She blushes as you pick the large paddle and hit her butt.)  You do fathom!,,,1,1,,
+EvelynBelt12,EvelynBelt13,,,,,,,,TeacherEvelynUnderwearBeltedOfficeTalk
+EvelynBelt13,EvelynBelt14,,Chastity can help a student to focus on schoolwork or protect against predators.,,,,,,
+EvelynBelt14,EvelynBelt15,,Removing the device later can become a reward for good behavior.,"!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBelt14,EvelynBelt15,,"Mistress, it can also be a reward if your slave pleased you.  (She winks at you.)","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBelt15,,,You can use it in combination with your other tools for a greater effect.,,,,,,
+EvelynBelt15,EvelynBelt16,Really?  Could we add some cuffs now?,(She laughs out loud and grabs the cuffs for you.)  We certainly can.,,,,-1,,
+EvelynBelt15,EvelynBelt16,You will demonstrate in cuffs then.,(She gulps and nods as you pick the cuffs.),,,,1,,
+EvelynBelt15,EvelynBeltEnd1,There's no need for that.  I understand everything.,You are a fast learner.  We can conclude this demonstration.,,,,,,
+EvelynBelt15,EvelynBelt16,InventoryDialogCuffs,(She gulps and nods as you pick the cuffs.),,,,1,,
+EvelynBelt16,EvelynBelt17,,,,,,,,EvelynUnderwearBeltedCuffedOfficeShy
+EvelynBelt17,EvelynBelt18,,You could also add more cuffs or a gag for maximal security.,,,,,,
+EvelynBelt17,EvelynBelt18,InventoryDialogPhone,(She tries to look away as you save an image on your phone.),,PictureAdd(),-1,,,
+EvelynBelt18,EvelynBelt19,,"In this attire, the sole focus of your pupil should be learning.",,,,,,
+EvelynBelt19,EvelynBeltYuki1,,It's a strict and humiliating lesson that will be engraved in their mind.,,,,,,
+EvelynBeltYuki1,EvelynBeltYuki2,,"Knock, knock, knock.",,,,,None,Door
+EvelynBeltYuki2,EvelynBeltYuki3,,(Someone knocks at the door.  You recognize your colleague Yuki's voice.),,,,,,
+EvelynBeltYuki3,EvelynBeltYuki4,,"Director, can I come in?  I need the new history tests.",,,,,Yuki,
+EvelynBeltYuki4,EvelynBeltYuki5,,,,,,,Evelyn,TeacherEvelynUnderwearBeltedCuffedOfficeNervous
+EvelynBeltYuki5,EvelynBeltYuki6,,"(Evelyn trembles from embarrassment, keeping her voice down.)",,,,,,
+EvelynBeltYuki6,EvelynBeltYuki7,,"Young lady, stay silent until she goes away.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltYuki6,EvelynBeltYuki7,,"Mistress, can we please stay silent until she goes away?","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltYuki7,,,"(She stops talking, what will you do?)",,,,,,
+EvelynBeltYuki7,EvelynBeltYuki8,Yes Yuki!  Come inside!,(The door opens right away and Yuki steps in.),,,-1,1,,
+EvelynBeltYuki7,EvelynBeltYuki8,(Stay silent also.),(You both stay silent but the door opens anyway and Yuki steps in.),,,1,-1,,
+EvelynBeltYuki8,EvelynBeltYuki9,,,,,,,Yuki,TeacherYukiEvelynUnderwearBeltedCuffedOfficeShy
+EvelynBeltYuki9,EvelynBeltYuki10,,Oh lord!  (Her eyes widen as she stares at Evelyn.),,,,,,
+EvelynBeltYuki10,EvelynBeltYuki11,,"Director, what is going on?",,,,,,
+EvelynBeltYuki11,EvelynBeltYuki12,,"Yuki, we are demonstrating the tools to enforce student's concentration.",,,,,Evelyn,
+EvelynBeltYuki12,EvelynBeltYuki13,,I trust that you remember the same training you had years ago.,,,,,,
+EvelynBeltYuki13,EvelynBeltYuki14,,"(She nods.)  In my training, I was wearing the belt. ",,,,,Yuki,
+EvelynBeltYuki14,,,"Times have changed, you're lucky PlayerName.",,,,,,
+EvelynBeltYuki14,EvelynBeltYuki15,"Yeah, she's now a slut.",(She stares at you.)  Oh lord!  I would not use that word for our Director.,,,-1,,,
+EvelynBeltYuki14,EvelynBeltYuki15,"Yes, our Director was generous.",(She nods in agreement.)  Oh lord!  She spoiled you.,,,,-1,,
+EvelynBeltYuki14,EvelynBeltYuki15,"It's not luck, it's control.",(She gulps and nods.)  Oh lord!  You are right.,,,,1,,
+EvelynBeltYuki14,EvelynBeltYuki15,Isn't she cute like that?,(She smiles and nods.)  Oh lord!  Very cute.,,,1,,,
+EvelynBeltYuki15,EvelynBeltYuki16,,,,,,,,YukiEvelynUnderwearBeltedCuffedOfficeShy
+EvelynBeltYuki16,EvelynBeltYuki17,,(They get closer.)  The cuffs are a nice bonus.  She looks very helpless.,,,,,,
+EvelynBeltYuki17,EvelynBeltYuki18,,"Director, it's a rare sight to see you bound.",,,,,,
+EvelynBeltYuki17,EvelynBeltYuki18,InventoryDialogPhone,(Yuki smiles for the picture.)  Send me a copy!,,PictureAdd(),1,,,
+EvelynBeltYuki18,,,"PlayerName, will she wear the belt for a while?",,,,,,
+EvelynBeltYuki18,EvelynBeltYukiLeave1,I don't know.,(She laughs.)  It seems that your plan has some holes.,,,,-1,,
+EvelynBeltYuki18,EvelynBeltYukiLeave1,I will decide when she gets out.,(She nods slowly.)  You're the boss!,,,,1,,
+EvelynBeltYuki18,EvelynBeltYukiLeave1,I'm not telling you.,Fine!  You're no fun.,,,-1,,,
+EvelynBeltYuki18,EvelynBeltYukiLeave1,I'll let you know during lunch break.,(She winks at you and makes a thumbs up.),,,1,,,
+EvelynBeltYuki18,EvelynBeltYukiKey1,Would you like to decide and keep the key?,(She smirks and ponders for a little while.),,,1,-1,,
+EvelynBeltYuki18,EvelynBeltYukiBelt1,"Yuki, you should also wear a belt.",(She shivers and her eyes widen.),,,-1,1,,
+EvelynBeltYukiKey1,EvelynBeltYukiKey2,,I do love this idea.  (She puts the key in her purse.),,,,,,
+EvelynBeltYukiKey2,EvelynBeltYukiKey3,,"Don't worry, Director.  I'll be back later.",,,,,,
+EvelynBeltYukiKey3,EvelynBeltYukiKey4,,(She looks at the clock.)  Oh lord!  I will be late.,,"LogAdd(""Evelyn"", ""OfficeBeltDay"")",,,,
+EvelynBeltYukiKey4,EvelynBeltYukiKey5,,"Don't mind me, I'll pick the history tests and go.",,,,,,
+EvelynBeltYukiKey5,EvelynBeltYukiKey6,,(She picks up some papers and leaves in a hurry with the belt key.),,,,,,
+EvelynBeltYukiKey6,EvelynBeltYukiKey7,,,,,,,Evelyn,TeacherEvelynUnderwearBeltedCuffedOfficeNervous
+EvelynBeltYukiKey7,EvelynBeltYukiKey8,,"Young lady, if she does not come back today, you shall both get punished.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,-1,1,,
+EvelynBeltYukiKey7,EvelynBeltYukiKey8,,"Mistress, I am unsure of your plan, but I shall trust your judgment.","DialogCurrentDS(""Evelyn"", ""Sub"")",,-1,1,,
+EvelynBeltYukiKey8,EvelynBeltYukiKey9,,Time is running out.  We should conclude that demonstration.,,,,,,
+EvelynBeltYukiKey9,EvelynBeltEnd13,,(You uncuff her hands as she gets her clothes.),,,,,,
+EvelynBeltYukiBelt1,EvelynBeltYukiBelt2,,,,,,,,TeacherYukiNervousEvelynUnderwearBeltedCuffedOffice
+EvelynBeltYukiBelt2,EvelynBeltYukiBelt3,,Why should I...  That would not...  I need to hurry...  Director!,,,,,,
+EvelynBeltYukiBelt3,EvelynBeltYukiBelt4,,(Yuki seems nervous as Evelyn stares at her.),,,,,Evelyn,
+EvelynBeltYukiBelt4,EvelynBeltYukiBelt5,,"Yuki, your co-worker training is more important.  We shall demonstrate together.",DialogDominationGreater(0),,,,,
+EvelynBeltYukiBelt4,EvelynBeltYukiLeave1,,"Yuki, your class is more important, have you lost track of time?",DialogDominationLower(-1),,,,,
+EvelynBeltYukiBelt5,EvelynBeltYukiBelt6,,(Yuki blushes and slowly removes her teacher outfit.),,,,1,Yuki,
+EvelynBeltYukiBelt6,EvelynBeltYukiBelt7,,,,,,,,YukiUnderwearNervousOffice
+EvelynBeltYukiBelt7,EvelynBeltYukiBelt9,,PlayerName...  This is...  I mean...  Is this...,,,,,,
+EvelynBeltYukiBelt7,EvelynBeltYukiBelt9,InventoryDialogPhone,(She looks at her feet as you capture the moment on your phone.),,PictureAdd(),,1,,
+EvelynBeltYukiBelt9,,,Oh lord!  This is not necessary.,,,,,,
+EvelynBeltYukiBelt9,EvelynBeltYukiBelt10,"You might be right, but you've heard the boss.",I guess our Director's word is law.,,,,-1,,
+EvelynBeltYukiBelt9,EvelynBeltYukiBelt10,You're cute when you're shy.,"Well thank you PlayerName, that's kind.",,,1,,,
+EvelynBeltYukiBelt9,EvelynBeltYukiBelt10,Do you complain all day?,I don't!  Why are you so mean?,,,-1,,,
+EvelynBeltYukiBelt9,EvelynBeltYukiBelt10,InventoryDialogCrop,(She bites her lips and moans as you swing the crop on her butt.),,,1,1,,
+EvelynBeltYukiBelt9,EvelynBeltYukiBelt10,InventoryDialogPaddle,(She jumps and screams as you paddle her butt hard.),,,,2,,
+EvelynBeltYukiBelt10,EvelynBeltYukiBelt11,,(You lock the belt around her hips and the cuffs behind her back.),,,,,,
+EvelynBeltYukiBelt11,EvelynBeltYukiBelt12,,,,,,,,YukiUnderwearBeltedCuffedShyOffice
+EvelynBeltYukiBelt12,EvelynBeltYukiBelt13,,(Yuki sighs loudly as you double-check the locks.),,,,,,
+EvelynBeltYukiBelt12,EvelynBeltYukiBelt13,InventoryDialogPhone,(She seems to disapprove of the belted picture.),,PictureAdd(),-1,,,
+EvelynBeltYukiBelt13,EvelynBeltYukiBelt14,,"This is tight.  (The teacher tugs on the cuffs in vain, giving up quickly.)",,,,,,
+EvelynBeltYukiBelt14,EvelynBeltYukiBelt15,,"Ok PlayerName, you now know how to use these belts.",,,,,,
+EvelynBeltYukiBelt15,EvelynBeltYukiBelt16,,,,,,,,EvelynAndYukiUnderwearBeltedCuffedOfficeTalk
+EvelynBeltYukiBelt16,EvelynBeltYukiBelt17,,(They look at each other and blush.),,,,,,
+EvelynBeltYukiBelt17,EvelynBeltYukiBelt18,,Oh lord!  Director!  This is so strange.,,,,,,
+EvelynBeltYukiBelt18,EvelynBeltYukiBelt19,,"I agree this is out of protocol, but proper equipment training is important.",,,,,Evelyn,
+EvelynBeltYukiBelt19,EvelynBeltYukiBelt20,,"PlayerName, it seems that you have now mastered these tools.",,,,,,
+EvelynBeltYukiBelt19,EvelynBeltYukiBelt20,InventoryDialogPhone,(She frowns as you take a picture.)  This memento is highly unnecessary.,,PictureAdd(),-1,1,,
+EvelynBeltYukiBelt20,,,We should unlock and conclude this demonstration.,,,,,,
+EvelynBeltYukiBelt20,EvelynBeltYukiBeltRelease1,"Yes, Director.",(They seem relieved as you release them both promptly.),,,,-1,,
+EvelynBeltYukiBelt20,EvelynBeltYukiBeltRelease1,"Fine, but this is boring.",(They frown as you release them both reluctantly.),,,-1,,,
+EvelynBeltYukiBelt20,EvelynBeltYukiBeltRelease1,"Too bad, you look good like that.",(They giggle as you release them both playfully.),,,1,,,
+EvelynBeltYukiBelt20,EvelynBeltYukiBeltDay1,(Think aloud.)  I don't think so.,Are you sincere?  What are you planning?,,,,1,,
+EvelynBeltYukiBelt20,EvelynBeltYukiBeltDay1,"No girls, you're staying in steel.",(She seems shocked by your answer.),,,-1,2,,
+EvelynBeltYukiBeltRelease1,EvelynBeltYukiBeltRelease2,,,,,,,,TeacherEvelynYukiOfficeTalk
+EvelynBeltYukiBeltRelease2,EvelynBeltYukiBeltRelease3,,"Thank you, I trust that you shall use these tools with caution.",,,,,,
+EvelynBeltYukiBeltRelease3,EvelynBeltYukiBeltRelease4,,(Yuki looks at the clock and jumps.)  Oh lord!  I will be late.,,,,,Yuki,
+EvelynBeltYukiBeltRelease4,EvelynBeltYukiBeltRelease5,,"Don't mind me, I'll pick the history tests and go.",,,,,,
+EvelynBeltYukiBeltRelease5,EvelynBeltYukiBeltRelease6,,(She picks up some papers and leaves in a hurry.),,,,,,
+EvelynBeltYukiBeltRelease6,EvelynBeltYukiBeltRelease7,,,,,,,Evelyn,EvelynDeskDisplayBeltStare
+EvelynBeltYukiBeltRelease7,EvelynBeltYukiBeltRelease8,,"(Evelyn returns to her desk, leaving the belt on it.)",,,,,,
+EvelynBeltYukiBeltRelease8,Outro1,,Please take some belts before you vacate.,,,,,,
+EvelynBeltYukiBeltDay1,EvelynBeltYukiBeltDay2,,,,"LogAdd(""Evelyn"", ""OfficeBeltDay"")",,,Teacher,EvelynAndYukiUnderwearBeltedCuffedOfficeStare
+EvelynBeltYukiBeltDay2,EvelynBeltYukiBeltDay3,,"You will both keep the belt for the day, as a reminder of me.",,"LogAdd(""Yuki"", ""OfficeBeltDay"")",,,,
+EvelynBeltYukiBeltDay3,EvelynBeltYukiBeltDay4,,I'll come back after class to unlock you.,,,,,,
+EvelynBeltYukiBeltDay3,EvelynBeltYukiBeltDay4,InventoryDialogPhone,And I'm keeping a souvenir.  (You take a picture of them.),,"PictureAdd(""Yuki"")",,,,
+EvelynBeltYukiBeltDay4,EvelynBeltYukiBeltDay5,,"(Evelyn takes a deep breath.)  Fine, but do not forget to come back.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Evelyn,
+EvelynBeltYukiBeltDay4,EvelynBeltYukiBeltDay5,,(Evelyn shivers and bows her head.)  Please do not forget to come back.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Evelyn,
+EvelynBeltYukiBeltDay5,EvelynBeltYukiBeltDay6,,(Yuki trembles.)  Oh lord!  Yeah!  And don't lose the keys!,,,,,Yuki,
+EvelynBeltYukiBeltDay6,EvelynBeltYukiBeltDay7,,(You unlock the cuffs as they quickly pick their clothes.),,,,,Teacher,
+EvelynBeltYukiBeltDay7,EvelynBeltYukiBeltDay8,,,,,,,Yuki,TeacherEvelynYukiOfficeTalk
+EvelynBeltYukiBeltDay8,EvelynBeltYukiBeltDay9,,"(They both dress back, concealing the locked device.)",,,,,,
+EvelynBeltYukiBeltDay9,EvelynBeltYukiBeltDay10,,It feels so strange to wear that hidden belt.,,,,1,,
+EvelynBeltYukiBeltDay10,EvelynBeltYukiBeltDay11,,(She looks at the clock.)  Oh lord!  I will be late.,,,,,,
+EvelynBeltYukiBeltDay11,EvelynBeltYukiBeltDay12,,"Don't mind me, I'll pick the history tests and go.",,,,,,
+EvelynBeltYukiBeltDay12,EvelynBeltYukiBeltDay13,,(She picks up some papers and leaves in a hurry.),,,,,,
+EvelynBeltYukiBeltDay13,EvelynBeltYukiBeltDay14,,,,,,,Evelyn,TeacherEvelynDesk
+EvelynBeltYukiBeltDay14,EvelynBeltYukiBeltDay15,,"(Evelyn returns to her desk, you can hear a faint metal sound as she sits.)",,,,,,
+EvelynBeltYukiBeltDay15,EvelynBeltYukiBeltDay16,,"Young lady, I did not expect you to take such a strong initiative.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltYukiBeltDay15,EvelynBeltYukiBeltDay16,,"Mistress, it was quite a thrill to see you Dominate both of us.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltYukiBeltDay16,Outro1,,Please take a few belts before you vacate.,,,,,,
+EvelynBeltYukiLeave1,EvelynBeltYukiLeave2,,(She looks at the clock.)  Oh lord!  I will be late.,,,,,Yuki,
+EvelynBeltYukiLeave2,EvelynBeltYukiLeave3,,"Don't mind me, I'll pick the history tests and go.",,,,,,
+EvelynBeltYukiLeave3,EvelynBeltYukiLeave4,,(She picks up some papers and leaves in a hurry.),,,,,,
+EvelynBeltYukiLeave4,EvelynBeltYukiLeave5,,,,,,,Evelyn,TeacherEvelynUnderwearBeltedCuffedOfficeNervous
+EvelynBeltYukiLeave5,EvelynBeltYukiLeave6,,That was quite embarrassing.  She needs to stop barging in my office.,,,,,,
+EvelynBeltYukiLeave6,EvelynBeltYukiLeave7,,She's right about the time.  We can conclude this demonstration.,,,,,,
+EvelynBeltYukiLeave7,EvelynBeltYukiLeave8,,(You get closer to unlock her cuffs.),,,,,Teacher,
+EvelynBeltYukiLeave8,EvelynBeltEnd1,,,,,,,Evelyn,EvelynUnderwearBeltedLeanDesk
+EvelynBeltEnd1,,,"Young lady, it is time to unlock the belt.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltEnd1,,,"Mistress, can you please unlock the belt?","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltEnd1,EvelynBeltEnd2,"Of course, dear Director.",(She grins as you unlock the belt.),,,,-1,,
+EvelynBeltEnd1,EvelynBeltEnd2,"Too bad, it looks good on you.",(She smiles as you unlock the belt.),,,1,,,
+EvelynBeltEnd1,EvelynBeltEnd2,Do it yourself.,You have a feisty temper.  (You hand her to key to unlock the belt.),,,-1,,,
+EvelynBeltEnd1,EvelynBeltEnd10,I'm not sure about that.,Not sure about that?  What does it imply?,,,,1,,
+EvelynBeltEnd1,EvelynBeltEnd10,"No, you're staying locked.",(She seems stunned by your answer.),,,-1,2,,
+EvelynBeltEnd1,EvelynBeltEnd10,"My cherished slave, you will stay locked.","(She blushes and looks down.)  Mistress, I was secretly hoping you would say that.","DialogCurrentDS(""Evelyn"", ""Sub"")",,1,2,,
+EvelynBeltEnd2,EvelynBeltEnd3,,,,,,,,EvelynDeskDisplayBeltStare
+EvelynBeltEnd3,EvelynBeltEnd4,,(You release her as she hands you the devices.),,,,,,
+EvelynBeltEnd4,Outro1,,Please take a few belts before you vacate.,,,,,,
+EvelynBeltEnd10,EvelynBeltEnd11,,"You will keep the belt for the day, as a reminder of me.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Teacher,
+EvelynBeltEnd10,EvelynBeltEnd11,,"My girl, you will keep the belt for the day, so you remember your submission.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Teacher,
+EvelynBeltEnd11,EvelynBeltEnd12,,I'll come back after class to unlock you.,"!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltEnd11,EvelynBeltEnd12,,You will keep it on the way home.  I will unlock you when we get there.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynBeltEnd12,EvelynBeltEnd13,,"(She takes a deep breath.)  Fine, but do not forget to come back.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Evelyn,
+EvelynBeltEnd12,EvelynBeltEnd13,,"(She nods submissively.)  Yes Mistress, I understand.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,Evelyn,
+EvelynBeltEnd13,EvelynBeltEnd14,,,,"LogAdd(""Evelyn"", ""OfficeBeltDay"")",,,,TeacherEvelynDesk
+EvelynBeltEnd14,EvelynBeltEnd15,,"(She dresses back, concealing the locked device.)",,,,,,
+EvelynBeltEnd15,Outro1,,Please take a few belts before you vacate.,,,,,,
+TeacherBelt1,TeacherBelt2,,You should understand how it feels to be chaste before enforcing it on our pupils.,,,,,,
+TeacherBelt2,,,"Please undress, keep only your underwear.",DialogDominationGreater(-5),,,,,
+TeacherBelt2,,,Get in your underwear.,DialogDominationLower(-6),,,,,
+TeacherBelt2,TeacherBelt3,Really?  What if someone comes here?,"(She frowns.)  The quicker you comply, the lesser the chances.",,,-1,1,,
+TeacherBelt2,TeacherBelt3,"Fine, but let's do this quickly.",Absolutely.  We have no time to waste.,,,,1,,
+TeacherBelt2,TeacherBelt3,(Blush and nod.),(She snaps her fingers and stares at you.),,,,-1,,
+TeacherBelt2,TeacherBelt3,"Yes, Mistress.  My pleasure.",Good girl.  (She smiles and stares at you.),"DialogCurrentDS(""Evelyn"", ""Dom"")",,1,-1,,
+TeacherBelt3,TeacherBelt4,,,,,,,,TeacherUnderwearEvelynHoldBeltOffice
+TeacherBelt4,TeacherBelt5,,(You put your clothes away as she holds the belt.),,,,,,
+TeacherBelt5,TeacherBelt6A,,This device can be worn with or without undergarments.,,,,,,
+TeacherBelt6A,TeacherBelt6B,,It depends on how long you require the chastity sentence to last.,,,,,,
+TeacherBelt6B,TeacherBelt7,,The mechanism locks around the waist and over the vulva.,,,,,,
+TeacherBelt7,,,"Raise your arms, young lady.",,,,,,
+TeacherBelt7,TeacherBelt8,"I'm nervous, director.",Do not worry.  This is purely for your education.  (She gets the belt around your hips.),,,,-1,,
+TeacherBelt7,TeacherBelt8,(Smile and raise your arms.),(She also smiles and gets the belt around your hips.),,,1,,,
+TeacherBelt7,TeacherBelt8,You enjoy this way too much.,"Nonsense, this is purely for your education.  (She gets the belt around your hips.)",,,,1,,
+TeacherBelt7,TeacherBelt8,Very well.,(You comply as she gets the belt around your hips.),,,,,,
+TeacherBelt7,TeacherBelt8,(Sigh and raise your arms.),(She frowns and gets the belt around your hips.),,,-1,,,
+TeacherBelt8,TeacherBelt9,,,,,,,,TeacherUnderwearBeltedOffice
+TeacherBelt9,TeacherBelt10,,(The locked belt holds firmly in place.  It's heavy but you could still walk normally.),,,,,,
+TeacherBelt10,TeacherBelt11,,"The steel is strong, but it shall not bruise the skin or rust.",,,,,,
+TeacherBelt10,TeacherBelt11,InventoryDialogPhone,(She grabs your phone and captures the moment.),,"PictureAdd(""Teacher"")",,,,
+TeacherBelt11,,,Can you now fathom the enforced control?,,,,,,
+TeacherBelt11,TeacherBelt12,I understand but I don't like it.,"(She frowns.)  Do not judge too hastily, this is an acquiring taste.",,,-1,,,
+TeacherBelt11,TeacherBelt12,It will be an excellent tool for our pupils.,(She nods in agreement.)  We think alike.,,,,1,,
+TeacherBelt11,TeacherBelt12,Yes!  (Shake your hips and nods rapidly.),(She looks at you and smiles.)  This is quite positive.,,,1,,,
+TeacherBelt11,TeacherBelt12,This might be too strict for our students.,(She rolls her eyes up.)  Do not discard this tool too quickly.,,,,-1,,
+TeacherBelt12,TeacherBelt13,,,,,,,,TeacherUnderwearBeltedEvelynOfficeTalk
+TeacherBelt13,TeacherBelt14,,Chastity can help a student to focus on schoolwork or protect against predators.,,,,,,
+TeacherBelt14,TeacherBelt15,,Removing the device later can become a reward for good behavior.,,,,,,
+TeacherBelt15,TeacherBelt16,,It can be used in combination with your other tools for a greater effect.,,,,,,
+TeacherBelt16,,,Let me demonstrate with handcuffs and a gag.,,,,,,
+TeacherBelt16,TeacherBelt17,That sounds like a good combo.,(She smiles and picks more restraints.),,,1,,,
+TeacherBelt16,TeacherBelt17,(Open your briefcase.),(She picks more restraints from it.),,,,,,
+TeacherBelt16,TeacherBelt17,A demonstration is not needed.,(She grumbles and picks more restraints.),,,-1,,,
+TeacherBelt16,TeacherBelt17,"My pleasure, Director Evelyn.",(She smirks and picks more restraints.),,,,-1,,
+TeacherBelt16,TeacherBelt17,Our pupil's security comes first.  (Wink at her.),(She winks back and picks more restraints.),,,,1,,
+TeacherBelt16,TeacherBelt17,"I also hope to demonstrate at home, Mistress.",(She pets your head and picks more restraints.),"DialogCurrentDS(""Evelyn"", ""Dom"")",,1,-1,,
+TeacherBelt17,TeacherBelt18,,,,,,,,TeacherUnderwearBeltedCuffedGaggedOffice
+TeacherBelt18,TeacherBelt19,,(She secures your arms behind your back and silences you with a tight panel gag.),,,,,,
+TeacherBelt19,TeacherBelt20,,You could also add more cuffs for maximal security.,,,,,,
+TeacherBelt19,TeacherBelt20,InventoryDialogPhone,"(She saves a few pictures on her phone, sending you the best one.)",,"PictureAdd(""Teacher"")",,,,
+TeacherBelt20,TeacherBelt21,,"In this attire, your sole focus should be learning.",,,,,,
+TeacherBelt21,TeacherBeltYuki1,,I trust that you are learning a lesson right now.,,,,,,
+TeacherBeltYuki1,TeacherBeltYuki2,,"Knock, knock, knock.",,,,,None,Door
+TeacherBeltYuki2,TeacherBeltYuki3,,(Someone knocks at the door.  You recognize your colleague Yuki's voice.),,,,,,
+TeacherBeltYuki3,TeacherBeltYuki4,,"Director, can I come in?  I need the new history tests.",,,,,Yuki,
+TeacherBeltYuki4,TeacherBeltYukiRevenge,,,"LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedNervousEvelynOffice
+TeacherBeltYuki4,TeacherBeltYuki5,,,"!LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedNervousEvelynOffice
+TeacherBeltYukiRevenge,TeacherBeltYuki6,,"(Evelyn whispers to you.)  PlayerName, revenge is best served cold.",,,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedNervousEvelynOffice
+TeacherBeltYuki5,TeacherBeltYuki6,,(Evelyn looks at you and makes an evil grin.),DialogLoveLower(9),,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedNervousEvelynOffice
+TeacherBeltYuki5,TeacherBeltYukiHide1,,"(Evelyn whispers to you.)  Young lady, conceal yourself under my desk.",DialogLoveGreater(10),,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedNervousEvelynOffice
+TeacherBeltYukiHide1,,,(She goes silent and points to her desk.),"!LogQuery(""Evelyn"", ""UnderDeskBound"")",,,,,
+TeacherBeltYukiHide1,,,You know how to fit under there.  (She points to her desk.),"LogQuery(""Evelyn"", ""UnderDeskBound"")",,,,,
+TeacherBeltYukiHide1,TeacherBeltYukiHide2,(Go hide under her desk.),(You rush to hide under her desk.),,,,-1,,
+TeacherBeltYukiHide1,TeacherBeltYuki6,(Stay with Evelyn.),(She seems surprised that you don't seize your chance to hide.),,,,1,,
+TeacherBeltYukiHide2,TeacherBeltYukiHide3,,,,,,,Teacher-PanelGagClosed,TeacherUnderwearBeltedCuffedGaggedHideUnderDesk
+TeacherBeltYukiHide3,TeacherBeltYukiHide4A,,(You hide under Evelyn's desk as you hear Yuki enter.),"!LogQuery(""Evelyn"", ""UnderDeskBound"")",,,,,
+TeacherBeltYukiHide3,TeacherBeltYukiHide4A,,(You hide under Evelyn's desk once again as you hear Yuki enter.),"LogQuery(""Evelyn"", ""UnderDeskBound"")",,,,,
+TeacherBeltYukiHide4A,TeacherBeltYukiHide4B,,"(The belt digs into your skin in this awkward position, but you remain silent.)",,,,,,
+TeacherBeltYukiHide4B,TeacherBeltYukiHide5,,Oh lord!  Sorry Director.  I thought I picked the tests yesterday.,,,,,Yuki,
+TeacherBeltYukiHide5,TeacherBeltYukiHide6,,"I will be quick, don't worry.",,,,,,
+TeacherBeltYukiHide6,TeacherBeltYukiHide7,,,,,,,Teacher-PanelGagClosed,TeacherUnderwearBeltedCuffedGaggedHideUnderDeskEvelynYukiOffice
+TeacherBeltYukiHide7,TeacherBeltYukiHide8A,,"(You can hear them searching in the office, picking up papers.)",,"LogAdd(""Evelyn"", ""TeacherBeltYukiHide"")",,,,
+TeacherBeltYukiHide8A,TeacherBeltYukiHide8B,,(Evelyn maneuvers and seems to make sure Yuki cannot see you.),,"LogAdd(""Evelyn"", ""UnderDeskBound"")",,,,
+TeacherBeltYukiHide8B,TeacherBeltYukiHide9,,Oh lord!  I cannot be late.  Thanks for helping.,,,,,Yuki,
+TeacherBeltYukiHide9,TeacherBeltYukiHide10,,"Please have a good day, Director.",,,,,,
+TeacherBeltYukiHide10,TeacherBeltYukiHide11,,(You can hear Yuki leaving the office.),,,,,Teacher-PanelGagClosed,TeacherUnderwearBeltedCuffedGaggedHideUnderDesk
+TeacherBeltYukiHide11,TeacherBeltYukiHide12,,(Evelyn comes back to help you stand up.),"!DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,
+TeacherBeltYukiHide11,UnderDeskOral1,,"(Evelyn comes back but doesn't help you, she sits in her chair.)","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,
+UnderDeskOral1,UnderDeskOral2,,,,,,,,TeacherBeltedUnderDeskGiveOral
+UnderDeskOral2,UnderDeskOral3,,(She grabs your hair and pulls you in between her legs.),,"LogAdd(""Evelyn"", ""UnderDeskBoundOral"")",,,Teacher-PanelGagClosed,
+UnderDeskOral3,UnderDeskOral4,,(She holds your head firmly and removes the plug from your gag.),,,,,Teacher-PanelGagOpen,
+UnderDeskOral4,UnderDeskOral5,,"Slave, show your devotion quickly, time is against us.",,,,,Evelyn,
+UnderDeskOral5,UnderDeskOral6,,,,,,,,TeacherBeltedUnderDeskGiveOralWrappedLegs
+UnderDeskOral6,,,(Your face is forced against her panties.  She's already wet.),,,,,,
+UnderDeskOral6,UnderDeskOral7,(Lick her pussy slowly and skillfully.),(She trembles a little but remains in control.),,,-1,,,
+UnderDeskOral6,UnderDeskOralOrgasm,(Play with her clitoris passionately.),(She moans a little and seems to have a discreet orgasm.),,"LogAdd(""Evelyn"", ""UnderDeskBoundOralOrgasm"")",1,,,
+UnderDeskOral6,UnderDeskOral7,(Trust your tongue in and out of her pussy lips.),(She jumps a little but remains in control.),,,-1,,,
+UnderDeskOral6,UnderDeskOralOrgasm,(Rub your nose against her clitoris and lick her pussy rapidly.),(She moans a little and seems to have a discreet orgasm.),,"LogAdd(""Evelyn"", ""UnderDeskBoundOralOrgasm"")",1,,,
+UnderDeskOral6,UnderDeskOral7,(Lick to suck her juices.),(She shivers a little but remains in control.),,,-1,,,
+UnderDeskOral6,UnderDeskOral7,(Refuse to do anything.),(She rages and pulls on your hair.),,,-3,2,,
+UnderDeskOralOrgasm,UnderDeskOral8,,"Slave, you haaaAAAaave an amazing tongue.  We shall repeat this more frequently.",,,,,,
+UnderDeskOral7,UnderDeskOral8,,"Slave, you did not perform as expected.  More training shall be required.",,,,,,
+UnderDeskOral8,UnderDeskOral9,,(She opens her legs and puts back the plug on your gag.),,,,,Teacher-PanelGagClosed,TeacherBeltedUnderDeskGiveOral
+UnderDeskOral9,TeacherBeltYukiHide12,,(She gets up from the chair and helps you to stand up.),,,,,,
+TeacherBeltYukiHide12,TeacherBeltYukiHide13,,,,,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedShyEvelynOffice
+TeacherBeltYukiHide13,TeacherBeltEnd1,,"It would have been embarrassing for you, young lady.",,,,,,
+TeacherBeltYuki6,TeacherBeltYuki7,,"(She yells at the door.)  Yes Yuki, come in.",,,,,,
+TeacherBeltYuki7,TeacherBeltYuki8,,,,,,,Yuki,TeacherUnderwearBeltedCuffedGaggedShyEvelynYukiOffice
+TeacherBeltYuki8,TeacherBeltYuki9,,Oh lord!  (Her eyes widen as she stares at you.),,,,,,
+TeacherBeltYuki9,TeacherBeltYuki10,,"Director, is she getting punished?",,,,-2,,
+TeacherBeltYuki10,TeacherBeltYuki11,,She is testing her new tool.  A demonstration is worth a thousand words.,,,,,Evelyn,
+TeacherBeltYuki11,TeacherBeltYuki12,,(Yuki laughs as they both nod.),DialogDominationGreater(-15),,,,,
+TeacherBeltYuki11,TeacherBeltYukiBelt1,,(Yuki laughs out loud as Evelyn stares at her.),DialogDominationLower(-16),,,,,
+TeacherBeltYuki12,TeacherBeltYuki13,,All that steel must be heavy.  You look like a prisoner.,,"LogAdd(""Evelyn"", ""TeacherBeltYukiShow"")",,,Yuki,TeacherUnderwearBeltedCuffedGaggedShyYukiOffice
+TeacherBeltYuki13,,,"Are you enjoying the bonus class, PlayerName?",,,,,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Shake your head and struggle hard.),(She nods and looks at the clock.),,,-1,1,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Nod and struggle happily.),(She nods and looks at the clock.),,,1,1,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Shrug and chew on the gag.),(She looks at the clock.),,,,,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Wink at Yuki and shake your hips.),(She smiles and looks at the clock.),,,2,,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Nod and blush red.),(She smirks and looks at the clock.),,,1,-1,,
+TeacherBeltYuki13,TeacherBeltYuki14,(Shake your head and blush red.),(She smirks and looks at the clock.),,,-1,-1,,
+TeacherBeltYuki14,TeacherBeltYuki15,,,,,,,,TeacherUnderwearBeltedCuffedGaggedShyEvelynYukiOfficeSearch
+TeacherBeltYuki15,TeacherBeltYuki16,,(She rummages in the office.)  Oh lord!  I'll pick the tests and go.,,,,,,
+TeacherBeltYuki16,TeacherBeltYuki17,,"Don't mind me, I will be quick, don't worry.",,,,,,
+TeacherBeltYuki17,TeacherBeltYuki18,,(She picks up some papers and leaves in a hurry.),,,,,,
+TeacherBeltYuki18,TeacherBeltYuki19,,,,,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedShyEvelynOffice
+TeacherBeltYukiBelt1,TeacherBeltYukiBelt2,,"Yuki, you laugh and mock her predicament with such glee.",,"LogAdd(""Evelyn"", ""TeacherBeltYukiBelt"")",,,,
+TeacherBeltYukiBelt2,TeacherBeltYukiBelt3,,Tell her how many times you barged in my office for missing material.,,,,,,
+TeacherBeltYukiBelt3,TeacherBeltYukiBelt4,,,,,,,Yuki,YukiNervousOffice
+TeacherBeltYukiBelt4,TeacherBeltYukiBelt5,,"(Yuki blushes and looks at the floor, seeming nervous.)",,,,,,
+TeacherBeltYukiBelt5,TeacherBeltYukiBelt6,,Oh lord!  I mean...  Director...  I was...  It was...,,,,,,
+TeacherBeltYukiBelt6,TeacherBeltYukiBelt7,,I'm sorry.  (She stares at her feet with shame.),,,,,,
+TeacherBeltYukiBelt7,TeacherBeltYukiBelt8,,Get in your undergarment.  You shall endure the same predicament.,,,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedShyEvelynYukiOffice
+TeacherBeltYukiBelt8,TeacherBeltYukiBelt9,,(Evelyn gives a stern look as Yuki slowly strips down.),,,,,,
+TeacherBeltYukiBelt9,TeacherBeltYukiBelt10,,,,,,,Yuki,YukiUnderwearNervousOffice
+TeacherBeltYukiBelt10,TeacherBeltYukiBelt11,,Director...  This is...  I mean...  Is this...,,,,,,
+TeacherBeltYukiBelt10,TeacherBeltYukiBelt11,InventoryDialogPhone,"(Evelyn stays stoic and takes a picture on her phone, sending you a copy.)",,PictureAdd(),,,,
+TeacherBeltYukiBelt11,TeacherBeltYukiBelt12,,Oh lord!  I learned my lesson.  I promise!,,,,,,
+TeacherBeltYukiBelt12,TeacherBeltYukiBelt13,,(Evelyn grabs more restraints and moves toward your colleague.),,,,,,
+TeacherBeltYukiBelt13,TeacherBeltYukiBelt14,,,,,,,,YukiUnderwearBeltedCuffedGaggedShyOffice
+TeacherBeltYukiBelt14,TeacherBeltYukiBelt15,,"(Yuki sighs loudly in her gag, as Evelyn doubles-check all the locks.)",,,,,,
+TeacherBeltYukiBelt14,TeacherBeltYukiBelt15,InventoryDialogPhone,(She blushes red as the Director takes a photo and sends it to everyone.),,PictureAdd(),,1,,
+TeacherBeltYukiBelt15,TeacherBeltYukiBelt16,,"(The teacher tugs on the cuffs in vain, giving up quickly.)",,,,,,
+TeacherBeltYukiBelt16,TeacherBeltYukiBelt17,,,,,,,Evelyn,TeacherAndYukiUnderwearBeltedCuffedGaggedEvelynInspectOffice
+TeacherBeltYukiBelt17,TeacherBeltYukiBelt18,,Justice is served.  You should know better than to ridicule a co-worker.,,,,,,
+TeacherBeltYukiBelt18,TeacherBeltYukiBelt19,,"I must acknowledge, this is stunning.  You make quite a pair like that.",,,,,,
+TeacherBeltYukiBelt19,TeacherBeltYukiBelt20,,"Chastity can be enforced on multiple students, especially if they get too intimate with each other.",,,,,,
+TeacherBeltYukiBelt20,TeacherBeltYukiBelt21,,Situations like that can occur quite often in an all-girl academy like ours. ,,,,,,
+TeacherBeltYukiBelt21,TeacherBeltYukiBelt22,,Did you two learned something today?,,,,,,
+TeacherBeltYukiBelt22,,,"(Yuki stares at you, not knowing how to answer.)",,,,,Yuki,YukiUnderwearBeltedCuffedGaggedShyOffice
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Mumble in your gag.),(She sighs as you mumble as few incomprehensible words in your gag.),,,,-2,,
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Wink to her.),(She shrugs and winks back at you.),,,,,,
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Point rapidly at her.),(She looks down as you point at her.),,,,2,,
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Make a thumbs down.),(She seems disappointed as you make a thumbs down.),,,-1,,,
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Make a thumbs up.),(She nods rapidly and makes a thumbs up back to you.),,,2,,,
+TeacherBeltYukiBelt22,TeacherBeltYukiBelt23,(Flip your middle finger.),(She looks furious as you make a rude gesture to her.),,,-3,,,
+TeacherBeltYukiBelt23,TeacherBeltYukiBelt24,,(Yuki looks at the time and starts to panic.  Evelyn gets the keys to release her.),,,,,,
+TeacherBeltYukiBelt24,TeacherBeltYukiBelt25,,,,,,,Yuki,YukiUnderwearNervousOffice
+TeacherBeltYukiBelt25,TeacherBeltYukiBelt26,,Oh lord!  I will be late!  I'm late!,,,,,,
+TeacherBeltYukiBelt26,TeacherBeltYukiBelt27,,My notes!  My tests!  My clothes!,,,,,,
+TeacherBeltYukiBelt27,TeacherBeltYukiBelt28,,(She quickly picks up her stuff and leaves the class.),,,,,,
+TeacherBeltYukiBelt28,TeacherBeltYuki19,,,,,,,Evelyn,TeacherUnderwearBeltedCuffedGaggedShyEvelynOffice
+TeacherBeltYuki19,TeacherBeltEnd1,,"It must have been embarrassing for you, revenge is sweet.","LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,,
+TeacherBeltYuki19,TeacherBeltEnd1,,"It must have been embarrassing for you, young lady.","!LogQuery(""Evelyn"", ""EvelynCagedBasementStranded"")",,,,,
+TeacherBeltEnd1,TeacherBeltEnd2,,(She looks at the clock.)  This concludes our little demonstration.,,,,,,
+TeacherBeltEnd2,TeacherBeltEnd3,,I hope it helped you to understand how our students shall feel.,,,,,,
+TeacherBeltEnd3,TeacherBeltEnd4,,(She grabs the keys to release you.),,,,,,
+TeacherBeltEnd4,TeacherBeltEnd5,,,,,,,,TeacherUnderwear
+TeacherBeltEnd5,TeacherBeltEnd6,,I trust that you learned more by wearing than simple theory.,,,,,,
+TeacherBeltEnd5,TeacherBeltEnd6,InventoryDialogPhone,(You give her your phone for a quick picture in your undies.),,"PictureAdd(""Teacher"")",,,,
+TeacherBeltEnd6,TeacherBeltEnd7,,Dress back and take a few belts before you vacate.  (You pick up your outfit.),,,,,,
+TeacherBeltEnd7,Outro1,,,,,,,,TeacherEvelynDesk
+Outro1,Outro2,,(You put a few chastity belts in your briefcase.),,"InventoryAdd(""ChastityBelt"")",,,,TeacherEvelynDesk
+Outro2,Outro3,,"Employ these devices wisely, our students require to focus on college.",,,,,,
+Outro3,,,"Now, get to detention, our pupils are expecting your presence.",,,,,,
+Outro3,Outro4,Yes Director.  (Go to class.),(You promptly leave for detention class.),,,,-1,,
+Outro3,Outro4,Fine.  (Go to class.),(You slowly leave for detention class.),,,,1,,
+Outro3,OutroDate1,"Before I go, do you have plans for the weekend?",(She looks at you curiously.),DialogTeacherIsSingle(),,,,,
+OutroDate1,Outro4,,"Young lady, I shall not repeat the same mistake.  Get to your class.","LogQuery(""Evelyn"", ""Breakup"")",,-1,,,
+OutroDate1,OutroDate2,,"Young lady, I did not expect that question.","!LogQuery(""Evelyn"", ""Breakup"")",,1,,,
+OutroDate2,,,Why do you ask?,,,,,,
+OutroDate2,OutroDate3,We could have dinner or go for a walk.,That is a fair suggestion.  We could gather this weekend for an activity.  I accept.,DialogLoveGreater(8),"LogAdd(""Evelyn"", ""FirstDate"")",,,,
+OutroDate2,OutroDate3,We could have dinner or go for a walk.,"(She shakes her head no.)  I shall decline, young lady.",DialogLoveLower(7),,,,,
+OutroDate2,Outro4,"No reason, I should go.  (Go to class.)","(You quickly leave the basement, heading for detention.)",,,-2,,,
+OutroDate3,Outro4,,"Now, get to your class.  (You walk back up as she locks the door behind.)",,,,,,
+Outro4,Outro4,,,,"SaveGameDialog(""Class"", ""Detention"")",,,,

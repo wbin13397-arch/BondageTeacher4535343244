@@ -1,0 +1,443 @@
+Entry,Intro0,,,,,,,Teacher,TeacherEnter
+Intro0,CheckBlackmail1,,(You come back home to your empty apartment.),,MiniGameParameterClear(),,,,
+CheckBlackmail1,CheckBlackmail2,,(The place is very quiet.),"!LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDesk"")",,,,,TeacherStandAlone
+CheckBlackmail1,BlackmailUnderwearCuffsDesk1,,(The place is very quiet.),"LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDesk"")",,,,,
+BlackmailUnderwearCuffsDesk1,BlackmailUnderwearCuffsDesk2,,,,,,,,TeacherStandPhone
+BlackmailUnderwearCuffsDesk2,BlackmailUnderwearCuffsDesk3,,(Sidney sends you a few text messages.),"!LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDeskPhone"")",,,,,
+BlackmailUnderwearCuffsDesk2,Intro2,,(You check your phone but there are no new messages.),"LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDeskPhone"")",,,,,
+BlackmailUnderwearCuffsDesk3,BlackmailUnderwearCuffsDesk4,,"(She tells you that you are a prey, and you must serve the hunters.)",,,,,,
+BlackmailUnderwearCuffsDesk4,BlackmailUnderwearCuffsDesk5,,"(She also sends you a picture of yourself, so you don't forget her.)",,"LogAdd(""Sidney"", ""BlackmailUnderwearCuffsDeskPhone"")",,,,
+BlackmailUnderwearCuffsDesk5,BlackmailUnderwearCuffsDesk6,,,,,,,,SidneyBlackmailUnderwearCuffsDesk
+BlackmailUnderwearCuffsDesk6,BlackmailUnderwearCuffsDesk7,,(The picture in class is very explicit.  It could compromise your career.),,,,,,
+BlackmailUnderwearCuffsDesk7,BlackmailUnderwearCuffsDesk8,,(She writes to you that you will serve her again someday.),,,,,,
+BlackmailUnderwearCuffsDesk8,Intro2,,(She stops texting you after a while.),,,,,,TeacherStandPhone
+CheckBlackmail2,Intro2,,"(You look at the clock, it's ticking very slowly.)","!LogQuery(""Sidney"", ""BlackmailNakedBoundBasementDesk"")",,,,,TeacherStandAlone
+CheckBlackmail2,BlackmailNakedBoundBasementDesk1,,"(You look at the clock, it's ticking very slowly.)","LogQuery(""Sidney"", ""BlackmailNakedBoundBasementDesk"")",,,,,
+BlackmailNakedBoundBasementDesk1,BlackmailNakedBoundBasementDesk2,,,,,,,,TeacherStandPhone
+BlackmailNakedBoundBasementDesk2,BlackmailNakedBoundBasementDesk3,,(Sidney sends you a few text messages.),"!LogQuery(""Sidney"", ""BlackmailNakedBoundBasementDeskPhone"")",,,,,
+BlackmailNakedBoundBasementDesk2,Intro2,,(You check your phone but there are no new messages.),"LogQuery(""Sidney"", ""BlackmailNakedBoundBasementDeskPhone"")",,,,,
+BlackmailNakedBoundBasementDesk3,BlackmailNakedBoundBasementDesk4,,"(She tells you that you are a prey, and you must serve the hunters.)","!DialogCurrentDS(""Sidney"", ""Dom"")",,,,,
+BlackmailNakedBoundBasementDesk3,BlackmailNakedBoundBasementDesk4,,"(She tells you that you're her bitch, her private porn star.)","DialogCurrentDS(""Sidney"", ""Dom"")",,,,,
+BlackmailNakedBoundBasementDesk4,BlackmailNakedBoundBasementDesk5,,"(She also sends you a picture of yourself, so you don't forget her.)",,"LogAdd(""Sidney"", ""BlackmailNakedBoundBasementDeskPhone"")",,,,
+BlackmailNakedBoundBasementDesk5,BlackmailNakedBoundBasementDesk6,,,,,,,,SidneyBlackmailNakedBoundBasementDesk
+BlackmailNakedBoundBasementDesk6,BlackmailNakedBoundBasementDesk7,,(The picture shows you fully naked.  It could compromise your career.),,,,,,
+BlackmailNakedBoundBasementDesk7,BlackmailNakedBoundBasementDesk8,,(She writes to you that you will work for her again soon.),"!DialogCurrentDS(""Sidney"", ""Dom"")",,,,,
+BlackmailNakedBoundBasementDesk7,BlackmailNakedBoundBasementDesk8,,(She writes that she will choke and fuck you soon.),"DialogCurrentDS(""Sidney"", ""Dom"")",,,,,
+BlackmailNakedBoundBasementDesk8,Intro2,,(She stops texting you after a while.),,,,,,TeacherStandPhone
+Intro2,Intro3,,(This might be a boring evening.),"!LogQuery(""Evelyn"", ""FirstDate"")",,,,,
+Intro2,Evelyn1,,(You notice a package by your doorstep.),"LogQuery(""Evelyn"", ""FirstDate"")",,,,,
+Intro3,,,(What will you do this weekend?),,,,,,
+Intro3,Club1,(Go to a night club.),,,,,,,TeacherNightClubAlone
+Intro3,Intro4,(Get drunk alone.),(You get wasted alone all weekend.  The hangover will probably not help your career and students.),,DialogChangeGradesAll(-1),,,,TeacherDrinkAlone
+Intro3,Restaurant1,(Eat at the restaurant.),,,,,,,TeacherRestaurantAlone
+Intro3,Shopping1,(Go shopping.),,,,,,,TeacherShoppingAlone
+Intro3,Intro4,(Binge movies and TV series in bed.),(You stay at home and binge movies and TV series in your bed.),,,,,,TeacherBedPhoneAlone
+Intro3,Intro4,(Review the students material.),"(You review the school material, preparing yourself to help your students better.)",,DialogChangeGradesAll(1),,,,TeacherStudyAlone
+Intro3,Intro8,(Sleep in your pajamas all weekend.),"(You stay at home in bed all weekend, recharging your batteries in your pajamas.)",,,,,,TeacherSleepAlonePajamas
+Restaurant1,Restaurant2,,"(You go eat at the restaurant, sitting alone with your phone in hand.)",,,,,,
+Restaurant2,Restaurant3,,(You remember how Mia used to love this place.),,,,,,
+Restaurant3,Restaurant4,,"(You look at the other tables, but she's not there.)",,,,,,
+Restaurant4,Intro4,,(You head back home after your meal.),,,,,,TeacherStandAlone
+Club1,Club2,,"(You go to a night club alone, to dance and have a good time.)",,,,,,
+Club2,Club3,,(It's a good way to unwind and watch the cute girls and boys.),,,,,,
+Club3,Club4,,"(You flirt a little, but don't end the evening with a date.)",,,,,,
+Club4,Intro4,,(You head back home after your night out.),,,,,,TeacherStandAlone
+Shopping1,Shopping2,,"(You go to the local shopping mall, looking at the stores.)",,,,,,
+Shopping2,,,(What will you buy?),,,,,,
+Shopping2,Shopping3,(Buy some clothes.),(You treat yourself with some new clothes.),,,,,,
+Shopping2,Shopping3,(Buy a headset.),(You buy a new headset for the electronic store and put it in your bag.),"!InventoryAvailable(""Headset"")","InventoryAdd(""Headset"")",,,,
+Shopping2,Shopping3,(Buy a book.),(You buy a new book to read by yourself this weekend.),,,,,,
+Shopping2,Shopping3,(Buy some ropes.),(You buy some red ropes from the hardware store and put it in your bag.),"!InventoryAvailable(""Rope"")","InventoryAdd(""Rope"")",,,,
+Shopping2,Shopping3,(Buy groceries.),(You buy some extra groceries to eat better this week.),,,,,,
+Shopping2,Shopping3,(Don't buy anything.),(You can't make up your mind and don't buy anything.),,,,,,
+Shopping3,Shopping4,,(You head back home after your shopping.),,,,,,
+Shopping4,Intro4,,,,,,,,TeacherStandAlone
+Intro4,Intro5,,(It will be a lazy weekend all alone.),,,,,,
+Intro5,,,(Will you masturbate?),,,,,,
+Intro5,Masturbate1,(Masturbate.),"(You slowly strip down, ready to masturbate alone.)",,,,,,
+Intro5,Intro6,(Don't masturbate.),(You decide to stay chaste and not touch yourself.),,,,,,
+Masturbate1,Masturbate2,,,,,,,,TeacherBedNakedMasturbate
+Masturbate2,Masturbate3,,(You lay in bed in a suggestive position.),,,,,,
+Masturbate3,,,(Who will you think about?),,,,,,
+Masturbate3,Masturbate4,(Think about Mia.),(You dream about your ex-girlfriend Mia and start to touch yourself.),"DialogCharacterIsKnown(""Mia"")","DialogChangeLove(""Mia"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Evelyn.),(You dream about your boss Evelyn and start to touch yourself.),"DialogCharacterIsKnown(""Evelyn"")","DialogChangeLove(""Evelyn"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Yuki.),(You dream about your colleague Yuki and start to touch yourself.),"DialogCharacterIsKnown(""Yuki"")","DialogChangeLove(""Yuki"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Sidney.),(You dream about your student Sidney and start to touch yourself.),"DialogCharacterIsKnown(""Sidney"")","DialogChangeLove(""Sidney"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Sarah.),(You dream about your student Sarah and start to touch yourself.),"DialogCharacterIsKnown(""Sarah"")","DialogChangeLove(""Sarah"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Amanda.),(You dream about the teacher's pet Amanda and start to touch yourself.),"DialogCharacterIsKnown(""Amanda"")","DialogChangeLove(""Amanda"", 1)",,,,
+Masturbate3,Masturbate4,(Think about a sport athlete.),(You dream about a muscular sportsman and start to touch yourself.),,,,,,
+Masturbate3,Masturbate4,(Think about a movie actress.),(You dream about a cute movie star actress and start to touch yourself.),,,,,,
+Masturbate4,Intro6,,,,"MiniGameStart(""FreeBondage"", ""TeacherApartmentMasturbate"", ""TeacherApartmentMasturbate"")",,,,MiniGameBackgroundFreeBondage
+Intro6,,,(How will you sleep this weekend?),,,,,,
+Intro6,Intro7,(Sleep in your teacher outfit.),,,,,,,TeacherSleepAloneOutfit
+Intro6,Intro7,(Sleep in your pajamas.),,,,,,,TeacherSleepAlonePajamas
+Intro6,Intro7,(Sleep fully naked.),,,,,,,TeacherSleepAloneNaked
+Intro7,Intro8,,(You sleep by yourself all weekend.),,,,,,
+Intro8,Intro9,,(You flip the lights off and close your eyes.),,,,,,
+Intro9,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,
+Evelyn1,Evelyn2,,(It's from your boss Evelyn.  There are clothes and a note in the box.),,"LogDelete(""Evelyn"", ""FirstDate"")",,,Evelyn,TeacherStandPackage
+Evelyn2,Evelyn3,," ""We are going to the history museum.  You are required to wear this.""",DialogDominationLower(-14),,,,,
+Evelyn2,Evelyn3,," ""I'm taking you to the history museum.  You shall wear these clothes.""","DialogDominationBetween(-13, -7)",,,,,
+Evelyn2,Evelyn3,," ""I'm inviting you to the history museum.  You can wear these clothes if you desire.""","DialogDominationBetween(-6, 0)",,,,,
+Evelyn2,Evelyn3,," ""Please join me at the history museum.  This is a gift for you.""",DialogDominationGreater(1),,,,,
+Evelyn3,,,(Will you visit the museum with her this weekend?),,,,,,
+Evelyn3,Evelyn4,(Go to the museum.),(You decide to go with her and check what she sent you.),,,,,,
+Evelyn3,EvelynCancel,(Stay alone at home.),"(You ditch the package and your boss, staying at your apartment.)",,,-5,2,,
+Evelyn4,Evelyn5,,"(The package contains a sleeveless white top, stockings and cute white shoes.)",,,,,,
+Evelyn5,,,(What will you wear for your trip?),,,,,,TeacherPickClothMuseum
+Evelyn5,Evelyn6,(Evelyn's white top and stockings.),(You unpack Evelyn's gift and wear it.),,"DialogVariableSet(""Cloth"", ""White"")",,,,TeacherDisplayClothWhite
+Evelyn5,Evelyn6,(Your casual clothes and jeans.),(You pick your casual clothes and wear them.),,"DialogVariableSet(""Cloth"", ""Casual"")",,,,TeacherDisplayClothCasual
+Evelyn5,Evelyn6,(Your college teacher outfit.),(You decide to stay in your regular outfit.),,"DialogVariableSet(""Cloth"", ""College"")",,,,TeacherDisplayClothCollege
+Evelyn5,EvelynCancel,(Cancel and stay alone at home.),"(You ditch the package and your boss, staying at your apartment.)",,,-5,2,,TeacherStandAlone
+EvelynCancel,Intro5,,(It will be a lazy weekend all alone.),,"LogAdd(""Evelyn"", ""Breakup"")",,,Teacher,TeacherStandAlone
+Evelyn6,Museum1,,(You're ready to join your boss at the museum.),"DialogVariableIs(""Cloth"", ""White"")",,,,Teacher,TeacherDisplayClothWhite
+Evelyn6,Museum1,,(You're ready to join your boss at the museum.),"DialogVariableIs(""Cloth"", ""Casual"")",,,,Teacher,TeacherDisplayClothCasual
+Evelyn6,Museum1,,(You're ready to join your boss at the museum.),"DialogVariableIs(""Cloth"", ""College"")",,,,Teacher,TeacherDisplayClothCollege
+Museum1,Museum2,,"(After a short bus ride, you arrive at the history museum.)","DialogVariableIs(""Cloth"", ""White"")",,,,,TeacherMuseumAloneWhite
+Museum1,Museum2,,"(After a short bus ride, you arrive at the history museum.)","DialogVariableIs(""Cloth"", ""Casual"")",,,,,TeacherMuseumAloneCasual
+Museum1,Museum2,,"(After a short bus ride, you arrive at the history museum.)","DialogVariableIs(""Cloth"", ""College"")",,,,,TeacherMuseumAloneCollege
+Museum2,Museum3,,"(The place is pretty old, not well maintained or decorated.)",,,,,,
+Museum3,Museum4,,(They change the museum theme often.  The current one is colonization.),,,,,,
+Museum4,Museum5,,"(They have ship models, maps, plants, artifacts and weapons on display.)",,,,,,
+Museum5,Museum6,,"(After a while, you and Evelyn find each other.)",,,,,,
+Museum6,Museum7,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Evelyn,EvelynTeacherMuseumMeetWhite
+Museum6,Museum7,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Evelyn,EvelynTeacherMuseumMeetCasual
+Museum6,Museum7,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Evelyn,EvelynTeacherMuseumMeetCollege
+Museum7,Museum8,,"(She examines you.)  It's a pleasure to see you in these clothes, young lady.  It suits you well.","DialogVariableIs(""Cloth"", ""White"")",,1,-2,,
+Museum7,Museum8,,(She frowns.)  I'm guessing that you did not receive my present.  Someone shall get fired.,"DialogVariableIs(""Cloth"", ""Casual"")",,-1,2,,
+Museum7,Museum8,,(She shakes her head no.)  It's not proper to wear your uniform outside young lady.,"DialogVariableIs(""Cloth"", ""College"")",,-2,,,
+Museum8,,,Are you enjoying the museum so far?,,,,,,
+Museum8,Museum9,It's quite boring.,(She seems angry.)  This is not an amusement park PlayerName.,,,-1,1,,
+Museum8,Museum9,They should renovate to present their artifacts better.,"(She nods.)  I agree, PlayerName, the place would attract a bigger crowd.",,,1,1,,
+Museum8,Museum9,I must admit that I'm really impressed.,"(She smiles.)  Your enthusiasm is music to my ears, young lady.",,,1,-1,,
+Museum8,Museum9,I'm pretty bad at history.,"(She sighs.)  Young lady, you should seize the occasion and learn.",,,-1,-1,,
+Museum9,Museum10,,Walk behind me.  I shall show you the most fascinating exhibits.,DialogDominationLower(-7),,,,,
+Museum9,Museum10,,Please walk with me.  I shall show you the most fascinating exhibits.,DialogDominationGreater(-6),,,,,
+Museum10,Museum11,,,,,,,,EvelynMuseumWalk
+Museum11,Museum12,,(You visit the museum together.  She seems to know the place very well.),,,,,,
+Museum11,Museum12,InventoryDialogPhone,(She smiles as you take a picture of her with your phone.),,PictureAdd(),1,,,
+Museum12,Museum13,,"(You get to a violent part of the museum, dedicated to wars and murders.)",,,,,,
+Museum13,,,"History is fascinating.  Alas, it has it's dark and bloody side.",,,,,,
+Museum13,Museum14,Oh my!  Let's go elsewhere.,Those who ignore history are doomed to repeat it.,,,-1,-1,,
+Museum13,Museum14,History is written by the victors.,"(She nods in agreement.)  Indeed, it is.",,,1,1,,
+Museum13,Museum14,The battles are cool.,(She rolls her eyes up.)  I might propose a few adjectives that would be better appropriated.,,,-1,1,,
+Museum13,Museum14,This is so barbaric.  It's hard to look.,Do not be afraid.  The past requires to be remembered and understood.,,,1,-1,,
+Museum14,Museum15,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynTeacherMuseumWalkWhite
+Museum14,Museum15,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynTeacherMuseumWalkCasual
+Museum14,Museum15,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynTeacherMuseumWalkCollege
+Museum15,Museum16,,(She takes your hand as you travel to a new section of the museum.),,,,,,
+Museum16,Museum17,,(This part is dedicated to a darker subject: slavery.),,,,,,
+Museum17,Museum18,,,,,,,,EvelynMuseumSlaveryWalk
+Museum18,Museum19,,"Sadly, slavery is a dark page in our human history.",,,,,,
+Museum18,Museum19,InventoryDialogPhone,(She seems pleased as you take your phone to capture her image.),,PictureAdd(),1,,,
+Museum19,Museum20,,The nations with stronger military forces enslaved the others to serve them.,,,,,,
+Museum20,Museum21,,"Hopefully, slavery is slowly dying down even if it shall never truly end.",,,,,,
+Museum21,Museum22,,It's part of our nature as humans.  We are driven to it.,,,,,,
+Museum22,,,The strong and the weak.  The wolf and the sheep.,,,,,,
+Museum22,Museum23,The Dominant and the submissive.,(She nods in agreement.)  Absolutely.,,,1,,,
+Museum22,Museum23,I'd rather be the wolf.,"Yes, being the Dominant offers lots of advantages.",,,,1,,
+Museum22,Museum23,(Check your phone.),(She sighs and shakes her head from left to right.),,,-1,,,
+Museum22,Museum23,(Listen and nod.),It's human nature and how we balance our relationships.,,,,-1,,
+Museum23,Museum24,,Dominants and submissives shall always exist in our society.,,,,,,
+Museum24,Museum25,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynTeacherMuseumPilloryWhite
+Museum24,Museum25,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynTeacherMuseumPilloryCasual
+Museum24,Museum25,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynTeacherMuseumPilloryCollege
+Museum25,Museum26,,"(As you walk, you find a fully functional pillory in the middle of a room.)",,,,,,
+Museum26,Museum27,,The pillory was a common tool to restrain and humiliate criminals or slaves.,,,,,,
+Museum27,Museum28,,(She ponders for a few seconds and smirks.)  It makes me wonder.,DialogLoveGreater(12),,,,,
+Museum27,MuseumEnd1,,(She ponders for a few seconds and shakes her head no.)  Let's continue the visit.,DialogLoveLower(11),,,,,
+Museum28,,,Would you be willing to experience it?,DialogDominationGreater(-12),,,,,
+Museum28,,,"Young lady, you shall experience the pillory.",DialogDominationLower(-13),,,,,
+Museum28,MuseumDom1,"Girl, get your ass in it.",(She clenches her fists and trembles.)  I...  That...  Are you serious?,DialogDominationGreater(0),,-1,1,,
+Museum28,MuseumEnd1,"Girl, get your ass in it.",Enough! (She slaps your face in anger.)  We shall pursue the museum tour.,DialogDominationLower(-1),,-1,1,,
+Museum28,MuseumDom1,"Evelyn, you should experience it.",(She seems nervous.)  Me?  Are you serious?,DialogDominationGreater(0),,,1,,
+Museum28,MuseumSub1,"Evelyn, you should experience it.","Nonsense, we shall get you in it.  (She guides you to the device.)",DialogDominationLower(-1),,,1,,
+Museum28,MuseumSub1,(Blush.)  I shall try it.,Good girl.  (She chuckles and guides you to the device.),,,,-1,,
+Museum28,MuseumSub1,(Wink and nod.)  What a funny idea.,(You giggle together as she guides you to the device.),,,1,,,
+Museum28,MuseumSub1,What?  Why?,(She frowns and guides you to the device.),,,-1,,,
+Museum28,MuseumEnd1,No.  Not in public.,"(She sighs.)  Very well, we shall resume the visit.",,,-1,,,
+MuseumDom1,MuseumDom2,,"(You guide her toward the device, to put her inside.)",,,,,,
+MuseumDom2,MuseumDom3,,,,,,,,EvelynMuseumLockedPillory
+MuseumDom3,MuseumDom4,,(She tests the pillory and quickly finds out that she's trapped.),,,,,,
+MuseumDom4,MuseumDom5,,(She looks stunned.)  I am... I am baffled.,,,,,,
+MuseumDom4,MuseumDom5,InventoryDialogPhone,(She fidgets as you take a humiliating picture of her.),,PictureAdd(),,1,,
+MuseumDom5,,,Did I really consent to this?,,,,,,
+MuseumDom5,MuseumDom6,Indeed.,(She blushes.),,,,,,
+MuseumDom5,MuseumDom6,"You did, girl.",(She bows her head.),,,,1,,
+MuseumDom5,MuseumDom6,Is it a bad thing?,(She shakes her head no.)  I guess not.,,,,-1,,
+MuseumDom6,MuseumDom7,,I've never felt like that before.,,,,,,
+MuseumDom7,,,I must look pathetic in this state.,,,,,,
+MuseumDom7,MuseumDom8,You're not on top anymore.,"(She sighs.)  It looks like it, PlayerName.",,,-1,1,,
+MuseumDom7,MuseumDom8,You look great in all states.,You are a kind young lady.,,,1,-1,,
+MuseumDom7,MuseumDom8,I admit it's a little intense.,"I would not use that word, young lady.",,,-1,-1,,
+MuseumDom7,MuseumDom8,You're beautiful in bondage.,"Thank you, PlayerName.  I appreciate the sentiment.",,,1,1,,
+MuseumDom8,MuseumDom9,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynMuseumLockedPilloryTeacherWhite
+MuseumDom8,MuseumDom9,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynMuseumLockedPilloryTeacherCasual
+MuseumDom8,MuseumDom9,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynMuseumLockedPilloryTeacherCollege
+MuseumDom9,MuseumDom10,,(You slowly circle around the device.),,,,,,
+MuseumDom10,MuseumDom11,,(Other visitors start to notice Evelyn locked up.),,,,,,
+MuseumDom11,MuseumDom12,,"(Some of them laugh, others take pictures.)",,,,,,
+MuseumDom12,,,This is quite embarrassing.,,,,,,
+MuseumDom12,MuseumDom13,The visitors will think it's a game.,You think so?  This is not a game to me.,,,,-1,,
+MuseumDom12,MuseumDom13,"Focus on me, don't look at them.",(She nods and tries to focus solely on you.),,,,1,,
+MuseumDom12,MuseumDom13,Shut up!,(She gulps and shuts up for a while.),,,-1,2,,
+MuseumDom12,MuseumDom13,"Yes Director, it must be quite a shock.","That word does describe the situation well, young lady.",,,1,-1,,
+MuseumDom12,MuseumDom13,You have nothing to be embarrassed about.,"Your words are kind, PlayerName.",,,1,,,
+MuseumDom13,MuseumDom17,,"(You recognize Amanda from college in the crowd, she comes forward to talk.)","DialogCharacterIsKnown(""Amanda"")",,,,,
+MuseumDom13,MuseumDom14,,"(In the crowd, a student from the College comes forward to talk.)","!DialogCharacterIsKnown(""Amanda"")","CharacterAdd(""Amanda"", ""Amanda"")",,,,
+MuseumDom14,MuseumDom15,,(She briefly stares at Evelyn and turns to you.)  Amazing!,,,,,Amanda,AmandaMuseumStand
+MuseumDom15,MuseumDom16,,"You're PlayerName aren't you?  The new detention teacher.  I'm Amanda, I study at the college.",,,,,,
+MuseumDom16,MuseumDom17,,"I often visit museums on the weekend, but I've never thought I would see that.",,,,,,
+MuseumDom17,MuseumDom18,,(She looks at Evelyn and seems amazed.),,"LogAdd(""Amanda"", ""EvelynPillory"")",,,Amanda,AmandaMuseumStand
+MuseumDom18,,,Why is Director Evelyn in that pillory?,,,,,,
+MuseumDom18,MuseumDom19,We are testing the device.,(She nods.)  This is quite a test.,,,,,,
+MuseumDom18,MuseumDom19,She's learning her true nature.,(She gulps and nods slowly.),,,,1,,
+MuseumDom18,MuseumDom19,She bet that she could get out.,(She laughs.)  Now that's a funny bet.,,,1,,,
+MuseumDom18,MuseumDom19,I wanted to humiliate her.,(She takes a step back.)  I see.,,,-1,,,
+MuseumDom18,MuseumDom19,I'm not sure how to get her out.,(She giggles.)  You might need to call for help.,,,,-1,,
+MuseumDom19,MuseumDom19B,,,,,,,,AmandaMuseumKneelEvelynPillory
+MuseumDom19B,MuseumDom20,,(She kneels in front of the pillory.)  This is truly amazing.,,,,,,
+MuseumDom19B,MuseumDom20,InventoryDialogPhone,(Amanda doesn't notice that you snap a picture behind her back.),,PictureAdd(),,,,
+MuseumDom20,,,Nobody will believe me.  Can I take a picture?,,,,,,
+MuseumDom20,MuseumDom21,Take all the pictures you want.,"Thank you very much, Teacher PlayerName.  (She takes a few pictures and puts her phone away.)",,,1,1,,
+MuseumDom20,MuseumDom21,"Fine, one picture.",Thank you!  (She takes a picture and puts her phone away.),,,1,,,
+MuseumDom20,MuseumDom21,"No, she first needs to consent.","(She nods.)  Of course, sorry I forgot about that.",,,,1,,
+MuseumDom20,MuseumDom21,"No, think about her career.",(She nods in agreement.)  I understand.,,,,,,
+MuseumDom20,MuseumDom21,"No, I'm taking the pictures.","Oh!  Of course, Teacher PlayerName.  Sorry for asking.",,,-1,1,,
+MuseumDom21,MuseumDom22,,(Evelyn struggles a little but doesn't dare to speak with the student.),,,,,Evelyn,EvelynMuseumLockedPillory
+MuseumDom21,MuseumDom22,InventoryDialogCrop,(She jumps and struggles some more as you whip her butt with the crop.),,,,1,,
+MuseumDom22,,,(What will you do with her?),,,,,,
+MuseumDom22,MuseumDomSpank1,(Spank her publicly.),(You invite Amanda and get behind Evelyn.),,,,,,
+MuseumDom22,MuseumDomAmanda1,(Make Amanda spank her.),(You turn back to Amanda.),,,,,Teacher,AmandaMuseumKneelStare
+MuseumDom22,MuseumDomEnd1,(Release her.),(You chase Amanda away and release her.),,,,,,
+MuseumDom22,MuseumDomDeaf1,InventoryDialogHeadset,(She looks surprised as you install the headset on her.),,,,1,,
+MuseumDomDeaf1,MuseumDomDeaf2,,,,,,,Evelyn-Headset,EvelynMuseumPilloryHeadset
+MuseumDomDeaf2,,,PlayerName!  What game are you playing now?,,,,,,
+MuseumDomDeaf2,MuseumDomDeaf3,It's called: A secured boss.  (Gag her.),(She bows her head as you lock the panel gag on her.),,,,1,,
+MuseumDomDeaf2,MuseumDomDeaf3,I've heard enough of you.  (Gag her.),(She frowns as you lock the panel gag on her.),,,-1,,,
+MuseumDomDeaf2,MuseumDomDeaf3,Please open wide Evelyn.  (Gag her.),(She nods as you lock the panel gag on her.),,,1,,,
+MuseumDomDeaf2,MuseumEnd1,"I'm sorry, that's enough.  (Release her.)",(You chase Amanda away and release her.),,,,-1,,
+MuseumDomDeaf2,MuseumDomDeaf3,InventoryDialogPanelGag,(Her eyes open wide as you lock the panel gag on her.),,,,,,
+MuseumDomDeaf3,MuseumDomDeaf4,,,,,,,Evelyn-HeadsetPanelGagClosed,EvelynMuseumPilloryHeadsetPanelGag
+MuseumDomDeaf4,MuseumDomDeaf5,,(She chews on the big gag as you slowly turn to Amanda.),,,,,,
+MuseumDomDeaf4,MuseumDomDeaf5,InventoryDialogPhone,(You take a quick picture of her in her predicament before addressing Amanda.),,PictureAdd(),,,,
+MuseumDomDeaf5,MuseumDomDeaf6,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynMuseumPilloryHeadsetPanelGagAmandaTeacherWhite
+MuseumDomDeaf5,MuseumDomDeaf6,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynMuseumPilloryHeadsetPanelGagAmandaTeacherCasual
+MuseumDomDeaf5,MuseumDomDeaf6,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynMuseumPilloryHeadsetPanelGagAmandaTeacherCollege
+MuseumDomDeaf6,MuseumDomDeaf7,,This is amazing.  Sarah will never believe me.,,,,,Amanda,
+MuseumDomDeaf7,,,Is she listening to something in her headset?,,,,,,
+MuseumDomDeaf7,MuseumDomDeaf8,Let's use Sidney's playlist.  (Put metal music.),"(She shakes her head no.)  Poor Director, Sidney has some horrible music.",,"DialogChangeLove(""Evelyn"", -1)",-1,,,
+MuseumDomDeaf7,MuseumDomDeaf8,I'll put some classics.  (Play classical music.),(She nods happily.)  I'm sure the Director will love it.,,"DialogChangeLove(""Evelyn"", 1)",1,,,
+MuseumDomDeaf7,MuseumDomDeaf8,I'll tease her a little.  (Play some porn audio.),(She blushes.)  You have quite a devious mind.,,"DialogChangeLove(""Evelyn"", -1)",,1,,
+MuseumDomDeaf7,MuseumDomDeaf8,Noises are already cancelled for her.,(She shrugs.)  If you say so.,,"DialogChangeLove(""Evelyn"", 1)",,-1,,
+MuseumDomDeaf8,MuseumDomDeaf9,,"This is a special lesson for Evelyn, an experiment.",,,,,Teacher,
+MuseumDomDeaf9,MuseumDomDeaf10,,"Right now, she's bound, deaf and mute.  She's helpless.",,,,,,
+MuseumDomDeaf10,MuseumDomDeaf11,,She knows that we are talking but cannot understand a word.,,,,,,
+MuseumDomDeaf11,MuseumDomDeaf12,,"It will teach her to be patient, that others can be more important than her.",,,,,,
+MuseumDomDeaf12,MuseumDomDeaf13,,"It's a very humbling lesson, but an important one.",,,,,,
+MuseumDomDeaf13,MuseumDomDeaf14,,This is a great lesson for a Director.  Humility is certainly an important quality.,,,,,Amanda,
+MuseumDomDeaf14,,,"I have lots to learn from you, Teacher PlayerName.",,,,,,
+MuseumDomDeaf14,MuseumDomDeaf15,"You're way too serious, enjoy yourself.","(She giggles.)  Yes, Teacher PlayerName.  I'll try to have more fun.",,DialogChangeGrades(-2),1,,,
+MuseumDomDeaf14,MuseumDomDeaf15,You will learn with time.,"(She shrugs.)  I guess so, Teacher PlayerName.",,,-1,,,
+MuseumDomDeaf14,MuseumDomDeaf15,Stay serious and you will learn a lot.,"(She nods rapidly.)  Yes, Teacher PlayerName.  I will be serious.",,DialogChangeGrades(2),,1,,
+MuseumDomDeaf14,MuseumDomDeaf15,Stop trying to learn and have fun Amanda.,(She laughs out loud.)  I should do better stuff on weekends.,,DialogChangeGrades(-4),,-1,,
+MuseumDomDeaf15,MuseumDomDeaf16,,She's totally clueless in that predicament.,,,,,,
+MuseumDomDeaf16,MuseumDomDeaf17,,I bet she's very curious to know what we are talking about.,,,,,,
+MuseumDomDeaf17,MuseumDomDeaf18,,"Oh well!  I need to go back home soon.  Please take care, Teacher PlayerName.",,,,,,
+MuseumDomDeaf18,MuseumDomEnd1,,(Amanda leaves as you release Evelyn from the pillory.),,,,,,
+MuseumDomSpank1,MuseumDomSpank2,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynPilloryAmandaMuseumTeacherSpankWhite
+MuseumDomSpank1,MuseumDomSpank2,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynPilloryAmandaMuseumTeacherSpankCasual
+MuseumDomSpank1,MuseumDomSpank2,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynPilloryAmandaMuseumTeacherSpankCollege
+MuseumDomSpank2,MuseumDomSpank3,,(Evelyn struggles in the pillory as you prepare to spank her.),,,,,,
+MuseumDomSpank3,,,"Young lady, what are you doing?",,,,,,
+MuseumDomSpank3,MuseumDomSpank4,I'm teaching you a lesson.,(She calms down and takes deep breaths.)  ,,,,1,,
+MuseumDomSpank3,MuseumDomSpank4,I'll beat your ass.,(She struggles harder.)  PlayerName!,,,-1,,,
+MuseumDomSpank3,MuseumDomSpank4,"Be prepared Director, it might hurt.",(She gets defiant.)  Don't you dare!,,,,-1,,
+MuseumDomSpank3,MuseumDomSpank4,I'm giving you what you desire.,(She blushes and stops her struggles.),,,1,,,
+MuseumDomSpank4,MuseumDomSpankWhite,,(You raise your hand up.),"DialogVariableIs(""Cloth"", ""White"")",,,,,
+MuseumDomSpank4,MuseumDomSpankCasual,,(You raise your hand up.),"DialogVariableIs(""Cloth"", ""Casual"")",,,,,
+MuseumDomSpank4,MuseumDomSpankCollege,,(You raise your hand up.),"DialogVariableIs(""Cloth"", ""College"")",,,,,
+MuseumDomSpankWhite,MuseumDomSpank5,,,,"MiniGameStart(""Spanking"", ""MuseumEvelynPilloryTeacherWhite"")",,,,
+MuseumDomSpankCasual,MuseumDomSpank5,,,,"MiniGameStart(""Spanking"", ""MuseumEvelynPilloryTeacherCasual"")",,,,
+MuseumDomSpankCollege,MuseumDomSpank5,,,,"MiniGameStart(""Spanking"", ""MuseumEvelynPilloryTeacherCollege"")",,,,
+MuseumDomSpank5,MuseumDomSpank6,,"(You stop as she sighs loudly.)  That was really pathetic, young lady.  You are hopeless.","MiniGameResultBetween(0, 24)",,-2,-3,,
+MuseumDomSpank5,MuseumDomSpank6,,(You stop as she grumbles.)  Your technique has deficiencies.  It requires many adjustments.,"MiniGameResultBetween(25, 49)",,-1,-1,,
+MuseumDomSpank5,MuseumDomSpank6,,"(You stop as she takes a deep breath.)  You still need practice, but your spanking technique is acceptable.","MiniGameResultBetween(50, 74)",,,1,,
+MuseumDomSpank5,MuseumDomSpank6,,(You stop as she shivers.)  Well done.  You are growing in your confidence and dominance.,"MiniGameResultBetween(75, 99)",,1,2,,
+MuseumDomSpank5,MuseumDomSpank6,,"(You stop as she moans.)  Miss, I am baffled.  Your technique is truly a work of art.","MiniGameResultBetween(100, 100)",,2,3,,
+MuseumDomSpank6,MuseumDomSpank7,,That public spanking was so embarrassing.,,,,,,
+MuseumDomSpank7,MuseumDomEnd1,,(Amanda leaves as you release her from the pillory.),,,,,,
+MuseumDomAmanda1,MuseumDomAmanda2,,"Amanda, you're a good student.  You deserve a reward.",,,,,,
+MuseumDomAmanda2,MuseumDomAmanda3,,You will be honored to do something that no student has done before.,,,,,,
+MuseumDomAmanda3,MuseumDomAmanda4,,Follow my instructions without questions and come closer.,,,,,,
+MuseumDomAmanda4,MuseumDomAmanda5A,,,,,,,Amanda,EvelynPilloryMuseumAmandaSpankAim
+MuseumDomAmanda5A,MuseumDomAmanda5B,,(She comes closer as you instruct her to put her hand straight up.),,,,,,
+MuseumDomAmanda5B,,,"Yes, Teacher PlayerName?",,,,,,
+MuseumDomAmanda5B,MuseumDomAmanda6,Spank her now.,(She nods and gets ready to spank her.),,,,1,,
+MuseumDomAmanda5B,MuseumDomAmanda6,"Girl, turn her butt red.",(She gulps and gets ready to spank her.),,,-1,2,,
+MuseumDomAmanda5B,MuseumDomAmanda6,Your reward is to spank her.,(She giggles and gets ready to spank her.),,,1,,,
+MuseumDomAmanda5B,MuseumDomAmanda6,"Spank her, but be gentle.",(She smirks and gets ready to spank her.),,,,-1,,
+MuseumDomAmanda6,MuseumDomAmanda7,,Sarah will never believe me!,,,,,,
+MuseumDomAmanda7,MuseumDomAmanda8,,(She takes a deep breath while her hand is trembling.),,,,,,
+MuseumDomAmanda8,MuseumDomAmanda9,,,,,,,Evelyn,EvelynPilloryMuseumAmandaSpankHit
+MuseumDomAmanda9,MuseumDomAmanda10,,Ow!  (Evelyn jumps in stupor from the first spank.),,,,1,,
+MuseumDomAmanda10,MuseumDomAmanda11,,,,,,,,EvelynPilloryMuseumAmandaSpankAim
+MuseumDomAmanda10,MuseumDomAmanda11,InventoryDialogPhone,(She doesn't notice as you take a picture of the scene on your phone.),,PictureAdd(),,,,
+MuseumDomAmanda11,MuseumDomAmanda12,,,,,,,,EvelynPilloryMuseumAmandaSpankHit
+MuseumDomAmanda11,MuseumDomAmanda12,InventoryDialogPhone,(You take an embarrassing picture of the situation.),,PictureAdd(),,,,
+MuseumDomAmanda12,MuseumDomAmanda13,,"(She keeps silent but cannot hide how humiliated she is, as visitors take pictures.)",,,-1,,,
+MuseumDomAmanda13,MuseumDomAmanda14,,,,,,,,EvelynPilloryMuseumAmandaSpankAim
+MuseumDomAmanda13,MuseumDomAmanda14,InventoryDialogPhone,(She doesn't notice as you take a picture of the scene on your phone.),,PictureAdd(),,,,
+MuseumDomAmanda14,MuseumDomAmanda15,,,,,,,,EvelynPilloryMuseumAmandaSpankHit
+MuseumDomAmanda14,MuseumDomAmanda15,InventoryDialogPhone,(You take an embarrassing picture of the situation.),,PictureAdd(),,,,
+MuseumDomAmanda15,MuseumDomAmanda16,,(Amanda spanks her one last time.  Your boss whimpers from the pain and humiliation.),,,,1,,
+MuseumDomAmanda16,MuseumDomEnd1,,(You chase Amanda away and release Evelyn.),,,,,,
+MuseumDomEnd1,MuseumDomEnd2,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Evelyn,EvelynTeacherMuseumWalkWhite
+MuseumDomEnd1,MuseumDomEnd2,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Evelyn,EvelynTeacherMuseumWalkCasual
+MuseumDomEnd1,MuseumDomEnd2,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Evelyn,EvelynTeacherMuseumWalkCollege
+MuseumDomEnd2,MuseumDomEnd3,,You have my gratitude for releasing me.  It was quite embarrassing.,,,,,,
+MuseumDomEnd3,MuseumDomEnd3,,I never thought I would end up consenting to be restrained in public.,,,,,,
+MuseumDomEnd3,,,You have Dominant blood.  It's easy to submit to you.,,,,,,
+MuseumDomEnd3,MuseumDomEnd4,You could become my submissive.,(She thinks for a while.)  I...  I think I would love that.,DialogDominationGreater(5),,1,1,,
+MuseumDomEnd3,MuseumEnd1,You could become my submissive.,"(She thinks for a while.)  My apologies, I cannot go that far.  Let's resume the tour.",DialogDominationLower(4),,1,1,,
+MuseumDomEnd3,MuseumEnd1,"You're wrong, I'm not a Dominant.","I guess I was mistaken about you, young lady.  Let's resume the tour.",,,-1,-3,,
+MuseumDomEnd4,MuseumDomEnd5,,(She seems nervous.)  I've never submitted to anyone before.,,,,,,
+MuseumDomEnd5,,,"My apologies, I am anxious.",,,,,,
+MuseumDomEnd5,MuseumDomEnd6,I understand.  I'm also nervous.,(She nods and holds your hand.),,,,-1,,
+MuseumDomEnd5,MuseumDomEnd6,I'll take good care of you.,(She smiles at you.),,,1,,,
+MuseumDomEnd5,MuseumDomEnd6,Don't be nervous.,I shall try my best.,,,,,,
+MuseumDomEnd5,MuseumDomEnd6,Your submission will cure your anxiety.,(She takes a deep breath and nods.),,,,1,,
+MuseumDomEnd5,MuseumDomEnd6,Stop being silly.,(She sighs and nods.),,,-1,,,
+MuseumDomEnd6,MuseumDomEnd7,,"My apologies, I have so many questions now.",,,,,,
+MuseumDomEnd7,MuseumDomEnd8,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Teacher,EvelynTeacherMuseumFingerMouthWhite
+MuseumDomEnd7,MuseumDomEnd8,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Teacher,EvelynTeacherMuseumFingerMouthCasual
+MuseumDomEnd7,MuseumDomEnd8,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Teacher,EvelynTeacherMuseumFingerMouthCollege
+MuseumDomEnd8,MuseumDomEnd9,,(You gently put a finger on her mouth and smile at her.),,,,,,
+MuseumDomEnd9,MuseumDomEnd10,,"Evelyn, we will meet again next weekend, at your home.",,"LogAdd(""Evelyn"", ""Dominate"")",,,,
+MuseumDomEnd10,MuseumDomEnd11,,I will arrange everything.  All your questions will be answered.,,,,,,
+MuseumDomEnd11,MuseumDomEnd12,,"Until then, you have a school to manage.  I will manage your life outside of it.",,,,,,
+MuseumDomEnd12,MuseumDomEnd13,,You've been in control for years now.  You will find new bliss in submission.,,,,,,
+MuseumDomEnd13,MuseumDomEnd14,,"Take care, my submissive.  We will see each other next weekend, at your house.",,,,,,
+MuseumDomEnd14,MuseumEnd7,,(She nods submissively as you release your finger.),,,,,Evelyn,
+MuseumSub1,MuseumSub2,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,TeacherMuseumLockedPilloryWhite
+MuseumSub1,MuseumSub2,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,TeacherMuseumLockedPilloryCasual
+MuseumSub1,MuseumSub2,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,TeacherMuseumLockedPilloryCollege
+MuseumSub2,MuseumSub3,,"We shall do an experiment, young lady.",,,,,,
+MuseumSub3,,,Shall you participate in the experiment?  Do I have your consent?,,,,,,
+MuseumSub3,MuseumSub4,You need to explain the details first.,That's a fair request.  Let me explain the details of experiment.,,,,,,
+MuseumSub3,MuseumSub4,I consent Miss.,Good girl.  Let me explain the details of experiment.,,,,-1,,
+MuseumSub3,MuseumEnd1,I don't consent.,(She sighs and releases you.)  Very well.,,,-1,1,,
+MuseumSub3,MuseumEnd1,Help!,(She releases you quickly.)  Your reaction was exaggerated.,,,-2,-1,,
+MuseumSub4,MuseumSub5,,"Until I say otherwise, you shall be silent.",,,,,,
+MuseumSub5,MuseumSub6,,"No word, no sound, no moan, nothing audible.  Perfect silence.",,,,,,
+MuseumSub6,,,"Is that clear, young lady?",,,,,,
+MuseumSub6,MuseumEnd1,I don't want to be silent.,(She seems disappointed and releases you.)  The experiment has ended.,,,-2,1,,
+MuseumSub6,MuseumSub7,Alright!,(She frowns.)  I'll allow this one mistake.  Now be silent.,,,-1,,,
+MuseumSub6,MuseumSub7,(Nod slowly.),(She smiles and pets your head.),,,,-1,,
+MuseumSub7,MuseumSub8,,This experiment shall help you to understand who you are.,,,,,,
+MuseumSub8,MuseumSub9,,"From perfect silence, we shall learn more than with a thousand words.",,,,,,
+MuseumSub9,MuseumSub10,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,TeacherMuseumFacePilloryWhite
+MuseumSub9,MuseumSub10,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,TeacherMuseumFacePilloryCasual
+MuseumSub9,MuseumSub10,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,TeacherMuseumFacePilloryCollege
+MuseumSub10,MuseumSub11,,(She circles around the pillory to face you.),,,,,,
+MuseumSub10,MuseumSub11,InventoryDialogPhone,(She picks your phone on the ground and snaps a picture of you before putting it back in your purse.),,"PictureAdd(""Teacher"")",,,,
+MuseumSub11,,,"Do you feel it, young lady?  Do you understand yourself?",,,,,,
+MuseumSub11,MuseumSub12,(Stay silent.),(She smirks.)  You are learning with celerity.,,,,,,
+MuseumSub11,MuseumEnd1,Enough!,(She frowns and releases you.)  It is indeed enough.,,,-2,1,,
+MuseumSub11,MuseumEnd1,"Please, can we stop?",(She nods and releases you.)  The experiment has ended.,,,-1,-1,,
+MuseumSub12,MuseumSub13,,"You might still be confused now, but everything shall become clearer in time.",,,,,,
+MuseumSub13,MuseumSub14,,"(Her phone rings.)  My apologies, this call is required.",,,,,,EvelynMuseumPhoneZoomFromBelow
+MuseumSub14,,,"Please give me a few minutes, I shall be back.",,,,,,
+MuseumSub14,MuseumEnd1,"Yes, Miss.","You failed, young lady.  (She hangs up and starts to release you.)",,,-1,-1,,
+MuseumSub14,MuseumSub15,(Nod slowly.),(She starts to talk on her phone and walks away.),,,,,,
+MuseumSub14,MuseumSub15,(Stay quiet.),(She starts to talk on her phone and walks away.),,,,,,
+MuseumSub14,MuseumEnd1,Release me first!,"As you wish, young lady.  (She hangs up and starts to release you.)",,,-2,1,,
+MuseumSub15,MuseumSub16,,(You are left alone and stranded.),"DialogVariableIs(""Cloth"", ""White"")",,,,Teacher,TeacherMuseumFacePilloryWhite
+MuseumSub15,MuseumSub16,,(You are left alone and stranded.),"DialogVariableIs(""Cloth"", ""Casual"")",,,,Teacher,TeacherMuseumFacePilloryCasual
+MuseumSub15,MuseumSub16,,(You are left alone and stranded.),"DialogVariableIs(""Cloth"", ""College"")",,,,Teacher,TeacherMuseumFacePilloryCollege
+MuseumSub16,,,(A few visitors walk by and giggle seeing you.),,,,,,
+MuseumSub16,MuseumEnd1,Hey!  Can you help?,(Evelyn quickly comes back out of nowhere to release you.)  The experiment has ended.,,,-2,1,Evelyn,
+MuseumSub16,MuseumEnd1,(Whimper for attention.),(Evelyn quickly comes back out of nowhere to release you.)  The experiment has ended.,,,-1,-1,Evelyn,
+MuseumSub16,MuseumSub17,(Bow your head silently.),"(The visitors walk by, a few of them take pictures of you, it's quite embarrassing.)",,,,,,
+MuseumSub17,MuseumSub20,,"(You recognize Amanda from college in the crowd, she rushes to see you.)","DialogCharacterIsKnown(""Amanda"")",,,,,
+MuseumSub17,MuseumSub18,,(A student from the college sees you and comes to talk.),"!DialogCharacterIsKnown(""Amanda"")","CharacterAdd(""Amanda"", ""Amanda"")",,,,
+MuseumSub18,MuseumSub19,,"Greetings, are you the new teacher in charge of detention?",,,,,Amanda,AmandaMuseumKneelStare
+MuseumSub19,MuseumSub20,,"I'm Amanda, I study at the college and sometime visit museums on the weekend.",,,,,,
+MuseumSub20,MuseumSub21,,(She looks at you curiously.),,"LogAdd(""Amanda"", ""TeacherPillory"")",,-1,Amanda,AmandaMuseumKneelStare
+MuseumSub21,,,What are you doing here?,,,,,,
+MuseumSub21,MuseumSub22,(Shake your head no.),No?  I must admit I'm confused.,,,-1,,,
+MuseumSub21,MuseumEnd1,What does it look like?,(Evelyn quickly comes to chase Amanda away and release you.)  The experiment has ended.,,,,,,
+MuseumSub21,MuseumEnd1,(Whisper to her to go away.),(Evelyn quickly comes to chase Amanda away and release you.)  The experiment has ended.,,,,,,
+MuseumSub21,MuseumEnd1,(Whisper to her to come closer.),(Evelyn quickly comes to chase Amanda away and release you.)  The experiment has ended.,,,,,,
+MuseumSub21,MuseumSub22,(Keep quiet.),The cat got your tongue?,,,,-1,,
+MuseumSub22,MuseumSub23,,Too bad Sarah never goes to museums.  She would have loved this visit.,,,,,,
+MuseumSub23,MuseumSub24,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,AmandaTeacherMuseumPilloryWhite
+MuseumSub23,MuseumSub24,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,AmandaTeacherMuseumPilloryCasual
+MuseumSub23,MuseumSub24,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,AmandaTeacherMuseumPilloryCollege
+MuseumSub24,,,(She smiles.)  Do you need help?,,,,,,
+MuseumSub24,MuseumEnd1,"I'm fine, you can go.",(Evelyn comes out of nowhere to chase Amanda away and release you.),,,,1,,
+MuseumSub24,MuseumSub25,(Bow your head and look at the floor.),"(She shrugs.)  Very well, enjoy the pillory.",,,,-1,,
+MuseumSub24,MuseumEnd1,Can you unlock me please?,(Evelyn comes out of nowhere to chase Amanda away and release you.),,,1,-1,,
+MuseumSub24,MuseumSub25,(Shake your head no.),"(She looks surprised but nods.)  Very well, I hope this isn't too painful.",,,,1,,
+MuseumSub24,MuseumEnd1,(Shake your head yes.),"(As Amanda starts to help, Evelyn comes to chase her away and release you.)",,,1,-2,,
+MuseumSub25,MuseumSub26,,Please take care.  I must go.,,,,,,AmandaMuseumKneelStare
+MuseumSub26,MuseumSub27,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Teacher,TeacherMuseumFacePilloryWhite
+MuseumSub26,MuseumSub27,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Teacher,TeacherMuseumFacePilloryCasual
+MuseumSub26,MuseumSub27,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Teacher,TeacherMuseumFacePilloryCollege
+MuseumSub27,,,"(You're alone once again, locked up in the pillory.)",,,,,,
+MuseumSub27,MuseumEnd1,Hello?  Some help?,(Evelyn quickly comes back out of nowhere to release you.)  The experiment has ended.,,,,,,
+MuseumSub27,MuseumSub28,(Wait patiently.),"(You continue to wait patiently, as people come and go while laughing.)",,,,,,
+MuseumSub27,MuseumEnd1,"Ok, this is enough!",(Evelyn quickly comes back out of nowhere to release you.)  The experiment has ended.,,,,,,
+MuseumSub28,MuseumSub29,,"(After a while, you recognize a familiar high heel sound, slowly approaching.)",,,,,,
+MuseumSub29,MuseumSub30,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Evelyn,TeacherMuseumLockedPilloryWhite
+MuseumSub29,MuseumSub30,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Evelyn,TeacherMuseumLockedPilloryCasual
+MuseumSub29,MuseumSub30,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Evelyn,TeacherMuseumLockedPilloryCollege
+MuseumSub30,MuseumSub31,,"Congratulations young lady, the experiment is completed.",,,,,,
+MuseumSub31,MuseumSub32,,I would wager that you have learned a lot about yourself.,,,,,,
+MuseumSub32,,,How are you feeling?,,,,,,
+MuseumSub32,MuseumSub33,I don't know why I stayed silent.,"The answer should be obvious now.  Deep inside, you are a submissive.",,,-1,1,,
+MuseumSub32,MuseumSub33,I feel very helpless.,This is only part of it.  The goal is to open your eyes to your submissive side.,,,,-1,,
+MuseumSub32,MuseumSub33,"Miss, I might be a submissive.","Yes, young lady, you are.  I'm glad this experience opened your eyes.",,,1,-2,,
+MuseumSub32,MuseumEnd1,Fuck that experiment.,(She frowns and releases you.)  These manners won't get you far in your career.,,,-3,1,,
+MuseumSub33,MuseumSub34,,"Let me help you out, beautiful submissive.  (She starts to unlock you.)",,,,,,
+MuseumSub34,MuseumSub35,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynTeacherMuseumPilloryWhite
+MuseumSub34,MuseumSub35,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynTeacherMuseumPilloryCasual
+MuseumSub34,MuseumSub35,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynTeacherMuseumPilloryCollege
+MuseumSub35,MuseumSub36,,"As a submissive, you require guidance, a strong hand to command you.",,,,,,
+MuseumSub36,MuseumSub37,,I could be this protective hand.  I could teach you to serve and blossom.,,,,,,
+MuseumSub37,MuseumSub38,,"Young lady, shall you submit to me?",,,,,,
+MuseumSub38,MuseumSub39,"Yes, Miss Evelyn.",(She smiles and caresses your cheek.)  Good girl.,,,2,-1,,
+MuseumSub38,MuseumEnd1,"No, I cannot do that.","(She seems disappointed.)  Very well, let's not mention this conversation again.",,,-2,1,,
+MuseumSub39,MuseumSub40,,I shall have lots to teach you.  You shall have lots to learn.,,,,,,
+MuseumSub40,MuseumSub41,,,"DialogVariableIs(""Cloth"", ""White"")",,,,,EvelynTeacherMuseumWalkWhite
+MuseumSub40,MuseumSub41,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,,EvelynTeacherMuseumWalkCasual
+MuseumSub40,MuseumSub41,,,"DialogVariableIs(""Cloth"", ""College"")",,,,,EvelynTeacherMuseumWalkCollege
+MuseumSub41,MuseumSub42,,"(You walk together in the museum, but she doesn't talk about history anymore, she's focused on you.)",,"LogAdd(""Evelyn"", ""Submit"")",,,,
+MuseumSub42,MuseumSub43,,Your newfound path shall not impact on your teaching career.  We shall be professional on college ground.,,,,,,
+MuseumSub43,MuseumSub44,,"We shall meet again at my house next week, to begin your submissive journey.",,,,,,
+MuseumSub44,,,"For now, please take care, my little one.",,,,,,
+MuseumSub44,MuseumSub45,See ya!,"See you soon, young submissive.  (She frowns as she leaves.)",,,-1,,,
+MuseumSub44,MuseumSub45,I'll call you.,"Young submissive, I shall plan everything.  (She rolls her eyes up as she leaves.)",,,,1,,
+MuseumSub44,MuseumSub45,This is wonderful.,Seeing you thrilled brings light to my day.  (She smiles as she leaves.),,,1,,,
+MuseumSub44,MuseumSub45,I will take good care Miss.,"You certainly shall, young submissive.  (She nods slowly as she leaves.)",,,,-1,,
+MuseumSub45,MuseumEnd8,,"(You're alone once again, the museum tour is over.)","DialogVariableIs(""Cloth"", ""White"")",,,,Teacher,TeacherMuseumAloneWhite
+MuseumSub45,MuseumEnd8,,"(You're alone once again, the museum tour is over.)","DialogVariableIs(""Cloth"", ""Casual"")",,,,Teacher,TeacherMuseumAloneCasual
+MuseumSub45,MuseumEnd8,,"(You're alone once again, the museum tour is over.)","DialogVariableIs(""Cloth"", ""College"")",,,,Teacher,TeacherMuseumAloneCollege
+MuseumEnd1,MuseumEnd2,,,"DialogVariableIs(""Cloth"", ""White"")",,,,Evelyn,EvelynTeacherMuseumMeetWhite
+MuseumEnd1,MuseumEnd2,,,"DialogVariableIs(""Cloth"", ""Casual"")",,,,Evelyn,EvelynTeacherMuseumMeetCasual
+MuseumEnd1,MuseumEnd2,,,"DialogVariableIs(""Cloth"", ""College"")",,,,Evelyn,EvelynTeacherMuseumMeetCollege
+MuseumEnd2,MuseumEnd3,,(You walk together and complete the exhibition.),,,,,,
+MuseumEnd3,MuseumEnd4,,"I hope you enjoyed the museum, young lady.",,,,,,
+MuseumEnd4,,,It's time for us to part.,,,,,,
+MuseumEnd4,MuseumEnd5,Smell ya later!,(She sighs and shakes her head from left to right.),,,-3,,,
+MuseumEnd4,MuseumEnd5,"Oh well, take care.",(She shrugs and checks her dress.),,,-2,,,
+MuseumEnd4,MuseumEnd5,I'm sorry.  I thought we could go for dinner.,(She shakes her head from left to right.)  You thought wrong.,,,-1,-1,,
+MuseumEnd4,MuseumEnd5,I can invite you to my place.,"My apologies, but I must decline.  ",,,-1,1,,
+MuseumEnd5,MuseumEnd6,,This visit did not turn out how I expected.,,"LogAdd(""Evelyn"", ""Breakup"")",,,,
+MuseumEnd6,MuseumEnd7,,We shall get acquainted once again at work.,,,,,,
+MuseumEnd7,MuseumEnd8,,Please take good care of yourself.  (She starts to walk away.),"DialogVariableIs(""Cloth"", ""White"")",,,,,TeacherMuseumAloneWhite
+MuseumEnd7,MuseumEnd8,,Please take good care of yourself.  (She starts to walk away.),"DialogVariableIs(""Cloth"", ""Casual"")",,,,,TeacherMuseumAloneCasual
+MuseumEnd7,MuseumEnd8,,Please take good care of yourself.  (She starts to walk away.),"DialogVariableIs(""Cloth"", ""College"")",,,,,TeacherMuseumAloneCollege
+MuseumEnd8,MuseumEnd9,,(You slowly head out to take the bus.),,,,,Teacher,
+MuseumEnd9,Intro4,,(You come back home to your empty apartment.),,,,,,TeacherStandAlone
+Outro,,,,,,,,,

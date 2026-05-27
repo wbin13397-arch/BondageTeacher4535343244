@@ -1,0 +1,259 @@
+Entry,Intro1,,,,,,,Evelyn,EvelynDesk
+Intro1,Intro2,,"(Evelyn waves at you.)  It is a pleasure to see you, PlayerName.",DialogLoveGreater(5),,,,,EvelynDeskHappy
+Intro1,Intro2,,"(Evelyn looks at you.)  There you are, young lady.","DialogLoveBetween(-4, 4)",,,,,
+Intro1,Intro2,,(Evelyn looks at you and frowns.)  It's you?  Let's do this quickly.,DialogLoveLower(-5),,,,,EvelynDeskAngry
+Intro2,Intro3,,"Please come closer, a discussion is required.",DialogDominationGreater(-5),,,,,
+Intro2,Intro3,,"Come here, a discussion is required.",DialogDominationLower(-6),,,,,
+Intro3,Intro4,,,,,,,,TeacherEvelynDesk
+Intro4,IntroNormal1,,"As usual, we require to review the quality of your work.","DialogCurrentDS(""Evelyn"", """")",,,,,
+Intro4,IntroDom1,,"(She lowers her voice.)  Miss PlayerName, I trust that you remember our agreement.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,EvelynDeskShush
+Intro4,IntroSub1,,"(She lowers her voice.)  My submissive girl, I trust that you remember our agreement.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,EvelynDeskShush
+IntroNormal1,Intro5,,(She keeps her voice low.)  I do remember the quality of your work under my desk.,"LogQuery(""Evelyn"", ""UnderDeskBoundOral"")",,,,,EvelynDeskShush
+IntroNormal1,Intro5,,Our college has high standards that we must comply to.,"!LogQuery(""Evelyn"", ""UnderDeskBoundOral"")",,,,,
+IntroDom1,IntroDom2,,"I am your submissive outside of college, but on these grounds, I am your director.",,,,,,
+IntroDom2,Intro5,,Being professional is of the upmost importance for our careers.,,,,,,
+IntroSub1,IntroSub2,,"You fully submit to me outside of college, but on these grounds, I am your director and nothing else.",,,,,,
+IntroSub2,Intro5,,Being professional is of the upmost importance for our careers.,,,,,,
+Intro5,Intro6,,We shall monitor our students' progress in your first month.,,,,,,EvelynDesk
+Intro6,Intro7,,(She looks at some student files in her computer.),,,,,,EvelynComputer
+Intro7,Intro8,,(She looks at the screen with a huge smile.)  You are doing a tremendous job.  Congratulations.,"DialogGradesDeltaBetween(""11"", ""10000"");",,2,,,
+Intro7,Intro8,,(She looks at the screen and smiles.)  You seem to be doing a fine job.  Progress is on the horizon.,"DialogGradesDeltaBetween(""4"", ""10"");",,1,,,
+Intro7,Punish1,,(She looks at the screen carefully.)  I am not seeing much progress so far.,"DialogGradesDeltaBetween(""-3"", ""3"");",,,,,
+Intro7,Punish1,,"(She frowns while looking at the screen.)  You are doing a very poor job, young lady.","DialogGradesDeltaBetween(""-10"", ""-4"");",,-1,,,
+Intro7,Expel1,,"(She stares at the screen and gets angry.)  Young lady, this is disastrous.  You are doing a horrible job.","DialogGradesDeltaBetween(""-10000"", ""-11"");",,-3,,,
+Intro8,Intro9,,"With such results, you shall surely teach your own class next semester.",,,,,,EvelynDeskHappy
+Intro9,Basement1,,"Let's not waste any time talking.  On this day, I have another tool to offer you.",,,,,,TeacherEvelynDesk
+Punish1,Punish2,,I must admit that I now have remorse about hiring you.,,,,,,EvelynDeskAngry
+Punish2,Punish3,,"To motivate you, and for our students' future, a punishment is required.",,,,,,
+Punish3,,,"Young lady, you shall be spanked.","!LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish3,,,"Once again, you shall be spanked.","LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish3,Punish4,Alright.,(She nods and cracks her knuckles.),,,,,,
+Punish3,Punish4,You can't be serious!,I am very serious.  (She cracks her knuckles.),,,-1,1,,
+Punish3,Punish4,Yes Director.,(She smirks and cracks her knuckles.),,,,-1,,
+Punish3,Punish4,I understand your methods.,(She smiles and cracks her knuckles.),,,1,,,
+Punish3,LeaveJob,"If you try to touch me, I will quit.  (Leave your job.)",(She takes a long deep breath.)  We shall end your career then.,,,-3,,,
+Punish3,Punish23,"You won't touch me, my submissive.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Punish4,Punish5,,This punishment shall be a lesson for you.,"!LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish4,Punish5,,I hope this second spanking shall teach you a lesson.,"LogQuery(""Evelyn"", ""TeacherSpanked"")",,,,,
+Punish5,Punish6,,"Bend over and put your palms on the desk, young lady.",,,,,,
+Punish6,Punish7,I don't like it.,(She grumbles as you reluctantly put your palms on her desk.),,,-1,,,
+Punish6,Punish7,Alright.,(You put your palms on her desk.),,,,,,
+Punish6,Punish7,Yes Director.,(She smirks as you quickly put your palms on her desk.),,,,-1,,
+Punish6,Punish7,With pleasure.,(She smiles as you rapidly put your palms on her desk.),,,1,,,
+Punish6,Punish7,Is it really necessary?,(She frowns as you reluctantly put your palms on her desk.),,,,1,,
+Punish6,Punish23,"My girl, you will not spank me.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Punish7,Punish8,,,,,,,,TeacherDeskPrepareSpank
+Punish8,Punish9,,I shall not leave marks but ensure that you remember your lesson.,,,,,,
+Punish9,Punish10,,,,,,,,TeacherDeskSpankAim
+Punish10,Punish11,,Take a deep breath young lady.,,,,,,
+Punish11,Punish12,,(She aims carefully and spanks your butt hard.),,,,,,
+Punish12,Punish13,,,,"LogAdd(""Evelyn"", ""TeacherSpanked"")",,,,TeacherDeskSpankHit
+Punish13,Punish14,,"Pain and humiliation are key here, not violence.",,,,,,TeacherDeskSpankAim
+Punish14,Punish15,,Good spanking should be more mental than physical.,,,,,,TeacherDeskSpankHit
+Punish15,Punish16,,Remember that your career depends on your performance.,,,,,,TeacherDeskSpankAim
+Punish16,Punish17,,And remember that your job depends on me.,,,,,,TeacherDeskSpankHit
+Punish17,Punish18,,"(She whispers.)  This spanking shall be repeated at home, with full force.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,TeacherDeskSpankAim
+Punish17,Punish18,,Stricter labor shall save your butt at our next meeting.,"!DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,TeacherDeskSpankAim
+Punish18,Punish19,,"(She spanks you a few more times, with a grin on her face.)",,,,,,TeacherDeskSpankHit
+Punish19,Punish20,,(She stops and takes a deep breath.),,,,,,TeacherDeskSpankAim
+Punish20,Punish21,,I hope that lesson was clear and understood.,,,,,,TeacherDeskPrepareSpank
+Punish21,Punish22,,You require harder work to improve our students' grades.,,,,,,
+Punish22,Punish23,,(She returns to her desk.) ,,,,,,
+Punish23,Basement1,,"To help you improve, I have another tool to offer.",,,,,,TeacherEvelynDesk
+Expel1,Expel2,,I have serious doubts about keeping you on our staff.,,,,,,EvelynDeskAngry
+Expel2,Expel3,,You do not have what it takes to be a proper teacher.,,,,,,
+Expel3,,,Do you wish to give up and quit your job?,,,,,,
+Expel3,Expel4,I want to keep my job,(She looks at the computer once again.),,,,,,EvelynComputer
+Expel3,Expel4,I want to become a good teacher.,(She nods and looks at the computer once again.),,,1,,,EvelynComputer
+Expel3,LeaveJob,I want to quit.  (Leave your job.),"(She sighs and nods.)  Teaching was never in your blood, young lady.",,,-3,,,
+Expel3,Expel7,"That's enough, my girl.  I'm keeping this job.",(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,-2,1,,EvelynDeskShush
+Expel4,Expel5,,I shall give you one last chance.,,"LogAdd(""College"", ""LastWarning"")",,,,
+Expel5,Expel6,,"If our students' grades do not improve, you shall be expelled.",,,,,,
+Expel6,,,Do you understand?,,,,,,EvelynDeskAngry
+Expel6,Expel7,I understand.,Very well.  I do hope this is correct.,,,,,,
+Expel6,Expel7,"Yes, Director.  I understand very well.","Very good, young lady.",,,,-1,,
+Expel6,Expel7,"Don't worry, the grades will improve.",(She nods.)  I shall remember these words.,,,,1,,
+Expel6,LeaveJob,Fuck this work.  (Leave your job.),(She frowns at you.)  This is the final nail in the coffin.,,,-4,,,
+Expel7,Basement1,,"To help you improve, I have another tool to offer.",,,,,,TeacherEvelynDesk
+Basement1,Basement2,,"There is a special place that you can use for discipline, the basement.",,,,,,
+Basement2,Basement3,,"Down there, we have special tools to break the most rebellious pupils.",,,,,,
+Basement3,,,"Please follow me, we shall visit the college basement together.",DialogDominationGreater(-5),,,,,
+Basement3,,,"Come with me, I shall show you the college basement.",DialogDominationLower(-6),,,,,
+Basement3,Basement4,(Smirk.)  I'm eager to see that place.,"I do enjoy this attitude, please come with me.  (She leaves her desk.)",,,,1,,
+Basement3,Basement4,(Follow her silently.),(She leaves her desk and guides you down.),,,,,,
+Basement3,Basement4,"Please lead the way, Director.","Stay close, young lady.  (She leaves her desk and guides you down.)",,,,-1,,
+Basement4,Basement5,,,,,,,,TeacherEvelynBasementStairs
+Basement5,Basement6,,Welcome to the college basement.  Please be careful if you have arachnophobia.,DialogLoveGreater(5),,,,,
+Basement5,Basement6,,This is our college basement.  Be careful with spiders.,"DialogLoveBetween(-4, 4)",,,,,
+Basement5,Basement6,,This is the basement.  The spiders shall not hurt you.,DialogLoveLower(-5),,,,,
+Basement6,Basement7,,"I know this location is cold and humid, we do not heat it.",,,,,,
+Basement7,Basement8,,This area is mostly a warehouse to store our obsolete documents and tools.,,,,,,
+Basement8,,,"It has another function, can you guess how this basement can be used?","InventoryAvailable(""Paddle"")",,,,,
+Basement8,,,"It has another function, can you guess how this basement can be used?","!InventoryAvailable(""Paddle"")",,,,,TeacherEvelynBasementGetPaddle
+Basement8,Basement9,Do you torture students here?,We shall not use that word.  We use this room as a last resort to straighten up our students.,,,-1,1,,TeacherEvelynBasementStairs
+Basement8,Basement9,To correct bad behavior?,(She nods in agreement.)  Absolutely.  It is a last resort tool to straighten up our students,,,1,1,,TeacherEvelynBasementStairs
+Basement8,Basement9,This place is scary.,"Do not be scared, you have the key.  It is a last resort room to straighten up our students",,,,-1,,TeacherEvelynBasementStairs
+Basement8,Basement9,I don't know.,(She sighs.)  We use this room as a last resort tool to straighten up our students.,,,-1,,,TeacherEvelynBasementStairs
+Basement8,BasementPaddle,SecretDialog,,"!InventoryAvailable(""Paddle"")","InventoryAdd(""Paddle"")",145,70,195,250
+BasementPaddle,Basement9,,(She smirks as you pick the wooden paddle on the wall.)  No desobedient posterior shall be spared.,,,,,,TeacherEvelynBasementGetPaddleDone
+Basement9,Explore1,,"If a pupil got sent to detention by a teacher and still cannot behave with you, you can bring her here.",,,,,,
+Explore1,Explore2,,We shall explore.  I hope you do not fear the dark.  (She guides you further.),"DialogCurrentDS(""Evelyn"", """")",,,,,
+Explore1,Explore2,,"Miss PlayerName, we can explore the darker places together if you desire.  (She guides you further.)","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+Explore1,Explore2,,We shall explore.  Do not fear the dark my submissive.  I am with you.  (She guides you further.),"DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,
+Explore2,Explore3,,,,,,,,EvelynBasementShowDesk
+Explore3,Explore4,,(You both walk in the basement and end up in a place with old desks and chairs.),,,,,,
+Explore4,Explore5,,These desks are not adequate for class anymore but can be used here.,,,,,,
+Explore5,Explore6,,"If the college is too noisy for our students to focus, you can relocate them.",,,,,,
+Explore5,Explore6,InventoryDialogPhone,(She frowns as you take a picture.)  It is disrespectful to use a phone while conversing.,,PictureAdd(),-1,,,
+Explore6,Explore7,,"When in need, your cuffs can be used to restrain a pupil to a desk.",,,,,,
+Explore7,,,How do you feel about this secluded study room?,,,,,,
+Explore7,Explore8,A quiet place is healthy to focus.,"(She nods in agreement.)  We think alike, young lady.",,,1,,,
+Explore7,Explore8,This is inhumane.,"(She frowns at you.)  Our methods are strict, but they have proven results.",,,-1,,,
+Explore7,Explore8,I would be scared to be locked up here.,"Do not be afraid, young lady.  We require you to be strong as detention manager.",,,,-1,,
+Explore7,Explore8,I'm glad to have this tool available.,It shall be a nice addition to your arsenal.,,,,1,,
+Explore7,Explore8,InventoryDialogPaddle,(She laughs as you spin the paddle.)  It should also motivate them to study harder.,,,1,1,,
+Explore8,Basement10,,"The basement is mostly used to dissuade future disobedience, not traumatize.",,,,,,
+Basement10,Basement11,,"A single visit downstairs can correct bad behavior, but if it does not work...  (She guides you further.)",,,,,,
+Basement11,Basement12,,,,,,,,TeacherEvelynBasementCageInspect
+Basement12,Basement13,,We have a few cages to lock up and isolate unruly students.,,,,,,
+Basement13,Basement14,,This specific cage heavily restricts the student movements.,,,,,,
+Basement14,,,Do you have any experience with cages?,,,,,,
+Basement14,Basement15,I don't.,"This is fine, we shall create that experience today.",,,,,,
+Basement14,Basement15,I've been caged by my lover.,"(She smirks.)  It shall be a different experience today, young lady.",,,1,-1,,
+Basement14,Basement15,"I've been stuck in an elevator, does it count?",Yes and no.  Today's experience shall be a little different.,,,,,,
+Basement14,Basement15,"Yes, I've caged my girlfriend.",(She nods and giggles softly.)  It shall be a different experience today.,,,1,1,,
+Basement14,Basement15,Cages are immoral.,"Young lady, any tool that brings a bright future to our students is moral.  You shall understand today.",,,-1,,,
+Basement15,Basement16,,"Being isolated can be scary at first, but it becomes a moment of meditation.",,,,,,
+Basement16,Basement17,,"Alone in a cage, the person can think about her behavior and how to correct it.",,,,,,
+Basement17,Basement18,,"To understand the feeling, I suggest you try the cage yourself.",,,,,,
+Basement18,,,Please step inside for a few minutes.,DialogDominationGreater(-5),,,,,
+Basement18,,,"Get inside for a few minutes, young lady.",DialogDominationLower(-6),,,,,
+Basement18,TeacherCage1,My pleasure Miss.  I hope we get one at home.,Careful what you wish for my little.  (She pats your butt as you step inside the cage.),"DialogCurrentDS(""Evelyn"", ""Dom"")",,1,-2,,
+Basement18,TeacherCage1,"Yes, Director.  (Get in the cage.)",You might learn about yourself in the process.  (She grins as you step in the cage.),,,1,-1,,
+Basement18,TeacherCage1,Will you lock it?,"Of course, young lady.  (She sighs loudly and guides you in the cage.)",,,-1,,,
+Basement18,Outro1,Trying the cage isn't needed.  I understand.,You do understand quickly.  This tour is not required.  (She walks back with you.),DialogDominationGreater(0),,-1,1,,
+Basement18,TeacherCage1,Trying the cage isn't needed.  I understand.,"Do not discuss my methods, young lady.  (She sighs and guides you in the cage.)",DialogDominationLower(-1),,-1,1,,
+Basement18,EvelynCage1,"No, you will demonstrate the cage yourself.",What?  I mean...  That...  Alright.  (She blushes and advances toward the cage.),DialogDominationGreater(0),,,2,,
+Basement18,TeacherCage1,"No, you will demonstrate the cage yourself.","Respect the college hierarchy, young lady.  Step inside.  (She guides you in the cage.)",DialogDominationLower(-1),,,2,,
+Basement18,EvelynCage1,"My sweet submissive, get in that cage.","Absolutely, Miss PlayerName.  (She blushes and advances toward the cage.)","DialogCurrentDS(""Evelyn"", ""Sub"")",,1,2,,
+Basement18,EvelynCage1,InventoryDialogCrop,(You smack her butt with the crop as she steps in the cage.)  Ow!  Fine!  I'll demonstrate the cage.,DialogDominationGreater(-4),,-1,3,,
+Basement18,EvelynCage1,InventoryDialogPaddle,(You smack her butt with the paddle as she steps in the cage.)  Ow!  Fine!  I'll demonstrate the cage.,DialogDominationGreater(-4),,-1,3,,
+TeacherCage1,TeacherCage2,,,,,,,,TeacherBasementInsideCage
+TeacherCage2,TeacherCage3,,(You squeeze yourself inside as she locks the cage.),,"LogAdd(""Evelyn"", ""TeacherCagedBasement"")",,,,
+TeacherCage3,TeacherCage4,,"The feeling of claustrophobia can be intense at first, but it shall slowly settle down.",,,,,,
+TeacherCage3,TeacherCage4,InventoryDialogPhone,"(You try to pick up your phone, but she swiftly gets it and captures the moment.)",,"PictureAdd(""Teacher"")",,1,,
+TeacherCage4,TeacherCage5,,"Being locked in a cage is humiliating.  The stigmas of an animal, a slave or a prisoner.",,,,,,
+TeacherCage5,,,Your school material can be used in conjunction with this tool.,,,,,,
+TeacherCage5,TeacherCage6,I don't understand.,Aren't you clueless?  I shall demonstrate.  (She gets some handcuffs.),,,-1,-1,,
+TeacherCage5,TeacherCage6,The cuffs?,Absolutely.  (She gets some handcuffs.),,,,,,
+TeacherCage5,TeacherCage6,I will certainly cuff them inside.,Great minds think alike.  (She gets some handcuffs.),,,1,1,,
+TeacherCage5,TeacherCage6,InventoryDialogHandcuffs,(You stare at her cuffs as she grins.),,,1,-1,,
+TeacherCage6,TeacherCage7,,(She grabs your hands and forces them behind your back.),,,,,,
+TeacherCage7,TeacherCage8,,,,,,,,EvelynTeacherBasementInsideCageCuffs
+TeacherCage8,TeacherCage9,,Adding restraints shall put emphasis on the feeling of helplessness.,,,,,,
+TeacherCage9,TeacherCage10,,"In this predicament, you have neither control nor power.",,,,,,
+TeacherCage10,,,I shall leave you alone to experience the helplessness fully.,,,,,,
+TeacherCage10,TeacherCage11,See ya later!,(She rolls her eyes up and starts to walk away.),,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""2"")",-1,1,,
+TeacherCage10,TeacherCage11,Alone like that?  What about spiders?,"You shall survive, young lady. (She starts to walk away.)",,"MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""1"")",-1,-1,,
+TeacherCage10,TeacherCage11,"(Nod slowly.)  Yes, Director.",(She smirks and starts to walk away.),"!DialogCurrentDS(""Evelyn"", ""Dom"")","MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""0"")",1,-1,,
+TeacherCage10,TeacherCage11,"(Nod slowly.)  Of course, Miss Evelyn.",You are a delightful submissive.  (She smirks and starts to walk away.),"DialogCurrentDS(""Evelyn"", ""Dom"")","MiniGameParameterSet(""Rhythm"", ""Difficulty"", ""0"")",1,-1,,
+TeacherCage10,TeacherCageEarlyEnd1,Wait!  I have severe arachnophobia!  (Panic.),"(She sighs loudly and starts to release you.)  Fine, we shall conclude this visit promptly.",,,-2,-1,,
+TeacherCageEarlyEnd1,TeacherCageEarlyEnd2,,"Phobias are hard to vanquish, young lady.  You should work on yours.",,,,,,TeacherEvelynBasementCageInspect
+TeacherCageEarlyEnd2,Outro1,,"We shall return upstairs, far from spiders.  I do hope this location shall be a useful tool.",,,,,,
+TeacherCage11,TeacherCage12,,,,,,,Teacher,TeacherBasementInsideCageCuffs
+TeacherCage12,TeacherCage13,,(You can hear her heels hitting the staircase as she goes up.),,,,,,
+TeacherCage13,TeacherCage14,,"(A loud noise of a door closing can be heard, then everything goes silent.)",,,,,,
+TeacherCage14,TeacherCage15,,"(Your eyes slowly adjust to the darkness, you now see clearer in the dark.)",,,,,,
+TeacherCage15,TeacherCage16,,,,,,,,TeacherBasementInsideCageCuffsSpiders
+TeacherCage16,TeacherCage17,,"(You can see insects crawling in the dark, some are getting closer.)",,,,,,
+TeacherCage17,TeacherCage18,,"(As time goes by, more and more spiders enter the cage.)",,,,,,
+TeacherCage18,TeacherCage19,,"(It will be hard to avoid or chase away these creatures, but you can try.)",,,,,,SpiderZoom
+TeacherCage19,TeacherCage20,,,,"MiniGameStart(""Rhythm"", ""TeacherBasementCageCuffsSpiders"")",,,,
+TeacherCage20,TeacherCage21,,"(After lots of struggles, you manage to chase all the spiders away.)","MiniGameResultBetween(75, 100)",,,,,TeacherBasementInsideCageCuffs
+TeacherCage20,TeacherCage21,,"(Exhausted, you give up and let the spiders crawl over you and inside your clothes.)","MiniGameResultBetween(0, 74)",,,,,TeacherBasementInsideCageCuffsSpidersDefeat
+TeacherCage21,TeacherCage22,,"(You wait alone for a few more minutes, then you hear the door again.)",,,,,,
+TeacherCage22,TeacherCage23,,(Her heels click on the stairs one by one as she gets closer.),,,,,,
+TeacherCage23,TeacherCage24,,,"MiniGameResultBetween(75, 100)",,,,Evelyn,EvelynTeacherBasementInsideCageCuffs
+TeacherCage23,TeacherCage24,,,"MiniGameResultBetween(0, 74)",,,,Evelyn,EvelynTeacherBasementInsideCageCuffsSpidersDefeat
+TeacherCage24,TeacherCage25,,"Young lady, you look terrific.  It was a great experience after all.","MiniGameResultBetween(100, 100)",,3,,,
+TeacherCage24,TeacherCage25,,"Young lady, you look very well.  It was a good experience.","MiniGameResultBetween(90, 99)",,2,,,
+TeacherCage24,TeacherCage25,,"Young lady, you look well.  It was a positive experience.","MiniGameResultBetween(75, 89)",,1,,,
+TeacherCage24,TeacherCage25,,"Young lady, you do not look well.  It was not a positive experience.","MiniGameResultBetween(50, 74)",,-1,,,
+TeacherCage24,TeacherCage25,,"Young lady, you look awful.  It was a horrible experience for you.","MiniGameResultBetween(10, 49)",,-2,,,
+TeacherCage24,TeacherCage25,,"Young lady, you look pathetic.  It was an ordeal to you.","MiniGameResultBetween(0, 9)",,-3,,,
+TeacherCage25,TeacherCage26,,(She bends down to release you.),,,,,,
+TeacherCage26,TeacherCage27,,,,,,,,TeacherEvelynBasementCageInspect
+TeacherCage27,TeacherCage28,,My sincere apologies.  My trip upstairs was extended for longer than expected.,,,,,,
+TeacherCage28,Outro1,,We must return to work.  I hope this room shall be used when required.,,,,,,
+EvelynCage1,EvelynCage2,,,,,,,,EvelynBasementInsideCage
+EvelynCage2,EvelynCage3,,(She slowly squeezes herself into the cage as you lock it.),,"LogAdd(""Evelyn"", ""EvelynCagedBasement"")",,,,
+EvelynCage3,EvelynCage4,,I see that you found the locking mechanism hastily.  Be careful with that key.,,,,,,
+EvelynCage3,EvelynCage4,InventoryDialogPhone,(She blushes and doesn't seem to appreciate that you capture the moment.),,PictureAdd(),-1,1,,
+EvelynCage4,EvelynCage5,,"Once a pupil is locked inside, she becomes truly helpless, a prisoner.",,,,,,
+EvelynCage4,EvelynCage8,InventoryDialogHandcuffs,(She jumps out of surprise as you cuff her hands.)  That...  was hasty.  Well done.,,,1,2,,EvelynBasementInsideCageHandcuffs
+EvelynCage5,EvelynCage6,,"The feeling of claustrophobia can be intense at first, but it shall slowly settle down.",,,,,,
+EvelynCage5,EvelynCage6,InventoryDialogCrop,(She jumps out of surprise as you hit the cage with the crop.)  Oh!  A crop can be used also.,,,,1,,
+EvelynCage5,EvelynCage6,InventoryDialogPaddle,(She jumps out of surprise as you hit the cage with the paddle.)  Oh!  A paddle can be used also.,,,,1,,
+EvelynCage6,,,Your set of cuffs can be used in conjunction with this tool.,,,,,,
+EvelynCage6,EvelynCage7,Oh!  Great idea!  (Cuff her wrists.),(You pull her hands outside the cage to cuff them.),,,1,,,
+EvelynCage6,EvelynCage7,(Grin and cuff her wrists.),(You pull her hands outside the cage to cuff them.),,,,1,,
+EvelynCage6,EvelynCage7,"Please give me your hands, Director.  (Cuff her.)",(You pull her hands outside the cage to cuff them.),,,,-1,,
+EvelynCage6,EvelynCageDecision1,I understand the cage.  There's no need to add cuffs.,"Very well, I am sure you understand how to use this tool.",,,-1,-1,,
+EvelynCage6,EvelynCageDecision1,"Very good, but I could not cuff you, Director.","I understand, I hope you shall muster the courage later to use this tool fully.",,,,-2,,
+EvelynCage6,EvelynCage7,InventoryDialogHandcuffs,(You pull her hands outside the cage to cuff them.),,,,1,,
+EvelynCage7,EvelynCage8,,,,,,,,EvelynBasementInsideCageHandcuffs
+EvelynCage8,EvelynCage9,,Adding restraints puts emphasis on the feeling of helplessness.,,,,,,
+EvelynCage8,EvelynCage9,InventoryDialogPhone,(You snap a quick picture of her in this predicament.),,PictureAdd(),,,,
+EvelynCage9,EvelynCage10,,"The humiliation becomes greater.  The stigmas of an animal, a slave or a prisoner.",,,,,,
+EvelynCage9,EvelynCage13,InventoryDialogHandcuffs,(You swiftly pull her legs outside and cuff them.)  Young lady... this is out of training scope.,,,-1,2,,EvelynBasementInsideCageDoubleCuffs
+EvelynCage10,EvelynCage11,,"In this predicament, our students have neither control nor power.",,,,,,
+EvelynCage11,,,"We can now conclude, unless you have questions.",,,,,,
+EvelynCage11,EvelynCageDecision1,"I don't have any questions, Miss Director.","Very well, I am sure you understand how to use this tool.",,,,-1,,
+EvelynCage11,EvelynCageDecision1,"That's enough, I understand.","Very good, I am certain you shall use this tool in a proper manner.",,,,1,,
+EvelynCage11,EvelynCage12,(Swiftly cuff her ankles.),(You quickly pull her feet outside the cage to cuff them.),,,-1,1,,
+EvelynCage11,EvelynCage12,"One question, can I do that?  (Cuff her ankles.)","Do what?  (As she answers, you pull her feet outside the cage to cuff them.)",,,-1,,,
+EvelynCage11,EvelynCage12,InventoryDialogHandcuffs,(You pull her feet outside the cage to cuff them.),,,-1,1,,
+EvelynCage12,EvelynCage13,,,,,,,,EvelynBasementInsideCageDoubleCuffs
+EvelynCage13,EvelynCage14,,"(She struggles awkwardly and uncomfortably, cuffed in the cage.)",,,,,,
+EvelynCage14,EvelynCage15,,You certainly know how to use the school material.,,,,,,
+EvelynCage14,EvelynCage15,InventoryDialogPhone,(You take a picture as she struggles and sighs.),,PictureAdd(),-1,1,,
+EvelynCage15,EvelynCage16,,True helplessness shall help your students to reach a submissive state.,,,,,,
+EvelynCage16,EvelynCage17,,,,,,,,EvelynBasementInsideCageDoubleCuffsZoom
+EvelynCage17,EvelynCage18,,"Once in that submissive head space, they obey and learn a lot faster.","!DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynCage17,EvelynCage18,,"(She shivers.)  I adore when you get me in that submissive head space, Miss PlayerName.","DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynCage17,EvelynCage18,InventoryDialogPhone,(You capture the moment as she starts to get cramps.),,PictureAdd(),,,,
+EvelynCage18,EvelynCageDecision1,,(She struggles once more in vain to test her predicament.),,,,,,
+EvelynCageDecision1,EvelynCageDecision2,,I think we covered the cage topic well enough.,,,,,,
+EvelynCageDecision2,,,We shall conclude this tour.  It is now time to release me.,,,,,,
+EvelynCageDecision2,EvelynCageRelease1,(Nod and release her.),(You unlock her as she slowly gets out.),,,,,,
+EvelynCageDecision2,EvelynCageRelease1,"Of course, Miss Director.  (Release her.)",(You unlock her as she slowly gets out.),,,,-1,,
+EvelynCageDecision2,EvelynCageRelease1,Next time I'll add more restraints.  (Release her.),(You unlock her as she slowly gets out.),,,,1,,
+EvelynCageDecision2,EvelynCageLeave1,"No, you're too cute all locked up.  (Leave her.)",(She stares with wide eyes as you grab the basement key from her purse.),,,1,,,
+EvelynCageDecision2,EvelynCageLeave1,"No, you will begin your own training.  (Leave her.)",(She stares with wide eyes as you grab the basement key from her purse.),,,,1,,
+EvelynCageDecision2,EvelynCageLeave1,"My girl, I will leave you locked here.  (Leave her.)",(She stares with wide eyes as you grab the basement key from her purse.),"DialogCurrentDS(""Evelyn"", ""Sub"")",,,1,,
+EvelynCageRelease1,EvelynCageRelease2,,,,,,,,TeacherEvelynBasementCageInspect
+EvelynCageRelease2,EvelynCageRelease3,,Thanks a lot.  I usually let the teachers experience the cage.,,,,,,
+EvelynCageRelease3,Outro1,,Let us conclude this tour and walk back.  I shall give you the key.,,,,,,
+EvelynCageLeave1,EvelynCageLeave2,,Young La... PlayerName...  Are you serious?,"!DialogCurrentDS(""Evelyn"", ""Sub"")",,-1,,,
+EvelynCageLeave1,EvelynCageLeave2,,Miss PlayerName...  Are you serious?,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynCageLeave2,EvelynCageLeave3,,You cannot leave me locked up here.,,"LogAdd(""Evelyn"", ""EvelynCagedBasementStranded"")",,1,,
+EvelynCageLeave3,EvelynCageLeave4,,I have work to do.  It might take hours until someone comes here.,,"LogAdd(""College"", ""BasementKey"")",-1,,,
+EvelynCageLeave4,EvelynCageLeave5,,(You head for the stairs with the basement key as she struggles madly.),,,,1,,
+EvelynCageLeave5,EvelynCageLeave6,,You fool!  I shall remember this offense!  Help!,"!DialogCurrentDS(""Evelyn"", ""Sub"")",,-1,,,
+EvelynCageLeave5,EvelynCageLeave6,,Miss PlayerName!  I shall be a good submissive!  Help!,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+EvelynCageLeave6,Outro4,,(You leave her furious in her cage and head back to detention class.),,,-1,,,
+LeaveJob,,,,,"DialogLoad(""CollegeLeave"")",,,,
+Outro1,Outro2,,(She gives you the key for the college basement.),,"LogAdd(""College"", ""BasementKey"")",,,,TeacherEvelynBasementStairs
+Outro2,Outro3,,Use the basement wisely.  It shall help students who have gone astray.,,,,,,
+Outro3,,,"Now, get to detention, our pupils shall not wait.",,,,,,
+Outro3,Outro4,Yes Director.  (Go to class.),(You promptly leave for detention class.),,,,-1,,
+Outro3,Outro4,Fine.  (Go to class.),(You slowly leave for detention class.),,,,1,,
+Outro3,OutroDate1,"Before I go, do you have plans for the weekend?",(She looks at you curiously.),DialogTeacherIsSingle(),,,,,
+OutroDate1,Outro4,,"Young lady, I shall not repeat the same mistake.  Get to your class.","LogQuery(""Evelyn"", ""Breakup"")",,-1,,,
+OutroDate1,OutroDate2,,"Young lady, I did not expect that question.","!LogQuery(""Evelyn"", ""Breakup"")",,1,,,
+OutroDate2,,,Why do you ask?,,,,,,
+OutroDate2,OutroDate3,We could have dinner or go for a walk.,That is a fair suggestion.  We could gather this weekend for an activity.  I accept.,DialogLoveGreater(8),"LogAdd(""Evelyn"", ""FirstDate"")",,,,
+OutroDate2,OutroDate3,We could have dinner or go for a walk.,"(She shakes her head no.)  I shall decline, young lady.",DialogLoveLower(7),,,,,
+OutroDate2,Outro4,"No reason, I should go.  (Go to class.)","(You quickly leave the basement, heading for detention.)",,,-2,,,
+OutroDate3,Outro4,,"Now, get to your class.  (You walk back up as she locks the door behind.)",,,,,,
+Outro4,Outro4,,,,"SaveGameDialog(""Class"", ""Detention"")",,,,

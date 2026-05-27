@@ -1,0 +1,63 @@
+Stage,Type,Option,Name,Dialog,ZoneX,ZoneY,ZoneWidth,ZoneHeight,BlushFactor,BlinkTimer,StressFactor,ArousalFactor,NextStage,Condition,Comments
+All,Menu,InventoryPuppyMittens,Puppy Mittens,This is embarrassing.|(She whimpers a little.)|(She takes a deep breath.),,,,,,,,,,,
+All,Menu,InventoryHandcuffs,Handcuffs,This is not necessary.|(She stares at the cuffs.),,,,,,,,,,,
+All,Menu,InventoryRope,Rope,No need to rope me.|(She shakes her head.),,,,,,,,,,,
+All,Menu,InventoryPanelGag,Panel Gag,This is too much!|(She gulps and shivers.),,,,,,,,,,,
+All,Menu,InventoryBallgag,Ball Gag,What the bloody hell?|(She rolls her eyes up.),,,,,,,,,,,
+All,Menu,InventoryHeadset,Headset,Music could be pleasant.|(She seems curious.),,,,,,,,,,,
+All,Menu,Remove,Remove,,,,,,,,,,,,
+All,Menu,ActionCaress,Caress,What are you doing?|(She rocks her hips.),,,,,,,,,,,
+All,Menu,ActionPet,Pet,This is weird.|(She lower her eyes.)|(She blushes.),,,,,,,,,,,
+All,Menu,ActionTickle,Tickle,Don't you dare!|(Her eyes widen.),,,,,,,,,,,
+All,Menu,ActionScratch,Scratch,I'm not a dog.|(She looks at your hand.),,,,,,,,,,,
+All,Menu,ActionSlap,Slap,Please don't.|(She closes her eyes.),,,,,,,,,,,
+All,Menu,InventoryCrop,Leather Crop,No!  I'll be good!|(She seems scared.),,,,,,,,,,,
+All,Menu,InventoryPaddle,Wooden Paddle,This must be illegal.|(She trembles in fear.),,,,,,,,,,,
+All,Menu,Exit,End Session,,,,,,,,,,,,
+Intro,Zone,InventoryPuppyMittens,RightHand,This must be a farce.|You are bloody serious?|(She wiggles her hands.)|(She whimpers and blushes.),455,480,185,135,8,0,0.95,1.1,,,StageImage
+Intro,Zone,InventoryPuppyMittens,LeftHand,This must be a farce.|You are bloody serious?|(She wiggles her hands.)|(She whimpers and blushes.),1085,400,150,135,8,0,0.95,1.1,,,StageImage
+ElbowBound,Zone,InventoryPuppyMittens,RightHand,This must be a farce.|You are bloody serious?|(She wiggles her hands.)|(She whimpers and blushes.),650,520,120,135,8,0,0.95,1.1,,,StageImage
+ElbowBound,Zone,InventoryPuppyMittens,LeftHand,This must be a farce.|You are bloody serious?|(She wiggles her hands.)|(She whimpers and blushes.),970,410,125,145,8,0,0.95,1.1,,,StageImage
+Intro,Zone,InventoryHandcuffs,Elbow,,750,510,225,100,3,2,1.1,0.9,ElbowBound,"!MiniGameParameterNameIsSet(""Elbow"")",
+Intro,Zone,InventoryRope,Elbow,,750,485,230,95,6,4,1.2,1.1,ElbowBound,"!MiniGameParameterNameIsSet(""Elbow"")",
+ElbowBound,Zone,InventoryHandcuffs,Elbow,This is too tight!|(She tugs on the cuffs.),750,510,225,100,3,2,1.1,0.9,Intro,"!MiniGameParameterGetBool(""InventoryRope"", ""Elbow"")",
+ElbowBound,Zone,InventoryRope,Elbow,This is extreme!|(She tests the ropes.),750,485,230,95,6,4,1.2,1.1,Intro,"!MiniGameParameterGetBool(""InventoryHandcuffs"", ""Elbow"")",
+All,Zone,InventoryRope,RightAnkle,Why the ropes?|(She whimpers softly.),615,825,225,170,4,1,1.05,1.05,,,
+All,Zone,InventoryRope,LeftAnkle,Why the ropes?|(She whimpers softly.),885,825,225,155,4,1,1.05,1.05,,,
+All,Zone,InventoryPanelGag,Mouth,You cannot be serious.|(She adjusts her jaw.),765,240,150,90,5,2,1.1,1.2,,"!MiniGameParameterGetBool(""InventoryBallgag"", ""Mouth"")",
+All,Zone,InventoryBallgag,Mouth,This is not proper.|Is that a toy?|(She doesn't seem impresed.),765,240,150,85,7,0,0.8,0.8,,"!MiniGameParameterGetBool(""InventoryPanelGag"", ""Mouth"")",
+All,Zone,InventoryHeadset,Head,Put something good!|(She hums a song.),675,0,300,270,1,3,0.9,1.1,,,
+All,Zone,Blush,Level1,,785,215,115,55,,,,,,,
+All,Zone,Blush,Level2,,785,215,115,55,,,,,,,
+All,Zone,Blush,Level3,,785,215,115,55,,,,,,,
+All,Zone,ActionPet,Activity,"This feels alright.|Thank you, I guess.|(You play with her hair.)|(Her pigtails flap like ears.)",550,5,110,385,7,3,-1,5,,,RightHair
+All,Zone,ActionPet,Activity,"This feels alright.|Thank you, I guess.|(You play with her hair.)|(Her pigtails flap like ears.)",970,0,110,310,7,3,-1,5,,,LeftHair
+All,Zone,ActionPet,Activity,"This feels alright.|Thank you, I guess.|(You pet her head slowly.)|(Her pigtails swing happily.)",660,15,310,160,9,2,-2,4,,,Head
+All,Zone,ActionScratch,Activity,I could learn to enjoy that.|It's weird but also fine.|(She seems to enjoy.)|(She shivers softly.)|(You scratch her head.),660,15,310,160,4,6,2,4,,,Head
+All,Zone,InventoryCrop,Activity,Eeeeeh!  Be careful!|Ow!  It bloody strings!|(She jumps from the pain.)|(She cowers in pain.),660,15,310,160,8,4,10,-2,,,Head
+All,Zone,ActionCaress,Activity,You have soft hands.|You take good care.|(She blushes a little.)|(She closes her eyes.),750,175,165,135,6,3,4,7,,,Face
+All,Zone,ActionSlap,Activity,What the bloody hell?|(She cries a little.)|(She looks away.),750,175,165,135,6,3,8,0,,,Face
+All,Zone,InventoryCrop,Activity,Eeeeeh!  Be careful!|Ow!  It bloody strings!|(She jumps from the pain.)|(She cowers in pain.),750,175,165,135,8,4,10,-2,,,Face
+All,Zone,ActionScratch,Activity,I could learn to enjoy that.|It's weird but also fine.|(She seems to enjoy.)|(She shivers softly.)|(You scratch her neck.),815,305,80,35,4,6,0,6,,,Neck
+All,Zone,ActionTickle,Activity,Do not bother!|I'm not ticklish.|(She remains stoic.),760,585,205,90,1,0,1,0,,,Ribs
+All,Zone,ActionScratch,Activity,I could learn to enjoy that.|It's weird but also fine.|(She seems to enjoy.)|(She shivers softly.)|(You scratch her ribs.),760,585,205,90,4,6,2,4,,,Ribs
+All,Zone,InventoryCrop,Activity,Eeeeeh!  Be careful!|Ow!  It bloody strings!|(She jumps from the pain.)|(She cowers in pain.),760,585,205,90,8,4,6,-1,,,Ribs
+All,Zone,ActionCaress,Activity,You have soft hands.|You take good care.|(She blushes a little.)|(She closes her eyes.),615,825,225,170,6,3,6,6,,,RightThigh
+All,Zone,ActionTickle,Activity,Do not bother!|I'm not ticklish.|(She remains stoic.),615,825,225,170,1,0,1,0,,,RightThigh
+All,Zone,ActionSlap,Activity,What the bloody hell?|(She shakes and grumbles.)|(She looks away.),615,825,225,170,6,3,6,0,,,RightThigh
+All,Zone,InventoryCrop,Activity,Eeeeeh!  Be careful!|Ow!  It bloody strings!|(She jumps from the pain.)|(She cowers in pain.),615,825,225,170,8,4,8,-1,,,RightThigh
+All,Zone,InventoryPaddle,Activity,Ow!  It bloody hurts!|(She jumps from the pain.),615,825,225,170,2,5,12,-3,,,RightThigh
+All,Zone,ActionCaress,Activity,You have soft hands.|You take good care.|(She blushes a little.)|(She closes her eyes.),885,825,225,155,6,3,6,6,,,LeftThigh
+All,Zone,ActionTickle,Activity,Do not bother!|I'm not ticklish.|(She remains stoic.),885,825,225,155,1,0,1,0,,,LeftThigh
+All,Zone,ActionSlap,Activity,What the bloody hell?|(She shakes and grumbles.)|(She looks away.),885,825,225,155,6,3,6,0,,,LeftThigh
+All,Zone,InventoryCrop,Activity,Eeeeeh!  Be careful!|Ow!  It bloody strings!|(She jumps from the pain.)|(She cowers in pain.),885,825,225,155,8,4,8,-1,,,LeftThigh
+All,Zone,InventoryPaddle,Activity,Ow!  It bloody hurts!|(She jumps from the pain.),885,825,225,155,2,5,12,-3,,,LeftThigh
+All,Meter,Stress,#FFFF00,(She gets attentive.)|(She stares at you.),41,50,50,,,,,,,,
+All,Meter,Stress,#80FF80,(Her focus is on you.)|(You have her full attention.),50,59,100,,,,,,,,
+All,Meter,Stress,#FFFF00,(She gets more nervous.)|(Her stress is getting up.),59,68,50,,,,,,,,
+All,Meter,Stress,#00000000,(She's very anxious.)|(She trembles without control.),76,84,-50,,,,,,,,
+All,Meter,Stress,#C000C0,(She's fully stressed out.)|(She's in panic mode.),84,100,-100,,,,,,,,
+All,Meter,Arousal,#FFFF00,Thanks for the care.|(She seems to appreciate.),50,75,50,,,,,,,,
+All,Meter,Arousal,#80FF80,This feels bloody nice.|(She whimpers happily.),75,90,100,,,,,,,,
+All,Meter,Arousal,#FFFF00,That's enough.|Please slow down.|(You went a little too far.),90,100,50,,,,,,,,
+All,Dialog,Position,,,150,220,450,60,,,,,,,

@@ -1,0 +1,530 @@
+Entry,Intro1,,,,,,,Evelyn,EvelynCollegeDriveCarCountry
+Intro1,Intro2,,"(Evelyn drives you back to her house, your private submissive chauffeur.)",,MiniGameParameterClear(),,,,
+Intro2,Intro3,,(You talk a little about work but mostly about her submission.),,"MiniGameParameterSet(""FreeBondage"", ""EntryStage"", ""Unbound"")",,-3,,
+Intro3,Intro4,,"(Evelyn is a natural Dominant, you need a firm hand to keep her tamed.)",,,-3,,,
+Intro4,Intro4B,,(You think about how to keep the passion burning between you two as she parks the car.),,,,,,
+Intro4B,Intro5,,,,,,,,TeacherCollegeEvelynCollegeHouseEntrance
+Intro5,Intro6,,"Welcome home, Mistress PlayerName.",,,,,,
+Intro6,,,I hope you enjoyed my prudent driving.,,,,,,
+Intro6,Intro7,You drive slower than a turtle.,"(She sighs and bows her head.)  My apologies, Mistress.  I shall drive a little faster next time.",,,-1,1,,
+Intro6,Intro7,Better be safe than sorry.,(She nods in agreement.)  Safety is of the utmost importance.,,,1,-1,,
+Intro6,Intro7,It was a fine ride.,(She nods at you.)  I am glad you feel that way.,,,,,,
+Intro6,Intro7,Next time we'll take another road.,(She bows her head.)  We shall use your itinerary.,,,,1,,
+Intro6,Intro7,One day I should learn how to drive.,(She giggles.)  It would be quite useful.,,,,-1,,
+Intro7,Intro8,,Please come inside and make yourself comfortable.,,,,,,
+Intro8,Intro9,,,,,,,None,TeacherCasuaSitCouchlLivingRoom
+Intro9,Intro10,,(You change and sit in the living room as she goes to the bathroom.),,,,,,
+Intro10,Intro11,,(Evelyn takes a quick shower and comes back.),,,,,,
+Intro11,Intro12,,,,,,,Evelyn,TeacherCasualSitCouchEvelynNakedKneelLivingRoom
+Intro12,,,(She kneels naked close to you and waits silently.),,,,,,
+Intro12,Intro13,What is on your mind?,(She lowers her shoulders and fetches her collar.)  Do not tell me you forgot about it.,,,-1,-2,,
+Intro12,Intro13,It's time for your collar.,(She nods happily.),,,1,,,
+Intro12,Intro13,(Watch the television.),(She frowns and fetches her collar.)  The collar should have priority over the television.,,,-2,-1,,
+Intro12,Intro13,(Stay silent and get her collar.),(She bows her head as you get the collar.),,,,1,,
+Intro13,Intro14,,,,,,,,TeacherCasualSitCouchEvelynNakedCollarKneelLivingRoom
+Intro14,Intro15,,(She gets comfy and seems proud to wear your collar.),DialogDominationGreater(20),,,,,
+Intro14,Intro15,,(She gets comfy and adjusts her neck to the heavy collar.),DialogDominationLower(19),,,,,
+Intro15,Intro16,,Friday is my favorite day.  We can unwind and plan the weekend.,"InventoryAvailable(""Ballgag"")",,,,,
+Intro15,Ballgag1,,"Mistress, I have a special gift for you, a small tribute.","!InventoryAvailable(""Ballgag"")","InventoryAdd(""Ballgag"")",,,,
+Ballgag1,Ballgag2,,,,,,,,TeacherCasualEvelynNakedCollarKneelGiveBallgagLivingRoom
+Ballgag2,Ballgag3,,(She bows her head and presents a ball gag.),,,,,,
+Ballgag3,Ballgag4,,"It is a high-quality plastic ball gag.  I hope you enjoy it, Mistress.",,,,,,
+Ballgag3,Ballgag4,InventoryDialogPhone,(She blushes as you keep a souvenir of the gift.),,PictureAdd(),,1,,
+Ballgag4,Ballgag5,,I trust you shall use it at an appropriate time.,,,,,,
+Ballgag5,Intro16,,(She smiles as you put the ball gag in your bag.),,,,,,TeacherCasualSitCouchEvelynNakedCollarKneelLivingRoom
+Intro16,,,What would you enjoy doing tonight?,,,,,,
+Intro16,Dungeon1,We will enjoy the dungeon.,"(She gulps and nods rapidly.)  Yes, Mistress PlayerName.","LogQuery(""Evelyn"", ""DungeonReady"")",,,1,,
+Intro16,Movie1,We can cuddle and watch a movie together.,(She smiles and nods.)  That sounds fine Mistress.,"!LogQuery(""Evelyn"", ""ActivityMovie"")","LogAdd(""Evelyn"", ""ActivityMovie"")",2,-1,,
+Intro16,Movie1,We can cuddle and watch a movie together.,(She sighs and seems disappointed.)  We can stay glued to the television once again.,"LogQuery(""Evelyn"", ""ActivityMovie"")",,,-3,,
+Intro16,Spanking1,Some spanking is needed.,(She gulps and nods.)  I understand.,"!LogQuery(""Evelyn"", ""ActivitySpanking"")","LogAdd(""Evelyn"", ""ActivitySpanking"")",-1,2,,
+Intro16,Spanking1,Some spanking is needed.,"(She gulps and frowns.)  Very well, although I doubt this is once again necessary.","LogQuery(""Evelyn"", ""ActivitySpanking"")",,-3,,,
+Intro16,Restaurant1,We'll find a good restaurant.,(She nods in agreement.)  Yes Mistress.  A fine meal together shall be most pleasant.,"!LogQuery(""Evelyn"", ""ActivityRestaurant"")","LogAdd(""Evelyn"", ""ActivityRestaurant"")",1,,,
+Intro16,Restaurant1,We'll find a good restaurant.,(She sighs and seems disappointed.)  Another restaurant?  Very well.,"LogQuery(""Evelyn"", ""ActivityRestaurant"")",,,-3,,
+Intro16,Oral1,"I'm horny my girl, you will please me.","(She nods submissively.)  It is my duty to help you, Mistress.","!LogQuery(""Evelyn"", ""ActivityOral"")","LogAdd(""Evelyn"", ""ActivityOral"")",,1,,
+Intro16,Oral1,"I'm horny my girl, you will please me.",(She rolls her eyes up quickly.)  You are insatiable.,"LogQuery(""Evelyn"", ""ActivityOral"")",,-3,,,
+Intro16,FridaySleep1,"I'm exhausted, let's get some sleep.","Very well, I understand.  (She sighs as you both get to bed.)",,,-1,-1,,
+Dungeon1,Dungeon2,,,,"LogDelete(""Evelyn"", ""ActivityMovie"")",,,,TeacherCasualEvelynNakedCollarEnterDungeon
+Dungeon2,Dungeon3,,(You both enter the dungeon once again.  The smell of brick is familiar.),"LogQuery(""Evelyn"", ""DungeonVisit"")","LogDelete(""Evelyn"", ""ActivitySpanking"")",,,,
+Dungeon2,Dungeon3,,(You both enter the newly renovated dungeon.  It smells like brick and steel.),"!LogQuery(""Evelyn"", ""DungeonVisit"")","LogDelete(""Evelyn"", ""ActivitySpanking"")",,,,
+Dungeon3,Dungeon4,,"(When you close the door behind you, it becomes completely silent.)",,"LogDelete(""Evelyn"", ""ActivityRestaurant"")",,,,
+Dungeon4,Dungeon5,,"Every time we wander here, I get goosebumps.","LogQuery(""Evelyn"", ""DungeonVisit"")","LogDelete(""Evelyn"", ""ActivityOral"")",,,,
+Dungeon4,Dungeon5,,Experiencing your own private dungeon for the first time is quite thrilling.,"!LogQuery(""Evelyn"", ""DungeonVisit"")","LogDelete(""Evelyn"", ""ActivityOral"")",1,,,
+Dungeon5,Dungeon6,,,,"LogAdd(""Evelyn"", ""DungeonVisit"")",,,,EvelynNakedCollarEnterDungeon
+Dungeon6,Dungeon7,,Being here with a strong Dominant like you certainly enhances the feeling of being owned.,DialogDominationGreater(20),,,,,
+Dungeon6,Dungeon7,,Being here with you enhances the feeling of being controlled.,"DialogDominationBetween(10, 19)",,,,,
+Dungeon6,Dungeon7,,Someday we could use it to lock up other submissives.,DialogDominationLower(9),,,,,
+Dungeon7,,,"There are many possibilities, depending on your mood.",,,,,,
+Dungeon7,DungeonRope1,Get the ropes and your sexy butt on the bed.,(She smiles widely and moves playfully toward the bed.),"!LogQuery(""Evelyn"", ""ActivityDungeonBed"")","LogAdd(""Evelyn"", ""ActivityDungeonBed"")",3,-1,,
+Dungeon7,DungeonRope1,Get the ropes and your sexy butt on the bed.,You certainly have a one-track naughty mind.  (She jumps on the bed.),"LogQuery(""Evelyn"", ""ActivityDungeonBed"")",,1,-3,,
+Dungeon7,DungeonCross1,An x cross and whip lashes are perfect for you.,(She stares at the cross as you both get closer.),"!LogQuery(""Evelyn"", ""ActivityDungeonCross"")","LogAdd(""Evelyn"", ""ActivityDungeonCross"")",1,1,,
+Dungeon7,DungeonCross1,An x cross and whip lashes are perfect for you.,(She rolls her eyes up as you both get closer.),"LogQuery(""Evelyn"", ""ActivityDungeonCross"")",,-1,-1,,
+Dungeon7,DungeonSaddle1,We'll do some orgasm training on the saddle ,I am curious to experience your special training.  (She gets to the device.),"!LogQuery(""Evelyn"", ""ActivityDungeonSaddle"")","LogAdd(""Evelyn"", ""ActivityDungeonSaddle"")",2,,,
+Dungeon7,DungeonSaddle1,We'll do some orgasm training on the saddle ,I do remember your training methods.  (She winks and walks confidently.),"LogQuery(""Evelyn"", ""ActivityDungeonSaddle"")",,,-2,,
+Dungeon7,DungeonChain1,You will be chained here all weekend.,(Her eyes widen.)  Chained for the whole weekend?,"!LogQuery(""Evelyn"", ""ActivityDungeonChain"")","LogAdd(""Evelyn"", ""ActivityDungeonChain"")",-2,3,,
+Dungeon7,DungeonChain1,You will be chained here all weekend.,(You can hear the deception in her voice.)  Chained once again?,"LogQuery(""Evelyn"", ""ActivityDungeonChain"")",,-4,1,,
+DungeonRope1,DungeonRope2,,,,"LogDelete(""Evelyn"", ""ActivityDungeonCross"")",,,,EvelynNakedCollarDungeonBedKneelPresentRopes
+DungeonRope2,DungeonRope3,,(She kneels on the bed and presents the ropes.),,"LogDelete(""Evelyn"", ""ActivityDungeonSaddle"")",,,,
+DungeonRope3,DungeonRope4,,Being your rope slave sounds like a pleasant experience.,,"LogDelete(""Evelyn"", ""ActivityDungeonChain"")",,,,
+DungeonRope3,DungeonRope4,InventoryDialogPhone,(She smiles as you take a few pictures of her.),,PictureAdd(),,,,
+DungeonRope4,,,I am inquisitive about how you shall tie me.,,,,,,
+DungeonRope4,DungeonRope5,I'll do a classic hogtie.,(She nods and lies on her stomach as you rope her up in a hogtie.),,"DialogVariableSet(""Position"", ""HogTie"")",,,,EvelynNakedCollarDungeonBedHogTie
+DungeonRope4,DungeonRope5,I'll sausage you tightly.,(She nods and lies on her back as you rope her up tightly.),,"DialogVariableSet(""Position"", ""SausageTie"")",,,,EvelynNakedCollarDungeonBedSausageTie
+DungeonRope4,DungeonRope5,A spread eagle will do great.,(She nods and spreads her limbs as you rope her up.),,"DialogVariableSet(""Position"", ""SpreadTie"")",,,,EvelynNakedCollarDungeonBedSpreadTie
+DungeonRope5,DungeonRope6,,,,,,,,
+DungeonRope6,DungeonRope7,,"Mistress PlayerName, you are a rope artist.",,,,,,
+DungeonRope6,DungeonRope7,InventoryDialogPhone,(She looks at your phone as you take naughty pictures.),,PictureAdd(),,,,
+DungeonRope7,DungeonRope8,,Shibari is an intense but calming experience.,,,,,,
+DungeonRope7,DungeonRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""HogTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,EvelynNakedCollarDungeonBedHogTieBallGag
+DungeonRope7,DungeonRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""SausageTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,EvelynNakedCollarDungeonBedSausageTieBallGag
+DungeonRope7,DungeonRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""SpreadTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,EvelynNakedCollarDungeonBedSpreadTieBallGag
+DungeonRope7,DungeonRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""HogTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,EvelynNakedCollarDungeonBedHogTiePanelGag
+DungeonRope7,DungeonRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""SausageTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,EvelynNakedCollarDungeonBedSausageTiePanelGag
+DungeonRope7,DungeonRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""SpreadTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,EvelynNakedCollarDungeonBedSpreadTiePanelGag
+DungeonRopeGag1,DungeonRopeGag2,,,,,,,,
+DungeonRopeGag2,DungeonRopeGag3,,(She chews on the gag and tests the ropes some more.),,,,,,
+DungeonRopeGag2,DungeonRopeGag3,InventoryDialogPhone,(She blushes red as you immortalize her helplessness.),,PictureAdd(),,1,,
+DungeonRopeGag3,DungeonRopeGag4,,Hah a hiceh heehinh.  (She chews on the ball while speaking.),"DialogVariableIs(""Gag"", ""BallGag"")",,,,,
+DungeonRopeGag3,DungeonRopeGag4,,Mma a micem meeminm.  (She struggles with the panel gag while speaking.),"DialogVariableIs(""Gag"", ""PanelGag"")",,,,,
+DungeonRopeGag4,,,(She looks at you submissively.),,,,,,
+DungeonRopeGag4,DungeonRopeGag5,(Caress her.),(She moans slowly as you caress her body lovingly.),,,1,-1,,
+DungeonRopeGag4,DungeonRopeGag5,(Kiss her gag.),(She makes a dubious look as you kiss her gag.),,,,-1,,
+DungeonRopeGag4,DungeonRopeGag5,(Grope her.),(She twists in the ropes as you grope her breast.),,,-1,1,,
+DungeonRopeGag4,DungeonRopeGag5,(Tickle her.),(She grumbles and thrashes in the ropes as you tickle her.),,,-2,,,
+DungeonRopeGag4,DungeonRopeGag5,(Spank her.),(She jumps and whimpers in the gag as you spank her hard.),,,1,1,,
+DungeonRopeGag4,DungeonRopeGag5,(Do nothing special.),(She seems disappointed that you don't seize the opportunity.),,,-1,-2,,
+DungeonRopeGag4,DungeonRopeGag5,InventoryDialogCrop,(She struggles and screams in her gag from the pleasure and pain.),,,1,2,,
+DungeonRopeGag4,DungeonRopeGag5,InventoryDialogPaddle,(She struggles and screams in her gag from the pleasure and pain.),,,1,2,,
+DungeonRopeGag4,DungeonRopeGag5,InventoryDialogWhip,(She struggles and screams in her gag from the pleasure and pain.),,,1,2,,
+DungeonRopeGag5,DungeonRopeEnd1,,(You remove her gag after a while.  Leaving her bound.),"DialogVariableIs(""Position"", ""HogTie"")",,,,,EvelynNakedCollarDungeonBedHogTie
+DungeonRopeGag5,DungeonRopeEnd1,,(You remove her gag after a while.  Leaving her bound.),"DialogVariableIs(""Position"", ""SausageTie"")",,,,,EvelynNakedCollarDungeonBedSausageTie
+DungeonRopeGag5,DungeonRopeEnd1,,(You remove her gag after a while.  Leaving her bound.),"DialogVariableIs(""Position"", ""SpreadTie"")",,,,,EvelynNakedCollarDungeonBedSpreadTie
+DungeonRope8,DungeonRope9,,"It is thrilling, I feel like a slave from another era.",,,,,,
+DungeonRope9,,,You can do as you please with me.,,,,,,
+DungeonRope9,DungeonRopeEnd1,(Caress her.),(She moans slowly as you caress her body lovingly.)  This is relaxing.,,,1,-1,,
+DungeonRope9,DungeonRopeEnd1,(Kiss her lips.),(She enjoys the kisses but seems to want more.),,,,-1,,
+DungeonRope9,DungeonRopeEnd1,(Grope her.),(She twists in the ropes as you grope her breast.),,,-1,1,,
+DungeonRope9,DungeonRopeEnd1,(Tickle her.),(She grumbles and thrashes in the ropes as you tickle her.)  This is not pleasurable.,,,-2,,,
+DungeonRope9,DungeonRopeEnd1,(Spank her.),(She whimpers and enjoys the hard spanks.),,,1,1,,
+DungeonRope9,DungeonRopeEnd1,(Do nothing special.),(She seems disappointed that you don't seize the opportunity.),,,-1,-2,,
+DungeonRope9,DungeonRopeEnd1,InventoryDialogCrop,(She struggles and screams from pleasure and pain.),,,1,2,,
+DungeonRope9,DungeonRopeEnd1,InventoryDialogPaddle,(She struggles and screams from pleasure and pain.),,,1,2,,
+DungeonRope9,DungeonRopeEnd1,InventoryDialogWhip,(She struggles and screams from pleasure and pain.),,,1,2,,
+DungeonRopeEnd1,DungeonRopeEnd2,,Being your rope slave is exhilarating.  True bliss.,DialogLoveGreater(16),,,,,
+DungeonRopeEnd1,DungeonRopeEnd2,,Being your rope slave feels nice.,DialogLoveLower(15),,,,,
+DungeonRopeEnd2,DungeonRopeEnd3,,(She struggles a little more as time goes by.),,,,,,
+DungeonRopeEnd3,FridaySleep1,,(The clock ticks and it's time to release her and get to bed.),,,,,,
+DungeonCross1,DungeonCross2,,,,"LogDelete(""Evelyn"", ""ActivityDungeonBed"")",,,,EvelynNakedCollarCrossDungeonInspect
+DungeonCross2,DungeonCross3,,(You lead her to the cross with a grin.  She inspects it closely.),,"LogDelete(""Evelyn"", ""ActivityDungeonSaddle"")",,,,
+DungeonCross3,DungeonCross4,,"I am glad I bought this St-Andrew Cross, even if I did not intend to use it myself.",,"LogDelete(""Evelyn"", ""ActivityDungeonChain"")",,,,
+DungeonCross4,DungeonCross4B,,The wood is surprisingly heavy and sturdy.  No struggles can make it shift.,,,,,,
+DungeonCross4B,DungeonCross5,,"In combination with your whip, it can become a tremendous training tool.","InventoryAvailable(""Whip"")",,,,,
+DungeonCross4B,DungeonCrossGiveWhip1,,,"!InventoryAvailable(""Whip"")",,,,,EvelynNakedCollarCrossDungeonGiveWhip
+DungeonCrossGiveWhip1,DungeonCrossGiveWhip2,,(She picks up a leather whip from the wall and presents it to you.),,,,,,
+DungeonCrossGiveWhip1,DungeonCrossGiveWhip2,InventoryDialogPhone,(She blushes red as you immortalize the gift.),,PictureAdd(),,1,,
+DungeonCrossGiveWhip2,DungeonCrossGiveWhip3,,"A gift for you, Mistress PlayerName.",,"InventoryAdd(""Whip"")",,,,
+DungeonCrossGiveWhip3,DungeonCross5,,The whip and cross combination can produce a great training environment.,,,,,,
+DungeonCross5,DungeonCross5B,,,,,,,,TeacherCasualEvelynNakedCollarCrossDungeonCuffed
+DungeonCross5B,DungeonCross5C,,(You get the cross leather cuffs and attach them.),,,,,,
+DungeonCross5C,DungeonCross5D,,The leather is both supple and strong.  I've treated them with care.,,,,,,
+DungeonCross5D,DungeonCross6,,(She tests the fasteners as you push her toward the cross.),,,,,,
+DungeonCross6,DungeonCross7,,,,,,,,EvelynNakedCollarCrossDungeonStrapped
+DungeonCross7,DungeonCross8,,The feeling of helplessness and the anticipation is quite exhilarating.,,,,,,
+DungeonCross7,DungeonCross8,InventoryDialogPhone,(She struggles a little more as you take pictures.),,PictureAdd(),,,,
+DungeonCross8,DungeonCross9,,(She takes a deep breath as you get closer.),,,,,,EvelynNakedCollarCrossDungeonStrappedZoom
+DungeonCross9,DungeonCross10,,,,"MiniGameStart(""Spanking"", ""BossHouseDungeonCrossWhip"")",,,,
+DungeonCross10,DungeonCross11,,(You stop as she cries.)  That was truly awful.  I resent building this dungeon.,"MiniGameResultBetween(0, 24)",,-2,-4,,EvelynNakedCollarCrossDungeonStrapped
+DungeonCross10,DungeonCross11,,"(You stop as she grumbles.)  Enough, please.  This is not working properly.","MiniGameResultBetween(25, 49)",,-1,-1,,EvelynNakedCollarCrossDungeonStrapped
+DungeonCross10,DungeonCross11,,(You stop as she wiggles her butt.)  That was not horrible.  I hope we practice another time.,"MiniGameResultBetween(50, 74)",,,1,,EvelynNakedCollarCrossDungeonRedButt1
+DungeonCross10,DungeonCross11,,"(You stop as she shakes a little.)  Mistress, you have talents, I felt the submissive space.","MiniGameResultBetween(75, 99)",,,2,,EvelynNakedCollarCrossDungeonRedButt2
+DungeonCross10,DungeonCross11,,"(You stop as she trembles and moans.)  Mistress, I am baffled.  That was amazing.","MiniGameResultBetween(100, 100)",,1,3,,EvelynNakedCollarCrossDungeonRedButt3
+DungeonCross11,DungeonCross11B,,,,,,,,
+DungeonCross11B,DungeonCross12,,(You caress her butt and talk for a little while.),,,,,,
+DungeonCross11B,DungeonCross12,InventoryDialogPhone,(You zoom on her butt and take a naughty picture.),,PictureAdd(),,,,
+DungeonCross12,FridaySleep1,,(The clock ticks and it's time to release her and get to bed.),,,,,,
+DungeonSaddle1,DungeonSaddle2,,,,"LogDelete(""Evelyn"", ""ActivityDungeonBed"")",,,,TeacherCasualEvelynNakedCollarSaddleDungeonInspect
+DungeonSaddle2,DungeonSaddle3,,(You both inspect the vibrating horse saddle.),,"LogDelete(""Evelyn"", ""ActivityDungeonCross"")",,,,
+DungeonSaddle3,DungeonSaddle4,,This device is always impressive.  It can bring lots of pleasure.,,"LogDelete(""Evelyn"", ""ActivityDungeonChain"")",,,,
+DungeonSaddle4,,,"Once activated, it is quite a feat to resist it.",,,,,,
+DungeonSaddle4,DungeonSaddle5,We'll see if you're strong or not.,(She nods and takes a deep breath as you rope her on it.),,,,,,
+DungeonSaddle4,DungeonSaddle5,I'm sure you will do great.,(She pumps her chest proudly as you rope her on it.),,,1,-1,,
+DungeonSaddle4,DungeonSaddle5,You have no chance against it.,(She sighs in shame as you rope her on it.),,,-1,1,,
+DungeonSaddle5,DungeonSaddle6,,,,,,,,EvelynNakedCollarBoundSaddleDungeonSit
+DungeonSaddle6,DungeonSaddle7,,"(You restrain her securely on the machine, aligning the vibrator to her pussy.)",,,,,,
+DungeonSaddle7,DungeonSaddle8,,"Mistress, you can use and pleasure this body of yours however you please.",DialogDominationGreater(20),,,,,
+DungeonSaddle7,DungeonSaddle8,,Please use and pleasure this body of yours however you want.,"DialogDominationBetween(10, 19)",,,,,
+DungeonSaddle7,DungeonSaddle8,,My body is yours to use and pleasure.,"DialogDominationBetween(0, 9)",,,,,
+DungeonSaddle7,DungeonSaddle8,,Someday you should experience this device also.  (She winks at you.),DialogDominationLower(-1),,,,,
+DungeonSaddle8,DungeonSaddle8B,,,,,,,,EvelynNakedCollarBoundSaddleDungeonSitZoom
+DungeonSaddle8B,DungeonSaddle8C,,"(She aligns herself, taking a deep breath.)",,,,,,
+DungeonSaddle8B,DungeonSaddle8C,InventoryDialogPhone,(You keep a few pictures of her on the saddle.),,PictureAdd(),,,,
+DungeonSaddle8C,,,"(She shakes her hips in anticipation, not knowing what you will do.)",,,,,,
+DungeonSaddle8C,DungeonSaddleOrgasm1,(Quickly go to full power.),"(You quickly crank it up to full speed, leaving her no time to breathe.)",,,,1,,
+DungeonSaddle8C,DungeonSaddleOrgasm1,(Slowly go from low to full power.),(She moans lovingly as you slowly increase the speed for her to climax.),,,2,,,
+DungeonSaddle8C,DungeonSaddle9,(Slowly go to medium and leave it there.),"(She whimpers and rocks her hips, getting very close to an orgasm.)",,,-1,2,,
+DungeonSaddle8C,DungeonSaddleOrgasm1,(Go from low to full in a fixed loop.),"(You go in slow and rapid loops, toying with her as she begs with her eyes.)",,,1,1,,
+DungeonSaddle8C,DungeonSaddle9,(Stay on low power.),"(She sighs loudly as you keep power very low, not allowing much fun.)",,,-1,-1,,
+DungeonSaddle8C,DungeonSaddleOrgasm1,"(Randomly go from low to full, to low.)",(She jumps and screams as you randomly tease her at random power.),,,-1,1,,
+DungeonSaddle8C,DungeonSaddle9,(Leave it off.),(She whimpers and seems very disappointed that you don't use the vibration.),,,-2,,,
+DungeonSaddleOrgasm1,DungeonSaddleOrgasm2,,,,,,,,EvelynNakedCollarBoundSaddleDungeonSitOrgasm
+DungeonSaddleOrgasm2,DungeonSaddleOrgasm3,,(She succumbs to the machine and gets a long and powerful orgasm.),,,,,,
+DungeonSaddleOrgasm2,DungeonSaddleOrgasm3,InventoryDialogWhip,"(You whip her as she climaxes, screaming of pain and pleasure.)",,,,1,,
+DungeonSaddleOrgasm3,DungeonSaddle9,,"(She trembles like a leaf, slowly catching her breath.)",,,,,,
+DungeonSaddle9,DungeonSaddle10,,"(You tease her on the saddle for a little while, bonding with her.)",,,,,,EvelynNakedCollarBoundSaddleDungeonSitZoom
+DungeonSaddle10,DungeonSaddle11,,"(She tugs against the ropes, testing if she can reach a knot in vain.)",,,,,,
+DungeonSaddle11,FridaySleep1,,(The clock ticks and it's time to release her and get to bed.),,,,,,
+DungeonChain1,DungeonChain2,,,,"LogDelete(""Evelyn"", ""ActivityDungeonBed"")",,,,EvelynNakedCollarChainWallDungeonStand
+DungeonChain2,DungeonChain3,,(She stares at the steel chain on the wall and shivers.),,"LogDelete(""Evelyn"", ""ActivityDungeonCross"")",,,,
+DungeonChain3,DungeonChain4,,I need to admit it.  I am somewhat scared now.,,,,,,
+DungeonChain3,DungeonChain4,InventoryDialogPhone,(She bows her head as you capture the moment.),,PictureAdd(),,,,
+DungeonChain4,DungeonChain4B,,(She trembles as you grab her collar to chain her.),,,,,,
+DungeonChain4B,DungeonChain5,,,,"LogDelete(""Evelyn"", ""ActivityDungeonSaddle"")",,,,EvelynNakedCollarChainWallDungeonChained
+DungeonChain5,DungeonChain6,,(She takes a long deep breath and leans chained against the wall.),,,,,,
+DungeonChain6,,,You really shall forsake me here?,,,,,,
+DungeonChain6,DungeonChain7,I'll check on you often.,(She nods happily.)  Very good.,,,1,-1,,
+DungeonChain6,DungeonChain7,You will be unchained Monday morning.,(She nods and sighs.)  Very well.,,,,,,
+DungeonChain6,DungeonChain7,"Slave, you don't need that information.","(She bows her head.)  Yes, Mistress.",,,-1,1,,
+DungeonChain6,DungeonChain7,Shut the fuck up.,"(Her fists tremble with rage, but she stays silent.)",,,-3,1,,
+DungeonChain6,FridaySleep1,I've changed my mind.  Let's go back.,I am awfully confused but I appreciate the change of heart.  (You unlock her and return together.),,,,-2,,
+DungeonChain7,DungeonChain7B,,(You push a bowl of water as she kneels down.),,,,,,
+DungeonChain7B,DungeonChain8,,,,,,,,EvelynNakedCollarChainWallDungeonKneelBowl
+DungeonChain8,DungeonChain9,,"(She gets down to her knees, seeming defeated.)",,,,,,
+DungeonChain9,DungeonChain10,,It shall be quite an experience.,,,,,,
+DungeonChain9,DungeonChain10,InventoryDialogPhone,(She sighs as you save a picture on your phone.),,PictureAdd(),,,,
+DungeonChain10,DungeonChain11,,"Have a great weekend, Mistress PlayerName.  I love you.",DialogLoveGreater(20),,,,,
+DungeonChain10,DungeonChain11,,"See you soon, Mistress PlayerName.  Please do not forget about me.","DialogLoveBetween(10, 19)",,,,,
+DungeonChain10,DungeonChain11,,I do not enjoy this situation.  Please do not forget about me.,"DialogLoveBetween(0, 9)",,,,,
+DungeonChain10,DungeonChain11,,I truly despise how this is progressing.  This is horrible.,DialogLoveLower(-1),,,,,
+DungeonChain11,DungeonChain12,,(She tries to get comfy on the ground as you head back and lock the door.),,,,,,
+DungeonChain12,DungeonChain13,,,,"DialogVariableSet(""EvelynSleep"", ""Chained"")",,,None,TeacherParamasBedroomSleep
+DungeonChain13,DungeonChain14,,(You lay on the bed alone while Evelyn sleeps on the dungeon floor.),,,,,,
+DungeonChain14,Outro3,,"(It will be a relaxing weekend of books, movies and video games.)",,,,,,
+Movie1,Movie2,,,,"LogDelete(""Evelyn"", ""ActivitySpanking"")",,,,TeacherCasualEvelynNakedCollarWatchMovieLivingRoom
+Movie2,Movie3,,"(You get comfy together, trying to find a movie for the evening.)",,"LogDelete(""Evelyn"", ""ActivityRestaurant"")",,,,
+Movie3,,,"Mistress, what kind of film does your heart desire?",,"LogDelete(""Evelyn"", ""ActivityOral"")",,,,
+Movie3,Movie4,We will watch a comedy.,(She seems to be disappointed but nods.)  Let us hope we shall laugh.,,,-1,,,
+Movie3,Movie4,We will watch a romantic movie.,(She nods slowly.)  It shall set the mood for the weekend.,,,1,-1,,
+Movie3,Movie4,We will watch an action film.,(She rolls her eyes up.)  We shall shut off our brain for the evening.,,,,-1,,
+Movie3,Movie4,We will watch a classical movie.,(She smiles widely.)  What a wonderful idea.,,,1,,,
+Movie3,Movie4,We will watch a sport flick.,(She lowers her shoulders and bows her head speechless.),,,-1,,,
+Movie3,Movie4,We will watch a horror movie.,"(She nods slowly at you.)  Mistress, you are courageous tonight.",,,,1,,
+Movie3,Movie4,Pick whatever film you want.,(She smirks and opens her movie collection.)  I have the perfect classical movie.,,,1,-3,,
+Movie4,Movie5,,(You start the movie and begin watching it together.),,,,,,
+Movie4,MovieBallgag1,InventoryDialogBallgag,(She seems surprised as you silence her while the movie is running.),,,,1,,TeacherCasualEvelynNakedCollarBallgagWatchMovieLivingRoom
+MovieBallgag1,MovieBallgag2,,,,,,,,
+MovieBallgag2,MovieBallgag3,,"(She chews on the gag silently for the whole movie, it's very relaxing.)",,,,,,
+MovieBallgag3,Movie5,,"(As the end credits rolls, you slowly unbuckle the gag.)",,,,,,
+Movie5,FridaySleep1,,"(Once the movie is over, it's time to get to bed.)",,,,,,TeacherCasualEvelynNakedCollarWatchMovieLivingRoom
+Spanking1,Spanking2,,,,"LogDelete(""Evelyn"", ""ActivityMovie"")",,,,TeacherCasualEvelynNakedCollarCouchReadySpank
+Spanking2,Spanking3,,(You get on the big couch and pull her on your lap.),,"LogDelete(""Evelyn"", ""ActivityRestaurant"")",,,,
+Spanking3,Spanking4,,(She takes a deep breath as you get ready to spank her.),,"LogDelete(""Evelyn"", ""ActivityOral"")",,,,
+Spanking4,Spanking5,,,,"MiniGameStart(""Spanking"", ""BossHouseCouchEvelyn"")",,,,TeacherCasualEvelynNakedCollarCouchEndSpank
+Spanking5,Spanking6,,(You stop as she laughs at you.)  That was truly awful.,"MiniGameResultBetween(0, 24)",,-2,-3,,
+Spanking5,Spanking6,,"(You stop as she grumbles.)  Enough, please.  This is not working properly.","MiniGameResultBetween(25, 49)",,-1,-1,,
+Spanking5,Spanking6,,(You stop as she wiggles her butt.)  That was not horrible.  We can practice another time.,"MiniGameResultBetween(50, 74)",,,,,
+Spanking5,Spanking6,,"(You stop as she shakes a little.)  Mistress, you are a good spanker, I feel submissive.","MiniGameResultBetween(75, 99)",,,1,,
+Spanking5,Spanking6,,"(You stop as she trembles and moans.)  Mistress, I am baffled.  That was amazing.","MiniGameResultBetween(100, 100)",,1,2,,
+Spanking6,Spanking7,,(You caress her red butt and talk for a little while.),,,,,,
+Spanking7,FridaySleep1,,(The clock ticks and it's time to get to bed.),,,,,,
+Restaurant1,Restaurant2,,,,"LogDelete(""Evelyn"", ""ActivityMovie"")",,,,TeacherCasualEvelynRestaurant
+Restaurant2,Restaurant3,,(You both go to the restaurant and check the menu.),,"LogDelete(""Evelyn"", ""ActivitySpanking"")",,,,
+Restaurant3,,,What meal should we order Mistress?,,"LogDelete(""Evelyn"", ""ActivityOral"")",,,,
+Restaurant3,Restaurant4,A veggie salad.,(She smiles.)  That sounds very healthy.,,,1,,,
+Restaurant3,Restaurant4,A T-bone steak.,(She makes wide eyes.)  Quite a big meal.,,,-1,1,,
+Restaurant3,Restaurant4,Pasta would be good.,(She nods in agreement.)  It is an easy and safe choice.,,,1,-1,,
+Restaurant3,Restaurant4,Burger and fries.,(She seems disappointed.)  The classic American meal.,,,-1,,,
+Restaurant3,Restaurant4,Poached salmon.,"Yes Mistress, what a fine choice of meal.",,,,1,,
+Restaurant3,Restaurant4,A big soup.,Soup is certainly a comfort food.,,,,-1,,
+Restaurant3,Restaurant4,Pick the food you want.,My pleasure!  (She smirks and opens the menu.),,,1,-3,,
+Restaurant4,Restaurant5,,(You eat your meal together as time goes by.),,,,,,
+Restaurant4,RestaurantPhone,InventoryDialogPhone,(She smiles as you take a few pictures of her.),,PictureAdd(),1,,,EvelynSmileRestaurant
+RestaurantPhone,Restaurant5,,,,,,,,
+Restaurant5,FridaySleep1,,(She pays the bill as you get back home to sleep.),,,,,,
+Oral1,Oral2,,,,"LogDelete(""Evelyn"", ""ActivityMovie"")",,,,TeacherNakedEvelynNakedCollarOralLivingRoom
+Oral2,Oral3,,(You get naked and pull her close.),,"LogDelete(""Evelyn"", ""ActivitySpanking"")",,,,
+Oral3,Oral4,,(She starts to work with her tongue on your labia.),,"LogDelete(""Evelyn"", ""ActivityRestaurant"")",,,,
+Oral4,Oral5,,"(She skillfully inserts it, exploring between your lips.)",,,,,,
+Oral5,,,"(She watches how you react, trying to please you.)",,,,,,
+Oral5,Oral6,I'm getting tired now.  (Push her back.),(She sighs and bows her head.)  Sorry I could not please you enough.,,,-1,-1,,
+Oral5,OralOrgasm1,(Get a silent orgasm.),(She shivers in unison as you get a silent orgasm.),,,,1,,TeacherNakedOrgasmEvelynNakedCollarOralLivingRoom
+Oral5,OralOrgasm1,(Get a loud orgasm.),(She licks your juices as you get a loud orgasm.),,,1,,,TeacherNakedOrgasmEvelynNakedCollarOralLivingRoom
+Oral5,OralOrgasm1,(Fake an orgasm.),(She slows down as you fake an orgasm.),,,,-2,,TeacherNakedOrgasmEvelynNakedCollarOralLivingRoom
+Oral5,Oral6,"That's enough, cunt!  (Push her back.)",(She frowns and pulls back.)  This foul language is not worthy of you.,,,-3,1,,
+OralOrgasm1,OralOrgasm2,,,,,,,,
+OralOrgasm2,Oral6,,"(You tremble for a little while, slowly recovering.)",,,,,,
+Oral6,Oral7,,(You dress back up and get comfy once again.),,,,,,TeacherCasualSitCouchEvelynNakedCollarKneelLivingRoom
+Oral7,FridaySleep1,,(You both talk for a while before heading to bed.),,,,,,
+FridaySleep1,FridaySleep2,,,,,,,,TeacherPajamasEvelynNakedCollarBedroom
+FridaySleep2,FridaySleep3,,I hope you shall sleep well in the big bed.,,,,,,
+FridaySleep3,,,Would you enjoy it if I joined you?,,,,,,
+FridaySleep3,FridaySleep4,You can sleep naked with me.,That is amazing.  (She smiles as you cuddle in bed together.),,,1,,,TeacherPajamasEvelynNakedCollarBedroomSleep
+FridaySleep3,FridaySleep4,You will sleep in ropes with me.,Yes Mistress.  (She nods as you bind her in bed for sleep.),,,,1,,TeacherPajamasEvelynNakedCollarRopeBedroomSleep
+FridaySleep3,FridaySleep4,You will sleep bound and gagged with me.,(She gulps as you bind and gag her in bed for sleep.),,,-1,2,,TeacherPajamasEvelynNakedCollarRopeBallgagBedroomSleep
+FridaySleep3,FridaySleep4,You get the couch and I get the bed.,(She sighs and gets on the couch as you lay alone in the big bed.),,,-3,,,TeacherParamasBedroomSleep
+FridaySleep3,FridaySleep4,You will sleep restrained on the floor.,(She sighs as you bind her on the ground.  You will sleep alone in the big bed.),,,-2,3,,TeacherParamasBedroomSleep
+FridaySleep4,FridaySleep5,,,,"DialogSetBackgroundFilter(""#00000080"")",,,None,
+FridaySleep5,FridaySleep6,,"(You get a good night of sleep, thinking about what to do tomorrow.)",,,,,,
+FridaySleep6,FridaySleep7,,,,"DialogSetBackgroundFilter("""")",,,,
+FridaySleep7,Saturday1,,(You both wake up as a new day begins.),,,,,,
+Saturday1,Saturday2,,,,,,,Evelyn,TeacherPajamasEvelynNakedCollarBedroom
+Saturday2,Saturday3,,"(She stretches and smiles at you.)  I hope you slept well, my wonderful Mistress.",DialogLoveGreater(20),,,,,
+Saturday2,Saturday3,,"(She stretches.)  I hope you slept well, Mistress.",DialogLoveLower(19),,,,,
+Saturday3,Saturday4,,The weekend offers lots of potential to build a stronger bond.,,,,,,
+Saturday4,,,(She shakes her butt.)  Do you have plans?,,,,,,
+Saturday4,Saturday9,There's no time to waste.  (Don't play.),(She nods but seems disappointed.)  Being productive is important.,,,-2,,,
+Saturday4,Saturday9,Tell me about your plans.  (Don't play.),(She gives you a puzzled look.) I thought you were planning but I can help.,,,,-2,,
+Saturday4,Saturday5,"Slave, get in bed.  (Play with her.)","(You both move in bed, getting ready for some naughty play.)",,,,1,,
+Saturday4,Saturday5,I want to feel you.  (Play with her.),"(You both move in bed, getting ready for some naughty play.)",,,1,,,
+Saturday5,Saturday6,,,,"MiniGameStart(""FreeBondage"", ""EvelynBedroom"", ""EvelynBedroom"")",,,,MiniGameBackgroundFreeBondage
+Saturday6,Saturday7,,(She still trembles from her wonderful orgasm.),"MiniGameFreeBondageResultGreater(""Arousal"", 100)","MiniGameParameterSet(""FreeBondage"", ""EntryStage"", """")",1,,,
+Saturday6,Saturday7,,(She pouts and seems disappointed because she did not reach climax.),"MiniGameFreeBondageResultLower(""Arousal"", 99)","MiniGameParameterSet(""FreeBondage"", ""EntryStage"", """")",-2,,,
+Saturday7,Saturday8,,(She appears very relaxed and subservient after this session.  It was a clear success.),"MiniGameFreeBondageResultGreater(""Stress"", 100)",,,1,,
+Saturday7,Saturday8,,(It doesn't seem that you've tamed her in this session.),"MiniGameFreeBondageResultBetween(""Stress"", 0, 99)",,,-1,,
+Saturday7,Saturday8,,(She appears quite stressed and feisty after this session.  It failed pretty bad.),"MiniGameFreeBondageResultLower(""Stress"", -1)",,-1,-3,,
+Saturday8,Saturday9,,(You both get out of bed.),,,,,,TeacherPajamasEvelynNakedCollarBedroom
+Saturday9,Saturday10,,There are many house chores to do this weekend.,"LogQuery(""Evelyn"", ""DungeonReady"")",,,,,
+Saturday9,Saturday10,,There are chores to do and the dungeon needs renovations.,"!LogQuery(""Evelyn"", ""DungeonReady"")",,,,,
+Saturday10,,,What should we focus on?,,,,,,
+Saturday10,Clean1,You will clean the place.,"(She nods in agreement.)  Yes Mistress, a clean house is important.","!LogQuery(""Evelyn"", ""ActivityClean"")","LogAdd(""Evelyn"", ""ActivityClean"")",,1,,
+Saturday10,Clean1,You will clean the place.,(She makes wide eyes.)  More cleaning?  You might have an obsessive-compulsive disorder.,"LogQuery(""Evelyn"", ""ActivityClean"")",,-2,-1,,
+Saturday10,Renovate1,We should renovate and get the dungeon ready.,"(She nods in agreement.)  Of course, Mistress.  That project is long overdue.","!LogQuery(""Evelyn"", ""DungeonReady"")","LogAdd(""Evelyn"", ""DungeonReady"")",,,,
+Saturday10,Cook1,You will cook some meals.,(She nods in agreement.)  Preparing meals in advance is a good idea.,"!LogQuery(""Evelyn"", ""ActivityCook"")","LogAdd(""Evelyn"", ""ActivityCook"")",1,,,
+Saturday10,Cook1,You will cook some meals.,"(She sighs and nods.)  Very well, but the refrigerator is already full.","LogQuery(""Evelyn"", ""ActivityCook"")",,-1,-2,,
+Saturday10,Shop1,We need to go shopping.,"(She nods in agreement.)  That is very true, we need to replace some items.","!LogQuery(""Evelyn"", ""ActivityShop"")","LogAdd(""Evelyn"", ""ActivityShop"")",1,1,,
+Saturday10,Shop1,We need to go shopping.,(She gives you a puzzled look.)  More shopping?  Are you certain?  Very well.,"LogQuery(""Evelyn"", ""ActivityShop"")",,-2,-2,,
+Saturday10,SaturdayNight1,Let's do the chores next week.,I guess we can postpone the chores.  (She seems to disagree as you dress up for a lazy day.),,,-1,-1,,
+Clean1,Clean2,,,,"LogDelete(""Evelyn"", ""ActivityCook"")",,,,EvelynNakedCollarCleanHouse1
+Clean2,Clean3,,(Evelyn gets to work and starts cleaning the place.),,"LogDelete(""Evelyn"", ""ActivityShop"")",,,,
+Clean3,Clean4,,"(She scrubs room after room, working hard on every spot.)",,,,,,
+Clean3,Clean4,InventoryDialogPhone,(She sighs and doesn't seem to appreciate the picture.),,PictureAdd(),-1,,,
+Clean4,Clean5,,,,,,,,EvelynNakedCollarCleanHouse2
+Clean5,Clean6,,(She picks up a broom and works on the dust.),,,,,,
+Clean6,Clean7,,(It takes her many hours to clean up the whole place.),,,,,,
+Clean6,Clean7,InventoryDialogPhone,(She bows her head and blushes as you capture the moment.),,PictureAdd(),,1,,
+Clean7,SaturdayNight1,,(She completes her cleaning duty as you both come back to the living room.),,,,,,
+Renovate1,Renovate2,,,,"LogDelete(""Evelyn"", ""ActivityClean"")",,,None,TeacherCasualEvelynNakedCollarRenovateDungeon
+Renovate2,Renovate3,,(Evelyn shows you the dungeon that she's been building for months.),,"LogDelete(""Evelyn"", ""ActivityCook"")",,,,
+Renovate3,Renovate4,,(There is still some work left to complete it.),,"LogDelete(""Evelyn"", ""ActivityShop"")",,,,
+Renovate4,Renovate5,,(You renovate together and bolt the furniture on the walls and floor.),,,,,,
+Renovate5,Renovate6,,(The paint should be fully dry next week for new kinky thrills.),,,,,,
+Renovate6,SaturdayNight1,,(You return to the living room after many hours of work.),,,,,,
+Cook1,Cook2,,,,"LogDelete(""Evelyn"", ""ActivityClean"")",,,,EvelynNakedCollarCookKitchen1
+Cook2,Cook3,,(Evelyn gets to work and starts many recipes at once.),,"LogDelete(""Evelyn"", ""ActivityShop"")",,,,
+Cook3,Cook4,,"(She works hard near the stove, trying not to burn herself.)",,,,,,
+Cook3,Cook4,InventoryDialogPhone,(She grumbles and doesn't seem to appreciate the picture.),,PictureAdd(),-1,,,
+Cook4,Cook5,,,,,,,,EvelynNakedCollarCookKitchen2
+Cook5,Cook6,,(She uses fresh ingredients to prepare meals for the weeks ahead.),,,,,,
+Cook6,Cook7,,(It takes her many hours to cook and clean up the kitchen after.),,,,,,
+Cook6,Cook7,InventoryDialogPhone,(She tries to cover herself with the cooking pot as you capture the moment.),,PictureAdd(),,1,,
+Cook7,SaturdayNight1,,(She completes her cleaning duty as you both come back to the living room.),,,,,,
+Shop1,Shop2,,,,"LogDelete(""Evelyn"", ""ActivityClean"")",,,,TeacherCasualEvelynDressShop
+Shop2,Shop3,,(You go to the shopping mall together.),,"LogDelete(""Evelyn"", ""ActivityCook"")",,,,
+Shop3,Shop4,,(She buys many items needed for the house.),,,,,,
+Shop4,,,"Mistress, do you require anything specific?",,,,,,
+Shop4,Shop5,I don't need anything.,(She nods as you don't buy anything special.),,,,,,
+Shop4,Shop5,I'll get a comic book.,(She nods but doesn't seem to approve of your purchase.),,,-1,,,
+Shop4,Shop5,I'll buy a dildo.,(She smiles as you buy a vibrating dildo and put it in your bag.),"!InventoryAvailable(""Dildo"")","InventoryAdd(""Dildo"")",1,,,
+Shop4,Shop5,I will buy a vinyl record.,(She nods and seems to approve of your purchase.),,,1,,,
+Shop4,Shop5,This plushie is adorable.,(She gives you a curious look as you buy a cute plushie.),,,,-1,,
+Shop4,Shop5,I need a strap-on.,(Her eyes widen as you buy a strap-on and put it in your bag.),"!InventoryAvailable(""Strapon"")","InventoryAdd(""Strapon"")",,1,,
+Shop4,Shop5,I'll get more ropes for you.,(She shivers as you buy some extra ropes.),,,,1,,
+Shop5,Shop6,,(You browse the shop some more as the hours tick.),,,,,,
+Shop6,SaturdayNight1,,(You head back home after a while.),,,,,,
+SaturdayNight1,SaturdayNight2,,,,,,,Evelyn,TeacherCasualEvelynNakedCollarTalkLivingRoom
+SaturdayNight2,SaturdayNight3,,"Saturday evening might be the best time to go out, if you are in the mood.",,,,,,
+SaturdayNight3,,,"Mistress, where shall we go?",,,,,,
+SaturdayNight3,BondageClub1,Let's go to the Bondage Club.,"(She gulps and nods.)  I have heard they do serious BDSM at this club, Mistress.","!LogQuery(""Evelyn"", ""ActivityBondageClub"")","LogAdd(""Evelyn"", ""ActivityBondageClub"")",,1,,
+SaturdayNight3,BondageClub1,Let's go to the Bondage Club.,"(She sighs loudly.)  We can visit once again, if this is your desire.","LogQuery(""Evelyn"", ""ActivityBondageClub"")",,-2,-1,,
+SaturdayNight3,Concert1,Let's find a music concert.,(She smiles and nods.)  A cultural event sounds like a fine idea.,"!LogQuery(""Evelyn"", ""ActivityConcert"")","LogAdd(""Evelyn"", ""ActivityConcert"")",1,,,
+SaturdayNight3,Concert1,Let's find a music concert.,(She rolls her eyes up.)  You are a music zealot.,"LogQuery(""Evelyn"", ""ActivityConcert"")",,-1,-2,,
+SaturdayNight3,Sex1,We'll stay here and make love all night.,(She giggles and nods.)  That sounds both naughty and delightful.,"!LogQuery(""Evelyn"", ""ActivitySex"")","LogAdd(""Evelyn"", ""ActivitySex"")",1,1,,
+SaturdayNight3,Sex1,We'll stay here and make love all night.,(She makes wide eyes and looks disappointed.)  Again?  I should have guessed.,"LogQuery(""Evelyn"", ""ActivitySex"")",,-2,-2,,
+SaturdayNight3,SaturdayNightEnd1,"I'm way too tired to go out, let's end the day.","(She lowers her shoulders and nods.)  Very well, Mistress.",,,-1,-1,,
+BondageClub1,BondageClub2,,,,,,,None,JaneMaidTeacherCasualEvelynDressBondageClubEntrance
+BondageClub2,BondageClub3,,(You drive to the most popular BDSM gathering in town: the Bondage Club.),,"CharacterAdd(""Jane"", ""Jane"")",,,,
+BondageClub3,BondageClub4A,,(A friendly maid comes to greet you.),"!LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,
+BondageClub3,BondageClub4A,,(Maid Jane comes to greet you once again.),"LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,
+BondageClub4A,BondageClub4B,,"Welcome to the Bondage Club, M'lady.  M'name is Jane, I've been assigned to you.","!LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,Jane,
+BondageClub4A,BondageClub4B,,"It's great to see you again, M'lady.  I hope you're feeling well t'night.","LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,Jane,
+BondageClub4B,,,We have lots to offer for Doms and subs.  We will make su'e your girl is safe.,"!LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,JaneMaidBondageClubEntrance
+BondageClub4B,,,You know the place and rules.  Safety is our prior'ty.,"LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,JaneMaidBondageClubEntrance
+BondageClub4B,BondageClub4C,(Nod and listen.),The maid s'rority is always on duty.,,,,,,
+BondageClub4B,BondageClub4C,"Maid Jane, please be gentle with Evelyn.","(She smiles.)  Und'r my care, no sub gets hurt.",,,1,-1,,
+BondageClub4B,BondageClub4C,You better not leave any scar.,(She frowns.)  Trust the s'rority.  We know our work.,,,-1,1,,
+BondageClub4B,BondageClub4C,I will keep a close eye on my slave.,(She nods.)  That's the b'st way to keep it safe.,,,1,1,,
+BondageClub4B,BondageClub4C,Are you sure you know what you're doing?,(She sighs.)  Trust the s'rority.  We know our work.,,,-1,-1,,
+BondageClub4C,BondageClub4D,,(She explains the rules and your responsibilities as a Dominant in the club.),"!LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,
+BondageClub4C,BondageClub4D,,"(She tells you of the Mistress circle, maybe you could join them someday.)","LogQuery(""Evelyn"", ""BondageClubVisit"")",,,,,
+BondageClub4D,BondageClub4E,,"Feel free to e'plore and have fun with your slave.  Ring the bell or yell ""mom"" if there's trouble.",,,,,,
+BondageClub4D,BondageClub4E,InventoryDialogPhone,(She smiles as you keep a picture of her.),"!LogQuery(""Evelyn"", ""BondageClubVisit"")",PictureAdd(),1,,,
+BondageClub4D,BondageClub4E,InventoryDialogPhone,(She smiles as you keep a picture of her.),"LogQuery(""Evelyn"", ""BondageClubVisit"")",PictureAdd(),,,,
+BondageClub4E,BondageClub5,,(She does a maid curtsy and leave you together to wander in the club.),,,,,,
+BondageClub5,BondageClub6,,,,,,,Evelyn,TeacherDominantEvelynNakedCollarBondageClub
+BondageClub6,BondageClub7,,"(You force Evelyn to strip in public and lock her collar, it's very humiliating.)",,,,,,
+BondageClub7,,,(What will you do in the club?),,,,,,
+BondageClub7,BondageClub8,(Visit the maid sorority.),(You enroll her in the sorority.  She doesn't seem to enjoy the hard maid work.),,,-1,1,,TeacherDominantEvelynMaidCollarSororityBondageClub
+BondageClub7,BondageClub8,(Try the shibari dojo.),"(You do lots of advanced rope bondage with a coach, she seems to enjoy it.)",,,1,,,TeacherDominantEvelynNakedCollarShibariBondageClub
+BondageClub7,BondageClub8,(Make a porn movie.),(You force her to do a porn movie.  She really seems to dislike it.),,,-2,,,TeacherDominantEvelynNakedCollarCuffsMovieBondageClub
+BondageClub7,BondageClub9,(Relax and mingle.),"(You relax together in the club, not doing much but making friends.)",,,1,-1,,
+BondageClub8,BondageClub9,,,,,,,,
+BondageClub8,BondageClub9,InventoryDialogPhone,(She blushes and tries to look away as you immortalize the event.),,PictureAdd(),-1,1,,
+BondageClub9,BondageClub10,,(You witness lots of bondage and naughty scenes at the club.),,"LogAdd(""Evelyn"", ""BondageClubVisit"")",,,,
+BondageClub10,BondageClub11,,(Time goes by but the club never seems to close down.),,,,,,
+BondageClub11,SaturdayNightEnd1,,(You both get tired after a while.  It's time to go back home to bed.),,,,,,
+Concert1,Concert2,,,,"LogDelete(""Evelyn"", ""ActivityBondageClub"")",,,,TeacherCasualPhoneEvelynNakedCollarHouse
+Concert2,Concert3,,(You check your phone for a show.)  There are lots of venues where we could go.,,"LogDelete(""Evelyn"", ""ActivitySex"")",,,,
+Concert3,,,What kind of concert would you enjoy?,,,,,,
+Concert3,Concert4,A pop music show.,(She nods.)  That is an easy solution for an event.,,,,-1,,
+Concert3,Concert4,A jazz concert.,(She smiles.)  This sounds delightful.,,,1,,,
+Concert3,Concert4,A progressive rock show.,(She shrugs.)  I may discover a new musical genre.,,,,1,,
+Concert3,Concert4,A heavy metal show.,(She seems disappointed.)  I shall bring my earplugs if you do not mind.,,,-1,1,,
+Concert3,Concert4,A classical music concert.,(She seems to appreciate the selection.)  You must be telepath.,,,1,-1,,
+Concert3,Concert4,A rap battle event.,Ha!  (Her laugh turns into a frown.)  You are not jestering?  Alright.,,,-2,,,
+Concert3,Concert4,Pick the show you want.,Absolutely!  (She opts for a classical music concert.),,,1,-3,,
+Concert4,Concert5,,,,,,,,TeacherCasualEvelynDressConcert
+Concert5,Concert6,,"(You go to the show together, an evening full of music.)",,,,,,
+Concert6,Concert7,,(The sound is so loud you can barely talk.),,,,,,
+Concert6,Concert7,InventoryDialogPhone,(She smiles as you let a stranger take a few pictures of you two.),,PictureAdd(),1,,,TeacherCasualEvelynDressPhotoConcert
+Concert7,SaturdayNightEnd1,,"(It's getting late, you get back home to bed after the show.)",,,,,,
+Sex1,Sex2,,,,"LogDelete(""Evelyn"", ""ActivityBondageClub"")",,,,TeacherNakedEvelynNakedCollarBedSex1
+Sex2,Sex3,,(You both get naked in bed and smile at each other.),,"LogDelete(""Evelyn"", ""ActivityConcert"")",,,,
+Sex3,Sex4,,Making love with you shall be amazing.,DialogLoveGreater(16),,,,,
+Sex3,Sex4,,Having intercourse shall be most satisfying.,"DialogLoveBetween(6, 15)",,,,,
+Sex3,Sex4,,"Sex is not that desired, but it is part of my duty.",DialogLoveLower(5),,,,,
+Sex4,Sex5,,,,,,,,TeacherNakedEvelynNakedCollarBedSex2
+Sex5,Sex6,,(You start to caress each other.),,,,,,
+Sex6,Sex7,,"This body is completely yours, Mistress.  (She follows your moves, not taking any initiative.)",DialogDominationGreater(16),,,,,
+Sex6,Sex7,,"Please use this body as you desire. (She takes few initiatives, letting you lead the scene.)","DialogDominationBetween(6, 15)",,,,,
+Sex6,Sex7,,"(She stays silent and rubs her hands on you, taking the initiative.)",DialogDominationLower(5),,,,,
+Sex7,Sex8,,,,,,,,TeacherNakedEvelynNakedCollarBedSex3
+Sex8,Sex9,,"(You start to scissors, rubbing your labia against each other.) ",,,,,,
+Sex9,Sex10,,(She moans loudly.)  This is pure bliss!,DialogLoveGreater(16),,,,,
+Sex9,Sex10,,(She moans and breathes faster and faster.),"DialogLoveBetween(6, 15)",,,,,
+Sex9,Sex10,,(She moans discretely.),DialogLoveLower(5),,,,,
+Sex9,Sex10,InventoryDialogBallgag,(You swiftly push a ball gag in her open moaning mouth.),,,,1,,TeacherNakedEvelynNakedCollarBallgagBedSex3
+Sex10,Sex11,,"(You both make love for hours, exchanging sweat and fluids.)",,,,,,
+Sex11,Sex12,,"(You climax together a few times, screaming in unison.)",,,,,,
+Sex12,SaturdayNightEnd1,,"(You finally stop from exhaustion, getting ready for bed.)",,,,,,
+SaturdayNightEnd1,SaturdayNightEnd2,,,,,,,,TeacherPajamasEvelynNakedCollarBedroom
+SaturdayNightEnd2,SaturdayNightEnd3,,"I love you Mistress, please have wonderful dreams.",DialogLoveGreater(21),,,,,
+SaturdayNightEnd2,SaturdayNightEnd3,,"Please have a wonderful night, Mistress.","DialogLoveBetween(13, 20)",,,,,
+SaturdayNightEnd2,SaturdayNightEnd3,,"Pleasant dreams, Mistress.","DialogLoveBetween(5, 12)",,,,,
+SaturdayNightEnd2,SaturdayNightEnd3,,Good night.,DialogLoveLower(4),,,,,
+SaturdayNightEnd3,SaturdayNightEnd4,,,,"DialogSetBackgroundFilter(""#00000080"")",,,None,
+SaturdayNightEnd4,Sunday1,,"(You get a good night of sleep, a new day will come soon.)",,,,,,
+Sunday1,Sunday2,,,,"DialogSetBackgroundFilter("""")",,,Evelyn,TeacherPajamasEvelynNakedCollarBedroom
+Sunday2,Sunday3,,"(You both wake up Sunday morning, your last day before returning to work.)",,,,,,
+Sunday3,Sunday4,,It is such a pleasure to wake up wearing your loving collar.,DialogLoveGreater(11),,,,,
+Sunday3,Sunday4,,Sleeping with this heavy collar is quite a challenge. ,DialogLoveLower(10),,,,,
+Sunday4,,,"How can your slave serve you today, Mistress?",DialogDominationGreater(11),,,,,
+Sunday4,,,What is your schedule for the day?,DialogDominationLower(10),,,,,
+Sunday4,VideoGame1,We'll play video games.,"(She sighs loudly and nods.)  If it pleases you, I shall comply.","!LogQuery(""Evelyn"", ""ActivityVideoGame"")","LogAdd(""Evelyn"", ""ActivityVideoGame"")",-1,,,
+Sunday4,VideoGame1,We'll play video games.,"(She sighs loudly and grinds her teeth.)  Again?  Very well, I shall participate.","LogQuery(""Evelyn"", ""ActivityVideoGame"")",,-3,-1,,
+Sunday4,Jogging1,The weather is perfect for some jogging.,(She nods happily.)  Some fresh air shall be exhilarating.,"!LogQuery(""Evelyn"", ""ActivityJogging"")","LogAdd(""Evelyn"", ""ActivityJogging"")",1,,,
+Sunday4,Jogging1,The weather is perfect for some jogging.,"(She nods slowly.)  After all that running, we could register for the next marathon.","LogQuery(""Evelyn"", ""ActivityJogging"")",,-2,,,
+Sunday4,Library1,We can go to the library.,(She smiles and nods rapidly.)  I would love to get new books.,"!LogQuery(""Evelyn"", ""ActivityLibrary"")","LogAdd(""Evelyn"", ""ActivityLibrary"")",1,1,,
+Sunday4,Library1,We can go to the library.,(She seems surprised.)  Already?  I haven't finished my readings.,"LogQuery(""Evelyn"", ""ActivityLibrary"")",,-2,-2,,
+Sunday4,Drink1,Let's get drunk!,"(She jumps out of surprise.)  Are you serious?  Very well, Mistress.","!LogQuery(""Evelyn"", ""ActivityDrink"")","LogAdd(""Evelyn"", ""ActivityDrink"")",,-1,,
+Sunday4,Drink1,Let's get drunk!,"(She seems nervous.)  Mistress, I hope you do not have a drinking addiction.","LogQuery(""Evelyn"", ""ActivityDrink"")",,-1,-3,,
+Sunday4,Chess1,Let's play some chess.,The game of kings!  And queens.  (She winks at you.),"!LogQuery(""Evelyn"", ""ActivityChess"")","LogAdd(""Evelyn"", ""ActivityChess"")",,1,,
+Sunday4,Chess1,Let's play some chess.,(She seems surprised.)  More chess?  I guess we can hone our tactics.,"LogQuery(""Evelyn"", ""ActivityChess"")",,,-2,,
+Sunday4,SundayLazy1,Let's be lazy and relax today.,"(She shrugs and nods slowly.)  Whatever you desire, Mistress.",,,-1,-1,,
+SundayLazy1,SundayLazy2,,,,,,,,TeacherCasualEvelynNakedCollarTalkLivingRoom
+SundayLazy2,Outro1,,"(You spend a quiet day together, talking about the week to come and your relationship.)",,,,,,
+VideoGame1,VideoGame2,,,,"LogDelete(""Evelyn"", ""ActivityJogging"")",,,,TeacherCasualEvelynNakedCollarVideoGameLivingRoom
+VideoGame2,VideoGame3,,(You both pick up a controller and browse for a game to play.),,"LogDelete(""Evelyn"", ""ActivityLibrary"")",,,,
+VideoGame3,VideoGame4,,I admit that my knowledge of video games is very limited.,,"LogDelete(""Evelyn"", ""ActivityDrink"")",,,,
+VideoGame4,,,Which title would you enjoy?,,"LogDelete(""Evelyn"", ""ActivityChess"")",,,,
+VideoGame4,VideoGame5,Buldar's Gate 3,"(She plays with you.)  This is intriguing, I can understand why you praise it.",,,1,,,
+VideoGame4,VideoGame5,Minecart,(She plays with you.)  I think I understand why children love this one so much.,,,,,,
+VideoGame4,VideoGame5,Grand Theft Truck,"(She plays with you.)  I understand the appeal, but the violence is gratuitous.",,,,1,,
+VideoGame4,VideoGame5,Chocolate Crush,(She plays with you.)  This game certainly allows you to turn off your brain.,,,-1,,,
+VideoGame4,VideoGame5,Super Maria Sis,"(She plays with you.)  Mistress, I think this game was intended for kids.",,,,-1,,
+VideoGame4,VideoGame5,Pick the game you want.,Very good.  (She smirks and tries a few games from your library.),,,1,-3,,
+VideoGame5,VideoGame6,,(You spend some time together playing games.),,,,,,
+VideoGame5,VideoGameCuffs1,InventoryDialogHandcuffs,(She blushes as you cuff her hands while she's playing.),,,,1,,EvelynNakedCollarCuffedVideoGameLivingRoom
+VideoGameCuffs1,VideoGameCuffs2,,,,,,,,
+VideoGameCuffs2,VideoGame6,,"You might say that I am bonding with the game, Mistress.",,,,,,
+VideoGameCuffs2,VideoGame6,InventoryDialogPhone,(She winks as you save the kinky video game time on your phone.),,PictureAdd(),,,,
+VideoGame6,VideoGame7,,"(Many hours go by, the weekend will be over shortly.)",,,,,,
+VideoGame7,VideoGame8,,,,,,,,TeacherCasualEvelynNakedCollarTalkLivingRoom
+VideoGame8,Outro1,,(You stop gaming and talk about the week to come and your relationship.),,,,,,
+Jogging1,Jogging2,,Exercise shall be healthy for our body and mind.,,"LogDelete(""Evelyn"", ""ActivityVideoGame"")",,,,
+Jogging2,Jogging3,,There are plenty of paths behind the cottage that could be used.,,"LogDelete(""Evelyn"", ""ActivityLibrary"")",,,,
+Jogging3,,,I could wear my jogging outfit if you desire.,,"LogDelete(""Evelyn"", ""ActivityDrink"")",,,,
+Jogging3,Jogging4,"Ok, go get your outfit.",(She grabs her outfit and gets ready to jog.),,,1,-2,,EvelynGymJoggingWoods
+Jogging3,Jogging4,"No, you will run like that.",(She nods slowly and gets ready to jog.),,,,,,EvelynNakedCollarJoggingWoods
+Jogging3,Jogging4,I have an outfit for you.  (Get the ropes.),(You rope her up and get ready to jog.),,,,1,,EvelynNakedCollarRopeJoggingWoods
+Jogging3,Jogging4,"Girl, you will run bound and gagged.","(You bind and gag her, getting ready to jog.)",,,-1,2,,EvelynNakedCollarRopeBallgagJoggingWoods
+Jogging4,Jogging5,,,,"LogDelete(""Evelyn"", ""ActivityChess"")",,,,
+Jogging5,Jogging6,,"(You run outside together, in the trails behind her house.)",,,,,,
+Jogging5,Jogging6,InventoryDialogPhone,(She blushes as you add another picture on your phone.),,PictureAdd(),,,,
+Jogging6,Jogging7,,"(After lots of exercise, it's time to go back home.)",,,,,,
+Jogging7,Jogging8,,,,,,,,TeacherCasualEvelynNakedCollarTalkLivingRoom
+Jogging8,Outro1,,(You catch your breath and talk about the week to come and your relationship.),,,,,,
+Library1,Library2,,,,"LogDelete(""Evelyn"", ""ActivityVideoGame"")",,,,TeacherCasualEvelynDressLibrary
+Library2,Library3,,(You both go to the library to study and learn.),,"LogDelete(""Evelyn"", ""ActivityJogging"")",,,,
+Library3,Library4,,(This new knowledge will probably help your students.),,"LogDelete(""Evelyn"", ""ActivityDrink"")",,,,
+Library4,Library5,,"(After hours of studying, you get back home.)",,"LogDelete(""Evelyn"", ""ActivityChess"")",,,,
+Library5,Library6,,,,DialogChangeGradesAll(1),,,,TeacherCasualEvelynNakedCollarTalkLivingRoom
+Library6,Outro1,,(You return and talk about the week to come and your relationship.),,,,,,
+Drink1,Drink2,,,DialogLoveGreater(0),"LogDelete(""Evelyn"", ""ActivityVideoGame"")",,,,TeacherCasualEvelynNakedCollarLivingRoomDrink1
+Drink1,Drink2,,,DialogLoveLower(-1),"LogDelete(""Evelyn"", ""ActivityVideoGame"")",,,,TeacherCasualEvelynNakedCollarLivingRoomDrink1Kidnap
+Drink2,Drink3,,(You both start to drink and slowly get wasted.),DialogLoveGreater(0),"LogDelete(""Evelyn"", ""ActivityJogging"")",,,,
+Drink2,DrinkKidnap1,,(You start to drink and slowly get wasted.  She doesn't seem to be in the mood to get drunk.),DialogLoveLower(-1),,,,,
+Drink3,Drink4,,(It's very unproductive but you manage to have a good time.),,"LogDelete(""Evelyn"", ""ActivityLibrary"")",,,,
+Drink4,Drink5,,(She hopes it won't affect your work ethic.),,"LogDelete(""Evelyn"", ""ActivityChess"")",,,,
+Drink5,Drink6,,,,DialogChangeGradesAll(-1),,,,TeacherCasualEvelynNakedCollarLivingRoomDrink2
+Drink6,Outro3,,(You both pass out drunk after a while.),,,,,,
+DrinkKidnap1,DrinkKidnap2,,"(You take one glass after another, losing track of time.)",,,,,,
+DrinkKidnap2,DrinkKidnap3,,"(She stares at you as you get drunk, shaking her head from left to right.)",,,,,,
+DrinkKidnap3,DrinkKidnap4,,,,,,,None,TeacherCasualEvelynNakedCollarLivingRoomDrink2Kidnap
+DrinkKidnap4,DrinkKidnap5,,(You pass out drunk after a while.  Evelyn disappears without saying a word.),,,,,,
+DrinkKidnap5,DrinkKidnap6,,(It seems you will sleep on the couch alone.),,,,,,
+DrinkKidnap6,DrinkKidnap7,,,,"DialogSetBackgroundFilter(""#0000003F"")",,,,
+DrinkKidnap7,DrinkKidnap8,,,,"DialogSetBackgroundFilter(""#0000007F"")",,,,
+DrinkKidnap8,DrinkKidnap9,,,,"DialogSetBackgroundFilter(""#000000AF"")",,,,
+DrinkKidnap9,DrinkKidnap10,,,,"DialogSetBackgroundFilter(""#000000FF"")",,,,
+DrinkKidnap10,DrinkKidnap11,,,,"DialogSetBackgroundFilter(""#000000AF"")",,,,TeacherNakedCollarCuffsBallgagDungeonKidnapGround
+DrinkKidnap11,DrinkKidnap12,,,,"DialogSetBackgroundFilter(""#0000007F"")",,,,
+DrinkKidnap12,DrinkKidnap13,,,,"DialogSetBackgroundFilter(""#0000003F"")",,,,
+DrinkKidnap13,DrinkKidnap14,,,,"DialogSetBackgroundFilter(""#00000000"")",,,,
+DrinkKidnap14,DrinkKidnap15,,"(You slowly wake up, feeling dizzy and nauseous from all the alcohol.)",,,,,,
+DrinkKidnap15,DrinkKidnap16,,"(You can feel something in your mouth, steel around your neck and arms.)",,,,,,
+DrinkKidnap16,DrinkKidnap17,,(You seem to be lying naked on a cold floor.  Evelyn is staring at you.),,,,,,
+DrinkKidnap17,DrinkKidnap18,,,,,,,Evelyn,EvelynDressDungeonKidnapGroundPOV
+DrinkKidnap18,DrinkKidnap19,,"Wake up!  If you cannot tolerate wine, you should not have it.",,,,,,
+DrinkKidnap19,DrinkKidnap20,,You must be wondering what is going on.,,,,,,
+DrinkKidnap20,DrinkKidnap21,,(You struggle against your restraints helplessly.  There is no way out.),,,,,,
+DrinkKidnap21,DrinkKidnap22,,"When you started to get drunk, I felt my stomach turn.",,,-1,-1,,
+DrinkKidnap22,DrinkKidnap23,,"I felt disgusted, appalled by who I surrendered to.",,,-1,-1,,
+DrinkKidnap23,DrinkKidnap24,,You are a bad human being and a horrible Dominant.,,,-1,-1,,
+DrinkKidnap24,DrinkKidnap25,,It is now my duty to re-educate you.  I shall ensure that no submissive gets hurt anymore.,,,-1,-1,,
+DrinkKidnap25,DrinkKidnap26,,"It might take weeks, months or years, but you shall learn.",,,-1,-1,,
+DrinkKidnap26,DrinkKidnap27,,"You shall be kept bound, gagged and chained in my dungeon.  Like the vile dog you are.",,,-1,-1,,TeacherNakedCollarCuffsBallgagDungeonKidnapGround
+DrinkKidnap27,DrinkKidnap28,,You have forfeited your freedom with that last bottle.  Your life is mine.,,,-1,-1,,
+DrinkKidnap28,DrinkKidnap29,,"(Evelyn intends to kidnap you for a long period, maybe months or years.)",,,,,None,
+DrinkKidnap29,DrinkKidnap30,,(This is the end of your teaching career.  This story ends here.),,,,,,
+DrinkKidnap30,,,,,"DialogGameEnd(""EvelynKidnapDungeon"")",,,,
+Chess1,Chess2,,,,"LogDelete(""Evelyn"", ""ActivityVideoGame"")",,,,TeacherCasualEvelynNakedCollarChessLivingRoom
+Chess2,Chess3,,(She gets her old chess board and starts to put the pieces.),,"LogDelete(""Evelyn"", ""ActivityJogging"")",,,,
+Chess3,,,"Mistress, are you up for a challenge?",,"LogDelete(""Evelyn"", ""ActivityLibrary"")",,,,
+Chess3,Chess4,Go easy with me.,(She grins and nods.)  Do not worry.,,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""1"")",,-1,,
+Chess3,Chess4,Let's play for fun.,(She smiles and nods.)  A game for honor!,,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""2"")",,,,
+Chess3,Chess4,I can beat anyone.,"(She gulps and nods.)  Yes, Mistress.",,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""3"")",,1,,
+Chess4,Chess5,,,,"MiniGameStart(""Chess"", ""BossHouseEvelynSlave"")",,,,
+Chess5,Chess6,,(She smiles respectfully after her victory.)  There is no shame in defeat.,"MiniGameResultBetween(0, 0)",,-1,,,
+Chess5,Chess6,,(She reflects on the tied game.)  Tied matches are the most thrilling.,"MiniGameResultBetween(1, 1)",,,,,
+Chess5,Chess6,,"(She bows to your victory.)  Congratulations, you played Mistressfully.","MiniGameResultBetween(2, 2)",,1,,,
+Chess6,Chess7,,(You play a few more games as time goes by.),,"LogDelete(""Evelyn"", ""ActivityDrink"")",,,,
+Chess7,Chess8,,,,,,,,TeacherCasualEvelynNakedCollarTalkLivingRoom
+Chess8,Outro1,,(You stop playing and talk about the week to come and your relationship.),,,,,,
+Outro1,Outro2,,"(You can see that she's deeply in love with you, enjoying each second together.)",DialogLoveGreater(21),,,,,
+Outro1,Outro2,,"(You can see that she loves being with you, enjoying the weekend together.)","DialogLoveBetween(13, 20)",,,,,
+Outro1,Outro2,,"(You can see that she still likes you, even if the weekly routine is not always thrilling.)","DialogLoveBetween(5, 12)",,,,,
+Outro1,Outro2,,"(You can see that she doesn't smile that much, maybe she doesn't love you anymore.)",DialogLoveLower(4),,,,,
+Outro2,Outro3,,"(Your control over her is total, she worships the ground you walk on.)",DialogDominationGreater(21),,,,,
+Outro2,Outro3,,"(Your control over her is excellent, you manage every aspect of her life.)","DialogDominationBetween(13, 20)",,,,,
+Outro2,Outro3,,"(Your control over her is only partial, she might require stricter training.)","DialogDominationBetween(5, 12)",,,,,
+Outro2,Outro3,,"(Your control over her is fading, she might be slipping away from you.)",DialogDominationLower(4),,,,,
+Outro3,Outro4,,(Another week at the college will begin soon.),,,,,None,
+Outro4,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

@@ -1,0 +1,24 @@
+Entry,Intro1,,(You enter Evelyn's office as she's giving you an angry stare.),,,,,Evelyn,EvelynDeskAngry
+Intro1,Intro2,,"Young lady, come closer.  This is serious.","!LogQuery(""College"", ""PictureWarning"")",,,,,
+Intro1,Leave1,,"Young lady, more erotic pictures were published.  I cannot save you again.","LogQuery(""College"", ""PictureWarning"")",,,,,
+Intro2,Intro3,,Naughty pictures of you were published.  Our reputation is tarnished.,"DialogCurrentDS(""Evelyn"", """")",,,,,
+Intro2,Saved1,,(She lowers her voice.)  Miss PlayerName...,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,EvelynDeskShush
+Intro2,Saved1,,(She lowers her voice.)  My girl...,"DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,EvelynDeskShush
+Intro3,Intro4,,It seems that you were blackmailed by one of our students.,,,,,,
+Intro4,Intro5,,I shall ensure of the severity of that pupil punishment.,,,,,,
+Intro5,Saved4,,"Since I enjoy working with you, I can prepare a favor.",DialogLoveGreater(6),,,,,
+Intro5,Leave1,,"Sadly, your punishment shall also be important.",DialogLoveLower(5),,,,,
+Saved1,Saved2,,Naughty pictures of you were published.  Our reputation is tarnished.,,,,,,
+Saved2,Saved3,,It seems that you were blackmailed by one of our students.,,,,,,
+Saved3,Saved4,,I shall ensure of the severity of that pupil punishment.,,,,,,
+Saved4,Saved5,,"If you desire, I can use my influence here and manage this crisis.",,,,,,EvelynDesk
+Saved5,,,Do you wish to keep your teacher's position here?,,,,,,
+Saved5,Saved6,"Yes, I want to continue teaching.",(She nods and smiles.),,,1,,,
+Saved5,Leave1,"No, it's better if I quit.",(She grumbles and nods.)  I understand.,,,-1,,,EvelynDeskAngry
+Saved6,Saved7,,"This opportunity shan't come twice.  If this repeats, your career at the college shall be over.",,"LogAdd(""College"", ""PictureWarning"")",,,,
+Saved7,Saved8,,Return home and take the week off.  I shall take care of everything.,"DialogCurrentDS(""Evelyn"", """")",,,,,
+Saved7,Saved8,,Please take the week off Miss PlayerName.  I shall take care of everything.,"DialogCurrentDS(""Evelyn"", ""Sub"")",,,,,
+Saved7,Saved8,,"My submissive, return home promptly.  As your Protector, I shall take care of everything.","DialogCurrentDS(""Evelyn"", ""Dom"")",,,,,
+Saved8,Saved9,,(She sends you back home.),,DialogAdvanceWeek(),,,None,
+Saved9,,,,,"SaveGameDialog(""Home"", ""HomeBedroom"")",,,,
+Leave1,,,,,"DialogLoad(""CollegeLeave"")",,,,

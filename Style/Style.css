@@ -1,0 +1,337 @@
+canvas {
+	padding: 0;
+	margin: auto;
+	outline: none;
+	display: block;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
+	width: 100%;
+}
+
+@media (min-aspect-ratio: 2/1) {
+	canvas {
+		width: unset;
+		height: 100%;
+	}
+}
+
+input {
+	box-sizing: border-box;
+	background: white;
+	padding-bottom: unset;
+	padding-top: unset;
+}
+
+textarea {
+	box-sizing: border-box;
+	background: white;
+	resize: none;
+	padding-bottom: unset;
+	padding-top: unset;
+}
+
+* {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.NoSelect {
+	touch-action: manipulation;
+	/* iOS Safari */
+	-webkit-touch-callout: none;
+	/* Safari */
+	-webkit-user-select: none;
+	/* Konqueror HTML */
+	-khtml-user-select: none;
+	/* Old versions of Firefox */
+	-moz-user-select: none;
+	/* Internet Explorer/Edge */
+	-ms-user-select: none;
+	/* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+	user-select: none;
+}
+
+.custom-select {
+	position: relative;
+	font-family: Arial, sans-serif;
+}
+
+.custom-select select {
+	/*hide original SELECT element:*/
+	display: none;
+}
+
+.select-selected {
+	background-color: white;
+	color: black;
+	background-image: url('../Icons/Dropdown.png');
+	background-repeat: no-repeat, repeat;
+	background-position: right .7em top 50%, 0 0;
+	background-size: .65em auto, 100%;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div,
+.select-selected {
+	color: black;
+	padding: 0.2em;
+	cursor: pointer;
+	user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+	position: absolute;
+	background-color: white;
+	top: 100%;
+	left: 0;
+	right: 0;
+	z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+	display: none;
+}
+
+.select-items div:hover,
+.same-as-selected {
+	background-color: cyan;
+}
+
+textarea:invalid,
+input[type=text]:invalid,
+input[type=number]:invalid {
+	background-color: #fbb;
+	box-shadow: 0 0 3px 2px #c22;
+}
+
+/* Range Inputs - WebKit */
+
+input[type=range] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  background-color: transparent;
+  cursor: pointer;
+  /* Increases the hitbox of the slider to make it easier to select */
+  padding: 1% 0;
+  margin: -1% 0;
+}
+
+input[type=range]:focus {
+	outline: none;
+}
+
+input[type=range].Vertical {
+	transform: rotate(270deg);
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+	width: 100%;
+	height: 25%;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 3px;
+	border: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+input[type=range]::-webkit-slider-thumb {
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 1px 1px 8px -2px rgba(0, 0, 0, 0.5);
+	height: 1em;
+	width: 1em;
+	border-radius: 50%;
+	cursor: pointer;
+	-webkit-appearance: none;
+	margin-top: -0.4em;
+	background-color: #ccc;
+}
+
+input[type=range][data-thumb]::-webkit-slider-thumb {
+	background-color: transparent;
+	box-shadow: none;
+	background-position: center;
+	background-size: cover;
+	border: 0;
+	font-size: 1.5em;
+	border-radius: 0;
+}
+
+input[type=range][data-thumb].Vertical::-webkit-slider-thumb {
+	transform: rotate(90deg);
+}
+
+input[type=range][data-thumb=lock]::-webkit-slider-thumb {
+	background-image: url("../Assets/Female3DCG/ItemMisc/Preview/MetalPadlock.png");
+	width: 0.5em;
+}
+
+input[type=range][data-thumb=blindfold]::-webkit-slider-thumb {
+	background-image: url("../Assets/Female3DCG/ItemHead/Preview/StuddedBlindfold.png");
+}
+
+input[type=range][data-thumb=lightbulb]::-webkit-slider-thumb {
+	background-image: url("../Icons/Lightbulb.png");
+	width: 0.6em;
+}
+
+input[type=range][data-thumb=player]::-webkit-slider-thumb {
+	background-image: url("../Icons/Player.png");
+	width: 1.2em;
+	height: 1.2em;
+}
+
+input[type=range][data-thumb=rope]::-webkit-slider-thumb {
+	background-image: url("../Icons/Rope.png");
+	width: 1.2em;
+	height: 1.2em;
+}
+
+/* Range Inputs - Firefox */
+
+input[type=range]::-moz-range-track {
+	width: 100%;
+	height: 25%;
+	cursor: pointer;
+	background-color: #fff;
+	border: 1px solid rgba(128, 128, 128, 0.25);
+	border-radius: 3px;
+}
+
+input[type=range]::-moz-range-thumb {
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 1px 1px 8px -2px rgba(0, 0, 0, 0.5);
+	height: 1em;
+	width: 1em;
+	border-radius: 50%;
+	background-color: #ccc;
+	cursor: pointer;
+}
+
+input[type=range][data-thumb]::-moz-range-thumb {
+	background-color: transparent;
+	box-shadow: none;
+	background-position: center;
+	background-size: cover;
+	border: 0;
+	font-size: 1.5em;
+	border-radius: 0;
+}
+
+input[type=range][data-thumb].Vertical::-moz-range-thumb {
+	transform: rotate(90deg);
+}
+
+input[type=range][data-thumb=lock]::-moz-range-thumb {
+	background-image: url("../Assets/Female3DCG/ItemMisc/Preview/MetalPadlock.png");
+	width: 0.5em;
+}
+
+input[type=range][data-thumb=blindfold]::-moz-range-thumb {
+	background-image: url("../Assets/Female3DCG/ItemHead/Preview/StuddedBlindfold.png");
+}
+
+input[type=range][data-thumb=lightbulb]::-moz-range-thumb {
+	background-image: url("../Icons/Lightbulb.png");
+	width: 0.6em;
+}
+
+input[type=range][data-thumb=player]::-moz-range-thumb {
+	background-image: url("../Icons/Player.png");
+	width: 1.2em;
+	height: 1.2em;
+}
+
+input[type=range][data-thumb=rope]::-moz-range-thumb {
+	background-image: url("../Icons/Rope.png");
+	width: 1.2em;
+	height: 1.2em;
+}
+
+input[type="checkbox"] {
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #fff;
+	margin: 0;
+	font: inherit;
+	color: black;
+	width: min(6vh, 3vw);
+	height: min(6vh, 3vw);
+	border: min(0.3vh, 0.15vw) solid black;
+	display: grid;
+	place-content: center;
+	cursor: pointer;
+}
+
+input[type="checkbox"]:hover {
+	background-color: cyan;
+}
+
+input[type="checkbox"]:disabled {
+	background-color: lightgray;
+	cursor: auto;
+}
+
+input[type="checkbox"]::before {
+	content: "";
+	width: min(4.6vh, 2.3vw);
+	height: min(4.6vh, 2.3vw);
+	clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+	transform: scale(0);
+	background-color: black;
+}
+
+input[type="checkbox"]:checked::before {
+	transform: scale(1);
+}
+
+/* Dropdown */
+
+.dropdown {
+	color: white;
+	overflow-y: scroll;
+	word-wrap: break-word;
+	background-color: rgba(0, 0, 0, 0.55);
+	padding: min(1vh, 0.5vw);
+	user-select: none;
+}
+
+.dropdown-header {
+	display: grid;
+	font-size: min(3.6vh, 1.8vw);
+	min-height: min(7vh, 3.5vw);
+	text-align: center;
+	align-items: center;
+}
+
+.dropdown-grid {
+	font-size: min(3vh, 1.5vw);
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.dropdown-checkbox-grid {
+	display: grid;
+	grid-template-columns: min-content auto;
+	min-height: min(7vh, 3.5vw);
+	height: fit-content;
+	align-items: center;
+}
+
+.dropdown-checkbox-grid:hover {
+	color: yellow;
+}
+
+.dropdown-checkbox-label {
+	padding-left: min(2vh, 1vw);
+}
+
+.truncated-text {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+}

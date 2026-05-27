@@ -1,0 +1,391 @@
+Entry,Switch1,,"Hun, I'm in a kinky mood.  I have wild ideas.","DialogCurrentDS(""Mia"", """")",,,,Mia,TeacherNakedMiaNakedSitBed
+Entry,Dom1,,"Miss, I'm in a kinky mood.  I have wild ideas.","DialogCurrentDS(""Mia"", ""Sub"")",,,,Mia,TeacherNakedMiaNakedSitBed
+Entry,SubRope0,,"My pet, I'm in a kinky mood.  I have wild ideas.","DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,TeacherNakedMiaNakedSitBed
+Switch1,,,Should we get the ropes?  Who gets bound?,,,,,,
+Switch1,Dom2,"Yes, I could rope you up.",(She blushes and gets the ropes.)  You would?   Wow!,DialogDominationGreater(-4),"InventoryAdd(""Rope"")",,1,,
+Switch1,SubRope1,"Yes, I could rope you up.","(She shakes her head no.)  Forget it hun, I'll handle the ropes.",DialogDominationLower(-5),,,2,,
+Switch1,SubRope1,"Sure, you can tie me up.",(She looks surprised.)  I didn't expect this answer.  Getting you bound will be fun.,DialogDominationGreater(5),,,-2,,
+Switch1,SubRope1,"Sure, you can tie me up.",(She grins.)  Getting you bound will be fun.,DialogDominationLower(4),,,-1,,
+Switch1,SelfBound1,We could both get bound.,(She gives you an intrigued look.),"!LogQuery(""Mia"", ""RopeDoubleSelfBound"")",,1,,,
+Switch1,SelfBound7,We could both get bound.,"Again?  Sure hun, it will be fun.","LogQuery(""Mia"", ""RopeDoubleSelfBound"")",,,-1,,
+Switch1,Chess1,We could play some chess to see who gets bound.,(She laughs and nods.)  That's a fun idea.  I'll go get the chess board.,,,,,,
+Switch1,EarlySleep1,"No, I'm too tired.","(She seems very disappointed.)  Fine, let's get some rest.  (You go get your pajamas.)",,,-3,,,
+Switch1,Breakup,"Forget the ropes, I want out.  (Breakup with her.)",Fuck!  You know how to break the mood.  (She goes get her clothes.),DialogLoveLower(9),,-6,,,
+Chess1,Chess2,,,,,,,,TeacherNakedMiaNakedSitBedChessBoard
+Chess2,Chess3,,(She puts the chess board on the bed.)  Wow!  Let's set the rules.,,,,,,
+Chess3,,,Whoever doesn't win gets bound.  Is it fair?,,,,,,
+Chess3,Chess4,"Ok, but please go easy on me.","(She winks and starts to put the pieces.)  Sure, we can play a simple game.",,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""1"")",,-1,,
+Chess3,Chess4,"It's fair, it will be a fun game.","(She giggles and starts to put the pieces.)  Absolutely, it will be fun.",,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""2"")",,,,
+Chess3,Chess4,"Alright, bring your best moves!",(She smirks and starts to put the pieces.)  Get ready for a tough match!,,"MiniGameParameterSet(""Chess"", ""Difficulty"", ""3"")",,1,,
+Chess4,Chess5,,,,"MiniGameStart(""Chess"", ""HomeMiaNaked"")",,,,
+Chess5,Chess6,,Ah!  You'll need to practice some more.,"MiniGameResultBetween(0, 0)",,-1,,,
+Chess5,Chess6,,"A tied game?  Since nobody won, I guess we both get bound.","MiniGameResultBetween(1, 1)",,,,,
+Chess5,Chess6,,"Well done, you're quite good at this game.","MiniGameResultBetween(2, 2)",,1,,,
+Chess6,SubRope1,,(She rubs her hands.)  You will be a cute prisoner.,"MiniGameResultBetween(0, 0)",,,,,
+Chess6,SelfBound7,,You can tie me up and try to rope yourself right after.,"MiniGameResultBetween(1, 1)",,,,,
+Chess6,Dom2,,I guess I'm your prisoner.  (She blushes and gets the ropes.),"MiniGameResultBetween(2, 2)","InventoryAdd(""Rope"")",,,,
+Dom1,,,(She presents some ropes for you.)  Would you enjoy getting me bound?,,"InventoryAdd(""Rope"")",,,,MiaNakedGiveRope
+Dom1,Dom2,We could try but I'm not a rope expert.,We need more practice then!  (She laughs.),,,,-1,,
+Dom1,Dom2,Be prepared to get in tight bondage.,(She gulps and nods rapidly.),,,,1,,
+Dom1,Dom2,"Fine, but for a short while only.",(She sighs and nods slowly.),,,-1,,,
+Dom1,Dom2,"Oh yes, you will be cute in ropes.",(She giggles and smiles at you.),,,1,,,
+Dom1,SelfBound1,We could both get bound.,Really Miss? (She gives you an intrigued look.),"!LogQuery(""Mia"", ""RopeDoubleSelfBound"")",,1,-2,,
+Dom1,SelfBound7,We could both get bound.,"Again?  Very good Miss, it will be fun.","LogQuery(""Mia"", ""RopeDoubleSelfBound"")",,,-4,,
+Dom1,DomEndCuddle1,No.  I'm exhausted.  I need to sleep now.,"(She sighs and puts the ropes away.)  Ok, I understand.",,,-4,-3,,MiaStandNakedSubmissive
+Dom1,Breakup,"Forget the ropes, I want out.  (Breakup with her.)",Fuck!  You know how to break the mood.  (She goes get her clothes.),DialogLoveLower(9),,-6,-3,,
+Dom2,DomRope1,(Practice some rope bondage first.),(You pick up the ropes and look at her.),,,,,,
+Dom2,DomSex1,(Get her in bed right away.),(You point to the bed as she slowly gets on it.)  You're not wasting time.,,,,1,,
+DomRope1,DomRope2,,,,,,,,MiaNakedStrech
+DomRope2,DomRope3,,"(She stretches, getting ready for bondage.)",,,,,,
+DomRope2,DomRope3,InventoryDialogPhone,(She pulls out her tongue as you snap a picture of her naked.),,PictureAdd(),,,,
+DomRope3,,,"Hun, how will you tie me up?","!DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRope3,,,"Miss, how would you like to tie me up?","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRope3,DomRope4,Let's try a hogtie.,(She nods and lies on her stomach as you rope her up in a hogtie.),,"DialogVariableSet(""Position"", ""HogTie"")",,,,MiaNakedHogTie
+DomRope3,DomRope4,Let's try a ball tie.,(She nods and lies on her side as you rope her up in a ball tie.),,"DialogVariableSet(""Position"", ""BallTie"")",,,,MiaNakedBallTie
+DomRope3,DomRope4,Let's try a lotus tie.,(She nods and sits down as you rope her up in a lotus tie.),,"DialogVariableSet(""Position"", ""LotusTie"")",,,,MiaNakedLotusTie
+DomRope4,DomRope5,,,,,,,,
+DomRope5,DomRope6,,This is quite tight but also comfy.  I'm surprised.,,,,,,
+DomRope5,DomRope6,InventoryDialogPhone,(She smiles as you take a naughty picture.)  Cheese!,,PictureAdd(),1,,,
+DomRope6,,,Wow!  Do you enjoy having me bound like that?,,,,,,
+DomRope6,DomRope7,It's kind of fun.,(She nods and tugs on the ropes.),,,,,,
+DomRope6,DomRope7,You're sexy in ropes.,(She smiles at you.)  You're so kind.,,,1,,,
+DomRope6,DomRope7,I wish I was bound with you.,(She laughs out loud.)  We'll have to find a rigger.,,,,-1,,
+DomRope6,DomRope7,It's great to see you helpless.,(She blushes.)  It's nice to be helpless for you.,,,,1,,
+DomRope6,DomRope7,I don't know.,(She sighs and tugs on the ropes.),,,-1,,,
+DomRope7,DomRope8,,Being in ropes is a special experience.,,,,,,
+DomRope8,DomRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""HogTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,MiaNakedHogTieBallGag
+DomRope8,DomRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""BallTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,MiaNakedBallTieBallGag
+DomRope8,DomRopeGag1,InventoryDialogBallgag,(She gulps as you push the plastic ball between her teeth and buckle the gag.),"DialogVariableIs(""Position"", ""LotusTie"")","DialogVariableSet(""Gag"", ""BallGag"")",,,,MiaNakedLotusTieBallGag
+DomRope8,DomRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""HogTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,MiaNakedHogTiePanelGag
+DomRope8,DomRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""BallTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,MiaNakedBallTiePanelGag
+DomRope8,DomRopeGag1,InventoryDialogPanelGag,(She whimpers as you push the panel gag inside and lock the buckle securely.),"DialogVariableIs(""Position"", ""LotusTie"")","DialogVariableSet(""Gag"", ""PanelGag"")",,,,MiaNakedLotusTiePanelGag
+DomRopeGag1,DomRopeGag2,,,,,,,,
+DomRopeGag2,DomRopeGag3,,(She chews on the gag and tests the ropes some more.),,,,,,
+DomRopeGag2,DomRopeGag3,InventoryDialogPhone,(She blushes as you immortalize her helplessness.),,PictureAdd(),,1,,
+DomRopeGag3,DomRopeGag4,,Hoh!  Hich ih hihch!  (She chews on the ball while speaking.),"DialogVariableIs(""Gag"", ""BallGag"")",,,,,
+DomRopeGag3,DomRopeGag4,,Mmo!  Mmic im mihcm!  (She struggles with the panel gag while speaking.),"DialogVariableIs(""Gag"", ""PanelGag"")",,,,,
+DomRopeGag4,,,(She makes pleading eyes to you.),,,,,,
+DomRopeGag4,DomRopeGag5,(Caress her.),(She moans sensually in her gag as you caress her slowly.),,,1,-1,,
+DomRopeGag4,DomRopeGag5,(Kiss her gag.),"(She tugs on the ropes as you kiss her gag, wanting to share that kiss.)",,,1,,,
+DomRopeGag4,DomRopeGag5,(Grope her.),(She twists in the ropes as you grope her breast and butt.),,,1,1,,
+DomRopeGag4,DomRopeGag5,(Tickle her.),(She snorts in her gag as you tickle her without mercy.),,,2,,,
+DomRopeGag4,DomRopeGag5,(Spank her.),(She jumps and whimpers in the gag as you spank her hard.),,,,1,,
+DomRopeGag4,DomRopeGag5,(Do nothing special.),(She seems disappointed that you don't seize the opportunity.),,,-1,-2,,
+DomRopeGag4,DomRopeGag5,InventoryDialogCrop,(She struggles hard and screams in the gag as you whip her with the crop.),,,-1,2,,
+DomRopeGag5,DomRopeEnd1,,(You remove her gag after a while.  Leaving her hogtied.),"DialogVariableIs(""Position"", ""HogTie"")",,,,,MiaNakedHogTie
+DomRopeGag5,DomRopeEnd1,,(You remove her gag after a while.  Leaving her in her ball tie.),"DialogVariableIs(""Position"", ""BallTie"")",,,,,MiaNakedBallTie
+DomRopeGag5,DomRopeEnd1,,(You remove her gag after a while.  Leaving her in her lotus tie.),"DialogVariableIs(""Position"", ""LotusTie"")",,,,,MiaNakedLotusTie
+DomRope8,DomRope9,,I'm your love prisoner.  I cherish this moment.,DialogLoveGreater(15),,,,,
+DomRope8,DomRope9,,I'm your prisoner.  It's a fun moment.,DialogLoveLower(14),,,,,
+DomRope9,,,I'm helpless.  You can do whatever you want.,,,,,,
+DomRope9,DomRopeEnd1,(Caress her.),(She moans as you caress her slowly.)  Mmmmh!,,,1,-1,,
+DomRope9,DomRopeEnd1,(Kiss her lips.),(You share a long loving kiss as she tugs on the ropes sensually.),,,1,,,
+DomRope9,DomRopeEnd1,(Grope her.),(She twists in the ropes as you grope her breast and butt.),,,1,1,,
+DomRope9,DomRopeEnd1,(Tickle her.),(She laughs out loud as you tickle her without mercy.)  Eeeeeaahaha!,,,2,,,
+DomRope9,DomRopeEnd1,(Spank her.),(She jumps as you spank her hard.)  Ow!  Hun!,,,,1,,
+DomRope9,DomRopeEnd1,(Do nothing special.),(She seems disappointed that you don't seize the opportunity.),,,-1,-2,,
+DomRope9,DomRopeEnd1,InventoryDialogCrop,(She struggles hard as you whip her with the crop.)  It really hurts!,,,-1,2,,
+DomRopeEnd1,DomRopeEnd2,,Wow!  Hun!  This rope bondage is a big thrill.,"!DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRopeEnd1,DomRopeEnd4,,Miss PlayerName!  This rope bondage is a big thrill.,"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRopeEnd2,,,"My love, it was so intense and kinky.",DialogLoveGreater(16),,,,,
+DomRopeEnd2,,,So intense and kinky!,DialogLoveLower(15),,,,,
+DomRopeEnd2,DomSex1,It can be kinkier.  Get in bed.,Yes!  (You release her and she quickly jumps on the bed.),"!DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRopeEnd2,DomSex1,It can be kinkier.  Get in bed.,"Of course, Miss!  (You release her and she quickly jumps on the bed.)","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomRopeEnd2,Dominate,It's only the beginning.  (Propose to be her Domme.),(She gulps and gets on her knees as you release her.),DialogDominationGreater(12),,,1,,
+DomRopeEnd2,DomRopeEnd3,It's only the beginning.  (Propose to be her Domme.),"(You talk for a while, but she refuses.)  Sorry, I don't think this a good idea.",DialogDominationLower(11),,,,,
+DomRopeEnd2,DomRopeEnd3,"Indeed, but it's enough for now.",(She nods in agreement.)  Well said.,,,,-1,,
+DomRopeEnd3,EndCuddle1,,Let's get to bed.  I'm tired.,,,,,,
+DomRopeEnd4,,,It's both intense and kinky.,,MiniGameParameterClear(),,,,
+DomRopeEnd4,DomRopeToSex1,It's far from over.  (Change her bondage for sex.),"Miss PlayerName!  (You skillfully change her bondage, getting her ready for sex.)",,"MiniGameParameterSet(""InventoryRope"", ""Wrist"", ""true"")",,1,,
+DomRopeEnd4,DomSex1,It will get kinkier.  (Release her to tease her sexually.),Wow!  Miss!  (You release her as she jumps on the bed happily.),,,1,,,
+DomRopeEnd4,DomSpank1,It's getting late but you need your mandatory spanking.,"Miss, is it really mandatory?  (She shivers and seems nervous as you untie her.)","!LogQuery(""Mia"", ""MandatorySpanking"")","LogAdd(""Mia"", ""MandatorySpanking"")",,1,,
+DomRopeEnd4,DomSpank1,It's getting late but you need your mandatory spanking.,"Yes Miss, I know the drill.  (She giggles and nods as you untie her.)","LogQuery(""Mia"", ""MandatorySpanking"")",,,,,
+DomRopeEnd4,DomRopeEnd5,"Indeed, but it's enough.  I'm tired.","(She nods in agreement.)  Yes, Miss PlayerName.",,,-1,-1,,
+DomRopeEnd5,DomEndCuddle1,,I've cleaned the bed for you.  You will rest well.,,,,,,
+DomRopeToSex1,DomSex2,,,,"MiniGameParameterSet(""InventoryRope"", ""Ankle"", ""true"")",,,,MiaBedReadyForSexRoped
+DomSex1,DomSex2,,,,MiniGameParameterClear(),,,,MiaBedReadyForSex
+DomSex2,,,"(She gets her butt up.)  You can use the strap-on if you want, I'm not sure where it is.",,,,,,
+DomSex2,DomSex3,"Don't worry, I already have it.",(She shivers and nods.),"InventoryAvailable(""Strapon"")",,,,,
+DomSex2,DomSex3,"It must be around, but I cannot find it.","(She shrugs.)  No worries, we'll find it again someday.","!InventoryAvailable(""Strapon"")",,,,,
+DomSex2,DomSexFindStrapOn,SecretDialog,,"!InventoryAvailable(""Strapon"")",,0,500,500,200
+DomSexFindStrapOn,,,(You find your old strap-on dildo squeezed between the mattress and the wall.),,,,,Teacher,HiddenStrapon
+DomSexFindStrapOn,DomSex3,(Pick it up.),(You take the dildo strap-on and keep it close.),,"InventoryAdd(""Strapon"")",,,,
+DomSexFindStrapOn,DomSex3,(Leave it there.),(You leave it there and return to Mia.),,,,,,
+DomSex3,DomSex4,,,,"MiniGameStart(""FreeBondage"", ""MiaBed"", ""MiaBed"")",,,Mia,MiniGameBackgroundFreeBondage
+DomSex4,DomSex5,,"(Mia still trembles uncontrollably, enjoying her long orgasm.)","MiniGameFreeBondageResultGreater(""Arousal"", 100)",,1,,,
+DomSex4,DomSex5,,"(Mia pouts and seems unsatisfied, she did not climax.)","MiniGameFreeBondageResultLower(""Arousal"", 99)",,-1,,,
+DomSex5,DomSex6,,(She seems calmer and more obedient.),"MiniGameFreeBondageResultGreater(""Stress"", 100)",,,1,,
+DomSex5,DomSex6,,(She looks stressed right now.  The training wasn't great.),"MiniGameFreeBondageResultLower(""Stress"", 99)",,,-1,,
+DomSex6,DomSex7,,(You help her to get up.),,,,,,MiaStandNakedSubmissive
+DomSex7,DomSex8,,Wow!  That was some great sex!  (She laughs.),"MiniGameFreeBondageResultGreater(""Arousal"", 50)",,1,,,
+DomSex7,DomSex8,,"Hun, I did not cum.  This is disappointing.","MiniGameFreeBondageResultLower(""Arousal"", 49)",,-2,,,
+DomSex8,DomSex9,,It was sweet to be controlled by you.,"MiniGameFreeBondageResultGreater(""Stress"", 50)",,,1,,
+DomSex8,DomSex9,,I'm confused.  Maybe I should not submit like that.  (She shrugs.),"MiniGameFreeBondageResultLower(""Stress"", 49)",,,-2,,
+DomSex9,DomSex10,,(She slowly recovers and looks at you.),"DialogCurrentDS(""Mia"", """")",,,,,
+DomSex9,DomSex12,,(She slowly recovers and looks at you.),"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+DomSex9,DomSexTurnTables1,,(She slowly recovers and looks at you more submissively.),"DialogCurrentDS(""Mia"", ""Dom"")",,,5,,
+DomSex10,,,"My love, this is intense.",DialogLoveGreater(16),,,,,
+DomSex10,,,This is intense.,DialogLoveLower(15),,,,,
+DomSex10,Dominate,It's only the beginning.  (Propose to be her Domme.),(She gulps and gets on her knees as you sit naked on the bed.),DialogDominationGreater(12),,,1,,
+DomSex10,DomSex11,It's only the beginning.  (Propose to be her Domme.),"(You talk for a while, but she refuses.)  Sorry, I don't think this a good idea.",DialogDominationLower(11),,,,,
+DomSex10,DomSex11,That's true but it's enough for now.,(She nods in agreement.)  Well said.,,,,-1,,
+DomSex11,EndCuddle1,,Let's get some sleep.  I'm tired.,,,,,,
+DomSex12,,,"Miss, that was intense.  (She looks a little exhausted.)",,,,,,
+DomSex12,DomSex13,Enough chit-chat.  I'm tired.,(She sighs loudly.)  I understand.,,,-1,,,
+DomSex12,DomSex13,As intense as our love.,"(She smiles widely.)  You're a true poet, even late at night.",,,1,,,
+DomSex12,DomSex13,"Girl, I need some rest now.",(She nods in agreement.)  I'm also tired.,,,,,,
+DomSex12,DomSpank1,"Before bed, there's your mandatory spanking.","(She shivers and seems nervous.)  Miss, it's mandatory?  Very well.","!LogQuery(""Mia"", ""MandatorySpanking"")","LogAdd(""Mia"", ""MandatorySpanking"")",,1,,
+DomSex12,DomSpank1,"Before bed, there's your mandatory spanking.","(She giggles and nods.)  Yes Miss, I know the drill.","LogQuery(""Mia"", ""MandatorySpanking"")",,,,,
+DomSex13,DomEndCuddle1,,I've cleaned the bed for you.  You will rest well.,,,,,,
+DomSexTurnTables1,DomSex11,,"My girl, that was intense.  I'm getting tired.  Let's get some sleep.",DialogDominationLower(11),,,,,
+DomSexTurnTables1,DomSexTurnTables2,,Wow!  That was so intense.  You're a great Dominant my girl.,DialogDominationGreater(12),,,,,
+DomSexTurnTables2,DomSexTurnTables3,,(She thinks for a while and blushes.),,,,,,
+DomSexTurnTables3,DomSexTurnTables4,,How would you feel if we reversed the roles?,,,,,,
+DomSexTurnTables4,,,You could become the Dominant and I'll be the submissive.,,,,,,
+DomSexTurnTables4,Dominate,"Yes, you will be my pet.  (Propose to be her Domme.)",(She gulps and gets on her knees as you sit naked on the bed.),,,,1,,
+DomSexTurnTables4,DomSexTurnTables4,"No, let's not change anything.",Alright my girl.  Let's get some sleep.  I'm tired.,,,,3,,
+DomSpank1,DomSpank2,,(You put on your pajamas for bed as she presents her butt.),,,,,,MiaStandNakedSubmissive
+DomSpank2,DomSpank3,,,,,,,,TeacherSpankingMia
+DomSpank3,DomSpank4,,(She takes a deep breath as you raise your hand.),,,,,,
+DomSpank4,DomSpank5,,,,"MiniGameStart(""Spanking"", ""BedroomMia"")",,,,
+DomSpank5,DomSpank6,,(You stop as she laughs at you.)  I don't know what you want to achieve but it doesn't work.,"MiniGameResultBetween(0, 24)",,-1,-3,,
+DomSpank5,DomSpank6,,(You stop as she grumbles.)  Enough!  You're not very good at it.,"MiniGameResultBetween(25, 49)",,,-1,,
+DomSpank5,DomSpank6,,(You stop as she checks her butt.)  That wasn't bad.  Maybe we can practice again.,"MiniGameResultBetween(50, 74)",,,,,
+DomSpank5,DomSpank6,,(You stop as she shakes a little.)  Wow!  You're a good spanker you know.,"MiniGameResultBetween(75, 99)",,,1,,
+DomSpank5,DomSpank6,,"(You stop as she trembles and moans.)  Wow!  That was truly amazing, I'm speechless.","MiniGameResultBetween(100, 100)",,1,2,,
+DomSpank6,DomSex13,,Should we get ready to sleep?,,,,,,MiaStandNakedSubmissive
+SubRope0,SubRope1,,"I want to see you bound, super tight!",DialogDominationLower(0),,,,,
+SubRope0,SelfBound7,,We will get bound together!  You tie me up and rope yourself after.,DialogDominationGreater(1),,,,,
+SubRope1,SubRope2,,Get up!  I'll find the perfect way to get you bound.,,"DialogVariableSetRandom(""Position"", 3)",,,,
+SubRope2,SubRope3,,,,"InventoryAdd(""Rope"")",,,,TeacherMiaNakedShowRope
+SubRope3,SubRope4,,(She picks up a few coils of rope and starts to unwrap them.),,"DialogVariableSetRandom(""Gag"", 3)",,,,
+SubRope4,SubRope5,,,"DialogVariableIs(""Position"", ""0"")",,,,,TeacherNakedHogTie
+SubRope4,SubRope5,,,"DialogVariableIs(""Position"", ""1"")",,,,,TeacherNakedBallTie
+SubRope4,SubRope5,,,"DialogVariableIs(""Position"", ""2"")",,,,,TeacherNakedLotusTie
+SubRope5,SubRope6,,(She lays you on your stomach and ropes you up in a hogtie.),"DialogVariableIs(""Position"", ""0"")",,,,,
+SubRope5,SubRope6,,(She lays you on your side and ropes you up in a ball tie.),"DialogVariableIs(""Position"", ""1"")",,,,,
+SubRope5,SubRope6,,(She makes you sit down on the bed and ropes you up in a lotus tie.),"DialogVariableIs(""Position"", ""2"")",,,,,
+SubRope6,SubRope7,,"Wow!  You're so sexy like that, hun.","!DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubRope6,SubRope7,,Wow!  You're such a sexy love prisoner.,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubRope6,SubRope7,InventoryDialogPhone,(She smirks and captures the moment on both her phone and your phone.),,"PictureAdd(""Teacher"")",,,,
+SubRope7,SubRope8,,"I'll need lots of practice to become a shibari expert, but I like what I'm seeing.",,,,,,
+SubRope8,,,Can you escape?,,,,,,
+SubRope8,SubRope9,I could but I don't want to.,(She nods.)  I understand that you don't want to spoil the moment.,,,,1,,
+SubRope8,SubRope9,It's way too tight to even try.,(She smirks.)  I must admit I'm proud of my work.,,,,-1,,
+SubRope8,SubRope9,(Struggle hard against the ropes.),(She smiles and seems to enjoy the show.),,,1,,,
+SubRope8,SubRope9,(Barely struggle against the ropes.),(She seems to be disappointed by your lack of effort.),,,-1,,,
+SubRope9,SubRope10,,(She tickles you as you struggle.  Enjoying your helpless laughs.),"DialogVariableIs(""Gag"", ""0"")",,,,,
+SubRope9,SubRopePanelGag1,,(She smirks and picks up a panel gag.)  This will silence you well.,"DialogVariableIs(""Gag"", ""1"")",,,,,
+SubRope9,SubRopeBallGag1,,(She smirks and picks up a ball gag.)  This will be cute on you.,"DialogVariableIs(""Gag"", ""2"")",,,,,
+SubRopePanelGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""0"")",,,,,TeacherNakedHogTiePanelGag
+SubRopePanelGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""1"")",,,,,TeacherNakedBallTiePanelGag
+SubRopePanelGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""2"")",,,,,TeacherNakedLotusTiePanelGag
+SubRopeBallGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""0"")",,,,,TeacherNakedHogTieBallGag
+SubRopeBallGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""1"")",,,,,TeacherNakedBallTieBallGag
+SubRopeBallGag1,SubRopeGag1,,,"DialogVariableIs(""Position"", ""2"")",,,,,TeacherNakedLotusTieBallGag
+SubRopeGag1,SubRopeGag2,,"(She secures the gag firmly, leaving you speechless.)",,,,,,
+SubRopeGag2,SubRopeGag3,,Wow!  Bound and gagged!  This is really hot.,,,,,,
+SubRopeGag2,SubRopeGag3,InventoryDialogPhone,(She zooms on the gag and makes a few sexy pictures.),,"PictureAdd(""Teacher"")",,,,
+SubRopeGag3,,,Who's my sexy love prisoner?,,,,,,
+SubRopeGag3,SubRopeGag4,Hhheee!  Iff he!,(She smiles proudly.)  That's right!,,,,-1,,
+SubRopeGag3,SubRopeGag4,(Look around the room curiously.),(She shakes her head no.)  You know it's you!,,,,1,,
+SubRopeGag3,SubRopeGag4,Ngh mmnnghp uuggpm mgn!,Wow!  This prisoner sure complains a lot.,,,-1,,,
+SubRopeGag3,SubRopeGag4,(Try to make a heart shape with your fingers.),(She puts a kiss on your gag.)  You're so sweet.,,,1,,,
+SubRopeGag4,SubRopeGag5,,(She tickles you as you snort in your gag.  She enjoys your helpless laughs.),,,,,,
+SubRopeGag5,SubRope10,,"(She removes the gag after a while, allowing you to relax your jaw.)","DialogVariableIs(""Position"", ""0"")",,,,,TeacherNakedHogTie
+SubRopeGag5,SubRope10,,"(She removes the gag after a while, allowing you to relax your jaw.)","DialogVariableIs(""Position"", ""1"")",,,,,TeacherNakedBallTie
+SubRopeGag5,SubRope10,,"(She removes the gag after a while, allowing you to relax your jaw.)","DialogVariableIs(""Position"", ""2"")",,,,,TeacherNakedLotusTie
+SubRope10,SubRope11,,"This is some great bondage, but it's not ideal for sex.",DialogLoveGreater(13),,,,,
+SubRope10,SubRopeEarlySleep1,,"Wow!  All this rope work is exhausting.  That's enough, I'm not in the mood anymore.",DialogLoveLower(12),,,,,
+SubRopeEarlySleep1,EarlySleep1,,Let's get some rest.  (She unties you and go get her pajamas.),,,,,,
+SubRope11,SubSex1,,I'm sure I can find a better position to fuck you in ropes.,,,,,,
+SubSex1,SubSex2,,"I'll go get something, don't run!  (She giggles and leaves you for a minute.)",,,,,,
+SubSex2,SubSex3,,,,,,,,MiaStrapOnDisplay
+SubSex3,SubSex4,,(She returns wearing her strap-on and showing it proudly.),,,,,,
+SubSex4,,,You remember mister strap-on don't you?,,,,,,
+SubSex4,SubSex5,Not again!,(She seems annoyed by your comment.)  Yes!  Again!,,,-2,1,,
+SubSex4,SubSex5,(Nod slowly.),(You nod as she masturbates the strap-on.),,,,,,
+SubSex4,SubSex5,"Oh yes, fuck me my love.",I'll send you to heaven more than once.,"!DialogCurrentDS(""Mia"", ""Dom"")",,2,-1,,
+SubSex4,SubSex5,"Miss, I love your strap-on.",Don't make me jealous of it!  (She laughs.),"DialogCurrentDS(""Mia"", ""Dom"")",,2,-1,,
+SubSex5,SubSex6A,,I think I know a good rope position to use this toy.,,,,,,
+SubSex6A,SubSex6B,,"(She stares at the ropes and smirks, moving toward you.)",,,,,,
+SubSex6B,SubSex7,,,,,,,,TeacherNakedRopedKneelForSex
+SubSex7,SubSex8,,Wow!  Yes!   You'll be able to do the work in that bondage.,,,,,,
+SubSex7,SubSex8,InventoryDialogPhone,"(You point to your phone, and she gladly takes a picture for you.)",,"PictureAdd(""Teacher"")",,,,
+SubSex8,SubSex9,,A perfect pose for when I feel lazy.,"DialogCurrentDS(""Mia"", """")",,,,,
+SubSex8,SubSex9,,A perfect pose for when we turn the tables.,"DialogCurrentDS(""Mia"", ""Sub"")",,,-2,,
+SubSex8,SubSex9,,A perfect pose for a love prisoner.  A love slave!,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubSex9,,,"(She looks at the panel gag.)  Now, open wide!",,,,,,
+SubSex9,SubSex10,(Open as wide as you can.),Such a good girl.  (She shoves the gag inside to buckle it.),,,,-1,,
+SubSex9,SubSex10,Wait!  What?,Enough questions!  (She shoves the gag inside to buckle it.),,,-1,,,
+SubSex9,SubSex10,You're so naughty!  (Open up.),I plead guilty!  (She laughs and shoves the gag inside to buckle it.),,,1,,,
+SubSex9,SubSex10,A gag isn't necessary.,I decide what's necessary.  (She shoves the gag inside to buckle it.),,,,1,,
+SubSex10,SubSex11,,,,,,,,TeacherNakedRopedPanelGagKneelForSex
+SubSex11,SubSex12,,You're so sexy!  Wow!,,,,,,
+SubSex11,SubSex12,InventoryDialogPhone,(You moan loudly in the gag as she takes a picture on your phone.),,"PictureAdd(""Teacher"")",,,,
+SubSex12,SubSex13,,"Hun, remember your safeword, it's ""Worcestershire"".  (She laughs.)","DialogCurrentDS(""Mia"", """")",,,,,
+SubSex12,SubSex13,,"Miss, remember your safeword, it's ""Worcestershire"".  (She laughs.)","DialogCurrentDS(""Mia"", ""Sub"")",,,-2,,
+SubSex12,SubSex13,,"My pet, remember your safeword, it's ""Worcestershire"".  (She smirks.)","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubSex13,SubSex14,,,,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubSex14,SubSex15,,(She moves under you and slowly slides you in the strap-on.),,,,,,
+SubSex15,SubSex16,,"I'm feeling lazy, so you will work for your orgasm.","DialogCurrentDS(""Mia"", """")",,,,,
+SubSex15,SubSex16,,"When we switch roles, you have to work for your orgasms.","DialogCurrentDS(""Mia"", ""Sub"")",,,-2,,
+SubSex15,SubSex16,,"My love prisoner, you will work for your orgasm.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SubSex16,,,Get moving!,,,,,,
+SubSex16,SubSex17,(Fuck yourself slowly and moan.),(She lets you go at your pace and smiles each time you moan.),,,1,,,
+SubSex16,SubSex17,(Pump in and out vigorously.),(She grins as you obey and pump in and out of the strap-on rapidly.),,,,-1,,
+SubSex16,SubSex17,(Barely move and look at her.),(You barely move so she needs to put some efforts to help you.),,,-1,1,,
+SubSex17,SubSex18,,,,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubSex18,SubSex19,,"How does it feel?  You're bound, gagged and helpless.",,,,,,
+SubSex19,SubSex20,,"And yet, you can still fuck yourself.",,,,,,
+SubSex20,SubSex21,,"(She moves her hips slowly, imposing the pace from time to time.)",,,,,,
+SubSex21,SubSex22,,"Right now, you don't have to worry about work.",,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubSex22,SubSex23,,All you must worry about is if you will cum or not.,,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubSex23,,,"To cum or not to cum, that is the question.",,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubSex23,SubSex24,(Work hard and get a strong orgasm.),(You work hard and get a shattering orgasm.)  Wow!  So hot!,,,2,,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubSex23,SubSex24,(Work hard and fake an orgasm.),(You work hard and fake your orgasm.)  Wow!  I've never seen you cum like that.,,,1,1,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubSex23,SubEnd1,(Work hard but don't cum.),(You work hard but cannot reach climax.)  Nice effort but it's not enough.,,,1,-1,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubSex23,SubSex24,(Barely work but get a nice orgasm anyway.),(You barely work but still get a nice orgasm.)  You're lucky to cum so easily.,,,,-1,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubSex23,SubSex24,(Barely work and fake an orgasm.),(You barely work and fake an orgasm.)  That was way too easy.,,,-1,1,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubSex23,SubEnd1,(Barely work but don't cum.),"(You barely work, not reaching climax.)  You'll need to shake your butt harder.",,,-2,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubSex24,SubSex25,,(She giggles and slaps your butt as you recover.),,,,,,
+SubSex25,SubEnd1,,"I hope it was good.  You'll have to repay me later, with interest.",,,,,,
+SubEnd1,SubEnd2,,"(She slows down the pace, only teasing you from time to time.)","DialogCurrentDS(""Mia"", """")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubEnd1,SubTurnTables1,,"(She slows down the pace, only teasing you from time to time.)","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SubEnd1,SubPropose11,,I want you to cum my love prisoner.  Cum all weekend.  This is your only duty.,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubTurnTables1,SubEnd3,,"Miss, it was fun to turn the tables.  (She starts to release you.)",DialogDominationGreater(-11),,,,,
+SubTurnTables1,SubTurnTables2,,"It's strange, but I really enjoyed being in control.",DialogDominationLower(-12),,,,,
+SubTurnTables2,SubTurnTables3,,(She thinks out loud while penetrating you.),,,,,,
+SubTurnTables3,SubTurnTables4,,How would you feel if we switched roles permanently?,,,,,,
+SubTurnTables4,SubPropose1,,I could become the Dominant and you would be my love prisoner.,,,,,,
+SubEnd2,SubPropose1,,Wow!  This is hot!  We could make this more permanent.,DialogDominationLower(-12),,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubEnd2,SubEnd3,,We need to do this again someday.  (She starts to release you.),DialogDominationGreater(-11),,,,,
+SubEnd3,SubEnd4,,,,,,,,TeacherNakedMiaNakedSitBed
+SubEnd4,,,We need more intimate moments together.  You work too much.,DialogLoveLower(14),,,,,
+SubEnd4,,,"My love, I really enjoy these intimate moments we share together.  You work too much.",DialogLoveGreater(15),,,,,
+SubEnd4,SubEnd5,My career is important.,I know!  You're the breadwinner.,,,,1,,
+SubEnd4,SubEnd5,"I love you, Mia.",(She smiles widely and caresses your thighs.),,,2,,,
+SubEnd4,SubEnd5,(Yawn loudly.),(She sighs and seems disappointed.),,,-2,,,
+SubEnd4,SubEnd5,I know.  I should work less.,"Correct, you will get a burnout at this rate.",,,,-1,,
+SubEnd5,SubEnd6,,"(She checks the clock.)  Sadly, it's getting quite late.",,,,,,
+SubEnd6,EndCuddle1,,We should get some sleep.  (You both get your pajamas.),,,,,,
+SubPropose1,SubPropose2,,(She continues to thrust in and out slowly while talking.),,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose2,SubPropose3,,How would you feel about becoming my pet?,"!LogQuery(""Mia"", ""SubmitRefuse"")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose2,SubPropose3,,"I know I've asked you before, but would you be my pet?","LogQuery(""Mia"", ""SubmitRefuse"")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose3,SubPropose4,,"Every weekend, you could be bound, fucked and more.","!LogQuery(""Mia"", ""SubmitRefuse"")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose3,SubPropose4,,Think carefully about all the bondage.  Think of all the orgasms I would give you.,"LogQuery(""Mia"", ""SubmitRefuse"")",,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose4,SubPropose5,,"You would boss your class, and I would boss the apartment.",,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose5,,,"Nod if you accept, shake your head if you don't.",,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose5,SubPropose6,(Nod submissively.),"Such a good girl, you will be a great submissive.",,,1,-2,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose5,SubPropose6,(Nod while getting an orgasm.),What a kinky submissive.  (She continues to talk as you succumb to a wonderful orgasm.),,,2,-1,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubPropose5,SubEnd3,(Shake your head no.),"No?  That's sad, it would be so much fun.  (She starts to release you.)",,"LogAdd(""Mia"", ""SubmitRefuse"")",-2,4,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose6,SubPropose7,,"Starting next week, our relationship will evolve.",,"LogAdd(""Mia"", ""Submit"")",,,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose7,SubPropose8,,"We will have lots of love, lots of sex and lots of bondage.",,"LogDelete(""Mia"", ""Dominate"")",,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose8,SubPropose9,,"As your Dominant, I will be strict but fair.",,,,-1,,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose9,SubPropose10,,"You will be trained to please, serve and love me.",,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose10,SubPropose11,,"Enough talking, you need more orgasms my pet.",,,,,,
+SubPropose11,SubPropose12,,,,,,,None,TeacherNakedRopedPanelGagMiaUnderStrapon2
+SubPropose12,SubPropose13,,(Mia keeps you in different bondage positions all weekend.),,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose13,SubPropose14,,(You make love so often that you lose count of your orgasms.),,,,,,TeacherNakedRopedPanelGagMiaUnderStraponOrgasm
+SubPropose14,SubPropose15,,(Time goes by quickly with these two days of hot sex and bondage.),,,,,,TeacherNakedRopedPanelGagMiaUnderStrapon1
+SubPropose15,SubPropose16,,,,,,,,TeacherNakedCuffedCuddle
+SubPropose16,SubPropose17,,(She finally decides that you will sleep naked in cuffs.),,,,,,
+SubPropose17,Outro,,(Another week of work will begin soon.),,,,,,
+EarlySleep1,EarlySleep2,,,DialogLoveGreater(13),"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,TeacherMiaBedSleepSpoon
+EarlySleep1,EarlySleep2,,,DialogLoveLower(12),"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,TeacherMiaBedSleep
+EarlySleep2,,,(You both get ready to sleep.),,,,,,
+EarlySleep2,Outro,(Fall asleep quickly.),"(You quickly fall asleep, way before her.)",,,-1,,,
+EarlySleep2,Outro,(Kiss her goodnight.),(You exchange a few good night kisses before falling asleep.),,,1,,,
+EarlySleep2,Outro,Sleep well.,"Sleep well, hun.  (You both fall asleep.)",,,,,,
+EndCuddle1,EndCuddle2,,,DialogLoveGreater(16),"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,TeacherMiaBedSleepSpoon
+EndCuddle1,EndCuddle2,,,DialogLoveLower(15),"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,TeacherMiaBedSleep
+EndCuddle2,Outro,,(You cuddle closely in bed.  Another week of work is coming soon.),DialogLoveGreater(16),,,,,
+EndCuddle2,Outro,,(You both get to sleep.  Another week of work is coming soon.),DialogLoveLower(15),,,,,
+DomEndCuddle1,,,How would you like me to sleep?,,,,,,
+DomEndCuddle1,DomEndCuddle2,We can sleep normally.,(She shrugs and gets in bed with you.)  Alright Miss.  Good night.,,"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,TeacherMiaBedSleep
+DomEndCuddle1,DomEndCuddle2,We will spoon together.,"(She smiles and gets in bed with you.)  Wow!  What a great idea, Miss.  Good night.",,"DialogVariableSet(""MiaSleep"", ""Normal"")",1,,,TeacherMiaBedSleepSpoon
+DomEndCuddle1,DomEndCuddle2,"You will sleep with me, naked in cuffs.",(You cuff her as you both get in bed.)  Wow!  Miss!  So kinky!  Good night.,,"DialogVariableSet(""MiaSleep"", """")",,1,,TeacherMiaNakedCuffedSleep
+DomEndCuddle1,DomEndCuddle2,"You will sleep with me, naked in ropes.",(You rope her as you both get in bed.)  Wow!  Miss!  So kinky!  Good night.,"InventoryAvailable(""Rope"")","DialogVariableSet(""MiaSleep"", """")",,1,,TeacherMiaNakedRopedSleep
+DomEndCuddle1,DomEndCuddle2,I'll sleep in my PJ alone.  You get the chair.,"(She pouts and tries to sleep on a chair, while you get the bed for yourself.)",,"DialogVariableSet(""MiaSleep"", ""Alone"")",-2,2,,TeacherSleepAlonePajamas
+DomEndCuddle1,DomEndCuddle2,I'll sleep in my naked alone.  You get the chair.,"(She pouts and tries to sleep on a chair, while you get the bed for yourself.)",,"DialogVariableSet(""MiaSleep"", ""Alone"")",-2,2,,TeacherSleepAloneNaked
+DomEndCuddle2,DomEndCuddle3,,,,,,,None,
+DomEndCuddle3,Outro,,(You both try to get some sleep.  Another week of work is coming soon.),,,,,,
+SelfBound1,SelfBound2,,How can we both get tied up at the same time?,,,,,,
+SelfBound2,SelfBound3,,Here's the plan: first we both fully strip down.,,,,,Teacher,
+SelfBound3,SelfBound4,,"Once naked, I tie you up in bed and lay in front of you.",,,,,,
+SelfBound4,SelfBound5,,I will then try to rope myself up against you.  Binding us together.,,,,,,
+SelfBound5,SelfBound6,,(She stands up and thinks aloud.),,,,,Mia,MiaNakedThink
+SelfBound6,,,It sounds risky.  How do we get out?,,,,,,
+SelfBound6,SelfBound7,You worry too much.,"Ok, I trust you.  I'm sure it will be fine.",,,,1,,
+SelfBound6,SelfBound7,We'll struggle to get out.,(She laughs.)  Your plan isn't well built but it sounds fun.,,,,-1,,
+SelfBound6,SelfBound7,We can manage some knots.,(She laughs.)  Your plan isn't well built but it sounds fun.,,,,-1,,
+SelfBound6,SelfBound7,I'll make sure we can escape.,"Ok, I trust you.  I'm sure it will be fine.",,,,1,,
+SelfBound7,SelfBound8,,(She goes get some ropes for you.),,"InventoryAdd(""Rope"")",,,,
+SelfBound8,SelfBound11,,,,,,,,TeacherMiaNakedShowRope
+SelfBound11,,,I'm ready!,,,,,,
+SelfBound11,SelfBound12,(Tie her tightly.),(She struggles and moans as you rope her tightly.),,"DialogVariableSet(""MiaRope"", ""Tight"")",,1,,
+SelfBound11,SelfBound12,(Tie her loosely.),(She struggles playfully as you rope her loosely.),,"DialogVariableSet(""MiaRope"", ""Loose"")",,-1,,
+SelfBound12,SelfBound13,,,,"MiniGameParameterSet(""InventoryRope"", ""Wrist"", ""true"")",,,,MiaNakedSelfBoundBack
+SelfBound13,SelfBound13B,,Wow!  This feels nice!,,"MiniGameParameterSet(""InventoryRope"", ""Ankle"", ""true"")",,,,
+SelfBound13,SelfBound13B,InventoryDialogPhone,(She doesn't notice that you capture an image of her back.),,PictureAdd(),,,,
+SelfBound13B,SelfBound13C,,,,,,,,MiaNakedSelfBound
+SelfBound13C,SelfBound14,,I can barely move my arms behind my back with that waist rope.,,,,,,
+SelfBound13C,SelfBound14,InventoryDialogPhone,(She blushes as you capture her bondage on your phone.)  Wow!,,PictureAdd(),,1,,
+SelfBound14,,,I'm curious to see if you can tie yourself.,,,,,,
+SelfBound14,SelfBound15,(Tie yourself tightly.),(You struggle hard to make your own bondage as tight as possible.),,"DialogVariableSet(""TeacherRope"", ""Tight"")",,,,
+SelfBound14,SelfBound15,(Tie yourself loosely.),(You loosely tie yourself close to Mia.),,"DialogVariableSet(""TeacherRope"", ""Loose"")",,,,
+SelfBound14,SelfBoundTeacherDom3,You fell in my trap.,(Her eyes widen.)  What?   It was a setup to get me bound?,"!LogQuery(""Mia"", ""RopeDoubleSelfBoundTrap"")","LogAdd(""Mia"", ""RopeDoubleSelfBoundTrap"")",,2,,
+SelfBound14,SelfBoundTeacherDom3,You fell in my trap.,(She giggles.)  I knew you would try that trick again.  I don't mind at all.,"LogQuery(""Mia"", ""RopeDoubleSelfBoundTrap"")",,,,,
+SelfBound15,SelfBound16,,,,"LogAdd(""Mia"", ""RopeDoubleSelfBound"")",,,,TeacherMiaNakedSelfBound
+SelfBound16,SelfBound17,,(She rubs herself against you.),,,,,,
+SelfBound17,SelfBound18,,This is really hot!  I did not think it would work.,,,,,,
+SelfBound18,SelfBound19,,"I must admit it.  You have some wild plans, hun.","DialogCurrentDS(""Mia"", """")",,,,,
+SelfBound18,SelfBound19,,"I must admit it.  You have some wild plans, Miss.","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SelfBound18,SelfBound19,,"I must admit it.  You have some wild plans, my pet.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SelfBound19,SelfBound20,,"(You rub your bodies together, enjoying the feeling.  You can feel that she's getting excited.)",,,1,,,
+SelfBound20,,,Wow!  I love it.,,,,,,TeacherMiaNakedSelfBoundZoom
+SelfBound20,SelfBound21,(Struggle playfully.),(She giggles as you both struggle playfully against the ropes.),,,,-1,,
+SelfBound20,SelfBound21,(Struggle to get out.),(You struggle hard but cannot get out of your own ropes.),"DialogVariableIs(""TeacherRope"", ""Tight"")",,,1,,
+SelfBound20,SelfBoundTeacherDom1,(Struggle to get out.),(You struggle against your knots and get can out after a few minutes.),"DialogVariableIs(""TeacherRope"", ""Loose"")",,,1,,
+SelfBound20,SelfBound21,(Try to masturbate her.),(She moans loudly as you masturbate her with your thigh.)  Mmmmh!,,,1,,,
+SelfBound20,SelfBound21,(Stay passive.),(She struggles for fun as you watch the time flies by.)  Put more effort!,,,-1,,,
+SelfBound21,SelfBound21B,,(You stay bound together for a long time.),,,,,,
+SelfBound21B,SelfBound22,,"My love, my sweetie, it's been a while.  I will get out.",DialogLoveGreater(20),,,,,
+SelfBound21B,SelfBound22,,It's been a while.  I will get out.,DialogLoveLower(19),,,,,
+SelfBound22,SelfBound23,,"(She grunts and struggles against the ropes, trying to get free in vain.)","DialogVariableIs(""MiaRope"", ""Tight"")",,,,,
+SelfBound22,SelfBoundTeacherSub1,,"(She struggles against the ropes, undoing each knot one by one.)","DialogVariableIs(""MiaRope"", ""Loose"")",,,,,
+SelfBound23,SelfBound24,,Wow!  This is way too tight!   I can't reach any knot!,,,,,,
+SelfBound24,,,"Can you get out?  Struggle, hun!","DialogCurrentDS(""Mia"", """")",,,,,
+SelfBound24,,,"Miss, can you get out?","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SelfBound24,,,"Can you get out?  Struggle, my girl!","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+SelfBound24,SelfBound25,(Struggle to get out.),(You struggle hard but cannot get out of your own ropes.),"DialogVariableIs(""TeacherRope"", ""Tight"")",,,,,
+SelfBound24,SelfBoundTeacherDom1,(Struggle to get out.),(You struggle against your knots and get can out after a few minutes.),"DialogVariableIs(""TeacherRope"", ""Loose"")",,,,,
+SelfBound24,SelfBound25,(Fake to try to struggle out.),"(You fake trying to struggle out, staying in your ropes.)",,,,,,
+SelfBound24,SelfBound25,(Barely struggle and give up.),(She sighs as you barely try to get out.)  Such low energy.,,,,-2,-2,
+SelfBound25,SelfBound26,,We are stuck!   That plan was horrible.,,,-1,,,TeacherMiaNakedSelfBound
+SelfBound26,SelfBound27,,And it's so late.  We need to rest first.  We'll find a way to get out tomorrow.,,"DialogSetBackgroundFilter("""")",,,,
+SelfBound27,SelfBound28,,,,"DialogSetBackgroundFilter(""#00000080"")",,,None,
+SelfBound28,SelfBound29,,(You both try to get some sleep.  It will take lots of effort to struggle out.),,,,,,
+SelfBound29,SelfBound30,,,,"DialogSetBackgroundFilter("""")",,,,TeacherNakedMiaNakedSitBed
+SelfBound30,SelfBound31,,(You finally manage to escape on the next day.  You both laugh about it.),,"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,
+SelfBound31,Outro,,(Another week of work is coming soon.),,,,,,
+SelfBoundTeacherSub1,SelfBoundTeacherSub2,,,,,,,,TeacherNakedSelfBound
+SelfBoundTeacherSub2,SelfBoundTeacherSub3,,"(She gets up and stretches, leaving you bound.)  Tada!",,,,,,
+SelfBoundTeacherSub3,SelfBoundTeacherSub4,,It wasn't that hard to get out after all.,,,,,,
+SelfBoundTeacherSub3,SelfBoundTeacherSub4,InventoryDialogPhone,(She cannot resist and picks up your phone to capture the moment.),,"PictureAdd(""Teacher"")",,,,
+SelfBoundTeacherSub4,SubSex1,,You're so sexy bound like that.  I have another plan for you.,DialogLoveGreater(13),,,,,
+SelfBoundTeacherSub4,EarlySleep1,,It was fun but we should get some rest.  (She releases you and gets ready for bed.),DialogLoveLower(12),,,,,
+SelfBoundTeacherDom1,SelfBoundTeacherDom2,,,,,,,,MiaNakedSelfBound
+SelfBoundTeacherDom2,SelfBoundTeacherDom3,,Wow!  You got out!,,,,,,
+SelfBoundTeacherDom3,,,What will you do?,,,,,,
+SelfBoundTeacherDom3,DomSex2,I will enjoy your body.,Such a naughty trap!  (You change her bindings for easier access to her body.),,,1,,,MiaBedReadyForSexRoped
+SelfBoundTeacherDom3,SelfBoundTeacherDomSleep1,You will sleep in ropes.,(You wear your pajamas and get her ready to sleep in more ropes.),,,,1,,
+SelfBoundTeacherDom3,EarlySleep1,Nothing.  I will release you.,Wow!  This is disappointing.  (You release her and get ready for bed.),,,-2,-2,,
+SelfBoundTeacherDomSleep1,SelfBoundTeacherDomSleep2,,,,"DialogVariableSet(""MiaSleep"", """")",,,,TeacherMiaNakedRopedSleep
+SelfBoundTeacherDomSleep2,SelfBoundTeacherDomSleep3,,"I can't believe I will sleep like that.  You're so kinky, hun.  Good night!","DialogCurrentDS(""Mia"", """")",,,1,,
+SelfBoundTeacherDomSleep2,SelfBoundTeacherDomSleep3,,"I guess I should have guessed I would sleep like that.  Good night, Miss!","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+SelfBoundTeacherDomSleep2,SelfBoundTeacherDomSleep3,,My girl!  I can't believe I will sleep like that.  Fine!  Good night.,"DialogCurrentDS(""Mia"", ""Dom"")","DialogVariableSet(""TeacherSleep"", ""MiaNakedRoped"")",,4,,
+SelfBoundTeacherDomSleep3,Outro,,(You both try to get some sleep.  Another week of work is coming soon.),,,,,None,
+Breakup,,,,,"DialogLoad(""MiaBreakupStart"")",,,,
+Dominate,,,,,"DialogLoad(""MiaDominateStart"")",,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

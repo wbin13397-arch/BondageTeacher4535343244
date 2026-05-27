@@ -1,0 +1,36 @@
+Entry,BadEnd2,,"I'm going out.  Don't wait for me, I'm not coming back.","!DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,MiaStandBored
+Entry,BadEnd2,,"I'll never call you Miss again!  Don't wait for me, I'm not coming back.","DialogCurrentDS(""Mia"", ""Dom"")","LogDelete(""Mia"", ""Dominate"")",,,Mia,MiaStandBored
+BadEnd2,BadEnd3,,"(Mia takes her stuff, leaving the apartment in a hurry.)",,"LogAdd(""Mia"", ""Breakup"")",,,Teacher,TeacherStandAlone
+BadEnd3,BadEnd4,,(You are now single.  The place becomes very quiet.),"!LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDesk"")","LogDelete(""Mia"", ""Submit"")",,,,
+BadEnd3,BlackmailUnderwearCuffsDesk1,,(You are now single.  The place becomes very quiet.),"LogQuery(""Sidney"", ""BlackmailUnderwearCuffsDesk"")","LogDelete(""Mia"", ""Submit"")",,,,
+BlackmailUnderwearCuffsDesk1,BlackmailUnderwearCuffsDesk2,,,,,,,,TeacherStandPhone
+BlackmailUnderwearCuffsDesk2,BlackmailUnderwearCuffsDesk3,,(Sidney sends you a few text messages.),,,,,,
+BlackmailUnderwearCuffsDesk3,BlackmailUnderwearCuffsDesk4,,"(She tells you that you are a prey, and you must serve the hunters.)",,,,,,
+BlackmailUnderwearCuffsDesk4,BlackmailUnderwearCuffsDesk5,,"(She also sends you a picture of yourself, so you don't forget her.)",,,,,,
+BlackmailUnderwearCuffsDesk5,BlackmailUnderwearCuffsDesk6,,,,,,,,SidneyBlackmailUnderwearCuffsDesk
+BlackmailUnderwearCuffsDesk6,BlackmailUnderwearCuffsDesk7,,(The picture is very explicit.  It could compromise your career.),,,,,,
+BlackmailUnderwearCuffsDesk7,BlackmailUnderwearCuffsDesk8,,(She writes to you that you will serve her again someday.),,,,,,
+BlackmailUnderwearCuffsDesk8,BadEnd4,,(She stops texting you after a while.),,,,,,TeacherStandPhone
+BadEnd4,BadEnd5,,(This might be a boring weekend.),,,,,,
+BadEnd5,,,(Will you masturbate?),,,,,,
+BadEnd5,Masturbate1,(Masturbate.),"(You slowly strip down, ready to masturbate alone.)",,,,,,
+BadEnd5,BadEnd6,(Don't masturbate.),(You decide to stay chaste and not touch yourself.),,,,,,
+Masturbate1,Masturbate2,,,,,,,,TeacherBedNakedMasturbate
+Masturbate2,Masturbate3,,(You lay in bed in a suggestive position.),,,,,,
+Masturbate3,,,(Who will you think about?),,,,,,
+Masturbate3,Masturbate4,(Think about Mia.),(You dream about your ex-girlfriend Mia and start to touch yourself.),"DialogCharacterIsKnown(""Mia"")","DialogChangeLove(""Mia"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Evelyn.),(You dream about your boss Evelyn and start to touch yourself.),"DialogCharacterIsKnown(""Evelyn"")","DialogChangeLove(""Evelyn"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Yuki.),(You dream about your colleague Yuki and start to touch yourself.),"DialogCharacterIsKnown(""Yuki"")","DialogChangeLove(""Yuki"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Sidney.),(You dream about your student Sidney and start to touch yourself.),"DialogCharacterIsKnown(""Sidney"")","DialogChangeLove(""Sidney"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Sarah.),(You dream about your student Sarah and start to touch yourself.),"DialogCharacterIsKnown(""Sarah"")","DialogChangeLove(""Sarah"", 1)",,,,
+Masturbate3,Masturbate4,(Think about Amanda.),(You dream about the teacher's pet Amanda and start to touch yourself.),"DialogCharacterIsKnown(""Amanda"")","DialogChangeLove(""Amanda"", 1)",,,,
+Masturbate3,Masturbate4,(Think about a sport athlete.),(You dream about a muscular sportsman and start to touch yourself.),,,,,,
+Masturbate3,Masturbate4,(Think about a movie actress.),(You dream about a cute movie star actress and start to touch yourself.),,,,,,
+Masturbate4,BadEnd6,,,,"MiniGameStart(""FreeBondage"", ""TeacherApartmentMasturbate"", ""TeacherApartmentMasturbate"")",,,,MiniGameBackgroundFreeBondage
+BadEnd6,,,(How will you sleep this weekend?),,,,,,
+BadEnd6,BadEnd7,(Sleep in your teacher outfit.),,,,,,,TeacherSleepAloneOutfit
+BadEnd6,BadEnd7,(Sleep in your pajamas.),,,,,,,TeacherSleepAlonePajamas
+BadEnd6,BadEnd7,(Sleep fully naked.),,,,,,,TeacherSleepAloneNaked
+BadEnd7,BadEnd8,,(You sleep by yourself all weekend.),,,,,,
+BadEnd8,Outro,,(You flip the lights off and close your eyes.),,,,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

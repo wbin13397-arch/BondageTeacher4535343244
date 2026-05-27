@@ -1,0 +1,210 @@
+Entry,Intro1,,,,,,,Teacher,TeacherBusCasual
+Intro1,Intro2,,(You take the city bus to reach Evelyn's house for the weekend.),,MiniGameParameterClear(),,,,
+Intro2,Intro3,,(It will be your first trip to your submissive's home.),,"MiniGameParameterSet(""InventoryRope"", ""Ankle"", ""true"")",,,,
+Intro3,Intro4,,"(You travel far in the city suburbs, surrounded by forests and hills.)",,,,,,
+Intro4,Intro5,,"(You reach a rich neighborhood, with big houses and lots of empty space between them.)",,,,,,
+Intro5,Intro6,,,,,,,Evelyn,TeacherCasualEvelynHouseEntrance
+Intro6,Intro7,,(Evelyn seems stressed.)  Welcome Miss PlayerName.  I mean PlayerName.  I mean...,,,,,,
+Intro7,Intro8,,"I apologize, I don't know why I'm so nervous.  This is unlike me.",,,,-1,,
+Intro8,Intro9,,I must admit that I have second thoughts.  This doesn't feel proper.,,,,-1,,
+Intro9,,,"I am a Dominant, an alpha.  I cannot submit to anyone, I never have before.",,,,,,
+Intro9,Intro10,(Listen to her.),All my apologies for changing my mind.,,,,-1,,
+Intro9,Intro10,I understand.,"I'm glad you understand, PlayerName.  My apologies for changing my mind.",,,1,,,
+Intro9,Silence1,(Put a finger on her lips.),(You place a finger on her lips to shut her up.),,,,,,TeacherCasualEvelynHouseEntranceSilence
+Intro9,Silence1,"Shhhh, let me speak.",(She shuts up and looks at you nervously.),,,-1,,,TeacherCasualEvelynHouseEntranceSilence
+Intro10,Intro11,,I must apologize.  You traveled far for nothing.  I shall repay your expenses.,,,,,,
+Intro11,,,I hope you are not overly disappointed.,,,,,,
+Intro11,Intro12,I'm very disappointed.,I understand.  I simply have to accept reality.  I cannot be a submissive.,,,-2,,,
+Intro11,Intro12,"It seems you're a wolf, just like me.",(She nods.)  I have to accept reality.  I cannot be a submissive.,,,,1,,
+Intro11,Intro12,I'm sad to hear that.,(She sighs.)  I have to accept reality.  I cannot be a submissive.,,,-1,-1,,
+Intro11,Silence1,Enough!  Listen to me.,(She shuts up and looks at you nervously.),,,-1,,,TeacherCasualEvelynHouseEntranceSilence
+Intro11,Silence1,(Put a finger on her lips.),(You place a finger on her lips to shut her up.),,,,,,TeacherCasualEvelynHouseEntranceSilence
+Intro12,Dismiss3,,(She takes a deep breath and regains control.),,,,,,
+Silence1,Silence2,,I see that you're nervous.  I will soothe your anxieties my girl.,,,,,Teacher,
+Silence2,Silence3,,Becoming a submissive is troubling when you've been in charge all your life.,,,,,,
+Silence3,Silence4,,"You work hard all week, controlling a whole college is a lot of stress.",,,,,,
+Silence4,,,"Yes, it is a lot of work.  My career is my priority.",,,,,Evelyn,
+Silence4,Silence5,"As my submissive, it will remain a priority.","(She nods and smiles.)  Thanks, it is of the utmost importance for me.",,,1,,,
+Silence4,Dismiss3,"Girl, you will only focus on me now.",(She shakes her head from left to right.)  No!  I cannot.  This is a limit I cannot break.,,,-1,,,
+Silence4,Silence5,I will make sure your career is successful.,"(She nods and smiles.)  Thank you, Miss.  It is of the utmost importance for me.",,,,1,,
+Silence4,Dismiss3,"Evelyn, forget your job.",(She shakes her head from left to right.)  No!  Never!  This is a limit I cannot break.,,,-2,,,
+Silence5,Silence6,,"When we are on college grounds, you are in control.  Your career is top priority.",,,,,Teacher,
+Silence6,Silence7,,"When we are here, I'm in charge.  You will obey my rules and be free from your worries.",,,,,,
+Silence7,Silence8,,This weekend will be a trial period as my submissive.,,,,,,
+Silence8,Silence9,,"If it goes well, I expect you to call me ""Mistress"" and embrace your new role.",,,,,,
+Silence9,Silence10,,"(She trembles and nods.)  Yes Miss.  It feels awkward, but I'm willing to do a trial weekend.",,,,,Evelyn,
+Silence10,,,"Would you enjoy a tour of my estate, Miss PlayerName?",,,,,,
+Silence10,Tour1,"Yes, lead the way.",(She quickly guides you inside.),,,,-1,,
+Silence10,Tour1,With pleasure.,(She smiles and guides you inside.),,,1,,,
+Silence10,Training1,"No, we will begin your training right now.",Oh!  Yes Miss.  Please allow me to guide you to the bedroom to drop your bags.,,,-1,1,,
+Tour1,Tour2,,,,,,,,EvelynLivingRoomTour
+Tour2,Tour3,,"Miss, this is the living room.  A nice location to converse and unwind after work.",,,,,,
+Tour2,Tour3,InventoryDialogPhone,(She smiles as you take a nice picture of her.),,"PictureAdd(""Evelyn"")",1,,,
+Tour3,Tour4,,I possess an expensive collection of classic movies if you enjoy cinema from the good ol days.,,,,,,
+Tour4,Tour5,,,,,,,,TeacherCasualEvelynKitchenTour
+Tour5,,,"This is the kitchen, do you know how to cook?",,,,,,
+Tour5,Tour6,I can burn some toasts.,(She giggles and winks at you.)  Quite funny.,,,1,-1,,
+Tour5,Tour6,I don't need to know.  You will cook for me.,(She gulps and nods.)  Of course.  It shall be a pleasure.,,,,1,,
+Tour5,Tour6,I've worked in a restaurant before.,I can bet that you have learned a lot from that experience.,,,,-2,,
+Tour5,Tour6,I'm not cooking for you.,"Oh!  Of course.  My apologies, Miss PlayerName.",,,-1,1,,
+Tour6,Tour7,,,,,,,,TeacherCasualEvelynShowerTour
+Tour7,Tour8,,"This is the shower room.  Shampoo, soap and other necessities can be found over there.",,,,,,
+Tour8,Tour9,,There's enough room for both of us.  (She winks at you.),DialogLoveGreater(11),,,,,
+Tour8,Tour9,,There's enough room for two.,DialogLoveLower(10),,,,,
+Tour9,Tour10,,,,,,,,EvelynBedroomTour
+Tour10,Tour11,,This is the bedroom.  You shall choose which side of the bed to rest in.,,,,,,
+Tour10,Tour11,InventoryDialogPhone,(She does a shy curtsy with her dress as you snap a photo.),,"PictureAdd(""Evelyn"")",1,,,
+Tour11,,,"I could also show you the woods, the courtyard and the basement.",,,,,,
+Tour11,Training1,Let's resume the tour another time please.,"I understand, PlayerName.  We can conclude on another occasion.",,,,-1,,
+Tour11,Training1,"Enough touring, I'm tired.",Sorry to hear that.  We can conclude the tour on another occasion.,,,-1,,,
+Tour11,Training1,"No, we need to begin your training now.",(She gulps.)  Yes Miss.  We can conclude the tour on another occasion.,,,,1,,
+Tour11,Training1,"The basement will be fun, but it can wait.",(She giggles.)  Absolutely.  We can conclude the tour on another occasion.,,,1,,,
+Training1,Training2,,,,,,,Teacher,TeacherCasualEvelynBedroomTraining
+Training2,Training3,,This bedroom will be a great starting point for your training.,,,,,,
+Training3,,,"As your Dominant, I will be...",,,,,,
+Training3,Training4,Fair.,(She smiles at you.),,,1,,Evelyn,
+Training3,Training4,Strict.,(She nods and doesn't dare to look away.),,,,1,Evelyn,
+Training3,Training4,Ruthless.,(She stares at you with wide eyes.),,,-1,,Evelyn,
+Training3,Training4,Caring.,(She smiles and begins to relax.),,,2,-1,Evelyn,
+Training3,Training4,Demanding.,(She gulps and nods rapidly.),,,-1,1,Evelyn,
+Training3,Training4,Relaxed.,(She rolls her eyes up.),,,,-2,Evelyn,
+Training4,Training5,,You will wear what I want and strip when asked to.,,,,,Teacher,
+Training5,Training6,,Get naked now.  I want to see your curves.,,,,,,
+Training6,Training7,,,,,,,Evelyn,EvelynBedroomDisplayFront
+Training7,Training8,,"(She nervously lays her clothes down, showing you her body.)",,,,,,
+Training7,Training8,InventoryDialogPhone,(You quickly take a picture of her as she blushes.)  Please keep that photograph for yourself.,,"PictureAdd(""Evelyn"")",,,,
+Training8,Training9A,,"It feels quite bizarre to strip for someone else, to surrender autonomy.",,,,,,
+Training9A,Training9B,,(You twirl your index to indicate her to turn around.  She complies slowly.),,,,,,
+Training9B,Training10,,,,,,,,EvelynBedroomDisplayBack
+Training10,Training11,,"This is somewhat embarrassing, Miss PlayerName.  I hope you enjoy what you're seeing.",,,,,,
+Training10,Training11,InventoryDialogPhone,(You keep a picture of her on your phone.)  This is such a humiliating lesson.,,"PictureAdd(""Evelyn"")",-1,,,
+Training11,,,I do strive hard to stay in good shape.  Exercise is key.,,,,,,
+Training11,Training12,We should test your flexibility.,I shall gladly do that.  I can show you my flexibility in rope bondage if you desire.,,,1,,,
+Training11,Training12,Can you endure restraints?,"Please do not underestimate me.  You can use these ropes, I shall demonstrate.",,,-1,,,
+Training11,Training12,Do I see a rope coil?,(She laughs out loud.)  You certainly do.,,,,-1,,
+Training11,Training12,I'll train you for bondage.,(She nods slowly.)  You can use these ropes however you desire.,,,,1,,
+Training12,Training13A,,"(She opens a few drawers, producing lots and lots of ropes.)",,"InventoryAdd(""Rope"")",,,,
+Training13A,Training13B,,,,,,,,EvelynBedroomDisplayGiveRope
+Training13B,Training13C,,(She kneels and gives you many coils of red hemp rope.),,,,,,
+Training13B,Training13C,InventoryDialogPhone,(She shivers and takes a deep breath as you capture her submission on your device.),,"PictureAdd(""Evelyn"")",,1,,
+Training13C,,,These ropes are of high quality and endurance.,,,,,,
+Training13C,Training14,(Rope her loosely.),(You get the rope coils and start a loose bondage.),,,,-1,,
+Training13C,Training14,(Create a comfy bondage.),(You get the rope coils and start a comfy bondage.),,,1,,,
+Training13C,Training14,(Prepare a tight bondage.),(You get the rope coils and start a tight bondage.),,,,1,,
+Training13C,Training14,(Create a very tight package.),(You get the rope coils and start a very tight bondage.),,,-1,1,,
+Training13C,Training14,(Tie her so it hurts.),(You get the rope coils and start a painful bondage.),,,-2,,,
+Training13C,Training14,InventoryDialogRope,(You get the rope coils and start a tight bondage.),,,,1,,
+Training14,Training15,,,,,,,,EvelynBedroomBondageReadySpank
+Training15,Training16,,This is certainly a naughty pose to be bound into.  The feeling of exposure is immense.,,,,,,
+Training16,,,(She wiggles her butt.),,,,,,
+Training16,Training17A,(Spank her.),"(You get closer, ready to spank her.)",,,,,,
+Training16,Training19,(Don't spank her.),(She seems surprised that you don't seize the opportunity.),,,-1,-2,,
+Training17A,Training17B,,,,,,,,TeacherCasualEvelynBedroomBondageReadySpank
+Training17B,Training18,,,,"MiniGameStart(""Spanking"", ""BossHouseEvelyn"")",,,,
+Training18,Training19,,(You step down as she laughs at you.)  That was truly miserable.,"MiniGameResultBetween(0, 24)",,-2,-3,,EvelynBedroomBondageReadySpank
+Training18,Training19,,(You step down as she grumbles.)  Enough!  You clearly have no idea what you are doing.,"MiniGameResultBetween(25, 49)",,-1,-1,,EvelynBedroomBondageReadySpank
+Training18,Training19,,(You step down as she wiggles her butt.)  That wasn't horrible.  We can practice some more later.,"MiniGameResultBetween(50, 74)",,,1,,EvelynBedroomBondageReadySpank
+Training18,Training19,,(You step down as she shakes a little.)  Miss PlayerName.  That was a truly good session.,"MiniGameResultBetween(75, 99)",,1,2,,EvelynBedroomBondageReadySpank
+Training18,Training19,,"(You step down as she trembles and moans.)  I'm truly amazed, Miss PlayerName.  You are gifted.  A born spanker.","MiniGameResultBetween(100, 100)",,2,3,,EvelynBedroomBondageReadySpank
+Training19,Training20,,It is rare that I get restrained in my house.  Quite a peculiar event.,,,,,,
+Training19,Training20,InventoryDialogPhone,(She tugs on the ropes nervously as you capture the moment on your phone.),,"PictureAdd(""Evelyn"")",-1,1,,
+Training20,,,These ropes feel good.  Somewhat arousing.,,,,,,EvelynBedroomBondageReadySpank
+Training20,Training21,(Play with her.),"(You move closer, getting ready to enjoy her naked body.)",,,,,,
+Training20,Training24,(Don't play with her.),(She seems disappointed that you skip play time with her.),,,-2,-1,,
+Training21,Training22,,,,"MiniGameStart(""FreeBondage"", ""EvelynBedroom"", ""EvelynBedroom"")",,,,MiniGameBackgroundFreeBondage
+Training22,Training23,,(She still trembles from her wonderful orgasm.),"MiniGameFreeBondageResultGreater(""Arousal"", 100)",,2,,,
+Training22,Training23,,(She pouts and seems disappointed because she did not reach climax.),"MiniGameFreeBondageResultLower(""Arousal"", 99)",,-2,,,
+Training23,Training24,,(She appears very relaxed and subservient after this session.  It was a clear success.),"MiniGameFreeBondageResultGreater(""Stress"", 100)",,1,3,,
+Training23,Training24,,(It doesn't seem that you've tamed her in this session.),"MiniGameFreeBondageResultBetween(""Stress"", 0, 99)",,,,,
+Training23,Training24,,(She appears quite stressed and feisty after this session.  It failed pretty bad.),"MiniGameFreeBondageResultLower(""Stress"", -1)",,-1,-3,,
+Training24,Training25,,,,,,,,EvelynBedroomDisplayStrech
+Training25,Training26,,(She stretches as you let her go.),,,,,,
+Training25,Training26,InventoryDialogPhone,(You snap a naughty image as she stretches.),,"PictureAdd(""Evelyn"")",,,,
+Training26,,,"(She yawns.)  My apologies, I feel exhausted.  Should we call it a day, Miss?",,,,,,
+Training26,Training27,(Sleep in your pajamas with her.),"(You lay down close to her, ready to sleep together.)",,,1,1,,TeacherPajamasEvelynNakedBedroomSleep
+Training26,Training27,(Sleep in your pajamas with her in ropes.),"(You rope her again, getting ready to sleep together.)",,,1,2,,TeacherPajamasEvelynNakedRopeBedroomSleep
+Training26,Training27,(Sleep naked with her.),"(You lay down close to her, ready to sleep together.)",,,1,-1,,TeacherNakedEvelynNakedBedroomSleep
+Training26,Training27,(Sleep naked with her in ropes.),"(You rope her again, getting ready to sleep together.)",,,1,1,,TeacherNakedEvelynNakedRopeBedroomSleep
+Training26,Training27,(Sleep in your pajamas alone.),(You lay down to sleep alone in her bed.  She will sleep elsewhere.),,,-1,1,,TeacherParamasBedroomSleep
+Training26,Training27,(Sleep naked alone.),(You lay down to sleep alone in her bed.  She will sleep elsewhere.),,,-1,-1,,TeacherNakedBedroomSleep
+Training27,Training28,,(A good night of rest will be healthy.),,,,,None,
+Training28,Decision1,,,,,,,,
+Decision1,Decision2,,(You both wake up and dress back up.),,,,,,
+Decision2,Decision3,,,,,,,Evelyn,TeacherCasualEvelynBedroomTraining
+Decision3,Decision4,,I admit I did not sleep much.  I thought about our relationship a lot.,,,,,,
+Decision4,Decision5,,Surrendering to someone else is a huge commitment.,,,,,,
+Decision5,Decision6,,"Alas, my mind is set, I'm ready to state my decision.",,,,,,
+Decision6,Decision7,,"In the last weeks, you took a special place in my heart.  You know how to make me smile.",DialogLoveGreater(10),,,,,
+Decision6,Dismiss1,,"Sadly, my heart is not beating for you.  I apologize.  Surrendering requires trust and love.  I don't feel it inside.",DialogLoveLower(9),,,,,
+Decision7,Decision8,,"Miss PlayerName, you also have a strong hand.  You possess the fortitude to dominate my kind.",DialogDominationGreater(10),,,,,
+Decision7,Dismiss1,,"But I require a strong hand, firmer than mine.  I apologize for declining.  I don't believe you are sturdy enough.",DialogDominationLower(9),,,,,
+Decision8,Decision9,,,,,,,,TeacherCasualEvelynKneelBedroom
+Decision9,Decision10,,(She kneels and smiles at you.),,,,,,
+Decision10,Decision11,,"Miss PlayerName, if you desire to have me as your permanent submissive out of college grounds, I shall accept.",,,,,,
+Decision11,Decision12,,"I promise to be loyal, obedient and to maintain a healthy balance between career and submission.",,,,,,
+Decision12,Decision13,,My house shall be yours.  We can travel together to college from now on.  My schedule shall adapt to yours.,,,,,,
+Decision13,,,Do you desire to be my Mistress?,,,,,,
+Decision13,Decision14,"Yes, I will be your Mistress.",(She smiles widely as you get closer to pet her head.),,,1,2,,
+Decision13,Dismiss1,"No, I've changed my mind.",(She sighs loudly and cries a little.)  This is truly heartbreaking.  I'm shattered.  You should vacate now.,,,-4,-2,,
+Decision14,Decision15,,,,,,,,TeacherCasualEvelynKneelBedroomPet
+Decision15,Collar1,,This is truly wonderful.  Mistress PlayerName.  I'm yours.,,,,,,
+Collar1,,,"Evelyn, I'll take good care of you.  I will be...",,,,,Teacher,
+Collar1,Collar2,Strict but fair.,(She nods slowly.)  That sounds amazing Mistress.,,,,1,Evelyn,
+Collar1,Collar2,Loving and attentive.,(She smiles and gets less nervous.)  That's very sweet of you.,,,1,-1,Evelyn,
+Collar1,Collar2,Firm and severe.,(She gulps and nods rapidly.)  Yes Mistress.,,,-1,1,Evelyn,
+Collar1,Collar2,Caring and respectful.,(She nods and starts to relax.)  Very well.,,,,-1,Evelyn,
+Collar1,Collar2,Relaxed and playful.,(She gives you a puzzled look.)  I admit I did not expect that statement.,,,-1,-2,Evelyn,
+Collar2,Collar3,,"As your owner, I expect you to obey me completely outside of college.",,,,,Teacher,
+Collar3,Collar4,,"I will make sure you stay healthy and happy, controlling what you do every weekend.",,,,,,
+Collar4,Collar5,,I will happily live here with you.  We will share the same roof and bedroom.,,,,,,
+Collar5,Collar6,,"When we reach home, you will be required to wear a locked collar.",,,,,,
+Collar6,Collar7A,,We will go shopping right now and find that perfect accessory for you.,,,,,,
+Collar7A,Collar7B,,"(You help her up.)  Stand up my girl, we will go get you a pretty collar.",,,,,,TeacherCasualEvelynBedroomTraining
+Collar7B,Collar8,,,,,,,Evelyn,TeacherCasualEvelynCollarShopping
+Collar8,Collar9,,(She blushes red as you both enter a kinky store to find a collar.),,,,,,
+Collar9,Collar10,,"This is quite embarrassing, Mistress.  I pray that we don't encounter pupils or colleagues.",,,,,,
+Collar9,Collar10,InventoryDialogPhone,(She blushes red as you take a picture of her in the adult store.),,"PictureAdd(""Evelyn"")",-1,1,,EvelynCollarShopping
+Collar10,Collar11,,They have an expansive inventory.  I wish we encounter a model that inspires you.,,,,,,
+Collar11,Collar12,,You shop together for a while and find a collar that you both love.,,,,,None,
+Collar12,Collar13A,,,,,,,,SteelCollarZoom
+Collar13A,Collar13B,,"It's an old-fashioned steel collar, heavy and secure.  A traditional symbol of slavery.",,,,,,
+Collar13B,,,(You come back home with the new collar.  She kneels naturally.),,,,,Evelyn,TeacherCasualEvelynKneelBedroom
+Collar13B,Collar14,"Strip now, girl.",(She nods swiftly and starts to undress.)  Yes Mistress.,,,,1,,
+Collar13B,Collar14,Please get naked.,(She smiles and starts to undress.)  With pleasure.,,,,-1,,
+Collar13B,Collar14,You will be collared naked.,(She nods and starts to undress.)  Of course.,,,,,,
+Collar14,Collar15,,,,,,,,TeacherCasualEvelynKneelNakedBedroomPreCollar
+Collar15,Collar16,,(She takes a deep breath and trembles while kneeling naked before you.  You hold the collar before her.),,,,,Evelyn,
+Collar16,Collar17,,"Evelyn, in our home, you will wear this locked collar all the time.",,,,,Teacher,
+Collar17,Collar18,,I will unlock it for college and lock it back when we come here.,,,,,,
+Collar18,Collar19,,It will be the symbol of your submission and your devotion.,,,,,,
+Collar19,Collar20,,"A permanent reminder that I own you, body and soul.",,,,,,
+Collar20,Collar23,,"I'm yours, Mistress PlayerName.  Body and soul.",,,,,Evelyn,
+Collar23,Collar24,,"(You slowly put the collar around her neck, locking it securely.)",,,,,,
+Collar24,Collar25,,,,,,,,TeacherCasualEvelynKneelNakedBedroomCollar
+Collar25,Collar26,,I shall wear this collar with dignity.  Showing proudly who owns me.,,,,,Evelyn,
+Collar26,,,"I love you, Mistress PlayerName.",DialogLoveGreater(20),,,,,
+Collar26,,,"This is bliss, Mistress PlayerName.",DialogLoveLower(19),,,,,
+Collar26,Collar27,"I love you, my sub.","(She produces a large smile, slowly accepting her new reality.)",,,1,-1,,
+Collar26,Collar27,"I love you, my slave.","(She takes a deep breath, slowly accepting her new reality.)",,,1,1,,
+Collar26,Collar27,"I love you, my girl.","(She smiles at you, slowly accepting her new reality.)",,,1,,,
+Collar26,Collar27,Make me proud.,"(She nods slowly, slowly accepting her new reality.)",,,-1,1,,
+Collar26,Collar27,Never forget who you belond to.,"(She nods rapidly, slowly accepting her new reality.)",,,-1,2,,
+Collar27,Collar28,,I'm eager to see where this journey shall lead us.,,,,,,
+Collar28,Collar29,,My anxiety shall wear off with time.  It is a tedious process to accept my newfound submissiveness.,,,,,,
+Collar28,Collar29,InventoryDialogPhone,(She shivers as you immortalize her submission on your phone.),,"PictureAdd(""Evelyn"")",-1,1,,EvelynKneelNakedBedroomCollar
+Collar29,Collar30,,"The upcoming weeks, months and years or submission shall be wonderful, Mistress PlayerName.",,,,,,
+Collar30,Collar31,,"Please rest for now, it is getting late.  Our journey shall resume next week.",,,,,,
+Collar31,Collar32,,,,,,,,TeacherPajamasEvelynNakedCollarBed
+Collar32,Collar33,,(You get to bed with your collared submissive.  She smiles and cuddles with you.),DialogLoveGreater(20),,,,,
+Collar32,Collar33,,(You get to bed with your collared submissive.  She trembles before falling asleep.),DialogLoveLower(19),,,,,
+Collar33,Outro,,(Another week at the college will begin soon.),,,,,,
+Dismiss1,Dismiss2,,(She takes a deep breath and escorts you out.),,,,,Evelyn,
+Dismiss2,Dismiss3,,,,,,,,TeacherCasualEvelynHouseEntranceBreak
+Dismiss3,Dismiss4,,"PlayerName, our Dominant and submissive journey cannot go any further.",,"LogDelete(""Evelyn"", ""Dominate"")",,,Evelyn,TeacherCasualEvelynHouseEntranceBreak
+Dismiss4,Dismiss5,,"I wish you the best of luck, but we are not meant for each other.",,"LogAdd(""Evelyn"", ""Breakup"")",,-1,,
+Dismiss5,Dismiss6,,We shall forget it ever happened and stay professional on college grounds.,,,-1,-1,,
+Dismiss6,Dismiss7,,Now hurry up or you shall miss the public transport.,,,,-1,,
+Dismiss7,Dismiss8,,,,,,,Teacher,TeacherBusCasual
+Dismiss8,Dismiss9,,(Evelyn is no longer your submissive.  You head back to your apartment.),,,,,,
+Dismiss9,Outro,,(Another week at the college will begin soon.),,,,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

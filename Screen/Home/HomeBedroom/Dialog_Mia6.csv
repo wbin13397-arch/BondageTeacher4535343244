@@ -1,0 +1,216 @@
+Entry,Intro1,,,,,,,Teacher,TeacherEnter
+Intro1,Switch1,,(You come back home to your girlfriend.  Your fifth week of work is done.),"DialogCurrentDS(""Mia"", """")",,,,Mia,
+Intro1,Dom1,,(You come back home to your submissive girlfriend.  Your fifth week of work is done.),"DialogCurrentDS(""Mia"", ""Sub"")",,,,Mia,
+Intro1,Sub1,,(You come back home to your Dominant girlfriend.  Your fifth week of work is done.),"DialogCurrentDS(""Mia"", ""Dom"")",,,,Mia,
+Switch1,FrenchKiss1,,(She rushes to you for a long French-kiss.),DialogLoveGreater(25),,,,,TeacherMiaStandFrenchKiss
+FrenchKiss1,FrenchKiss2,,,,,,,,
+FrenchKiss2,FrenchKiss3,,"Welcome my love, I'm so happy to see you.",,,,,,
+FrenchKiss3,Switch2,,I hope you're not too tired from work.,,,,,,MiaStandHappy
+Switch1,Switch2,,"Hun, I'm so glad to see you.  I hope you're not too tired from work.","DialogLoveBetween(10, 24)",,,,,MiaStandHappy
+Switch1,Switch2,,Hey!  I hope you're not too tired from work.,DialogLoveLower(9),,,,,MiaStandBored
+Switch2,,,Anything special this weekend?  (She winks at you.),,,,,,
+Switch2,Switch3,What is going on?,(She gets mad.)  Hun!  You forgot my birthday!,,,-2,,,MiaStandBored
+Switch2,Switch3,There's something special?  (Wink back.),(She giggles and smiles.)  I knew you would not forget my birthday.,,,,1,,MiaStandShy
+Switch2,Switch3,So sorry!  I forgot to buy a gift.,"(She shrugs.)  It's ok, I'll use your credit card to get something.",,,,-1,,MiaStandProud
+Switch2,Switch3,Happy birthday my love!,Thanks!  This is sweet of you.,,,1,,,MiaStandHappy
+Switch2,EarlySleep1,"I'm exhausted, I don't want to do anything.",(She sighs.)  Who cares about birthdays anyway?  (You go get your pajamas.),,,-4,1,,
+Switch2,Breakup,I don't care.  I want out.  (Breakup with her.),Fuck!  You certainly picked the perfect date to break up.,DialogLoveLower(9),,-6,,,MiaStandBored
+Switch3,Switch4,,Let's have fun and celebrate this weekend.,,,,,,
+Switch4,,,The bakery next door delivered the cake already.,,,,,,
+Switch4,Switch5,You could have baked it yourself.,(She sighs and nods.)  I guess you are right.,,,,1,,MiaStandShy
+Switch4,Switch5,It's a good day to spoil yourself.,(She smirks and nods.)  Every day is a good day.,,,,-1,,MiaStandProud
+Switch4,Switch5,Cake won't help with your weight.,(She grumbles.)  Can we talk about something else today?,,,-1,,,MiaStandBored
+Switch4,Switch5,What a delicious idea.,(She smiles widely.)  You're also delicious and sweet.,,,1,,,MiaStandHappy
+Switch4,SkipCake1,I don't feel like having cake.,(She seems disappointed.)  Maybe later then.,,,-2,,,MiaStandBored
+Switch5,Switch6,,,,,,,,MiaStandPresentCake
+Switch6,Switch7,,(She picks up the cake and shows it proudly.)  Strawberries and chocolate.,,,,,,
+Switch6,Switch7,InventoryDialogPhone,(She giggles as you snap a picture of the cake.),,PictureAdd(),1,,,
+Switch7,Switch8,,Wow!  I have a wild idea.,,,,,,
+Switch8,,,We could eat it naked in bed.,,,,,,
+Switch8,Cake1,"No problem, I'll clean after.","Hun, you're the best.  (She smirks as you both get naked.)  ",,,,-1,,
+Switch8,Cake1,I love it!  Great idea.,(She gets excited as you both get naked.),,,1,,,
+Switch8,Cake1,"Ok, but you will clean after.",(She nods slowly as you both get naked.),,,,1,,
+Switch8,SkipCake1,"Forget the cake, it will make a mess.",(She sighs and puts the cake away.)  Maybe later then.,,,-2,1,,MiaStandBored
+Dom1,DomHug1,,(She rushes on her knees and starts to hug you.),DialogLoveGreater(25),,,,,TeacherStandMiaMaidKneelHug
+DomHug1,DomHug2,,,,,,,,
+DomHug2,DomHug3,,"I'm so happy to see you, Miss.  I was lonely without you.",,,,,,
+DomHug3,Dom2,,I hope you're not too tired from all your hard work.,,,,,,MiaKneelMaidHappy
+Dom1,Dom2,,(She kneels happily for you.)  I hope you're not too tired from work.,"DialogLoveBetween(10, 24)",,,,,MiaKneelMaidHappy
+Dom1,Dom2,,Hello!  I hope you're not too tired from work.,DialogLoveLower(9),,,,,MiaStandMaidIdle
+Dom2,,,I'm baking a cake today!  Can you guess why?,,,,,,
+Dom2,Dom3,What is going on?,(She gets mad.)  Miss!  You forgot my birthday!,,,-2,,,MiaStandMaidIdle
+Dom2,Dom3,There's something special?  (Wink back.),(She giggles and smiles.)  I knew you would not forget my birthday.,,,,1,,
+Dom2,Dom3,So sorry!  I forgot to buy a gift.,"(She shrugs.)  It's ok, you can use your credit card later Miss.",,,,-1,,
+Dom2,Dom3,Happy birthday my girl!,Thanks!  This is sweet of you.,,,1,,,
+Dom2,EarlySleep1,"I'm exhausted, I don't want to do anything.",(She sighs.)  Who cares about birthdays anyway?  (You go get your pajamas.),,,-4,1,,
+Dom2,Breakup,I don't care.  I want out.  (Breakup with her.),Fuck!  You certainly picked the perfect date to break up.  (She dresses quickly.),DialogLoveLower(9),,-6,-3,,MiaStandMaidIdle
+Dom3,Dom4,,,,,,,,MiaStandMaidCurtsy
+Dom4,Dom5,,"(She does a maid curtsy.)  Miss PlayerName, I've prepared your favorite cake.",,,,,,
+Dom4,Dom5,InventoryDialogPhone,(She smiles as you take a cute picture of her.),,PictureAdd(),1,,,
+Dom5,,,Strawberries and chocolate!,,,,,,
+Dom5,Dom6,It's a fat cake.,(She pouts.)  On your birthday there's no calories.,,,-1,,,
+Dom5,Dom6,That sounds delicious.,(She nods rapidly.)  The best!,,,1,,,
+Dom5,Dom6,"This is your favorite, not mine.",(She ponders out loud.)  Really?  My mistake.,,,,-1,,
+Dom5,Dom6,You know how to please me.,Pleasing your stomach is my priority.,,,,1,,
+Dom5,SkipCake1,I don't feel like having cake.,(She seems disappointed.)  Maybe later then.,,,-2,1,,MiaStandMaidIdle
+Dom6,Dom7,,,,,,,,MiaMaidStandPresentCake
+Dom7,Dom8,,(She presents her cake proudly.)  Tada!,,,,,,
+Dom7,Dom8,InventoryDialogPhone,(She giggles as you snap a picture of the cake.),,PictureAdd(),,,,
+Dom8,Dom9,,Wow!  I have a wild idea.,,,,,,
+Dom9,,,"Miss, we could eat it naked in bed if you want.",,,,,,
+Dom9,Cake1,"No problem, I'll clean after.","Miss, you're the best.  (She smirks as you both get naked.)  ",,,,-2,,
+Dom9,Cake1,I love it!  Great idea.,(She gets excited as you both get naked.),,,1,,,
+Dom9,Cake1,"Ok, but you will clean after.",Of course!  (She nods as you both get naked.),,,,1,,
+Dom9,SkipCake1,"Forget the cake, it will make a mess.",(She sighs and puts the cake away.)  Maybe later then.,,,-2,1,,MiaStandMaidIdle
+Sub1,SubHug1,,(She rushes to you as you get on your knees.),DialogLoveGreater(25),,,,,TeacherKneelHugMia
+SubHug1,SubHug2,,,,,,,,
+SubHug2,SubHug3,,"I'm thrilled to see you, my girl.  It's much better when you're around.",,,,,,
+SubHug3,Sub2,,"I hope you're not too tired from work, little pet.",,,,,,MiaStandProud
+Sub1,Sub2,,My girl!  This is nice.  I hope you're not too tired from work.,"DialogLoveBetween(10, 24)",,,,,MiaStandProud
+Sub1,Sub2,,There you are.  You better not be tired from work.,DialogLoveLower(9),,,,,MiaStandBored
+Sub2,,,Anything special this weekend?  (She winks at you.),,,,,,
+Sub2,Sub3,What is going on?,(She gets mad.)  My girl!  You forgot my birthday!,,,-2,,,MiaStandBored
+Sub2,Sub3,There's something special?  (Wink back.),(She giggles and smiles.)  I knew you would not forget my birthday.,,,,1,,MiaStandShy
+Sub2,Sub3,So sorry!  I forgot to buy a gift.,"(She shrugs.)  No worries, my pet.  I'll use your credit card to get something.",,,,-1,,MiaStandProud
+Sub2,Sub3,Happy birthday Miss!,Thanks!  This is sweet of you.,,,1,,,MiaStandHappy
+Sub2,Sub3,"I'm exhausted, can we get to bed?",No!  It's my birthday and I make the rules!,,,-2,2,,
+Sub2,Breakup,I don't care.  I want freedom.  (Breakup with her.),Fuck!  You certainly picked the perfect date to break up.,DialogLoveLower(9),,-6,3,,MiaStandBored
+Sub3,Sub4,,"As birthday queen, I have some plans for the weekend.",,,,,,
+Sub4,,,"First, get naked.",,,,,,
+Sub4,Sub5,Now?  Is it necessary?,"Do not argue, my girl.  (She helps you to strip down.)",,,,1,,
+Sub4,Sub5,(Strip down sensually.),(She smiles as you remove your clothes sensually.),,,1,,,
+Sub4,Sub5,I thought you would never ask.  (Strip quickly.),(She grins as you remove your clothes promptly.),,,,-1,,
+Sub4,Sub5,(Grumble and strip reluctantly.),(She sighs as you remove your clothes reluctantly.),,,-1,,,
+Sub5,Sub6,,,,,,,,MiaStandDominantTeacherNaked
+Sub6,Sub7,,"My first plan is simple, I'm hungry!",,,,,,
+Sub7,Sub8,,The cake was already delivered.  Strawberries and chocolate.,,,,,,
+Sub8,,,We will eat it naked in bed.,,,,,,
+Sub8,Cake1,"No problem, I'll clean after.",Of course you will.  (She smirks and gets naked.)  ,,,,-1,,
+Sub8,Cake1,I love it!  Great idea.,(She gets excited and quickly strips also.),,,1,,,
+Sub8,Cake1,"Ok, but you will clean after.","Forget that plan, you will clean.  (She frowns and gets naked.)",,,,2,,
+Sub8,Cake1,"Forget the cake, it will make a mess.","Shut up girl, I make the plans.  (She grumbles and gets naked.)",,,-2,2,,
+Cake1,Cake2,,,,,,,,TeacherNakedMiaNakedBedStareCake
+Cake2,Cake3,,"(You both lie naked in bed, looking at the big cake.)",,,,,,
+Cake3,Cake4,,"Wow!  As a challenge, we could try to eat it in cuffs.  Dig right into it!","DialogCurrentDS(""Mia"", """")",,,,,
+Cake3,CakeDom1,,"Wow!  Miss, it will be so good.  I'm hungry like the wolf.","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+Cake3,CakeSub0,,Wow!  I have a kinky plan for you to eat that cake.,"DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+Cake4,,,You want to try first?,,,,,,
+Cake4,Cake5,Let's plunge together!,You're so naughty!  I love it!  (You get two sets of cuffs.),,,1,,,
+Cake4,CakeDom2,This is your cake.  You'll try the cuffs.,I guess this is fair.  (She presents her hands.),DialogDominationGreater(-4),,,1,,
+Cake4,CakeSub1,This is your cake.  You'll try the cuffs.,"No way, it's my birthday and I want to see bound.",DialogDominationLower(-5),,,2,,
+Cake4,CakeSub1,I can start that kinky challenge.,I'm surprised you want to do it.  I'll be happy to cuff you hun.,DialogDominationGreater(5),,,-2,,
+Cake4,CakeSub1,I can start that kinky challenge.,That's the spirit!  I'll be happy to cuff you hun.,DialogDominationLower(4),,,-1,,
+Cake4,CakeDom2,InventoryDialogHandcuffs,(You quickly produce the cuffs as she presents her hands.),DialogDominationGreater(-4),,,1,,
+Cake4,CakeSub1,InventoryDialogHandcuffs,"(You produce the cuffs, but she quickly takes them from you.)",DialogDominationLower(-5),,,2,,
+Cake5,Cake6,,,,,,,,TeacherMiaNakedCuffedBedEatCake1
+Cake6,Cake7,,(You cuff each other behind your own back and giggle while looking at the cake.),,,,,,
+Cake7,Cake8,,,,,,,,TeacherMiaNakedCuffedBedEatCake2
+Cake8,Cake9,,(You both giggle and clumsily position yourself to take a bite.),,,,,,
+Cake9,Cake10,,,,,,,,TeacherMiaNakedCuffedBedEatCake3
+Cake10,,,(You start to dig in together.  How will you eat?),,,,,,
+Cake10,Cake11,(Eat carefully.),(You eat carefully as she takes big bites and makes a mess.),,,,-1,,
+Cake10,Cake11,(Eat like a pig.),(She laughs as you both make a mess eating the cake.),,,1,,,
+Cake10,Cake11,(Push her to eat more than her.),(You push her to get better bites as you both laugh.),,,,1,,
+Cake10,Cake11,(Don't eat much.),(You don't eat much as she frowns and digs in deep.),,,-1,,,
+Cake11,Cake12,,"(You both finish dessert, fumbling with the keys to get out.)",,,,,,
+Cake12,Cake13,,,,,,,,TeacherNakedMiaNakedSitBed
+Cake13,Gift1,,It was a fun idea.  We'll have to do it again next year.,,,,,,
+CakeDom1,,,Can I eat now?,,,,,,
+CakeDom1,CakeDom2,"Not yet, there's a little challenge.  (Cuff her.)",I can do any challenge!  (She giggles as you get the cuffs.),,,,-1,,
+CakeDom1,CakeDom2,I'll make you eat like an animal.  (Cuff her.),Like an animal?  (She seems shocked as you produce the cuffs.),,,-1,1,,
+CakeDom1,Cake5,Wait!  We will eat together in cuffs.,You're so naughty!  I love it!  (You get two sets of cuffs.),,,1,-3,,
+CakeDom2,CakeDom3,,,,,,,,MiaNakedCuffedBedEatCake1
+CakeDom3,CakeDom4,,"(She tugs on the cuffs playfully, looking at the cake.)",,,,,,
+CakeDom3,CakeDom4,InventoryDialogPhone,(She seems quite embarrassed by the picture.),,PictureAdd(),-1,1,,
+CakeDom4,,,"Wow!  Miss, can I dig in now?","DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+CakeDom4,,,"Wow!  Hun, can I dig in now?","DialogCurrentDS(""Mia"", """")",,,,,
+CakeDom4,CakeDom5,(Make a thumbs up.),(She nods and moves toward the cake.),,,,1,,
+CakeDom4,CakeDom5,"Alright, I'll clean up later.",(She smirks and pounces toward the cake.),,,,-1,,
+CakeDom4,CakeDom5,"Go, little piggy.",(She frowns and pounces toward the cake.),,,-1,,,
+CakeDom4,CakeDom5,Happy birthday!,(She smiles and moves toward the cake.),,,1,,,
+CakeDom5,CakeDom6,,,,,,,,MiaNakedCuffedBedEatCake2
+CakeDom6,CakeDom7,,(She struggles to get the perfect angle to attack the cake.),,,,,,
+CakeDom6,CakeDom7,InventoryDialogPhone,(She's so focused on the cake that she doesn't notice the picture.),,PictureAdd(),,,,
+CakeDom7,CakeDom8,,,,,,,,MiaNakedCuffedBedEatCake3
+CakeDom8,CakeDom9,,"(She digs in the cake with appetite, enjoying the situation and the food.)",,,,,,
+CakeDom8,CakeDom9,InventoryDialogPhone,(She doesn't notice that you add kinky pictures to your phone.),,PictureAdd(),,,,
+CakeDom9,CakeDom10,,(She licks the icing hungrily and eats a whole strawberry in one bite.),,,,,,
+CakeDom9,CakeDomSex1,InventoryDialogStrapon,(You sneakily fetch the strap-on as she works on the dessert.),,,,,,
+CakeDom10,CakeDom11,,(She finishes one side and tugs to be released.),,,,,,
+CakeDom11,CakeDom12,,,,,,,,TeacherNakedMiaNakedSitBed
+CakeDom12,Gift1,,(She cleans her face.)  Wow!  Miss!  Best cake ever!,"DialogCurrentDS(""Mia"", ""Sub"")",,,,,
+CakeDom12,Gift1,,(She cleans her face.)  Wow!  Hun!  Best cake ever!,"DialogCurrentDS(""Mia"", """")",,,,,
+CakeDomSex1,CakeDomSex2,,,,,,,,TeacherStraponMiaNakedCuffedBedEatCake
+CakeDomSex2,CakeDomSex3,,(She seems very surprised as you start to penetrate her.),,,,1,,
+CakeDomSex3,CakeDomSex4,,(She moans with each thrust but keeps on eating.),,,,,,
+CakeDomSex4,,,(How far will you go?),,,,,,
+CakeDomSex4,CakeDomSex5,(Stop after a few in and out.),(She stops eating to complain.)  You're such a tease!,,,-1,-1,,
+CakeDomSex4,CakeDomSex5,(Penetrate her as long as she eats.),(She moans and gets a lovely orgasm while stuffing her face.),,,1,,,
+CakeDomSex4,CakeDomSex5,(Fuck her hard.),(You fuck her hard as she screams and struggles not to crash in the cake.),,,,1,,
+CakeDomSex5,CakeDom11,,(You pull back to release her after a while.),,,,,,MiaNakedCuffedBedEatCake3
+CakeSub0,,,"My pet, you will dig in with your hands cuffed.","DialogCurrentDS(""Mia"", ""Dom"")",,,,,
+CakeSub0,,,"Hun, you will dig in with your hands cuffed.","DialogCurrentDS(""Mia"", """")",,,,,
+CakeSub0,CakeSub1,I'm not that hungry.,I'm sure you can have a few bites.  (She grumbles and gets your cuffs.),,,-1,,,
+CakeSub0,CakeSub1,"Miss, it will make a huge mess.",Good thing you are there to clean.  (She smirks and gets your cuffs.),,,,-1,,
+CakeSub0,CakeSub1,This is not very hygienic.,There are no rules on my birthday.  (She pouts and gets your cuffs.),,,,1,,
+CakeSub0,CakeSub1,What a delicious idea.,You're so sweet!  (She smiles and gets your cuffs.),,,1,,,
+CakeSub1,CakeSub2,,,,,,,,TeacherNakedCuffedBedEatCake1
+CakeSub2,CakeSub3,,(She puts you in cuffs as you stare at the cake.),,,,,,
+CakeSub2,CakeSub3,InventoryDialogPhone,(She laughs and takes a picture.)  Say cheese... cake!,,"PictureAdd(""Teacher"")",,,,
+CakeSub3,CakeSub4,,,,,,,,TeacherNakedCuffedBedEatCake2
+CakeSub4,CakeSub5,,"(You turn around clumsily, trying to find the best angle.)",,,,,,
+CakeSub4,CakeSub5,InventoryDialogPhone,(She takes a souvenir of the clean birthday cake.),,"PictureAdd(""Teacher"")",,,,
+CakeSub5,,,(How will you eat?),,,,,,
+CakeSub5,CakeSub6,(Eat carefully.),"(You eat carefully, trying not to make a mess.)",,,,-1,,TeacherNakedCuffedBedEatCake3
+CakeSub5,CakeSub6,(Eat like a pig.),(She laughs as you make a mess eating the cake.),,,1,,,TeacherNakedCuffedBedEatCake3
+CakeSub5,CakeSub6,(Get the best strawberries.),(You try to get all the best fruits for yourself.),,,,1,,TeacherNakedCuffedBedEatCake3
+CakeSub5,CakeSub6,(Don't eat much.),(You don't eat much as she shakes her head from left to right.),,,-1,,,TeacherNakedCuffedBedEatCake3
+CakeSub6,CakeSub7,,,,,,,,
+CakeSub7,CakeSub8,,(You take a few more bites as she giggles.),,,,,,
+CakeSub7,CakeSub8,InventoryDialogPhone,(She zooms with her phone as you stuff your face.),,"PictureAdd(""Teacher"")",,,,
+CakeSub8,CakeSubSex1,,You're so hot!  I have an extra dessert for you.,DialogLoveGreater(20),,,,,
+CakeSub8,CakeSub9,,Enough eating!  Leave some for me later.  (She comes to release you.),DialogLoveLower(19),,,,,
+CakeSub9,CakeSub10,,,,,,,,TeacherNakedMiaNakedSitBed
+CakeSub10,Gift1,,It was quite sexy to watch you struggle to eat.,,,,,,
+CakeSubSex1,CakeSubSex2,,,,,,,,TeacherNakedCuffedLickMiaNakedBedEatCake1
+CakeSubSex2,CakeSubSex3,,(She pulls you back and takes your place.),,,,,,
+CakeSubSex3,CakeSubSex4,,I hope you understand the plan.  We will eat together.,,,,,,
+CakeSubSex4,CakeSubSex5,,,,,,,,TeacherNakedCuffedLickMiaNakedBedEatCake2
+CakeSubSex5,CakeSubSex6,,(She bends down and starts to dig in the cake.),,,,,,
+CakeSubSex6,,,(She shakes her butt playfully while eating.),,,,,,
+CakeSubSex6,CakeSubSex7,(Refuse to eat her.),"Shit, you're no fun.  (She takes a few more bites alone.)",,,-2,,,
+CakeSubSex6,CakeSubSex7,(Lick her pussy rapidly.),(She shivers and gets a sweet orgasm while biting a strawberry.),,,1,-1,,TeacherNakedCuffedLickMiaNakedBedEatCake3
+CakeSubSex6,CakeSubSex7,(Lick her pussy slowly.),(She shivers and eats a few more bites as you lick her.),,,,-1,,
+CakeSubSex6,CakeSubSex7,(Push your tongue in and out rapidly.),(She moans and gets a sweet orgasm while biting a strawberry.),,,1,1,,TeacherNakedCuffedLickMiaNakedBedEatCake3
+CakeSubSex6,CakeSubSex7,(Push your tongue in and out slowly.),(She moans and eats a few more bites as you push inside.),,,,1,,
+CakeSubSex7,CakeSubSex8,,That's enough sugar for now.  (She grabs the keys.),,,,,,
+CakeSubSex8,CakeSubSex9,,,,,,,,TeacherNakedMiaNakedSitBed
+CakeSubSex9,Gift1,,It was my best birthday cake ever.  We need to redo that next year.,,,,,,
+SkipCake1,SkipCake2,,I can eat it alone while you're at work.,,,-1,,,
+SkipCake2,,,"Instead of food, we could get naked in bed.  (She winks at you.)",,,,,,
+SkipCake2,SkipCake3,"Ok, we can do that.",(She nods as you both get naked slowly.),,,,,,
+SkipCake2,SkipCake3,That's a great idea.,(She smiles as you both get naked quickly.),,,1,,,
+SkipCake2,EarlySleep1,I'm not in that mood.  I need to sleep.,(She sighs and nods.)  Let's get some early rest.  (You go get your pajamas.),,,-2,,,
+SkipCake3,SkipCake4,,,,,,,,TeacherNakedMiaNakedSitBed
+SkipCake4,Gift1,,(You get comfy in bed and look at each other.),,,,,,
+EarlySleep1,EarlySleep2,,,DialogLoveGreater(13),,,,,TeacherMiaBedSleepSpoon
+EarlySleep1,EarlySleep2,,,DialogLoveLower(12),,,,,TeacherMiaBedSleep
+EarlySleep2,,,(You both get ready to sleep.),,"DialogVariableSet(""MiaSleep"", ""Normal"")",,,,
+EarlySleep2,Outro,(Fall asleep quickly.),"(You quickly fall asleep, way before her.)",,,-1,,,
+EarlySleep2,Outro,(Kiss her goodnight.),(You exchange a few good night kisses before falling asleep.),,,1,,,
+EarlySleep2,Outro,Sleep well.,"Sleep well, hun.  (You both fall asleep.)",,,,,,
+Gift1,Gift2,,"Mia, I do have a little gift for your birthday.  Something that both of us could wear.","DialogCurrentDS(""Mia"", """")",,,,Teacher,
+Gift1,Gift2,,"My girl, I do have a little gift for your birthday.  Something you will wear.","DialogCurrentDS(""Mia"", ""Sub"")",,,,Teacher,
+Gift1,Gift2,,"Miss, I do have a little gift for your birthday.  Something you could put on me.","DialogCurrentDS(""Mia"", ""Dom"")",,,,Teacher,
+Gift2,Gift3,,,,,,,,TeacherNakedMiaNakedSitBedPresentBallgag
+Gift3,Gift4,,(You produce a red ball gag and show it to her.),,"InventoryAdd(""Ballgag"")",,,,
+Gift4,Gift5,,I've bought it on my way home.,,,,,,
+Gift5,,,(She inspects the gag and smiles.),,,,,Mia,
+Gift5,Gift6,This will spice up our sex life.,(She smiles and nods happily.)  Thank you!  I love it.,,,2,,,
+Gift5,Gift6,It's a cheap item but maybe it will work.,(She shrugs.)  We'll have to try it.,,,,,,
+Gift5,Gift6,It should silence any complain.,(She stares at it and nods.)  Silence is gold.,,,1,1,,
+Gift5,Gift6,Remember that we must use it safely.,(She rolls her eyes up.)  Let's not play too safe.,,,1,-1,,
+Gift6,Loop,,"(You put the ball gag away, leaving it close.)",,,,,,TeacherNakedMiaNakedSitBed
+Loop,,,,,"DialogLoad(""MiaLoop"")",,,,
+Breakup,,,,,"DialogLoad(""MiaBreakupStart"")",,,,
+Outro,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,

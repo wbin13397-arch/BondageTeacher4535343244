@@ -1,0 +1,73 @@
+Entry,Intro1,,,,,,,Teacher,TeacherEnter
+Intro1,Intro2,,(You come back home to your girlfriend.),,,,,,
+Intro2,Intro3,,I'm back!,,,,,,
+Intro3,Intro4,,(Nobody answers.  Mia isn't in the apartment.),,,,,,
+Intro4,Intro5,,"(You look around, her computer and all her clothes are gone.)",,,,,,
+Intro5,Intro6,,(You find a note on the table.  It's from Mia.),,,,,Mia,
+Intro6,FullDomme1,,(You start to read it.),DialogDominationLower(-16),,,,,TeacherReadNote
+Intro6,Domme1,,(You start to read it.),"DialogDominationBetween(-15, -6)",,,,Mia,TeacherReadNote
+Intro6,Normal1,,(You start to read it.),"DialogDominationBetween(-5, 5)",,,,Mia,TeacherReadNote
+Intro6,Sub1,,(You start to read it.),"DialogDominationBetween(6, 15)",,,,Mia,TeacherReadNote
+Intro6,FullSub1,,(You start to read it.),DialogDominationGreater(16),,,,Mia,TeacherReadNote
+FullDomme1,FullDomme2,,"""Hey girl,""",,,,,,
+FullDomme2,FullDomme3,,"""It's been a fun ride.  We had a good time back then.""",,,,,,
+FullDomme3,FullDomme4,,"""But we're not made for each other, we are now too different.""",,,,,,
+FullDomme4,FullDomme5,,"""I've found a great job out of town, so I'm moving out.""",,,,,,
+FullDomme5,FullDomme6,,"""I'll keep a good memory of the time we were together.""",,,,,,
+FullDomme6,FullDomme7,,"""Good luck with the apartment, eat your three meals each day.""",,,,,,
+FullDomme7,FullDomme8,,"""Take care of yourself, don't get bossed too much.""",,,,,,
+FullDomme8,Outro1,,"""Mia""",,,,,,
+Domme1,Domme2,,"""Hey PlayerName,""",,,,,,
+Domme2,Domme3,,"""It's been a good ride.  We had pleasure back then.""",,,,,,
+Domme3,Domme4,,"""But we took different paths, we split somewhere on the road.""",,,,,,
+Domme4,Domme5,,"""I've found a job out of town, so I'm moving out.""",,,,,,
+Domme5,Domme6,,"""I'll keep a good memory of the time we were together.""",,,,,,
+Domme6,Domme7,,"""Good luck with the apartment, eat your three meals each day.""",,,,,,
+Domme7,Domme8,,"""Take care and try to affirm yourself more.""",,,,,,
+Domme8,Outro1,,"""Mia""",,,,,,
+Normal1,Normal2,,"""Hi PlayerName,""",,,,,,
+Normal2,Normal3,,"""It was a great journey.  We had lots of pleasure back then.""",,,,,,
+Normal3,Normal4,,"""But we took different paths, we split somewhere on the road.""",,,,,,
+Normal4,Normal5,,"""I'm moving out of town, maybe it will be easier to find a job.""",,,,,,
+Normal5,Normal6,,"""I'll always remember the time we were together.""",,,,,,
+Normal6,Normal7,,"""Good luck with your teaching job and the apartment.""",,,,,,
+Normal7,Normal8,,"""Take care and find a new lover soon.""",,,,,,
+Normal8,Outro1,,"""Mia""",,,,,,
+Sub1,Sub2,,"""Dear PlayerName,""",,,,,,
+Sub2,Sub3,,"""It was a wonderful journey.  An honor to be your lover.""",,,,,,
+Sub3,Sub4,,"""Sadly, we took different paths, we got lost somewhere on the road.""",,,,,,
+Sub4,Sub5,,"""I'm moving back to my parents' home.  I'll try to make peace with my father.""",,,,,,
+Sub5,Sub6,,"""I'll always remember and cherish the time we were together.""",,,,,,
+Sub6,Sub7,,"""Good luck with your teaching job and the apartment.  You will do great.""",,,,,,
+Sub7,Sub8,,"""Thank you for everything, I've learned a lot from you.""",,,,,,
+Sub8,Outro1,,"""Mia""",,,,,,
+FullSub1,FullSub2,,"""Greetings PlayerName,""",,,,,,
+FullSub2,FullSub3,,"""It was a wonderful journey.  I was lucky to be your lover.""",,,,,,
+FullSub3,FullSub4,,"""Sadly, we took different paths, we got lost somewhere on the road.""",,,,,,
+FullSub4,FullSub5,,"""I'm moving back to my parents' home.  Sorry for being such a loser.""",,,,,,
+FullSub5,FullSub6,,"""I'll always remember and cherish the time we were together.""",,,,,,
+FullSub6,FullSub7,,"""You deserve better than me, you will have a great career.""",,,,,,
+FullSub7,FullSub8,,"""Thank you for everything, I've learned a lot from you.""",,,,,,
+FullSub8,Outro1,,"""Mia""",,,,,,
+Outro1,Outro2,,(The note ends there.),,"LogAdd(""Mia"", ""Breakup"")",,,,
+Outro2,,,(You are now single.),,,,,Teacher,TeacherStandAlone
+Outro2,Outro3,(Keep the note preciously.),(You fold and keep the note preciously.),,,,,,
+Outro2,Outro3,(Rip the note to small pieces.),(You shred the note into small pieces.),,,,,,
+Outro2,Outro3,(Send her angry text messages.),"(You text her angry messages, but don't get any answer.)",,,,,,
+Outro2,Outro3,(Send her text messages to bring her back.),"(You text her messages to change her mind, but don't get any answer.)",,,,,,
+Outro2,OutroSelfie,InventoryDialogPhone,,,,,,,TeacherSadSelfie
+OutroSelfie,Outro3,,"(You send her a sad selfie, but don't get any answer.)",,PictureAdd(),,,,
+Outro3,Outro4,,(The apartment feels quite empty now.),,,,,,TeacherStandAlone
+Outro4,Outro5,,(You eat alone and review your work for next week.),,,,,,
+Outro5,,,(How will you sleep this weekend?),,,,,,
+Outro5,Outro6,(Sleep in your teacher outfit.),,,,,,,TeacherSleepAloneOutfit
+Outro5,Outro6,(Wear your pajamas.),,,,,,,TeacherSleepAlonePajamas
+Outro5,AloneNaked,(Sleep fully naked.),,,,,,,TeacherSleepAloneNaked
+AloneNaked,,,(You lie in bed alone naked.),,,,,,
+AloneNaked,Outro7,(Try to sleep.),(You sleep by yourself all weekend.),,,,,,
+AloneNaked,AloneNakedMasturbate,(Masturbate.),,,,,,,TeacherSleepAloneNakedMasturbate
+AloneNakedMasturbate,Outro6,,"(You masturbate and orgasm alone in bed, your thoughts wander with sexy scenarios.)",,,,,,
+Outro6,Outro7,,(You sleep by yourself all weekend.),,,,,,
+Outro7,Outro8,,(You flip the lights off and close your eyes.),,,,,,
+Outro8,,,,,"CommonSetScreen(""Home"", ""HomeBedroomEnd"")",,,,
+Outro,,,,,,,,,

@@ -1,0 +1,46 @@
+Stage,Type,Option,Name,Dialog,ZoneX,ZoneY,ZoneWidth,ZoneHeight,BlushFactor,BlinkTimer,StressFactor,ArousalFactor,NextStage,Condition,Comments
+Intro,Menu,InventoryHandcuffs,Handcuffs,(She looks at the cuffs.)|(She shivers.),,,,,,,,,,,
+Intro,Menu,InventoryPanelGag,Panel Gag,(She opens wide.)|Aaaaah!|What a nice gag.,,,,,,,,,,"!MiniGameParameterGetBool(""InventoryPanelGag"", ""Mouth"")",
+Intro,Menu,InventoryDildo,Plug Dildo,(She nods and blushes.)|Mistress Sophie will approve.,,,,,,,,,,"!MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+Intro,Menu,ActionDildoLow,Low Vibration,,,,,,,,,,,"MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+Intro,Menu,ActionDildoMed,Medium Vibration,,,,,,,,,,,"MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+Intro,Menu,ActionDildoHigh,High Vibration,,,,,,,,,,,"MiniGameParameterGetBool(""InventoryDildo"", ""Vagina"")",
+Intro,Menu,Remove,Remove,,,,,,,,,,,,
+Intro,Menu,ActionCaress,Caress,,,,,,,,,,,,
+Intro,Menu,ActionTickle,Tickle,,,,,,,,,,,,
+Intro,Menu,ActionSlap,Slap,,,,,,,,,,,"!InventoryAvailable(""Crop"")",
+Intro,Menu,InventoryCrop,Leather Crop,(She stares and trembles.)|Please don't leave marks.,,,,,,,,,,"InventoryAvailable(""Crop"")",
+Intro,Menu,Exit,End Session,,,,,,,,,,,,
+Intro,Zone,InventoryHandcuffs,Wrist,(She wiggles her fingers.)|Gotta love the steel.,950,670,105,95,3,1,0.9,1.1,,,
+Intro,Zone,InventoryPanelGag,Mouth,(She adjusts her jaw.)|(She hums a happy song.),760,230,145,90,2,2,1.1,1.2,,,
+Intro,Zone,InventoryDildo,Vagina,(She rocks her hips.)|(She moans as it slides in.),780,800,100,95,5,2,1.2,1.2,,,
+Intro,Zone,Blush,Level1,,755,210,155,40,,,,,,,
+Intro,Zone,Blush,Level2,,755,210,155,40,,,,,,,
+Intro,Zone,Blush,Level3,,755,210,155,40,,,,,,,
+Intro,Zone,ActionCaress,Activity,Mmmmh!|That's sweet.|You have a magical touch.|(She moans silently.),750,150,165,140,3,1,0,5,,,Face
+Intro,Zone,ActionSlap,Activity,Ow!|Gee!|(She jumps from the pain.),750,150,165,140,1,2,4,2,,,Face
+Intro,Zone,InventoryCrop,Activity,OOOOWW!|Gee!  Miss!|(She jumps from the pain.)|(She closes her eyes.),750,150,165,140,2,3,6,3,,,Face
+Intro,Zone,ActionCaress,Activity,Mmmmh!|That's sweet.|You have a magical touch.|(She moans silently.),700,425,240,100,3,1,0,5,,,Breast
+Intro,Zone,ActionSlap,Activity,Ow!|Gee!|(She jumps from the pain.),700,425,240,100,1,2,4,2,,,Breast
+Intro,Zone,InventoryCrop,Activity,OOOOWW!|Gee!  Miss!|(She jumps from the pain.)|(She closes her eyes.),700,425,240,100,2,3,6,3,,,Breast
+Intro,Zone,ActionTickle,Activity,Geeeeehahaha!|(She laughs out loud.)|(She thrashes and laughs.)|(She seems to enjoy it.),900,395,75,90,1,2,-3,1,,,ArmPit
+Intro,Zone,ActionTickle,Activity,Geeeeehahaha!|(She laughs out loud.)|(She thrashes and laughs.)|(She seems to enjoy it.),745,545,190,120,2,2,-1,1,,,Tummy
+Intro,Zone,InventoryCrop,Activity,OOOOWW!|Gee!  Miss!|(She jumps from the pain.)|(She closes her eyes.),745,545,190,120,2,3,6,3,,,Tummy
+Intro,Zone,ActionDildoLow,Activity,"Mmmh, so good!|This feels nice.|(She moans silently.)",780,800,100,95,4,1,5,6,,,Vagina
+Intro,Zone,ActionDildoMed,Activity,Gee!  So good!|(She moans louder.)|This feels great.|More!  More!,780,800,100,95,7,2,7,8,,,Vagina
+Intro,Zone,ActionDildoHigh,Activity,"OH YES! YES, YES!|(She screams in class.)|I need this so bad.|(Her body is shaking.)",780,800,100,95,10,3,9,10,,,Vagina
+Intro,Zone,ActionCaress,Activity,Mmmmh!|That's sweet.|You have a magical touch.|(She moans silently.),780,800,100,95,3,3,1,5,,,Vagina
+Intro,Zone,ActionSlap,Activity,Ow!|Gee!|(She jumps from the pain.),780,800,100,95,1,3,6,3,,,Vagina
+Intro,Zone,InventoryCrop,Activity,OOOOWW!|Gee!  Miss!|(She jumps from the pain.)|(She closes her eyes.),780,800,100,95,2,4,8,4,,,Vagina
+Intro,Zone,ActionTickle,Activity,Geeeeehahaha!|(She laughs out loud.)|(She thrashes and laughs.)|(She seems to enjoy it.),525,715,240,150,3,1,-2,0,,,LeftThigh
+Intro,Zone,ActionCaress,Activity,Mmmmh!|That's sweet.|You have a magical touch.|(She moans silently.),525,715,240,150,1,0,1,1,,,LeftThigh
+Intro,Zone,ActionSlap,Activity,Ow!|Gee!|(She jumps from the pain.),525,715,240,150,1,2,3,1,,,LeftThigh
+Intro,Zone,InventoryCrop,Activity,OOOOWW!|Gee!  Miss!|(She jumps from the pain.)|(She closes her eyes.),525,715,240,150,1,2,5,2,,,LeftThigh
+Intro,Zone,ActionTickle,Activity,Geeeeehahaha!|(She laughs out loud.)|(She thrashes and laughs.)|(She seems to enjoy it.),835,845,150,155,3,1,-2,0,,,RightThigh
+Intro,Meter,Stress,#FFFF00,(She gets in the sub mood.)|(Her focus shifts to you.),41,50,50,,,,,,,,
+Intro,Meter,Stress,#80FF80,(She stares deeply at you.)|(She's in her sub space.),50,59,100,,,,,,,,
+Intro,Meter,Stress,#FFFF00,(She's having goosebumps.)|(Her stress is soaring.),59,68,50,,,,,,,,
+Intro,Meter,Stress,#00000000,(She's anxious and stressed.)|(She shivers in fear.),76,84,-50,,,,,,,,
+Intro,Meter,Stress,#C000C0,(She's freaking out.)|(She's panicking in class.),84,100,-100,,,,,,,,
+Intro,Meter,Arousal,#FFFF00,Gee!  Oh yes!|I'm so aroused!,82,91,50,,,,,,,,
+Intro,Meter,Arousal,#80FF80,(She gets a long orgasm.)|YEEEEEEESSS!,91,100,100,,,,,,,,
