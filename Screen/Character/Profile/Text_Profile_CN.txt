@@ -25,7 +25,7 @@ AgeSarah
 AgeAmanda
 年龄阿曼达
 AgeSam
-年龄山姆
+年龄萨姆里迪
 AgeYuki
 年龄优纪
 AgeJane
@@ -458,3 +458,21 @@ She loves to party and getting drunk quickly.  She never refuses a beer.
 她喜欢派对和快速喝醉。 她从不拒绝啤酒。
 Mia and her are not very close, she mostly visit when she needs a bed.
 米娅和她关系不算亲密，她大多是在需要床位时来访。
+Mia
+米娅
+Evelyn
+伊芙琳
+Sidney
+西德尼
+Sarah
+莎拉
+Amanda
+阿曼达
+Sam
+萨姆里迪
+Yuki
+优纪
+Jane
+简
+Charlotte
+夏洛特
