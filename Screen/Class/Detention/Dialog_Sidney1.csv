@@ -65,7 +65,7 @@ BootsDesk8,SidneyCuffed1,(Try to cuff her.),(You grab her hands and firmly cuffs
 BootsDesk8,TeacherCuffed1,(Try to cuff her.),(She grabs your arms swiftly and cuffs your hands behind your back.),DialogDominationLower(3),,,,,TeacherCuffed,
 BootsDesk8,TeacherCuffed1,(Approach her timidly.),"(She takes the initiative, grabs your arms and cuffs your hands behind your back.)",,,,-2,,TeacherCuffed,
 Smoke1,Smoke2,,,,,,,,SidneyJoint,
-Smoke2,Smoke3,,(She produces a joint and smiles.),,DialogChangeGrades(-2),,,,,
+Smoke2,Smoke3,,(She produces a joint and smiles.),,DialogChangeGrades(2),,,,,
 Smoke2,Work1,InventoryDialogCrop,"(You grab the crop and swiftly swat the joint, breaking it in her hands.)  Fuck!  Ok!  I'll smoke later.",,,-1,2,,SidneyBackLooking,
 Smoke3,Smoke4,,,,,,,,SidneySmoke,
 Smoke4,,,(She lights it and inhales.)  What?  You want some?,,,,,,,
@@ -73,7 +73,7 @@ Smoke4,Smoke5,"Fine, but only one puff please.",Welcome to the jungle!  (She gri
 Smoke4,Smoke5,"Ok, your MJ's better be good.",I don't buy shit.  (She smiles and gives you the joint.),,"LogAdd(""Sidney"", ""SmokeTeacher"")",2,1,,,
 Smoke4,Smoke7,"No, I only smoke at home.",(She nods and takes a few more puffs.)  I used to only smoke at night also.,,"LogAdd(""Sidney"", ""SmokeAlone"")",1,,,,
 Smoke4,Smoke7,Of course not.,(She shrugs and takes a few more puffs.)  Whatever rocks your boat.,,"LogAdd(""Sidney"", ""SmokeAlone"")",,1,,,
-Smoke5,Smoke6,,,,DialogChangeGrades(-2),,,,TeacherSmoke,
+Smoke5,Smoke6,,,,DialogChangeGrades(2),,,,TeacherSmoke,
 Smoke6,,,"(You smoke some of her weed, it's quite strong but doesn't taste amazing.)",,,,,,,
 Smoke6,Smoke7,That's the shit!,I know!  (She takes a few more puffs.),,,2,,,SidneySmoke,
 Smoke6,Smoke7,You should get better stuff.,I'm not a fucking millionaire. (She takes a few more puffs.),,,-1,1,,SidneySmoke,
@@ -118,7 +118,7 @@ Work8,,,(She reads a little and seems confused.)  Can you help with that?,,,,,,,
 Work8,Work9,(Give her all the answers right away.),(She seems quite happy that you do the hard parts for her.),,DialogChangeGrades(1),2,-1,,,Clock
 Work8,Work9,"(Help her a little, but make sure she works.)","(You try your best to help her to learn, not giving the answers right away.)",,DialogChangeGrades(5),1,,,,Clock
 Work8,Work9,(Let her search on her own.),"(You stay rigorous, not giving any answer and letting her do the work.)",,DialogChangeGrades(3),,1,,,Clock
-Work8,Work9,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(-3),1,,,,Clock
+Work8,Work9,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(3),1,,,,Clock
 Work9,Work10,,"(She works as the clock ticks.  After a while, the bell rings.)",,,,,,,
 Work10,Work11,,You're not a bad teacher you know?  Take care.  (She leaves detention.),DialogLoveGreater(-4),,,,,SidneyBackLooking,
 Work10,Work11,,Finally!  (She picks up her stuff and leaves detention.),DialogLoveLower(-5),,,,,SidneyBackLooking,
@@ -172,7 +172,7 @@ SidneyCuffedStudy2,SidneyCuffedStudy3,,Will you help me or not?  I don't underst
 SidneyCuffedStudy3,SidneyCuffedStudy4,(Give her all the answers right away.),(She seems quite happy that you do the hard parts for her.),,DialogChangeGrades(1),2,-1,,,Clock
 SidneyCuffedStudy3,SidneyCuffedStudy4,"(Help her a little, but make sure she works.)","(You try your best to help her to learn, not giving the answers right away.)",,DialogChangeGrades(5),1,,,,Clock
 SidneyCuffedStudy3,SidneyCuffedStudy4,(Let her search on her own.),"(You stay rigorous, not giving any answer and letting her do the work.)",,DialogChangeGrades(3),,1,,,Clock
-SidneyCuffedStudy3,SidneyCuffedStudy4,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(-3),1,,,,Clock
+SidneyCuffedStudy3,SidneyCuffedStudy4,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(3),1,,,,Clock
 SidneyCuffedStudy3,SidneyCuffedStudy3,InventoryDialogPhone,(You take a picture of her on your phone.)  Don't share that fucking picture!,,PictureAdd(),,,,,
 SidneyCuffedStudy4,SidneyCuffedStudy5,,,,,,,,SidneyCuffsBookRead,
 SidneyCuffedStudy5,SidneyCuffedStudy6,,"(She works as the clock ticks.  After a while, the bell rings.)",,,,,,,
@@ -180,7 +180,7 @@ SidneyCuffedStudy6,SidneyCuffedStudy7,,"I guess your strict teaching methods wor
 SidneyCuffedStudy6,SidneyCuffedStudy7,,Finally!  Fuck these cuffs!  (You release her as she leaves detention.),DialogLoveLower(-5),,,,,SidneyCuffsBookLook,
 SidneyCuffedStudy7,,,,,Wait(10),,,,,
 SidneyStruggle1,SidneyStruggle2,,,,,,,,SidneyCuffsStruggle,
-SidneyStruggle2,SidneyStruggle3,,"Fine, anything is better than homework.",,DialogChangeGrades(-2),,,,,
+SidneyStruggle2,SidneyStruggle3,,"Fine, anything is better than homework.",,DialogChangeGrades(2),,,,,
 SidneyStruggle3,SidneyStruggle3,Shake your butt young lady.,(She grumbles and tries not to move in defiance.  The clock slowly ticks as you tease her.),,Wait(),,,,SidneyCuffsStruggle,Clock
 SidneyStruggle3,SidneyStruggle3,"Each time you smoke here, you will get in cuffs.",That rule is bullshit!  (The clock slowly ticks as you scold her.),,Wait(),,,,SidneyCuffed,Clock
 SidneyStruggle3,SidneyStruggle3,(Take some pictures on your phone.),(She puts her middle fingers up as you take pictures.  The clock slowly ticks as you tease her.),,Wait(),,,,SidneyCuffed,Clock
@@ -208,7 +208,7 @@ TeacherCuffedSidneyJoint1,TeacherCuffedSidneyJoint2,"Fine, smoke your stupid wee
 TeacherCuffedSidneyJoint1,TeacherCuffedSidneyJoint2,"Girl, you cannot smoke here.",I don't see anyone that can stop me.,,,,1,,,
 TeacherCuffedSidneyJoint1,TeacherCuffedSidneyJoint2,Don't you know the damage it does to your brain?,(She rolls her eyes up.)  Did you ever have fun in your life?,,,-1,-1,,,
 TeacherCuffedSidneyJoint1,TeacherCuffedSidneyJoint2,At least open a window.,"No way, the smell of victory should stick.",,,,,,,
-TeacherCuffedSidneyJoint2,TeacherCuffedSidneyJoint3,,,,DialogChangeGrades(-2),,,,TeacherCuffedSidneySmoke,
+TeacherCuffedSidneyJoint2,TeacherCuffedSidneyJoint3,,,,DialogChangeGrades(2),,,,TeacherCuffedSidneySmoke,
 TeacherCuffedSidneyJoint3,TeacherCuffedSidneyJoint4,,(She lights her joint and inhales it slowly.),,,,,,,
 TeacherCuffedSidneyJoint4,TeacherCuffedSidneyJoint5,,Ah!  That's the shit!  Best detention of the year.,,,,,,,
 TeacherCuffedSidneyJoint5,,,It's your turn PlayerName.  Have some.,,,,,,,
@@ -216,7 +216,7 @@ TeacherCuffedSidneyJoint5,TeacherCuffedSmoke1,Gimme some of that shit.  (Smoke w
 TeacherCuffedSidneyJoint5,TeacherCuffedSmoke1,Only one puff please.  (Smoke with her.),The first puff is always free.  (She laughs and gets closer to you.),,,1,-1,,,
 TeacherCuffedSidneyJoint5,TeacherCuffedSmokeForce1,There's no way I'm smoking here.  (Refuse to smoke.),,,,,1,,,
 TeacherCuffedSidneyJoint5,TeacherCuffedSmokeForce1,I'm trying to quit.  (Refuse to smoke.),,,,,-1,,,
-TeacherCuffedSmoke1,TeacherCuffedSmoke2,,,,DialogChangeGrades(-2),,,,TeacherCuffedSmoke,
+TeacherCuffedSmoke1,TeacherCuffedSmoke2,,,,DialogChangeGrades(2),,,,TeacherCuffedSmoke,
 TeacherCuffedSmoke2,,,(She puts the joint close to your lips.),,,,,,,
 TeacherCuffedSmoke2,TeacherCuffedSmoke3,(Take a few puffs.),"(You take a few puffs, it's quite strong but doesn't taste great.)",,,1,,,,
 TeacherCuffedSmoke2,TeacherCuffedSmoke3,(Fake smoking for her.),(She doesn't seem impressed by you.),,,-1,,,,
@@ -255,7 +255,7 @@ TeacherCuffedWork4,,,(She reads a little and seems confused.)  Can you help with
 TeacherCuffedWork4,TeacherCuffedWork5,(Give her all the answers right away.),(She seems quite happy that you do the hard parts for her.),,DialogChangeGrades(1),2,-1,,,Clock
 TeacherCuffedWork4,TeacherCuffedWork5,"(Help her a little, but make sure she works.)","(You try your best to help her to learn, not giving the answers right away.)",,DialogChangeGrades(5),1,,,,Clock
 TeacherCuffedWork4,TeacherCuffedWork5,(Let her search on her own.),"(You stay rigorous, not giving any answer and letting her do the work.)",,DialogChangeGrades(3),,1,,,Clock
-TeacherCuffedWork4,TeacherCuffedWork5,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(-3),1,,,,Clock
+TeacherCuffedWork4,TeacherCuffedWork5,(Give her the wrong answers.),(You trick her and give her lots of wrong answers that she memorizes.),,DialogChangeGrades(3),1,,,,Clock
 TeacherCuffedWork5,TeacherCuffedWork6,,"(She works as the clock ticks.  After a while, the bell rings.)",,,,,,,
 TeacherCuffedWork6,TeacherCuffedWork7,,Enjoy your cuffs PlayerName.  We'll meet again.  (She leaves detention.),DialogLoveGreater(-4),,,,,SidneyBackLooking,
 TeacherCuffedWork6,TeacherCuffedWork7,,You stay in cuffs PlayerName.  I'm gone.  (She leaves detention.),DialogLoveLower(-5),,,,,SidneyBackLooking,
