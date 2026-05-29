@@ -19,4 +19,4 @@ Select the saved game to load.
 Select the slot(s) to save your progress.
 选择槽位保存你的进度。
 Week #
-第#周
+第 # 周
