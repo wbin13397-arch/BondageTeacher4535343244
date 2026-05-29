@@ -1,0 +1,3834 @@
+(Listen to her.)
+（听她说。）
+I understand.
+我明白。
+(Put a finger on her lips.)
+（用手指按在她的嘴唇上。）
+Shhhh, let me speak.
+嘘，让我说话。
+I'm very disappointed.
+我非常失望。
+It seems you're a wolf, just like me.
+看来你和我一样是只狼。
+I'm sad to hear that.
+听到这个我很难过。
+Enough!  Listen to me.
+够了！ 听我说。
+As my submissive, it will remain a priority.
+作为我的臣服者，这会一直是我的优先事项。
+Girl, you will only focus on me now.
+姑娘，你现在只会关注我。
+I will make sure your career is successful.
+我会确保你的事业成功。
+Evelyn, forget your job.
+伊芙琳，忘了你的工作吧。
+Yes, lead the way.
+是的，带路吧。
+With pleasure.
+很乐意。
+No, we will begin your training right now.
+不，我们现在就开始你的训练。
+InventoryDialogPhone
+电话对话
+I can burn some toasts.
+我能烤焦一些吐司。
+I don't need to know.  You will cook for me.
+我不需要知道。 你来给我做饭。
+I've worked in a restaurant before.
+我以前在餐厅工作过。
+I'm not cooking for you.
+我不给你做饭。
+Let's resume the tour another time please.
+我们改天再继续参观吧。
+Enough touring, I'm tired.
+别再巡演了，我累了。
+No, we need to begin your training now.
+不，我们现在需要开始你的训练。
+The basement will be fun, but it can wait.
+地下室会很有趣，但可以等一等。
+Fair.
+公平
+Strict.
+严格。
+Ruthless.
+无情。
+Caring.
+关心。
+Demanding.
+要求。
+Relaxed.
+放松。
+We should test your flexibility.
+我们应该测试你的柔韧性。
+Can you endure restraints?
+你能忍受束缚吗？
+Do I see a rope coil?
+我看到绳索线圈了吗？
+I'll train you for bondage.
+我会训练你束缚。
+(Rope her loosely.)
+（松松地绑着她。）
+(Create a comfy bondage.)
+（创造舒适的束缚。）
+(Prepare a tight bondage.)
+（准备紧绷的束缚。）
+(Create a very tight package.)
+（打造一个非常紧凑的包裹。）
+(Tie her so it hurts.)
+（绑得很痛。）
+InventoryDialogRope
+绳索对话
+(Spank her.)
+（打她屁股。）
+(Don't spank her.)
+（别打她。）
+(Play with her.)
+（陪她玩。）
+(Don't play with her.)
+（别跟她玩。）
+(Sleep in your pajamas with her.)
+（和她一起穿着睡衣睡觉。）
+(Sleep in your pajamas with her in ropes.)
+（穿着睡衣睡觉，她被绳子绑着。）
+(Sleep naked with her.)
+（和她裸睡。）
+(Sleep naked with her in ropes.)
+（赤裸着睡觉，她被绳子绑着。）
+(Sleep in your pajamas alone.)
+（独自穿着睡衣睡觉。）
+(Sleep naked alone.)
+（独自裸睡。）
+Yes, I will be your Mistress.
+是的，我会成为你的夫人。
+No, I've changed my mind.
+不，我改变主意了。
+Strict but fair.
+严格但公平。
+Loving and attentive.
+充满爱心和关怀。
+Firm and severe.
+坚定而严厉。
+Caring and respectful.
+关心和尊重。
+Relaxed and playful.
+放松而活泼。
+Strip now, girl.
+现在脱衣服，姑娘。
+Please get naked.
+请脱光衣服。
+You will be collared naked.
+你会被戴上项圈，光着身子。
+I love you, my sub.
+我爱你，我的sub。
+I love you, my slave.
+我爱你，我的奴隶。
+I love you, my girl.
+我爱你，我的女孩。
+Make me proud.
+让我感到骄傲。
+Never forget who you belond to.
+永远不要忘记你曾经对谁。
+(You take the city bus to reach Evelyn's house for the weekend.)
+（你坐市公交去伊芙琳家过周末。）
+(It will be your first trip to your submissive's home.)
+（这将是你第一次去顺从者的家。）
+(You travel far in the city suburbs, surrounded by forests and hills.)
+（你在城市郊区旅行，四周是森林和丘陵。）
+(You reach a rich neighborhood, with big houses and lots of empty space between them.)
+（你会到达一个富裕的社区，有大房子和许多空地。）
+(Evelyn seems stressed.)  Welcome Miss PlayerName.  I mean PlayerName.  I mean...
+（伊芙琳看起来很紧张。） 欢迎，PlayerName小姐。 我是说PlayerName。 我是说......
+I apologize, I don't know why I'm so nervous.  This is unlike me.
+抱歉，我也不知道为什么这么紧张。 这不像我。
+I must admit that I have second thoughts.  This doesn't feel proper.
+我必须承认，我有些犹豫。 这感觉不太合适。
+I am a Dominant, an alpha.  I cannot submit to anyone, I never have before.
+我是主导者，阿尔法。 我不能向任何人屈服，我以前从未这样做过。
+All my apologies for changing my mind.
+很抱歉我改变了主意。
+I'm glad you understand, PlayerName.  My apologies for changing my mind.
+很高兴你能理解，PlayerName。 抱歉我改变了主意。
+(You place a finger on her lips to shut her up.)
+（你用手指按住她的嘴唇让她闭嘴。）
+(She shuts up and looks at you nervously.)
+（她闭嘴，紧张地看着你。）
+I must apologize.  You traveled far for nothing.  I shall repay your expenses.
+我必须道歉。 你白跑千里。 我会还清你的开销。
+I hope you are not overly disappointed.
+希望你不会太失望。
+I understand.  I simply have to accept reality.  I cannot be a submissive.
+我明白。 我只能接受现实。 我不能做顺从者。
+(She nods.)  I have to accept reality.  I cannot be a submissive.
+（她点点头。） 我必须接受现实。 我不能做顺从者。
+(She sighs.)  I have to accept reality.  I cannot be a submissive.
+（她叹气。） 我必须接受现实。 我不能做顺从者。
+(She takes a deep breath and regains control.)
+（她深吸一口气，重新控制住自己。）
+I see that you're nervous.  I will soothe your anxieties my girl.
+我看得出你很紧张。 我会安抚你的焦虑，我的女孩。
+Becoming a submissive is troubling when you've been in charge all your life.
+当你一生都在掌控一切时，成为顺从者是令人不安的。
+You work hard all week, controlling a whole college is a lot of stress.
+你一周都很努力，掌控整个学院压力很大。
+Yes, it is a lot of work.  My career is my priority.
+是的，这确实很费劲。 我的事业是我的首要任务。
+(She nods and smiles.)  Thanks, it is of the utmost importance for me.
+（她点头微笑。） 谢谢，这对我来说非常重要。
+(She shakes her head from left to right.)  No!  I cannot.  This is a limit I cannot break.
+（她左右摇头。） 不！ 我做不到。 这是我无法突破的极限。
+(She nods and smiles.)  Thank you, Miss.  It is of the utmost importance for me.
+（她点头微笑。） 谢谢你，小姐。 这对我来说至关重要。
+(She shakes her head from left to right.)  No!  Never!  This is a limit I cannot break.
+（她左右摇头。） 不！ 绝不！ 这是我无法突破的极限。
+When we are on college grounds, you are in control.  Your career is top priority.
+在大学操场上，你掌控一切。 你的事业是首要任务。
+When we are here, I'm in charge.  You will obey my rules and be free from your worries.
+我们在这里的时候，我负责。 你必须遵守我的规矩，摆脱忧虑。
+This weekend will be a trial period as my submissive.
+这个周末将是作为我的顺从者的试用期。
+If it goes well, I expect you to call me "Mistress" and embrace your new role.
+如果一切顺利，我希望你能叫我“夫人”，接受你的新角色。
+(She trembles and nods.)  Yes Miss.  It feels awkward, but I'm willing to do a trial weekend.
+（她颤抖着点头。） 是的，小姐。 虽然感觉很尴尬，但我愿意试用一个周末。
+Would you enjoy a tour of my estate, Miss PlayerName?
+你愿意参观我的庄园吗，PlayerName小姐？
+(She quickly guides you inside.)
+（她迅速带你进去。）
+(She smiles and guides you inside.)
+（她微笑着引导你进去。）
+Oh!  Yes Miss.  Please allow me to guide you to the bedroom to drop your bags.
+哦！ 是的，小姐。 请允许我带你去卧室放下行李。
+Miss, this is the living room.  A nice location to converse and unwind after work.
+小姐，这是客厅。 这是一个下班后聊天放松的好地方。
+(She smiles as you take a nice picture of her.)
+（你给她拍了张漂亮的照片，她微笑着。）
+I possess an expensive collection of classic movies if you enjoy cinema from the good ol days.
+如果你喜欢旧时光的电影，我收藏了不少昂贵的经典电影。
+This is the kitchen, do you know how to cook?
+这是厨房，你会做饭吗？
+(She giggles and winks at you.)  Quite funny.
+（她咯咯笑着向你眨眼。） 挺有趣的。
+(She gulps and nods.)  Of course.  It shall be a pleasure.
+（她咽了口口水，点了点头。） 当然。 这将是我的荣幸。
+I can bet that you have learned a lot from that experience.
+我敢打赌你从那次经历中学到了很多。
+Oh!  Of course.  My apologies, Miss PlayerName.
+哦！ 当然。 抱歉，PlayerName小姐。
+This is the shower room.  Shampoo, soap and other necessities can be found over there.
+这是淋浴间。 洗发水、肥皂和其他必需品都可以在那里找到。
+There's enough room for both of us.  (She winks at you.)
+这里有足够的空间容纳我们俩。 （她向你眨眼。）
+There's enough room for two.
+这里有足够的空间容纳两个人。
+This is the bedroom.  You shall choose which side of the bed to rest in.
+这是卧室。 你要选择床的哪一侧休息。
+(She does a shy curtsy with her dress as you snap a photo.)
+（你拍了张照片时，她害羞地用裙子行了个屈膝礼。）
+I could also show you the woods, the courtyard and the basement.
+我也可以带你去看树林、院子和地下室。
+I understand, PlayerName.  We can conclude on another occasion.
+我明白了，PlayerName。 我们可以在另一个场合作结。
+Sorry to hear that.  We can conclude the tour on another occasion.
+很遗憾听到这个消息。 我们可以在另一个场合结束这次参观。
+(She gulps.)  Yes Miss.  We can conclude the tour on another occasion.
+（她咽了口口水。） 是的，小姐。 我们可以在另一个场合结束这次参观。
+(She giggles.)  Absolutely.  We can conclude the tour on another occasion.
+（她咯咯笑了。） 绝对是。 我们可以在另一个场合结束这次参观。
+This bedroom will be a great starting point for your training.
+这个卧室将是你训练的好起点。
+As your Dominant, I will be...
+作为你的主导者，我将是......
+(She smiles at you.)
+（她对你微笑。）
+(She nods and doesn't dare to look away.)
+（她点点头，不敢移开视线。）
+(She stares at you with wide eyes.)
+（她睁大眼睛盯着你看。）
+(She smiles and begins to relax.)
+（她微笑着，开始放松下来。）
+(She gulps and nods rapidly.)
+（她咽了口口水，迅速点头。）
+(She rolls her eyes up.)
+（她翻了个白眼。）
+You will wear what I want and strip when asked to.
+你要穿我想穿的衣服，要求时脱衣服。
+Get naked now.  I want to see your curves.
+现在脱光。 我想看看你的曲线。
+(She nervously lays her clothes down, showing you her body.)
+（她紧张地把衣服放下，向你展示她的身体。）
+(You quickly take a picture of her as she blushes.)  Please keep that photograph for yourself.
+（你赶紧给她拍了张脸红的照片。） 请把这张照片留给自己。
+It feels quite bizarre to strip for someone else, to surrender autonomy.
+为别人脱衣，放弃自主权，感觉相当奇怪。
+(You twirl your index to indicate her to turn around.  She complies slowly.)
+（你转动食指示意她转过身来。 她慢慢地顺从了。）
+This is somewhat embarrassing, Miss PlayerName.  I hope you enjoy what you're seeing.
+这有点尴尬，PlayerName小姐。 希望你喜欢你所看到的内容。
+(You keep a picture of her on your phone.)  This is such a humiliating lesson.
+（你手机里有她的照片。） 这真是个羞辱的教训。
+I do strive hard to stay in good shape.  Exercise is key.
+我确实努力保持良好体能。 锻炼是关键。
+I shall gladly do that.  I can show you my flexibility in rope bondage if you desire.
+我很乐意这么做。 如果你愿意，我可以展示我在绳索束缚中的灵活性。
+Please do not underestimate me.  You can use these ropes, I shall demonstrate.
+请不要小看我。 你可以用这些绳子，我来示范。
+(She laughs out loud.)  You certainly do.
+（她大笑出声。） 你确实有。
+(She nods slowly.)  You can use these ropes however you desire.
+（她慢慢点头。） 你可以随意使用这些绳索。
+(She opens a few drawers, producing lots and lots of ropes.)
+（她打开几个抽屉，拿出了大量绳子。）
+(She kneels and gives you many coils of red hemp rope.)
+（她跪下，给你许多红色麻绳的盘绕。）
+(She shivers and takes a deep breath as you capture her submission on your device.)
+（她颤抖着深吸一口气，你用设备捕捉她的臣服。）
+These ropes are of high quality and endurance.
+这些绳索质量高且耐用。
+(You get the rope coils and start a loose bondage.)
+（你拿起绳索，开始松散的束缚。）
+(You get the rope coils and start a comfy bondage.)
+（你拿到绳索线圈，开始舒适的束缚。）
+(You get the rope coils and start a tight bondage.)
+（你拿到绳索线圈，开始紧绷的束缚。）
+(You get the rope coils and start a very tight bondage.)
+（你拿出绳索，开始非常紧的束缚。）
+(You get the rope coils and start a painful bondage.)
+（你拿到绳索线圈，开始痛苦的束缚。）
+This is certainly a naughty pose to be bound into.  The feeling of exposure is immense.
+这确实是一个值得被束缚的“调皮姿势”。 暴露的感觉非常强烈。
+(She wiggles her butt.)
+（她扭动屁股。）
+(You get closer, ready to spank her.)
+（你靠近，准备打她屁股。）
+(She seems surprised that you don't seize the opportunity.)
+（她似乎很惊讶你没有抓住这个机会。）
+(You step down as she laughs at you.)  That was truly miserable.
+（你下车，她笑着看你。） 那真是太痛苦了。
+(You step down as she grumbles.)  Enough!  You clearly have no idea what you are doing.
+（你下台，她嘟囔着。） 够了！ 你显然根本不知道自己在做什么。
+(You step down as she wiggles her butt.)  That wasn't horrible.  We can practice some more later.
+（你下车，她扭动着屁股。） 那并不糟糕。 我们以后可以再练习。
+(You step down as she shakes a little.)  Miss PlayerName.  That was a truly good session.
+（你下车，她微微颤抖。） PlayerName小姐。 那真是一次很棒的会谈。
+(You step down as she trembles and moans.)  I'm truly amazed, Miss PlayerName.  You are gifted.  A born spanker.
+（你下车，她颤抖着呻吟。） 我真的很惊讶，PlayerName小姐。 你很有天赋。 天生的惩罚者。
+It is rare that I get restrained in my house.  Quite a peculiar event.
+我在家里很少被束缚。 相当奇特的事件。
+(She tugs on the ropes nervously as you capture the moment on your phone.)
+（她紧张地拉着绳子，你用手机记录下这一刻。）
+These ropes feel good.  Somewhat arousing.
+这些绳子感觉真好。 有些兴奋。
+(You move closer, getting ready to enjoy her naked body.)
+（你靠近，准备享受她裸露的身体。）
+(She seems disappointed that you skip play time with her.)
+（她似乎对你跳过和她玩耍感到失望。）
+(She still trembles from her wonderful orgasm.)
+（她还在为美妙的高潮颤抖。）
+(She pouts and seems disappointed because she did not reach climax.)
+（她撅嘴，似乎很失望，因为没能达到高潮。）
+(She appears very relaxed and subservient after this session.  It was a clear success.)
+（这次会谈后她显得非常放松和顺从。 这显然是一次成功。）
+(It doesn't seem that you've tamed her in this session.)
+（看来你这次还没把她控制住。）
+(She appears quite stressed and feisty after this session.  It failed pretty bad.)
+（这次会谈后她显得相当紧张且倔强。 结果很糟糕。）
+(She stretches as you let her go.)
+（你放开她时，她伸了个懒腰。）
+(You snap a naughty image as she stretches.)
+（你拍下她伸展时的调皮照片。）
+(She yawns.)  My apologies, I feel exhausted.  Should we call it a day, Miss?
+（她打了个哈欠。） 抱歉，我感到非常疲惫。 我们今天就到这里吧，小姐？
+(You lay down close to her, ready to sleep together.)
+（你们躺在她身边，准备一起入睡。）
+(You rope her again, getting ready to sleep together.)
+（你又拉住她，准备一起睡觉。）
+(You lay down to sleep alone in her bed.  She will sleep elsewhere.)
+（你独自躺在她的床上睡觉。 她会睡在别处。）
+(A good night of rest will be healthy.)
+（好好休息一晚对身体有益。）
+(You both wake up and dress back up.)
+（你们醒来，重新穿好衣服。）
+I admit I did not sleep much.  I thought about our relationship a lot.
+我承认我没怎么睡。 我经常想我们的关系。
+Surrendering to someone else is a huge commitment.
+向别人投降是一种巨大的承诺。
+Alas, my mind is set, I'm ready to state my decision.
+唉，我已经下定决心，准备表达我的决定。
+In the last weeks, you took a special place in my heart.  You know how to make me smile.
+在过去的几周里，你在我心中占据了特别的位置。 你知道怎么让我笑。
+Sadly, my heart is not beating for you.  I apologize.  Surrendering requires trust and love.  I don't feel it inside.
+可惜，我的心已经不为你跳动了。 抱歉。 放下需要信任和爱。 我内心感受不到。
+Miss PlayerName, you also have a strong hand.  You possess the fortitude to dominate my kind.
+PlayerName小姐，你手牌也很强。 你有能力统治我们这类人。
+But I require a strong hand, firmer than mine.  I apologize for declining.  I don't believe you are sturdy enough.
+但我需要一双比我更坚定的手。 抱歉我拒绝了。 我觉得你不够结实。
+(She kneels and smiles at you.)
+（她跪下对你微笑。）
+Miss PlayerName, if you desire to have me as your permanent submissive out of college grounds, I shall accept.
+PlayerName小姐，如果你愿意让我成为你永久的顺从者，离开校园，我可以接受。
+I promise to be loyal, obedient and to maintain a healthy balance between career and submission.
+我承诺忠诚、服从，并在事业与顺从之间保持健康的平衡。
+My house shall be yours.  We can travel together to college from now on.  My schedule shall adapt to yours.
+我的家将属于你。 我们以后可以一起去上大学了。 我的日程会配合你的。
+Do you desire to be my Mistress?
+你想成为我的情妇吗？
+(She smiles widely as you get closer to pet her head.)
+（当你靠近抚摸她的头时，她露出灿烂的笑容。）
+(She sighs loudly and cries a little.)  This is truly heartbreaking.  I'm shattered.  You should vacate now.
+（她大声叹气，轻轻哭泣。） 这真是令人心碎。 我崩溃了。 你现在应该搬走。
+This is truly wonderful.  Mistress PlayerName.  I'm yours.
+这真是太棒了。  PlayerName夫人。 我是你的。
+Evelyn, I'll take good care of you.  I will be...
+伊芙琳，我会好好照顾你的。 我会......
+(She nods slowly.)  That sounds amazing Mistress.
+（她慢慢点头。） 听起来太棒了，夫人。
+(She smiles and gets less nervous.)  That's very sweet of you.
+（她笑了，紧张感也减轻了。） 你真贴心。
+(She gulps and nods rapidly.)  Yes Mistress.
+（她咽了口口水，迅速点头。） 是的，夫人。
+(She nods and starts to relax.)  Very well.
+（她点点头，开始放松。） 很好。
+(She gives you a puzzled look.)  I admit I did not expect that statement.
+（她困惑地看着你。） 我承认我没想到会这样说。
+As your owner, I expect you to obey me completely outside of college.
+作为你的夫人，我希望你在大学之外完全服从我。
+I will make sure you stay healthy and happy, controlling what you do every weekend.
+我会确保你保持健康和快乐，控制你每个周末的活动。
+I will happily live here with you.  We will share the same roof and bedroom.
+我会很乐意和你一起住在这里。 我们将共用同一个屋顶和卧室。
+When we reach home, you will be required to wear a locked collar.
+回家后，你必须戴上锁项圈。
+We will go shopping right now and find that perfect accessory for you.
+我们现在就去购物，帮你找到完美的配饰。
+(You help her up.)  Stand up my girl, we will go get you a pretty collar.
+（你帮她起来。） 站起来，我的姑娘，我们去给你弄个漂亮的项圈。
+(She blushes red as you both enter a kinky store to find a collar.)
+（当你们一起走进一家怪异的商店找项圈时，她脸红了。）
+This is quite embarrassing, Mistress.  I pray that we don't encounter pupils or colleagues.
+这真尴尬，夫人。 我祈祷我们不要遇到学生或同事。
+(She blushes red as you take a picture of her in the adult store.)
+（你在成人用品店给她拍照时，她脸红了。）
+They have an expansive inventory.  I wish we encounter a model that inspires you.
+他们拥有丰富的库存。 我希望我们能遇到一个能激励你的模特。
+You shop together for a while and find a collar that you both love.
+你们一起购物一段时间，找到一个你们都喜欢的项圈。
+It's an old-fashioned steel collar, heavy and secure.  A traditional symbol of slavery.
+这是一只老式钢制项圈，沉重且牢固。 奴隶制的传统象征。
+(You come back home with the new collar.  She kneels naturally.)
+（你带着新项圈回家。 她自然地跪下。）
+(She nods swiftly and starts to undress.)  Yes Mistress.
+（她迅速点头，开始脱衣服。） 是的，夫人。
+(She smiles and starts to undress.)  With pleasure.
+（她微笑着开始脱衣服。） 很乐意。
+(She nods and starts to undress.)  Of course.
+（她点点头，开始脱衣服。） 当然。
+(She takes a deep breath and trembles while kneeling naked before you.  You hold the collar before her.)
+（她深吸一口气，赤裸地跪在你面前颤抖着。 你把项圈递到她面前。）
+Evelyn, in our home, you will wear this locked collar all the time.
+伊芙琳，在我们家，你会一直戴着这个锁着的项圈。
+I will unlock it for college and lock it back when we come here.
+我会上大学时解锁，来这里时再锁回去。
+It will be the symbol of your submission and your devotion.
+它将成为你臣服和奉献的象征。
+A permanent reminder that I own you, body and soul.
+永远提醒你，我拥有你，身心俱全。
+I'm yours, Mistress PlayerName.  Body and soul.
+我是你的，PlayerName夫人。 身心俱全。
+(You slowly put the collar around her neck, locking it securely.)
+（你慢慢地把项圈套在她脖子上，牢牢锁好。）
+I shall wear this collar with dignity.  Showing proudly who owns me.
+我会有尊严地戴上这条项圈。 骄傲地展示谁拥有我。
+I love you, Mistress PlayerName.
+我爱你，PlayerName夫人。
+This is bliss, Mistress PlayerName.
+这就是幸福，PlayerName夫人。
+(She produces a large smile, slowly accepting her new reality.)
+（她露出灿烂的笑容，慢慢接受了自己的新现实。）
+(She takes a deep breath, slowly accepting her new reality.)
+（她深吸一口气，慢慢接受自己的新现实。）
+(She smiles at you, slowly accepting her new reality.)
+（她对你微笑，慢慢接受了新的现实。）
+(She nods slowly, slowly accepting her new reality.)
+（她慢慢点头，慢慢接受自己的新现实。）
+(She nods rapidly, slowly accepting her new reality.)
+（她迅速点头，慢慢接受了这个新现实。）
+I'm eager to see where this journey shall lead us.
+我迫不及待想看看这段旅程将带我们走向何方。
+My anxiety shall wear off with time.  It is a tedious process to accept my newfound submissiveness.
+我的焦虑会随着时间消退。 接受自己新获得的顺从是个繁琐的过程。
+(She shivers as you immortalize her submission on your phone.)
+（当你用手机记录她的臣服时，她不禁打了个寒颤。）
+The upcoming weeks, months and years or submission shall be wonderful, Mistress PlayerName.
+接下来的几周、几个月甚至几年，提交都会非常美好，PlayerName夫人。
+Please rest for now, it is getting late.  Our journey shall resume next week.
+请先休息，天色已晚。 我们的旅程将在下周继续。
+(You get to bed with your collared submissive.  She smiles and cuddles with you.)
+（你和你戴着项圈的顺从者一起上床。 她会微笑着依偎着你。）
+(You get to bed with your collared submissive.  She trembles before falling asleep.)
+（你和你戴着项圈的顺从者一起上床。 她颤抖着才睡着。）
+(Another week at the college will begin soon.)
+（学院又一周即将开始。）
+(She takes a deep breath and escorts you out.)
+（她深吸一口气，护送你离开。）
+PlayerName, our Dominant and submissive journey cannot go any further.
+PlayerName，我们的主导与顺从之旅，已经无法再进一步了。
+I wish you the best of luck, but we are not meant for each other.
+祝你好运，但我们注定不合。
+We shall forget it ever happened and stay professional on college grounds.
+我们就把这件事忘了，在大学场地上保持专业。
+Now hurry up or you shall miss the public transport.
+快点，不然你会错过公共交通的。
+(Evelyn is no longer your submissive.  You head back to your apartment.)
+（伊芙琳不再是你的顺从者。 你回到了公寓。）
+You drive slower than a turtle.
+你开车比还慢。
+Better be safe than sorry.
+小心驶得万年船。
+It was a fine ride.
+这是一段很棒的旅程。
+Next time we'll take another road.
+下次我们走另一条路。
+One day I should learn how to drive.
+总有一天我应该学会开车。
+What is on your mind?
+你在想什么？
+It's time for your collar.
+该戴上你的项圈了。
+(Watch the television.)
+（看电视。）
+(Stay silent and get her collar.)
+（保持沉默，拿她的项圈。）
+We will enjoy the dungeon.
+我们会享受地牢的乐趣。
+We can cuddle and watch a movie together.
+我们可以一起拥抱看电影。
+Some spanking is needed.
+需要一些打屁股。
+We'll find a good restaurant.
+我们会找个好餐厅。
+I'm horny my girl, you will please me.
+我很饥渴，我的女孩，你会让我满意的。
+I'm exhausted, let's get some sleep.
+我累坏了，我们去睡觉吧。
+Get the ropes and your sexy butt on the bed.
+把绳子和你性感的屁股放到床上。
+An x cross and whip lashes are perfect for you.
+叉形和鞭状睫毛对你来说非常合适。
+We'll do some orgasm training on the saddle 
+我们会在马鞍上做一些高潮训练 
+You will be chained here all weekend.
+你整个周末都得被锁在这里。
+I'll do a classic hogtie.
+我来个经典的猪套。
+I'll sausage you tightly.
+我会把你紧紧地烤成香肠。
+A spread eagle will do great.
+展翅鹰会很适合。
+InventoryDialogBallgag
+球口塞对话
+InventoryDialogPanelGag
+面板口塞对话
+(Caress her.)
+（轻抚她。）
+(Kiss her gag.)
+（吻她的口球。）
+(Grope her.)
+（摸她。）
+(Tickle her.)
+（挠她。）
+(Do nothing special.)
+（别做什么特别的事。）
+InventoryDialogCrop
+InventoryDialogCrop
+InventoryDialogPaddle
+InventoryDialogPaddle
+InventoryDialogWhip
+InventoryDialogWhip
+(Kiss her lips.)
+（吻她的嘴唇。）
+We'll see if you're strong or not.
+我们拭目以待你到底坚强不强。
+I'm sure you will do great.
+我相信你会做得很棒。
+You have no chance against it.
+你根本没有机会。
+(Quickly go to full power.)
+（快点全功率。）
+(Slowly go from low to full power.)
+（慢慢从低功率降到满功率。）
+(Slowly go to medium and leave it there.)
+（慢慢调到中等火，然后保持不动。）
+(Go from low to full in a fixed loop.)
+（从低到满，循环固定。）
+(Stay on low power.)
+（保持低功率。）
+(Randomly go from low to full, to low.)
+（随机从低到满，再从低。）
+(Leave it off.)
+（别说了。）
+I'll check on you often.
+我会经常来看你。
+You will be unchained Monday morning.
+你将在周一早上解开锁链。
+Slave, you don't need that information.
+奴隶，你不需要那些信息。
+Shut the fuck up.
+他妈的闭嘴。
+I've changed my mind.  Let's go back.
+我改变主意了。 我们回去吧。
+We will watch a comedy.
+我们去看喜剧。
+We will watch a romantic movie.
+我们会看一部浪漫电影。
+We will watch an action film.
+我们会看一部动作片。
+We will watch a classical movie.
+我们会看一部古典电影。
+We will watch a sport flick.
+我们会看一部体育电影。
+We will watch a horror movie.
+我们会看一部恐怖电影。
+Pick whatever film you want.
+选你想选的电影。
+A veggie salad.
+蔬菜沙拉。
+A T-bone steak.
+一块T骨牛排。
+Pasta would be good.
+意大利面会不错。
+Burger and fries.
+汉堡和薯条。
+Poached salmon.
+水煮三文鱼。
+A big soup.
+一大锅汤。
+Pick the food you want.
+挑你想吃的食物。
+I'm getting tired now.  (Push her back.)
+我现在累了。 （把她推开。）
+(Get a silent orgasm.)
+（无声高潮。）
+(Get a loud orgasm.)
+（大声高潮。）
+(Fake an orgasm.)
+（假装高潮。）
+That's enough, cunt!  (Push her back.)
+够了，贱人！ （把她推开。）
+You can sleep naked with me.
+你可以和我裸睡。
+You will sleep in ropes with me.
+你要和我一起睡在绳子里。
+You will sleep bound and gagged with me.
+你会和我一起被绑住、堵住嘴。
+You get the couch and I get the bed.
+你睡沙发，我睡床。
+You will sleep restrained on the floor.
+你会被绑在地板上睡觉。
+There's no time to waste.  (Don't play.)
+时间不多了。 （别玩了。）
+Tell me about your plans.  (Don't play.)
+告诉我你的计划。 （别玩了。）
+Slave, get in bed.  (Play with her.)
+奴隶，上床。 （陪她玩。）
+I want to feel you.  (Play with her.)
+我想感受你。 （陪她玩。）
+You will clean the place.
+你得打扫这里。
+We should renovate and get the dungeon ready.
+我们应该装修一下，把地牢准备好。
+You will cook some meals.
+你会做些饭。
+We need to go shopping.
+我们得去购物。
+Let's do the chores next week.
+我们下周做家务吧。
+I don't need anything.
+我什么都不需要。
+I'll get a comic book.
+我去买本漫画书。
+I'll buy a dildo.
+我会买个假阳具。
+I will buy a vinyl record.
+我会买一张黑胶唱片。
+This plushie is adorable.
+这个毛绒玩具真可爱。
+I need a strap-on.
+我需要一个假。
+I'll get more ropes for you.
+我去给你拿更多绳子。
+Let's go to the Bondage Club.
+我们去束缚俱乐部吧。
+Let's find a music concert.
+我们找个音乐会吧。
+We'll stay here and make love all night.
+我们会待在这里，整晚做爱。
+I'm way too tired to go out, let's end the day.
+我太累了，不想出门，我们结束这一天吧。
+(Nod and listen.)
+（点头听。）
+Maid Jane, please be gentle with Evelyn.
+简女仆，请对伊芙琳温柔点。
+You better not leave any scar.
+你最好别留疤痕。
+I will keep a close eye on my slave.
+我会密切关注我的奴隶。
+Are you sure you know what you're doing?
+你确定你知道自己在做什么吗？
+(Visit the maid sorority.)
+（去女佣姐妹会看看。）
+(Try the shibari dojo.)
+（试试柴张道场吧。）
+(Make a porn movie.)
+（拍一部色情片。）
+(Relax and mingle.)
+（放松，融入人群。）
+A pop music show.
+一档流行音乐节目。
+A jazz concert.
+一场爵士乐音乐会。
+A progressive rock show.
+一场前卫摇滚演出。
+A heavy metal show.
+一场重金属演出。
+A classical music concert.
+一场古典音乐会。
+A rap battle event.
+一场说唱对决活动。
+Pick the show you want.
+选你想看的节目。
+We'll play video games.
+我们会玩电子游戏。
+The weather is perfect for some jogging.
+天气非常适合慢跑。
+We can go to the library.
+我们可以去图书馆。
+Let's get drunk!
+我们喝醉吧！
+Let's play some chess.
+我们来下棋吧。
+Let's be lazy and relax today.
+今天我们懒点，放松一下。
+Buldar's Gate 3
+布尔达之门3
+Minecart
+矿车
+Grand Theft Truck
+盗窃卡车
+Chocolate Crush
+巧克力粉碎
+Super Maria Sis
+超级玛丽亚姐姐
+Pick the game you want.
+选你想玩的游戏。
+InventoryDialogHandcuffs
+手铐对话
+Ok, go get your outfit.
+好，去拿你的衣服。
+No, you will run like that.
+不，你就那样跑。
+I have an outfit for you.  (Get the ropes.)
+我给你准备了一套衣服。 （拉绳子。）
+Girl, you will run bound and gagged.
+姑娘，你会被绑住、被呛住逃跑的。
+Go easy with me.
+对我手下留情。
+Let's play for fun.
+我们来玩玩吧。
+I can beat anyone.
+我能打败任何人。
+(Evelyn drives you back to her house, your private submissive chauffeur.)
+（伊芙琳开车送你回她家，是你私人顺从的司机。）
+(You talk a little about work but mostly about her submission.)
+（你稍微谈了一点工作，但更多是关于她的臣服。）
+(Evelyn is a natural Dominant, you need a firm hand to keep her tamed.)
+（伊芙琳天生是主导者，你需要一把坚定的手段来控制她。）
+(You think about how to keep the passion burning between you two as she parks the car.)
+（你思考着如何在她停车时保持你们之间的激情燃烧。）
+Welcome home, Mistress PlayerName.
+欢迎回家，PlayerName夫人。
+I hope you enjoyed my prudent driving.
+希望你喜欢我谨慎驾驶的过程。
+(She sighs and bows her head.)  My apologies, Mistress.  I shall drive a little faster next time.
+（她叹了口气，低下头。） 抱歉，夫人。 下次我会开快一点。
+(She nods in agreement.)  Safety is of the utmost importance.
+（她点头表示同意。） 安全至关重要。
+(She nods at you.)  I am glad you feel that way.
+（她向你点头。） 我很高兴你有这样的感受。
+(She bows her head.)  We shall use your itinerary.
+（她低下头。） 我们会用你的行程。
+(She giggles.)  It would be quite useful.
+（她咯咯笑了。） 这会非常有用。
+Please come inside and make yourself comfortable.
+请进来，随意坐。
+(You change and sit in the living room as she goes to the bathroom.)
+（你换好衣服，坐在客厅，她去洗手间。）
+(Evelyn takes a quick shower and comes back.)
+（伊芙琳快速洗了个澡，回来了。）
+(She kneels naked close to you and waits silently.)
+（她赤裸地跪在你身边，默默等待。）
+(She lowers her shoulders and fetches her collar.)  Do not tell me you forgot about it.
+（她耸下肩膀，拿起衣领。） 别告诉我你忘了这事。
+(She nods happily.)
+（她开心地点头。）
+(She frowns and fetches her collar.)  The collar should have priority over the television.
+（她皱眉，拿起项圈。） 项圈应该优先于电视。
+(She bows her head as you get the collar.)
+（你拿到项圈时她低下头。）
+(She gets comfy and seems proud to wear your collar.)
+（她放松下来，似乎很自豪能戴上你的项圈。）
+(She gets comfy and adjusts her neck to the heavy collar.)
+（她找了个舒服的姿势，调整脖子适应沉重的项圈。）
+Friday is my favorite day.  We can unwind and plan the weekend.
+星期五是我最喜欢的一天。 我们可以放松一下，规划周末行程。
+Mistress, I have a special gift for you, a small tribute.
+夫人，我有一份特别的礼物给您，一份小小的贡品。
+(She bows her head and presents a ball gag.)
+（她低头并展示了一个口球。）
+It is a high-quality plastic ball gag.  I hope you enjoy it, Mistress.
+这是一个高品质的塑料球口塞。 希望您喜欢，夫人。
+(She blushes as you keep a souvenir of the gift.)
+（她脸红了，你把礼物作为纪念品。）
+I trust you shall use it at an appropriate time.
+我相信你会在合适的时候使用它。
+(She smiles as you put the ball gag in your bag.)
+（当你把口球塞进包里时，她微笑着。）
+What would you enjoy doing tonight?
+今晚你想做什么？
+(She gulps and nods rapidly.)  Yes, Mistress PlayerName.
+（她咽了口口水，迅速点头。） 是的，PlayerName夫人。
+(She smiles and nods.)  That sounds fine Mistress.
+（她微笑着点头。） 听起来不错，夫人。
+(She sighs and seems disappointed.)  We can stay glued to the television once again.
+（她叹了口气，显得有些失望。） 我们可以再次紧盯电视。
+(She gulps and nods.)  I understand.
+（她咽了口口水，点了点头。） 我明白。
+(She gulps and frowns.)  Very well, although I doubt this is once again necessary.
+（她咽了口口水，皱起眉头。） 好吧，虽然我怀疑这是否还有必要。
+(She nods in agreement.)  Yes Mistress.  A fine meal together shall be most pleasant.
+（她点头表示同意。） 是的，夫人。 一顿丰盛的晚餐一定会非常愉快。
+(She sighs and seems disappointed.)  Another restaurant?  Very well.
+（她叹了口气，显得有些失望。） 又一家餐厅？ 很好。
+(She nods submissively.)  It is my duty to help you, Mistress.
+（她顺从地点头。） 帮助您是我的职责，夫人。
+(She rolls her eyes up quickly.)  You are insatiable.
+（她迅速翻了个白眼。） 你贪得无厌。
+Very well, I understand.  (She sighs as you both get to bed.)
+很好，我明白了。 （你们一起上床时，她叹了口气。）
+(You both enter the dungeon once again.  The smell of brick is familiar.)
+（你们再次进入地牢。 砖头的味道很熟悉。）
+(You both enter the newly renovated dungeon.  It smells like brick and steel.)
+（你们一起进入了新装修的地牢。 闻起来像砖和钢。）
+(When you close the door behind you, it becomes completely silent.)
+（当你关上门时，四周一片寂静。）
+Every time we wander here, I get goosebumps.
+每次我们来这里，我都会起鸡皮疙瘩。
+Experiencing your own private dungeon for the first time is quite thrilling.
+第一次体验属于自己的私人地牢非常激动人心。
+Being here with a strong Dominant like you certainly enhances the feeling of being owned.
+和你这样强大的主导者在一起，确实增强了被拥有的感觉。
+Being here with you enhances the feeling of being controlled.
+和你在一起会增强被控制的感觉。
+Someday we could use it to lock up other submissives.
+有一天我们可以用它来关押其他顺从者。
+There are many possibilities, depending on your mood.
+根据你的心情，有很多可能性。
+(She smiles widely and moves playfully toward the bed.)
+（她笑得很灿烂，调皮地走向床边。）
+You certainly have a one-track naughty mind.  (She jumps on the bed.)
+你真是一颗单一的调皮头脑。 （她跳上床。）
+(She stares at the cross as you both get closer.)
+（当你们靠得更近时，她盯着十字架看。）
+(She rolls her eyes up as you both get closer.)
+（当你们靠得更近时，她翻了个白眼。）
+I am curious to experience your special training.  (She gets to the device.)
+我很想体验你的特殊训练。 （她拿到了装置。）
+I do remember your training methods.  (She winks and walks confidently.)
+我记得你的训练方法。 （她眨眼，自信地走着。）
+(Her eyes widen.)  Chained for the whole weekend?
+（她的眼睛睁大了。） 整个周末都被锁链束缚？
+(You can hear the deception in her voice.)  Chained once again?
+（你能从她的声音里听出欺骗。） 又被锁链束缚？
+(She kneels on the bed and presents the ropes.)
+（她跪在床上，递上绳索。）
+Being your rope slave sounds like a pleasant experience.
+做你的绳索奴隶听起来是个愉快的经历。
+(She smiles as you take a few pictures of her.)
+（你给她拍了几张照片，她微笑着。）
+I am inquisitive about how you shall tie me.
+我很好奇你打算怎么绑我。
+(She nods and lies on her stomach as you rope her up in a hogtie.)
+（她点点头，趴在地上，你用猪套把她绑起来。）
+(She nods and lies on her back as you rope her up tightly.)
+（她点点头，仰面躺下，你紧紧地绑着她。）
+(She nods and spreads her limbs as you rope her up.)
+（她点点头，张开四肢，你用绳子把她拉起来。）
+Mistress PlayerName, you are a rope artist.
+PlayerName小姐，你是绳索艺术家。
+(She looks at your phone as you take naughty pictures.)
+（她看着你的手机，看着你拍着调皮的照片。）
+Shibari is an intense but calming experience.
+《Shibari》是一种强烈但令人平静的体验。
+(She gulps as you push the plastic ball between her teeth and buckle the gag.)
+（当你把塑料球塞进她牙齿并扣上堵嘴时，她咽了口口水。）
+(She whimpers as you push the panel gag inside and lock the buckle securely.)
+（当你把面板口塞推进去并牢牢锁上扣环时，她发出呜咽声。）
+(She chews on the gag and tests the ropes some more.)
+（她咬着口塞，继续试绳子。）
+(She blushes red as you immortalize her helplessness.)
+（当你将她的无助永恒化时，她脸红了。）
+Hah a hiceh heehinh.  (She chews on the ball while speaking.)
+哈，呵。 （她一边说话一边咀嚼着球。）
+Mma a micem meeminm.  (She struggles with the panel gag while speaking.)
+mma a micem meemym。 （她在说话时还在挣扎着应对面板上的笑话。）
+(She looks at you submissively.)
+（她顺从地看着你。）
+(She moans slowly as you caress her body lovingly.)
+（她慢慢呻吟，你温柔地抚摸着她的身体。）
+(She makes a dubious look as you kiss her gag.)
+（当你吻着她的口球时，她露出怀疑的表情。）
+(She twists in the ropes as you grope her breast.)
+（当你揉捏她的胸部时，她扭动着绳索。）
+(She grumbles and thrashes in the ropes as you tickle her.)
+（她在你挠她时咕哝着挣扎。）
+(She jumps and whimpers in the gag as you spank her hard.)
+（你狠狠打她屁股时，她在口塞里跳了起来呜咽。）
+(She seems disappointed that you don't seize the opportunity.)
+（她似乎对你没抓住机会感到失望。）
+(She struggles and screams in her gag from the pleasure and pain.)
+（她在口塞中挣扎尖叫，因快感和疼痛而激动。）
+(You remove her gag after a while.  Leaving her bound.)
+（过了一会儿你帮她解开了口塞。 留下她被束缚。）
+It is thrilling, I feel like a slave from another era.
+这很激动人心，我感觉自己像是另一个时代的奴隶。
+You can do as you please with me.
+你想怎么对我都行。
+(She moans slowly as you caress her body lovingly.)  This is relaxing.
+（她慢慢呻吟，你温柔地抚摸着她的身体。） 这很放松。
+(She enjoys the kisses but seems to want more.)
+（她喜欢亲吻，但似乎想要更多。）
+(She grumbles and thrashes in the ropes as you tickle her.)  This is not pleasurable.
+（她在你挠她时咕哝着挣扎。） 这可不愉快。
+(She whimpers and enjoys the hard spanks.)
+（她呜咽着，享受着用力的拍打。）
+(She struggles and screams from pleasure and pain.)
+（她挣扎着，因快感和痛苦而尖叫。）
+Being your rope slave is exhilarating.  True bliss.
+做你的绳索奴隶真让人兴奋。 真正的幸福。
+Being your rope slave feels nice.
+做你的绳索奴隶感觉真好。
+(She struggles a little more as time goes by.)
+（随着时间推移，她变得更加挣扎。）
+(The clock ticks and it's time to release her and get to bed.)
+（时间一分一秒地走，是时候放她走，去睡觉了。）
+(You lead her to the cross with a grin.  She inspects it closely.)
+（你带着笑容带她走向十字架。 她仔细端详着。）
+I am glad I bought this St-Andrew Cross, even if I did not intend to use it myself.
+我很高兴买了这座圣安德鲁十字架，尽管我自己并不打算使用它。
+The wood is surprisingly heavy and sturdy.  No struggles can make it shift.
+木头出奇地沉重且结实。 没有任何挣扎能让它改变。
+In combination with your whip, it can become a tremendous training tool.
+配合你的鞭子，它可以成为极好的训练工具。
+(She picks up a leather whip from the wall and presents it to you.)
+（她从墙上拿起一条皮鞭递给你。）
+(She blushes red as you immortalize the gift.)
+（当你将这份礼物永生时，她脸红了。）
+A gift for you, Mistress PlayerName.
+给你的礼物，PlayerName小姐。
+The whip and cross combination can produce a great training environment.
+鞭子和交叉组合能营造出极佳的训练环境。
+(You get the cross leather cuffs and attach them.)
+（你拿到十字皮手铐并固定。）
+The leather is both supple and strong.  I've treated them with care.
+皮革既柔软又结实。 我一直很小心地对待他们。
+(She tests the fasteners as you push her toward the cross.)
+（你推她向十字架时，她试着扣件。）
+The feeling of helplessness and the anticipation is quite exhilarating.
+那种无助感和期待感令人振奋。
+(She struggles a little more as you take pictures.)
+（你拍照时她又挣扎了一点。）
+(She takes a deep breath as you get closer.)
+（当你靠近时，她深吸一口气。）
+(You stop as she cries.)  That was truly awful.  I resent building this dungeon.
+（你在她哭泣时停下。） 那真是太糟糕了。 我讨厌建造这个地牢。
+(You stop as she grumbles.)  Enough, please.  This is not working properly.
+（你停下，她嘟囔着。） 够了，拜托。 这不正常。
+(You stop as she wiggles her butt.)  That was not horrible.  I hope we practice another time.
+（你停下，她扭动着屁股。） 那并不算糟糕。 希望我们下次再练习。
+(You stop as she shakes a little.)  Mistress, you have talents, I felt the submissive space.
+（你停下，她微微颤抖。） 夫人，你有天赋，我感受到了顺从的空间。
+(You stop as she trembles and moans.)  Mistress, I am baffled.  That was amazing.
+（你停下，她颤抖着呻吟。） 夫人，我很困惑。 太棒了。
+(You caress her butt and talk for a little while.)
+（你抚摸她的屁股，聊了一会儿。）
+(You zoom on her butt and take a naughty picture.)
+（你放大她的屁股，拍了张调皮的照片。）
+(You both inspect the vibrating horse saddle.)
+（你们俩一起检查那个震动的马鞍。）
+This device is always impressive.  It can bring lots of pleasure.
+这个装置总是令人印象深刻。 它能带来很多快乐。
+Once activated, it is quite a feat to resist it.
+一旦激活，抵抗它本身就相当难。
+(She nods and takes a deep breath as you rope her on it.)
+（她点点头，深吸一口气，你把她绳索带上。）
+(She pumps her chest proudly as you rope her on it.)
+（当你把她套在胸膛上时，她自豪地捶了捶胸膛。）
+(She sighs in shame as you rope her on it.)
+（当你把她拉上去时，她羞愧地叹了口气。）
+(You restrain her securely on the machine, aligning the vibrator to her pussy.)
+（你把她牢牢绑在机器上，把震动棒对准她的阴道。）
+Mistress, you can use and pleasure this body of yours however you please.
+夫人，您可以随心所欲地使用和取悦您的身体。
+Please use and pleasure this body of yours however you want.
+请随心所欲地使用并取悦你的身体。
+My body is yours to use and pleasure.
+我的身体是你的，任你使用和取悦。
+Someday you should experience this device also.  (She winks at you.)
+总有一天你也会体验这个装置。 （她向你眨眼。）
+(She aligns herself, taking a deep breath.)
+（她调整姿势，深吸一口气。）
+(You keep a few pictures of her on the saddle.)
+（你会保留几张她骑马的照片。）
+(She shakes her hips in anticipation, not knowing what you will do.)
+（她期待地摇动臀部，不知道你会做什么。）
+(You quickly crank it up to full speed, leaving her no time to breathe.)
+（你迅速把它调到全速，没给她喘息的时间。）
+(She moans lovingly as you slowly increase the speed for her to climax.)
+（她温柔地呻吟着，你慢慢加快速度让她高潮。）
+(She whimpers and rocks her hips, getting very close to an orgasm.)
+（她呜咽着摇动臀部，快要高潮了。）
+(You go in slow and rapid loops, toying with her as she begs with her eyes.)
+（你在缓慢而快速的循环中玩弄她，她用眼神乞求。）
+(She sighs loudly as you keep power very low, not allowing much fun.)
+（她大声叹气，因为你把能量压得很低，没给她太多乐趣。）
+(She jumps and screams as you randomly tease her at random power.)
+（当你随机用各种力量调侃她时，她会跳起来尖叫。）
+(She whimpers and seems very disappointed that you don't use the vibration.)
+（她呜咽着，似乎很失望你没用震动。）
+(She succumbs to the machine and gets a long and powerful orgasm.)
+（她屈服于机器，获得了长时间而强烈的高潮。）
+(You whip her as she climaxes, screaming of pain and pleasure.)
+（你鞭打她，她高潮时痛苦与快感的尖叫。）
+(She trembles like a leaf, slowly catching her breath.)
+（她颤抖如叶子，缓缓喘息。）
+(You tease her on the saddle for a little while, bonding with her.)
+（你在马鞍上逗她一会儿，和她建立感情。）
+(She tugs against the ropes, testing if she can reach a knot in vain.)
+（她拉扯绳索，试探是否能打到结，徒劳无功。）
+(She stares at the steel chain on the wall and shivers.)
+（她盯着墙上的钢链，打了个寒颤。）
+I need to admit it.  I am somewhat scared now.
+我得承认。 我现在有点害怕。
+(She bows her head as you capture the moment.)
+（她低头，你捕捉了这一刻。）
+(She trembles as you grab her collar to chain her.)
+（当你抓住她的衣领锁链时，她颤抖着。）
+(She takes a long deep breath and leans chained against the wall.)
+（她深吸一口气，靠在墙上，被锁链束缚。）
+You really shall forsake me here?
+你真的要在这里抛弃我吗？
+(She nods happily.)  Very good.
+（她开心地点头。） 非常好。
+(She nods and sighs.)  Very well.
+（她点点头，叹了口气。） 很好。
+(She bows her head.)  Yes, Mistress.
+（她低下头。） 是的，夫人。
+(Her fists tremble with rage, but she stays silent.)
+（她的拳头因愤怒而颤抖，但她保持沉默。）
+I am awfully confused but I appreciate the change of heart.  (You unlock her and return together.)
+我很困惑，但很感激你改变了主意。 （你们解开她，一起回去。）
+(You push a bowl of water as she kneels down.)
+（你推了一碗水，她跪下。）
+(She gets down to her knees, seeming defeated.)
+（她跪了下来，显得有些沮丧。）
+It shall be quite an experience.
+这将是一段非凡的经历。
+(She sighs as you save a picture on your phone.)
+（她叹了口气，你在手机里保存了一张照片。）
+Have a great weekend, Mistress PlayerName.  I love you.
+周末愉快，PlayerName小姐。 我爱你。
+See you soon, Mistress PlayerName.  Please do not forget about me.
+回头见，PlayerName夫人。 请不要忘记我。
+I do not enjoy this situation.  Please do not forget about me.
+我不喜欢这种状况。 请不要忘记我。
+I truly despise how this is progressing.  This is horrible.
+我真的很讨厌这种发展方式。 这太糟糕了。
+(She tries to get comfy on the ground as you head back and lock the door.)
+（她试图在地上找个舒服的姿势，你回去锁门。）
+(You lay on the bed alone while Evelyn sleeps on the dungeon floor.)
+（你独自躺在床上，而伊芙琳则睡在地牢地板上。）
+(It will be a relaxing weekend of books, movies and video games.)
+（这将是一个轻松的周末，读书、看电影和玩电子游戏。）
+(You get comfy together, trying to find a movie for the evening.)
+（你们一起舒服地坐在一起，试图找一部晚上的电影。）
+Mistress, what kind of film does your heart desire?
+夫人，您的心想看什么样的电影？
+(She seems to be disappointed but nods.)  Let us hope we shall laugh.
+（她似乎有些失望，但还是点了点头。） 希望我们能笑一笑。
+(She nods slowly.)  It shall set the mood for the weekend.
+（她慢慢点头。） 这将为周末定下氛围。
+(She rolls her eyes up.)  We shall shut off our brain for the evening.
+（她翻了个白眼。） 今晚我们就关掉大脑。
+(She smiles widely.)  What a wonderful idea.
+（她笑得很灿烂。） 多么美妙的主意。
+(She lowers her shoulders and bows her head speechless.)
+（她耸下肩，低头无言。）
+(She nods slowly at you.)  Mistress, you are courageous tonight.
+（她慢慢点头。） 夫人，今晚你很勇敢。
+(She smirks and opens her movie collection.)  I have the perfect classical movie.
+（她带着一丝坏笑，打开了她的电影收藏。） 我有一部完美的古典电影。
+(You start the movie and begin watching it together.)
+（你们一起开始看电影。）
+(She seems surprised as you silence her while the movie is running.)
+（你让她安静，她似乎很惊讶。）
+(She chews on the gag silently for the whole movie, it's very relaxing.)
+（她整部电影都在默默咀嚼这个口球，非常放松。）
+(As the end credits rolls, you slowly unbuckle the gag.)
+（随着片尾字幕滚动，你慢慢解开了口塞。）
+(Once the movie is over, it's time to get to bed.)
+（电影一结束，就该睡觉了。）
+(You get on the big couch and pull her on your lap.)
+（你坐上大沙发，把她拉到腿上。）
+(She takes a deep breath as you get ready to spank her.)
+（当你准备打她屁股时，她深吸一口气。）
+(You stop as she laughs at you.)  That was truly awful.
+（你停下脚步，她笑了。） 那真是太糟糕了。
+(You stop as she wiggles her butt.)  That was not horrible.  We can practice another time.
+（你停下，她扭动着屁股。） 那并不算糟糕。 我们可以改天练习。
+(You stop as she shakes a little.)  Mistress, you are a good spanker, I feel submissive.
+（你停下，她微微颤抖。） 夫人，你是个好屁股，我感觉自己很顺从。
+(You caress her red butt and talk for a little while.)
+（你抚摸她红润的屁股，聊了一会儿。）
+(The clock ticks and it's time to get to bed.)
+（钟声滴答作响，该睡觉了。）
+(You both go to the restaurant and check the menu.)
+（你们一起去餐厅查看菜单。）
+What meal should we order Mistress?
+夫人，我们该点什么饭？
+(She smiles.)  That sounds very healthy.
+（她微笑着。） 听起来很健康。
+(She makes wide eyes.)  Quite a big meal.
+（她睁大眼睛。） 一顿相当丰盛的饭菜。
+(She nods in agreement.)  It is an easy and safe choice.
+（她点头表示同意。） 这是一个简单且安全的选择。
+(She seems disappointed.)  The classic American meal.
+（她看起来很失望。） 经典的美式餐。
+Yes Mistress, what a fine choice of meal.
+是的，夫人，这顿饭真是个好选择。
+Soup is certainly a comfort food.
+汤无疑是一种安慰食物。
+My pleasure!  (She smirks and opens the menu.)
+不客气！ （她带着一丝坏笑打开菜单。）
+(You eat your meal together as time goes by.)
+（随着时间流逝，你们一起吃饭。）
+(She pays the bill as you get back home to sleep.)
+（她付账时你回家睡觉。）
+(You get naked and pull her close.)
+（你脱光衣服，把她拉近。）
+(She starts to work with her tongue on your labia.)
+（她开始用舌头舔你的阴唇。）
+(She skillfully inserts it, exploring between your lips.)
+（她熟练地插入，探索你的唇间。）
+(She watches how you react, trying to please you.)
+（她观察你的反应，试图取悦你。）
+(She sighs and bows her head.)  Sorry I could not please you enough.
+（她叹了口气，低下头。） 抱歉没能让你满意。
+(She shivers in unison as you get a silent orgasm.)
+（当你无声的高潮时，她同时颤抖。）
+(She licks your juices as you get a loud orgasm.)
+（她舔着你的体液，你高潮声响亮。）
+(She slows down as you fake an orgasm.)
+（你假装高潮时她放慢了速度。）
+(She frowns and pulls back.)  This foul language is not worthy of you.
+（她皱眉，缩回手。） 这种粗俗语言不配你。
+(You tremble for a little while, slowly recovering.)
+（你颤抖了一会儿，慢慢恢复过来。）
+(You dress back up and get comfy once again.)
+（你重新穿好衣服，重新找了个舒服的姿势。）
+(You both talk for a while before heading to bed.)
+（你们聊了一会儿才去睡觉。）
+I hope you shall sleep well in the big bed.
+希望你能在大床上睡个好觉。
+Would you enjoy it if I joined you?
+如果我加入你，你会喜欢吗？
+That is amazing.  (She smiles as you cuddle in bed together.)
+太棒了。 （你们依偎在床上时，她微笑着。）
+Yes Mistress.  (She nods as you bind her in bed for sleep.)
+是的，夫人。 （你把她绑在床上睡觉时，她点了点头。）
+(She gulps as you bind and gag her in bed for sleep.)
+（你在床上绑住她、堵住嘴，她咽了口口水。）
+(She sighs and gets on the couch as you lay alone in the big bed.)
+（她叹了口气，坐到沙发上，你独自躺在大床上。）
+(She sighs as you bind her on the ground.  You will sleep alone in the big bed.)
+（你把她绑在地上时，她叹了口气。 你将独自睡在大床上。）
+(You get a good night of sleep, thinking about what to do tomorrow.)
+（你睡个好觉，思考着明天该做什么。）
+(You both wake up as a new day begins.)
+（你们俩醒来，新的一天开始。）
+(She stretches and smiles at you.)  I hope you slept well, my wonderful Mistress.
+（她伸了个懒腰，对你微笑。） 希望您睡得好，我亲爱的夫人。
+(She stretches.)  I hope you slept well, Mistress.
+（她伸了个懒腰。） 希望您睡得好，夫人。
+The weekend offers lots of potential to build a stronger bond.
+这个周末有很多机会建立更深的感情。
+(She shakes her butt.)  Do you have plans?
+（她摇了摇屁股。） 你有安排吗？
+(She nods but seems disappointed.)  Being productive is important.
+（她点点头，但似乎有些失望。） 保持高效很重要。
+(She gives you a puzzled look.) I thought you were planning but I can help.
+（她困惑地看着你。）我以为你在计划，但我可以帮忙。
+(You both move in bed, getting ready for some naughty play.)
+（你们俩在床上移动，准备来点调皮的游戏。）
+(You both get out of bed.)
+（你们俩都起床了。）
+There are many house chores to do this weekend.
+这个周末有很多家务要做。
+There are chores to do and the dungeon needs renovations.
+还有杂务要做，地牢也需要翻新。
+What should we focus on?
+我们应该重点关注什么？
+(She nods in agreement.)  Yes Mistress, a clean house is important.
+（她点头表示同意。） 是的，夫人，干净的房子很重要。
+(She makes wide eyes.)  More cleaning?  You might have an obsessive-compulsive disorder.
+（她睁大眼睛。） 又要清理？ 你可能有强迫症。
+(She nods in agreement.)  Of course, Mistress.  That project is long overdue.
+（她点头表示同意。） 当然，夫人。 这个项目早该实现了。
+(She nods in agreement.)  Preparing meals in advance is a good idea.
+（她点头表示同意。） 提前准备餐食是个好主意。
+(She sighs and nods.)  Very well, but the refrigerator is already full.
+（她叹了口气，点了点头。） 很好，但冰箱已经满了。
+(She nods in agreement.)  That is very true, we need to replace some items.
+（她点头表示同意。） 这确实如此，我们需要更换一些物品。
+(She gives you a puzzled look.)  More shopping?  Are you certain?  Very well.
+（她困惑地看着你。） 又购物？ 你确定吗？ 很好。
+I guess we can postpone the chores.  (She seems to disagree as you dress up for a lazy day.)
+我想我们可以推迟家务了。 （当你穿得漂漂亮亮准备休闲时，她似乎不同意。）
+(Evelyn gets to work and starts cleaning the place.)
+（伊芙琳开始工作，开始打扫。）
+(She scrubs room after room, working hard on every spot.)
+（她一个接一个房间地擦拭，努力清理每一个地方。）
+(She sighs and doesn't seem to appreciate the picture.)
+（她叹了口气，似乎并不喜欢这张照片。）
+(She picks up a broom and works on the dust.)
+（她拿起扫帚，开始清理灰尘。）
+(It takes her many hours to clean up the whole place.)
+（她花了好几个小时才把整个地方打扫干净。）
+(She bows her head and blushes as you capture the moment.)
+（她低下头，脸红了，你捕捉了这一刻。）
+(She completes her cleaning duty as you both come back to the living room.)
+（当你们回到客厅时，她完成了清洁任务。）
+(Evelyn shows you the dungeon that she's been building for months.)
+（伊芙琳带你去看她几个月来一直在建造的地牢。）
+(There is still some work left to complete it.)
+（还有一些工作要完成。）
+(You renovate together and bolt the furniture on the walls and floor.)
+（你们一起装修，把家具固定在墙上和地板上。）
+(The paint should be fully dry next week for new kinky thrills.)
+（颜料下周应该会完全干透，带来新的刺激。）
+(You return to the living room after many hours of work.)
+（你工作了好几个小时后回到客厅。）
+(Evelyn gets to work and starts many recipes at once.)
+（伊芙琳开始动手，同时开始做许多菜谱。）
+(She works hard near the stove, trying not to burn herself.)
+（她在炉子旁努力工作，努力不让自己烫伤。）
+(She grumbles and doesn't seem to appreciate the picture.)
+（她嘟囔着，似乎不喜欢这张照片。）
+(She uses fresh ingredients to prepare meals for the weeks ahead.)
+（她用新鲜食材准备接下来几周的饭菜。）
+(It takes her many hours to cook and clean up the kitchen after.)
+（她花了好几个小时做饭和收拾厨房。）
+(She tries to cover herself with the cooking pot as you capture the moment.)
+（她试图用锅盖住自己，你捕捉着这一刻。）
+(You go to the shopping mall together.)
+（你们一起去购物中心。）
+(She buys many items needed for the house.)
+（她买了很多家里需要的物品。）
+Mistress, do you require anything specific?
+夫人，您有什么特别需要的吗？
+(She nods as you don't buy anything special.)
+（她点头，因为你没买什么特别的东西。）
+(She nods but doesn't seem to approve of your purchase.)
+（她点点头，但似乎并不赞成你的购买。）
+(She smiles as you buy a vibrating dildo and put it in your bag.)
+（当你买了一个震动假阳具放进包里时，她微笑着。）
+(She nods and seems to approve of your purchase.)
+（她点点头，似乎认可你的购买。）
+(She gives you a curious look as you buy a cute plushie.)
+（当你买了一个可爱的毛绒玩具时，她好奇地看了你一眼。）
+(Her eyes widen as you buy a strap-on and put it in your bag.)
+（当你买了一个假放进包里时，她的眼睛睁大了。）
+(She shivers as you buy some extra ropes.)
+（你买了些额外的绳子时，她打了个寒颤。）
+(You browse the shop some more as the hours tick.)
+（随着时间流逝，你继续浏览店铺。）
+(You head back home after a while.)
+（过了一会儿你回家了。）
+Saturday evening might be the best time to go out, if you are in the mood.
+如果你有心情，周六晚上可能是出去的最佳时机。
+Mistress, where shall we go?
+夫人，我们去哪儿？
+(She gulps and nods.)  I have heard they do serious BDSM at this club, Mistress.
+（她咽了口口水，点了点头。） 我听说这家俱乐部会有很严肃的BDSM表演，夫人。
+(She sighs loudly.)  We can visit once again, if this is your desire.
+（她大声叹气。） 如果你愿意，我们可以再来一次。
+(She smiles and nods.)  A cultural event sounds like a fine idea.
+（她微笑着点头。） 举办文化活动听起来是个不错的主意。
+(She rolls her eyes up.)  You are a music zealot.
+（她翻了个白眼。） 你是个音乐狂热者。
+(She giggles and nods.)  That sounds both naughty and delightful.
+（她咯咯笑着点头。） 听起来既调皮又有趣。
+(She makes wide eyes and looks disappointed.)  Again?  I should have guessed.
+（她睁大眼睛，显得有些失望。） 又来了？ 我早该猜到。
+(She lowers her shoulders and nods.)  Very well, Mistress.
+（她耸了耸肩，点了点头。） 好的，夫人。
+(You drive to the most popular BDSM gathering in town: the Bondage Club.)
+（你开车去镇上最受欢迎的BDSM聚会：束缚俱乐部。）
+(A friendly maid comes to greet you.)
+（一位友善的女仆来迎接你。）
+(Maid Jane comes to greet you once again.)
+（简女仆再次来迎接你。）
+Welcome to the Bondage Club, M'lady.  M'name is Jane, I've been assigned to you.
+欢迎来到束缚俱乐部，夫人。 我叫简，我被分配到你那里。
+It's great to see you again, M'lady.  I hope you're feeling well t'night.
+很高兴再次见到您，夫人。 希望你今晚身体还好。
+We have lots to offer for Doms and subs.  We will make su'e your girl is safe.
+我们为支配者和服从者提供了丰富的选择。 我们会确保你的女孩安全。
+You know the place and rules.  Safety is our prior'ty.
+你知道那个地方和规则。 安全是我们的首要任务。
+The maid s'rority is always on duty.
+女仆们总是值班。
+(She smiles.)  Und'r my care, no sub gets hurt.
+（她微笑着。） 在我看来，没有任何潜艇受伤。
+(She frowns.)  Trust the s'rority.  We know our work.
+（她皱眉。） 相信s'rority。 我们很懂我们的工作。
+(She nods.)  That's the b'st way to keep it safe.
+（她点点头。） 这是保护它最糟糕的方法。
+(She sighs.)  Trust the s'rority.  We know our work.
+（她叹气。） 相信s'rority。 我们很懂我们的工作。
+(She explains the rules and your responsibilities as a Dominant in the club.)
+（她解释了规则以及你作为主导者在俱乐部中的责任。）
+(She tells you of the Mistress circle, maybe you could join them someday.)
+（她告诉你夫人圈子，也许你有一天能加入他们。）
+Feel free to e'plore and have fun with your slave.  Ring the bell or yell "mom" if there's trouble.
+随意去探索，和你的奴隶一起玩得开心。 按门铃或者大喊“妈妈”，如果有麻烦就叫。
+(She smiles as you keep a picture of her.)
+（她微笑着，你一直留着她的照片。）
+(She does a maid curtsy and leave you together to wander in the club.)
+（她做了个女仆式的屈膝礼，留下你们一起在俱乐部里闲逛。）
+(You force Evelyn to strip in public and lock her collar, it's very humiliating.)
+（你强迫伊芙琳在公共场合脱光衣服并锁上衣领，非常羞辱。）
+(What will you do in the club?)
+（你在俱乐部里打算做什么？）
+(You enroll her in the sorority.  She doesn't seem to enjoy the hard maid work.)
+（你让她加入姐妹会。 她似乎并不喜欢做女仆的辛苦工作。）
+(You do lots of advanced rope bondage with a coach, she seems to enjoy it.)
+（你经常和教练一起做高级绳索束缚，她似乎很喜欢。）
+(You force her to do a porn movie.  She really seems to dislike it.)
+（你逼她拍色情片。 她似乎真的很不喜欢。）
+(You relax together in the club, not doing much but making friends.)
+（你们在俱乐部里一起放松，没做什么，但结交了朋友。）
+(She blushes and tries to look away as you immortalize the event.)
+（她脸红了，试图移开视线，而你将这场事件永恒化。）
+(You witness lots of bondage and naughty scenes at the club.)
+（你会在俱乐部见证许多束缚和调皮场面。）
+(Time goes by but the club never seems to close down.)
+（时间流逝，但俱乐部似乎从未关闭。）
+(You both get tired after a while.  It's time to go back home to bed.)
+（你们俩过一会儿都会累。 该回家睡觉了。）
+(You check your phone for a show.)  There are lots of venues where we could go.
+（你查看手机看节目。） 有很多场地可以去。
+What kind of concert would you enjoy?
+你会喜欢什么样的音乐会？
+(She nods.)  That is an easy solution for an event.
+（她点点头。） 这对事件来说是个简单的解决方案。
+(She smiles.)  This sounds delightful.
+（她微笑着。） 听起来真是太棒了。
+(She shrugs.)  I may discover a new musical genre.
+（她耸耸肩。） 我可能会发现一种新的音乐流派。
+(She seems disappointed.)  I shall bring my earplugs if you do not mind.
+（她看起来很失望。） 如果你不介意，我会带耳塞来。
+(She seems to appreciate the selection.)  You must be telepath.
+（她似乎很欣赏这些选择。） 你一定是心灵感应者。
+Ha!  (Her laugh turns into a frown.)  You are not jestering?  Alright.
+哈！ （她的笑声变成了皱眉。） 你不是在开玩笑吧？ 好吧。
+Absolutely!  (She opts for a classical music concert.)
+绝对是！ （她选择了一场古典音乐会。）
+(You go to the show together, an evening full of music.)
+（你们一起去看演出，充满音乐的夜晚。）
+(The sound is so loud you can barely talk.)
+（声音大到几乎说不出话来。）
+(She smiles as you let a stranger take a few pictures of you two.)
+（当你让陌生人给你们拍几张照片时，她微笑着。）
+(It's getting late, you get back home to bed after the show.)
+（天色已晚，演出结束后你回家睡觉。）
+(You both get naked in bed and smile at each other.)
+（你们俩在床上脱光衣服，相视而笑。）
+Making love with you shall be amazing.
+和你做爱一定很棒。
+Having intercourse shall be most satisfying.
+性生活将是最令人满足的。
+Sex is not that desired, but it is part of my duty.
+性不是那么渴望，但这是我的职责之一。
+(You start to caress each other.)
+（你们开始互相抚摸。）
+This body is completely yours, Mistress.  (She follows your moves, not taking any initiative.)
+这具身体完全属于您，夫人。 （她跟着你的动作，没有主动。）
+Please use this body as you desire. (She takes few initiatives, letting you lead the scene.)
+请随你所愿使用这具身体。（她主动出击，让你带领全场。）
+(She stays silent and rubs her hands on you, taking the initiative.)
+（她保持沉默，主动用手蹭着你。）
+(You start to scissors, rubbing your labia against each other.) 
+（你开始用剪刀，摩擦着阴唇。） 
+(She moans loudly.)  This is pure bliss!
+（她大声呻吟。） 这简直是纯粹的幸福！
+(She moans and breathes faster and faster.)
+（她呻吟着，呼吸越来越急促。）
+(She moans discretely.)
+（她轻声呻吟。）
+(You swiftly push a ball gag in her open moaning mouth.)
+（你迅速把一个球塞塞进她张开呻吟的嘴里。）
+(You both make love for hours, exchanging sweat and fluids.)
+（你们做爱了好几个小时，汗水和体液交换。）
+(You climax together a few times, screaming in unison.)
+（你们一起高潮了几次，齐声尖叫。）
+(You finally stop from exhaustion, getting ready for bed.)
+（你终于因疲惫停下，准备睡觉。）
+I love you Mistress, please have wonderful dreams.
+我爱你，夫人，请做个美好的梦。
+Please have a wonderful night, Mistress.
+请祝您今晚愉快，夫人。
+Pleasant dreams, Mistress.
+做个好梦，夫人。
+Good night.
+晚安。
+(You get a good night of sleep, a new day will come soon.)
+（你睡个好觉，新的一天很快就会到来。）
+(You both wake up Sunday morning, your last day before returning to work.)
+（你们俩都在周日早晨醒来，那是你回去工作前的最后一天。）
+It is such a pleasure to wake up wearing your loving collar.
+醒来时戴着你那爱你的项圈，真是一种享受。
+Sleeping with this heavy collar is quite a challenge. 
+戴着这么厚的项圈睡觉可是个挑战。 
+How can your slave serve you today, Mistress?
+夫人，您的奴隶今天能为您效劳吗？
+What is your schedule for the day?
+你今天的安排是怎样的？
+(She sighs loudly and nods.)  If it pleases you, I shall comply.
+（她大声叹气，点头。） 如果你愿意，我会配合。
+(She sighs loudly and grinds her teeth.)  Again?  Very well, I shall participate.
+（她长叹一声，咬紧牙关。） 又来了？ 很好，我会参加。
+(She nods happily.)  Some fresh air shall be exhilarating.
+（她开心地点头。） 呼吸新鲜空气会让人振奋。
+(She nods slowly.)  After all that running, we could register for the next marathon.
+（她慢慢点头。） 跑了这么久，我们可以报名下一次马拉松了。
+(She smiles and nods rapidly.)  I would love to get new books.
+（她笑着迅速点头。） 我很想买新书。
+(She seems surprised.)  Already?  I haven't finished my readings.
+（她看起来很惊讶。） 已经？ 我还没读完。
+(She jumps out of surprise.)  Are you serious?  Very well, Mistress.
+（她吓了一跳。） 你是认真的吗？ 好的，夫人。
+(She seems nervous.)  Mistress, I hope you do not have a drinking addiction.
+（她看起来很紧张。） 夫人，希望您没有酗酒成瘾。
+The game of kings!  And queens.  (She winks at you.)
+国王的游戏！ 还有皇后。 （她向你眨眼。）
+(She seems surprised.)  More chess?  I guess we can hone our tactics.
+（她看起来很惊讶。） 再下棋？ 我想我们可以磨练一下战术。
+(She shrugs and nods slowly.)  Whatever you desire, Mistress.
+（她耸耸肩，慢慢点头。） 随您所愿，夫人。
+(You spend a quiet day together, talking about the week to come and your relationship.)
+（你们一起度过了安静的一天，谈论接下来的一周和你们的关系。）
+(You both pick up a controller and browse for a game to play.)
+（你们俩拿起手柄，一起浏览游戏。）
+I admit that my knowledge of video games is very limited.
+我承认我对电子游戏的了解非常有限。
+Which title would you enjoy?
+你会喜欢哪一款？
+(She plays with you.)  This is intriguing, I can understand why you praise it.
+（她和你玩。） 这很有趣，我能理解你为什么会称赞它。
+(She plays with you.)  I think I understand why children love this one so much.
+（她和你玩。） 我想我明白孩子们为什么这么喜欢这部电影了。
+(She plays with you.)  I understand the appeal, but the violence is gratuitous.
+（她和你玩。） 我理解这种吸引力，但暴力场面实在是多余的。
+(She plays with you.)  This game certainly allows you to turn off your brain.
+（她和你玩。） 这款游戏确实让你关闭了大脑。
+(She plays with you.)  Mistress, I think this game was intended for kids.
+（她和你玩。） 夫人，我觉得这个游戏是给孩子们设计的。
+Very good.  (She smirks and tries a few games from your library.)
+非常好。 （她得意地笑了笑，试了几款你图书馆里的游戏。）
+(You spend some time together playing games.)
+（你们一起玩游戏。）
+(She blushes as you cuff her hands while she's playing.)
+（你一边玩一边给她手铐住手，她脸红了。）
+You might say that I am bonding with the game, Mistress.
+你可以说我正在和游戏建立感情，夫人。
+(She winks as you save the kinky video game time on your phone.)
+（你在手机上保存了玩电子游戏的时间时，她眨了眨眼。）
+(Many hours go by, the weekend will be over shortly.)
+（过了好几个小时，周末很快就会结束。）
+(You stop gaming and talk about the week to come and your relationship.)
+（你停止玩游戏，谈论接下来的一周和你们的关系。）
+Exercise shall be healthy for our body and mind.
+锻炼对我们的身心都有益健康。
+There are plenty of paths behind the cottage that could be used.
+小屋后面有很多小路可以利用。
+I could wear my jogging outfit if you desire.
+如果你愿意，我可以穿我的慢跑服。
+(She grabs her outfit and gets ready to jog.)
+（她拿起衣服准备慢跑。）
+(She nods slowly and gets ready to jog.)
+（她慢慢点头，准备慢跑。）
+(You rope her up and get ready to jog.)
+（你把她绑起来，准备慢跑。）
+(You bind and gag her, getting ready to jog.)
+（你绑住她并堵住嘴，准备慢跑。）
+(You run outside together, in the trails behind her house.)
+（你们一起跑到她家后面的小路上。）
+(She blushes as you add another picture on your phone.)
+（当你在手机上又添了一张照片时，她脸红了。）
+(After lots of exercise, it's time to go back home.)
+（锻炼后，该回家了。）
+(You catch your breath and talk about the week to come and your relationship.)
+（你们喘口气，谈论接下来的一周和你们的关系。）
+(You both go to the library to study and learn.)
+（你们俩一起去图书馆学习和学习。）
+(This new knowledge will probably help your students.)
+（这些新知识可能会帮助你的学生。）
+(After hours of studying, you get back home.)
+（学习了几个小时后，你回到了家。）
+(You return and talk about the week to come and your relationship.)
+（你回来后谈论接下来的一周和你们的关系。）
+(You both start to drink and slowly get wasted.)
+（你们俩开始喝酒，慢慢醉倒。）
+(You start to drink and slowly get wasted.  She doesn't seem to be in the mood to get drunk.)
+（你开始喝酒，慢慢醉倒。 她似乎没心情喝醉。）
+(It's very unproductive but you manage to have a good time.)
+（虽然很不高效，但你还是玩得很开心。）
+(She hopes it won't affect your work ethic.)
+（她希望这不会影响你的工作态度。）
+(You both pass out drunk after a while.)
+（你们俩都醉倒了。）
+(You take one glass after another, losing track of time.)
+（你一杯接一杯地喝着，忘记了时间。）
+(She stares at you as you get drunk, shaking her head from left to right.)
+（她盯着你喝醉，左右摇头。）
+(You pass out drunk after a while.  Evelyn disappears without saying a word.)
+（过了一会儿你醉倒了。 伊芙琳默默消失。）
+(It seems you will sleep on the couch alone.)
+（看来你会一个人睡沙发。）
+(You slowly wake up, feeling dizzy and nauseous from all the alcohol.)
+（你慢慢醒来，因酒精过多感到头晕恶心。）
+(You can feel something in your mouth, steel around your neck and arms.)
+（你能感觉到嘴里有什么东西，脖子和手臂上有钢铁。）
+(You seem to be lying naked on a cold floor.  Evelyn is staring at you.)
+（你似乎赤裸躺在冰冷的地板上。 伊芙琳正盯着你看。）
+Wake up!  If you cannot tolerate wine, you should not have it.
+醒醒！ 如果你不能忍受葡萄酒，那就别喝。
+You must be wondering what is going on.
+你一定想知道发生了什么。
+(You struggle against your restraints helplessly.  There is no way out.)
+（你无助地挣扎着想摆脱束缚。 没有出路。）
+When you started to get drunk, I felt my stomach turn.
+你开始喝醉时，我感觉胃里翻腾。
+I felt disgusted, appalled by who I surrendered to.
+我感到厌恶，对自己投降的人感到震惊。
+You are a bad human being and a horrible Dominant.
+你是个坏人，是个糟糕的支配者。
+It is now my duty to re-educate you.  I shall ensure that no submissive gets hurt anymore.
+现在我的职责是重新教育你。 我会确保再也没有顺从者受伤。
+It might take weeks, months or years, but you shall learn.
+可能需要几周、几个月甚至几年，但你会学会的。
+You shall be kept bound, gagged and chained in my dungeon.  Like the vile dog you are.
+你将被绑缚、堵嘴并锁链锁在我的地牢里。 就像你这只恶毒的狗一样。
+You have forfeited your freedom with that last bottle.  Your life is mine.
+你用最后一瓶酒失去了自由。 你的生命是我的。
+(Evelyn intends to kidnap you for a long period, maybe months or years.)
+（伊芙琳打算绑架你很长时间，可能是几个月甚至几年。）
+(This is the end of your teaching career.  This story ends here.)
+（这就是你教学生涯的终点。 故事到此结束。）
+(She gets her old chess board and starts to put the pieces.)
+（她拿起旧棋盘，开始摆放棋子。）
+Mistress, are you up for a challenge?
+夫人，你准备好接受挑战了吗？
+(She grins and nods.)  Do not worry.
+（她咧嘴笑着点头。） 别担心。
+(She smiles and nods.)  A game for honor!
+（她微笑着点头。） 一场荣誉游戏！
+(She gulps and nods.)  Yes, Mistress.
+（她咽了口口水，点了点头。） 是的，夫人。
+(She smiles respectfully after her victory.)  There is no shame in defeat.
+（胜利后她恭敬地微笑。） 失败没有羞耻之处。
+(She reflects on the tied game.)  Tied matches are the most thrilling.
+（她回想起平局。） 平局比赛最令人兴奋。
+(She bows to your victory.)  Congratulations, you played Mistressfully.
+（她向你的胜利鞠躬。） 恭喜你，你玩了《情妇》。
+(You play a few more games as time goes by.)
+（随着时间推移，你又玩了几局。）
+(You stop playing and talk about the week to come and your relationship.)
+（你们停止玩耍，开始谈论接下来的一周和你们的关系。）
+(You can see that she's deeply in love with you, enjoying each second together.)
+（你可以看到她深深爱着你，享受着每一刻的相处。）
+(You can see that she loves being with you, enjoying the weekend together.)
+（你可以看到她很喜欢和你在一起，享受周末的时光。）
+(You can see that she still likes you, even if the weekly routine is not always thrilling.)
+（你能看出她依然喜欢你，尽管每周的日常并不总是令人兴奋。）
+(You can see that she doesn't smile that much, maybe she doesn't love you anymore.)
+（你能看出她笑得不多，也许她已经不爱你了。）
+(Your control over her is total, she worships the ground you walk on.)
+（你对她的控制是完全的，她崇拜你走过的土地。）
+(Your control over her is excellent, you manage every aspect of her life.)
+（你对她的控制非常出色，你管理她生活的方方面面。）
+(Your control over her is only partial, she might require stricter training.)
+（你对她的控制只是部分的，她可能需要更严格的训练。）
+(Your control over her is fading, she might be slipping away from you.)
+（你对她的控制正在减弱，她可能正在从你身边溜走。）
+I did, Miss Evelyn.
+是的，伊芙琳小姐。
+You live way too far.
+你住得太远了。
+I almost got lost.
+我差点迷路了。
+Your house is splendid.
+你的房子真棒。
+(Strip sensually for her.)
+（为她性感地脱光。）
+Are you serious?
+你是认真的吗？
+(Nod and strip swiftly.)
+（点头，迅速脱光。）
+You want sex now?
+你现在想要性？
+Sorry, I cannot do that.  I should go.
+抱歉，我做不到。 我该走了。
+(Blush and get on your knees.)
+（脸红，跪下。）
+Miss, I'm nervous.
+小姐，我很紧张。
+Yes Director.
+是，主任。
+(Put your hands behind.)
+（把手放到后面。）
+(Sigh and obey.)
+（叹气，服从。）
+With pleasure, Miss Evelyn.
+很乐意，伊芙琳小姐。
+Jogging naked?
+裸奔？
+(Blush and nod slowly.)
+（脸红点头。）
+Oh!  Very well.
+哦！ 很好。
+It would be safer to untie me first.
+先解开我会更安全。
+I'm curious to try that.
+我很想试试这个。
+(Walk to stretch your legs.)
+（走走活动腿部。）
+(Try to get loose.)
+（试着放松点。）
+(Wait on your knees.)
+（跪着等。）
+(Touch and pleasure yourself.)
+（触摸并取悦自己。）
+(Search the room.)
+（搜查房间。）
+(Go explore the house.)
+（去探索房子吧。）
+I can simply put perfume.
+我可以简单地说是香水。
+Fuck that!  You won't tell me how to shower.
+去他妈的！ 你不会告诉我怎么洗澡。
+I will always smell good for you.
+我永远都会闻起来很香。
+Don't worry, I know about hygiene.
+别担心，我懂卫生。
+I'll adapt to this new reality.
+我会适应这个新现实。
+(Nod in agreement.)
+（点头表示同意。）
+I'll have perfect hygiene for you, Miss.
+我会给你完美的卫生，小姐。
+I know, there's no need to tell me that.
+我知道，没必要告诉我这些。
+Evelyn, this is too much.  I quit.
+伊芙琳，这太过分了。 我辞职了。
+It will be a wonderful experience.
+这将是一次美妙的经历。
+I'll strive hard for that reward.
+我会努力争取那份回报。
+A naughty reward.
+一个调皮的奖励。
+That's quite unfair.
+这很不公平。
+I don't sleep well on couches.
+我在沙发上睡不好。
+It's not that easy to control them.
+控制它们并不容易。
+(Shiver and nod.)
+（颤抖着点头。）
+I will try my best.
+我会尽力的。
+Oh yeah!  Let's fuck!
+哦，是的！ 来做爱吧！
+Making love sounds wonderful.
+做爱听起来很美好。
+That's not generous at all.
+这一点也不慷慨。
+You're very generous, Miss Evelyn.
+你真慷慨，伊芙琳小姐。
+I give up, all of this is insane.
+我放弃了，这一切都太疯狂了。
+(Nod slowly.)
+（慢慢点头。）
+(Lick her juices slowly.)
+（慢慢舔她的体液。）
+(Nuzzle her clitoris.)
+（用鼻子蹭她的。）
+(Enjoy yourself and let her work.)
+（好好享受吧，让她工作吧。）
+(Pushes your tongue deep.)
+（把舌头伸进去。）
+(Kick her away.)
+（把她踢开。）
+(Continue your work.)
+（继续你的工作。）
+(Take a break.)
+（休息一下。）
+(Get an orgasm.)
+（高潮。）
+Sleeping together sounds wonderful.
+一起睡觉听起来很棒。
+I'm not sleeping on the floor anyway.
+反正我也不会睡地板。
+I give up, this is fucking crazy.
+我放弃了，这太疯狂了。
+Why do you ask?
+你为什么问？
+I don't snore.
+我不打鼾。
+I do snore.
+我确实会打鼾。
+(Shake your head no.)
+（摇头，不。）
+(Open your mouth wide.)
+（张大嘴。）
+You can't gag me!
+你不能堵住我！
+(Sigh and pout.)
+（叹气，撅嘴。）
+This is very strict.
+这非常严格。
+This is bullshit!
+这太扯了！
+Yes Miss, I'll sleep on the floor.
+是的，小姐，我睡地板。
+I'll be comfy thinking of you.
+想到你我会很舒服。
+(Try hard to get free.)
+（努力挣脱。）
+(Struggle playfully.)
+（顽皮地挣扎。）
+(Accept your fate.)
+（接受你的命运吧。）
+Yes, Miss Evelyn.  (Kneel for her.)
+是的，伊芙琳小姐。 （为她跪下。）
+No, this is too intense for me.
+不，这对我来说太激烈了。
+(You take a few different buses to reach Evelyn's house for the weekend.)
+（你会坐几辆不同的公交车去伊芙琳家过周末。）
+(She instructed you to wear the white top.  It will be your first visit to your Dominant home.)
+（她让你穿白色上衣。 这将是你第一次拜访你的主导家园。）
+(You arrive at Evelyn house, as she comes outside to greet you.)
+（你抵达伊芙琳家时，她走出来迎接你。）
+It's a pleasure to see you on time, my submissive.  Punctuality is important.
+很高兴准时见到你，我的顺从者。 准时很重要。
+I hope you had a safe trip.
+希望你旅途平安。
+It pleases me to hear that.
+听到这个我很高兴。
+You shall not judge my lifestyle little one.
+你不能评判我的生活方式，小家伙。
+I shall prepare a map for you, my clueless girl.
+我会为你准备一张地图，我那无知的女孩。
+Well thank you my dear.
+谢谢你，亲爱的。
+I bought this house a few years ago and made many renovations.
+几年前我买了这套房子，做了很多翻新。
+It's secluded enough so no neighbors can see or hear us.  Follow me.
+这里足够隐蔽，邻居们看不到或听不到我们。 跟我来。
+(She takes you inside for a tour.  The place is big and well decorated.)
+（她带你进去参观。 这里很大，装饰精美。）
+As my submissive, please know that you can call this house your home.
+作为我的顺从者，请知道你可以称这所房子为你的家。
+You can visit whenever you require but you shall follow my rules.
+你随时可以来，但必须遵守我的规矩。
+Some doors are locked, it simply means you are not allowed.
+有些门是锁着的，这只是意味着你不被允许。
+(She gets comfy on her couch and looks at you.)
+（她舒服地坐在沙发上看着你。）
+As your Dominant, I shall require control of every aspect of your life.
+作为你的主导者，我将要求你掌控生活的方方面面。
+This weekend, I shall claim control over your body.  You shall surrender it to me.
+这个周末，我将掌控你的身体。 你必须把它交给我。
+What you do, what you wear and what you eat shall be supervised by me.
+你做什么、穿什么、吃什么都由我监督。
+Now strip naked, my submissive.
+现在脱光衣服吧，我的顺从者。
+I did not ask you to entice me, simply strip.  (She pouts as you strip sensually.)
+我没让你诱惑我，只是脱衣服。 （她噘嘴看着你性感地脱衣。）
+Very serious, now obey.  (She frowns as you strip down.)
+非常严肃，现在服从。 （你脱光衣服时她皱眉。）
+(She watches you carefully as you strip rapidly.)
+（她仔细观察你快速脱衣。）
+Do not put words in my mouth and strip.  (She pouts as you strip down.)
+别给我说话然后脱衣服。 （她撅嘴看你脱光衣服。）
+I'm very disappointed but I respect your honesty.  (She points at the exit.)
+我很失望，但我尊重你的诚实。 （她指向出口。）
+From now on, I shall choose the clothes you wear or don't wear.
+从现在起，我会决定你穿什么衣服，不穿什么。
+If it pleases me to have you naked, you shall strip without questions.
+如果我愿意让你裸体，你就毫不犹豫地脱光。
+(You try to reach your phone, but she grabs it first and takes a picture of you.)
+（你试图拿手机，但她先拿起手机拍了你。）
+I shall inspect this body often, to make sure you keep it healthy and eat well.
+我会经常检查这具身体，确保你保持健康，饮食均衡。
+Sit on the ground, on your knees.
+跪在地上。
+(You get on your knees silently.)
+（你默默跪下。）
+I shall try my best to remove your fears, my little one.  (You slowly kneel for her.)
+我会尽力消除你的恐惧，我的小家伙。 （你慢慢地为她跪下。）
+We are not on college grounds here.  (She shakes her head as you kneel.)
+我们这里不在大学的校园里。 （你跪下时她摇头。）
+When I require you on your knees, you shall kneel.
+当我要求你跪下时，你必须跪下。
+You shall not question my orders or think about them, you simply comply.
+你不必质疑或思考我的命令，只需服从。
+This body is mine to do as I please.  My possession.
+这具身体是我的，可以随心所欲。 我的财产。
+To remind you that you don't own it anymore, you shall be restrained often.
+为了提醒你，你已经不再拥有它，你将经常被约束。
+Put your arms behind your back.
+把手放到背后。
+(She produces a rope coil and grabs your arms.)
+（她拿出一根绳索，抓住你的手臂。）
+(She sighs louder, produces a rope coil and grabs your arms.)
+（她叹得更大声，拿出绳索线圈抓住你的手臂。）
+(She smiles, produces a rope coil and grabs your arms.)
+（她微笑着，拿出一根绳索，抓住你的手臂。）
+Hemp rope might seem primitive or insecure compared to cuffs, but it's far from the case.
+麻绳看起来可能比手铐更原始或不安全，但事实远非如此。
+It has been used to restrain, dominate and train for millenniums, the techniques were honed with the ages.
+千百年来，它被用来约束、支配和训练，这些技巧随着时间的磨炼不断精进。
+In this bondage, you follow the path of a plethora of submissives before you.
+在这束缚中，你跟随了众多顺从者的轨迹。
+(She smirks and cannot resist taking a picture of you in your predicament.)
+（她带着一丝坏笑，忍不住拍了张你处境的照片。）
+It's meant to be both comfortable and secure, so you can be kept like that for a long period.
+它既舒适又安全，所以你可以长时间保持这种状态。
+Being in ropes is a constant reminder that you do not control this body, I do.
+被绳索束缚时时刻刻提醒着你，这具身体不是你控制的，我才是。
+In fact, I shall give you some ropes.  To get accustomed to them.
+事实上，我会给你一些绳子。 习惯它们。
+Cherish them like they cherish you.  (She puts rope coils in your bag.)
+珍惜他们，就像他们珍惜你一样。 （她把绳索线圈放进你的包里。）
+My role shall be to protect, train and cherish it as my property.
+我的角色是保护、训练并珍惜它，视为我的财产。
+I shall control the quality and quantity of your meals.  Dessert is a privilege, not a right.
+我会控制你们餐食的质量和数量。 甜点是一种特权，不是权利。
+You shall exercise every day.  (She stops to think for a while.)
+你每天都要锻炼。 （她停下来思考了一会儿。）
+In fact, we shall try some jogging right now, in your situation.
+事实上，我们现在就试试慢跑，换作你的情况。
+Answering with a question is not what I expect from you.
+用问题回答不是我对你的期望。
+(She smirks and stares at you.)
+（她带着一丝坏笑盯着你看。）
+I'm certain we shall both enjoy the experience.
+我相信我们都会享受这次经历。
+Do not discuss my orders.  I shall ensure that everything is safe.
+不要讨论我的命令。 我会确保一切安全。
+(She smiles at you.)  I'm certain we shall both enjoy the experience.
+（她对你微笑。） 我相信我们都会享受这次经历。
+Wait here until I return.  I shall get dressed for our exercise trip.
+等我回来。 我去换衣服去锻炼。
+(Evelyn leaves with your clothes, leaving you alone and bound in the big room.)
+（伊芙琳带着你的衣服离开，留下你独自一人被绑在大房间里。）
+(What will you do?)
+（你打算怎么办？）
+(You walk a little to be comfier and stretch your legs, waiting on Evelyn.)
+（你走了一会儿，舒服一点，伸展双腿，等待伊芙琳。）
+(You tug hard on the ropes, trying to get some slack or reach a knot, but you cannot do much.)
+（你用力拉绳索，试图松弛或打结，但帮不了多少。）
+(You try to get comfy on your knees and wait patiently for Evelyn.)
+（你试着跪在地上找个舒服的姿势，耐心地等着伊芙琳。）
+(You try to touch yourself as best as you can but cannot achieve much pleasure.)
+（你尽力触摸自己，但无法获得太多快感。）
+(You search the room clumsily and find a kinky picture frame of Evelyn between two books.)
+（你笨拙地搜寻房间，发现了一幅伊芙琳夹在两本书之间的怪异相框。）
+(You try to leave the room but struggle against the door and cannot open it.)
+（你试图离开房间，但挣扎着撞击门，打不开。）
+(It looks like a photo made for a lover.  You can't really keep it while bound.)
+（看起来像是为恋人拍的照片。 绑着的时候其实不能一直留着。）
+(You clumsily pick up your phone to take a picture of the photo.)
+（你笨拙地拿起手机拍了张照片。）
+(You put the frame back between the books.)
+（你把画框放回书本之间。）
+(Time goes by but she's not coming back.)
+（时间流逝，但她不会回来。）
+(You walk a little to be comfier and stretch your legs, waiting on Evelyn.  The door opens abruptly.)
+（你走了一会儿，舒服地伸展双腿，等待伊芙琳。 门突然打开了。）
+(You tug hard on the ropes, trying to get some slack or reach a knot, but you cannot do much.  The door opens abruptly.)
+（你用力拉绳子，试图松弛或找到结，但无能为力。 门突然打开了。）
+(You try to get comfy on your knees and wait patiently for Evelyn.  The door opens abruptly.)
+（你试着跪在地上找个舒服的姿势，耐心地等着伊芙琳。 门突然打开了。）
+(You try to touch yourself as best as you can but cannot achieve much pleasure.  The door opens abruptly.)
+（你尽力触摸自己，但无法获得太多快感。 门突然打开了。）
+(You walk around and search in the room as the door opens abruptly.)
+（你在房间里走动，门突然打开。）
+(You try to leave the room but struggle against the door as it opens before you.)
+（你试图离开房间，但门在你面前打开时挣扎着。）
+(Evelyn comes back suddenly with gym clothes and looks at you.)
+（伊芙琳突然穿着运动服回来，看着你。）
+I'm pleased to see that someone was a good girl.  We shall go easy with today's jogging.
+很高兴看到有人是个好女孩。 我们今天慢跑就轻松点。
+It seems that someone requires movement.  Jogging shall allow you to move.
+看起来有人需要动起来。 慢跑能让你自由活动。
+It seems that someone got busy.  Your jogging shall be quite busy, little one.
+看来有人忙起来了。 你的慢跑会很忙，小家伙。
+It seems that someone cannot follow the rules.  Be prepared for a very harsh jogging.
+看来有人无法遵守规则。 准备好迎接非常剧烈的慢跑。
+Follow me, submissive girl.
+跟我来，顺从的女孩。
+(After a long jogging session, she finally stops.)
+（经过长时间的慢跑，她终于停下了。）
+(She stares at you in disbelief.)  You are an amazing runner, congratulations.
+（她难以置信地盯着你。） 你是个了不起的跑者，恭喜你。
+(She smiles at you.)  You did very well, my girl.  Continue your training.
+（她对你微笑。） 你做得很好，我的姑娘。 继续训练。
+(She looks at you.)  More training is required, but I see potential in you.
+（她看着你。） 还需要更多培训，但我看到你有潜力。
+(She seems disappointed.)  You require lots more training, you are not in good shape.
+（她看起来很失望。） 你需要更多的训练，你的身体状况并不好。
+(She shakes her head from left to right.)  That was pathetic, lots of improvements are required if I keep you. 
+（她左右摇头。） 真可怜，如果我留住你，还有很多改进。 
+Enough!  I shan't support blatant laziness.  (She releases you and points at your clothes.)
+够了！ 我不会支持公然的懒惰。 （她松开你，指着你的衣服。）
+Come inside, it's time for your shower.
+进来吧，该洗澡了。
+(She leads you to her shower room.)
+（她带你去她的淋浴间。）
+This body of mine requires exercise, feeding and cleaning.
+我的身体需要锻炼、喂养和清洁。
+You shall take a shower at least once every day, bound or not.
+无论是否被绑，你每天至少要洗一次澡。
+A poor hygiene shall get you punished.
+卫生不好会被惩罚。
+(She frowns.)  No!  You shall clean up every day.
+（她皱眉。） 不！ 你每天都要打扫。
+Enough!  You have crossed a red line.  (She releases you and points at your clothes.)
+够了！ 你已经越过了红线。 （她松开你，指着你的衣服。）
+(She smiles.)  This is amazing my submissive, it pleases me.
+（她微笑着。） 这太棒了，我的顺从者，这让我很开心。
+(She nods.)  Very well, we shall see if you are correct soon enough.
+（她点点头。） 好吧，我们很快就会知道你是否正确。
+There shall be lots of adaptations in the coming weeks.
+接下来几周会有许多改编。
+(She strips down.  Squinting without her glasses, she starts to shower with you.)
+（她脱光了衣服。 她眯起眼睛，摘下眼镜，开始和你一起洗澡。）
+When restrained, I shall ensure the cleanliness of this body.
+被束缚时，我会确保这具身体的清洁。
+When unrestrained, you shall clean it.  You might also wash me when I require it.
+当你不受约束时，你要清理它。 我需要的时候你也可以帮我洗。
+I shall explain how to wash me up properly when we get there.
+到了那里我会解释怎么好好洗澡。
+(She soaps you up and washes you tenderly, rubbing her breast on yours.)
+（她给你搓肥皂，温柔地帮你洗澡，胸部贴着你的。）
+(She soaps you up and washes you methodically.)
+（她给你搓肥皂，有条不紊地帮你洗澡。）
+(The ropes are soaking wet but still feel tight and secure on your skin.)
+（绳子虽然湿透了，但依然紧绷且牢固地贴在皮肤上。）
+(She washes every inch of your skin, including your labia.)
+（她洗净你每一寸皮肤，包括你的阴唇。）
+These genitals shall also be cleaned at least once a day.
+这些生殖器每天至少清洁一次。
+(She barely rubs your clitoris and smirks.)
+（她几乎不怎么揉你的，嘴角带着一丝得意的笑容。）
+(She caresses your clitoris.)  Of course you shall, my precious little one.
+（她抚摸着你的。） 当然会的，我宝贝的小宝贝。
+(She pinches your clitoris.)  Rules shall be both repeated and enforced.  To ensure they are respected.
+（她捏了捏你的。） 规则应重复执行。 以确保他们受到尊重。
+Unpleasant or unfeminine odors shall not be accepted.
+不接受令人不快或不女性化的气味。
+(She grabs your phone and takes a picture of you bound in the shower.)
+（她抢过你的手机，拍了你被绑在淋浴间的照片。）
+(She finishes her work and smirks.)
+（她完成工作后露出一丝得意的笑容。）
+Once dry, we shall continue our visit onward the bedroom.
+等干了，我们就继续去卧室。
+(She drags you to her bedroom and puts on an elegant nightie.)
+（她把你拉到卧室，穿上了一件优雅的睡衣。）
+Access to my bedroom is a privilege, not a right.
+进入我的卧室是一种特权，不是权利。
+If you've been a bad girl, you might be required to sleep in another room of my choice.
+如果你做了坏女孩，可能得睡我选的另一个房间。
+Sleeping in my bed shall be a reward that you must earn.
+睡在我的床上将是你必须赢得的奖赏。
+I'm very disappointed but I respect your honesty.  (She releases you and points at your clothes.)
+我很失望，但我尊重你的诚实。 （她松开你，指着你的衣服。）
+(She smiles widely.)  These words are music to my ears.
+（她笑得很灿烂。） 这些话对我来说简直是音乐。
+(She pets your head.)  We shall see about that.
+（她抚摸你的头。） 我们拭目以待。
+(She slaps your butt playfully.)  For a naughty submissive.
+（她调皮地拍了拍你的屁股。） 为了调皮的顺从者。
+Your journey is about submission, not fairness.
+你的成长之路是关于顺从，而不是公平。
+(She shakes her head from left to right.)  I've never said anything about a couch.
+（她左右摇头。） 我从没说过沙发的事。
+(She caresses your pussy.)  Since I own this body, I shall also control your sexuality.
+（她抚摸你的阴部。） 既然我拥有这具身体，我也会控制你的性。
+You shall not touch yourself or make love without my permission.
+未经我的允许，你不得触碰自己或做爱。
+Before any orgasm, you shall ask me for my authorization.
+在任何高潮之前，你都要先征求我的许可。
+Unapproved orgasms shall get you punished.
+未经批准的高潮会让你受到惩罚。
+I never said that your submissive journey would be easy.
+我从没说过你的顺从之路会轻松。
+Do not be afraid, you shall do fine.
+别害怕，你会做得很好的。
+You shall not try.  You shall achieve.
+你不会尝试。 你一定会成功。
+I have many tools to control your orgasms.  We shall review them another day.
+我有很多工具可以控制你的高潮。 我们改天再审视。
+(She thinks aloud and sighs.)  I shall be honest with you PlayerName.
+（她自言自语，叹了口气。） 我得坦白告诉你，PlayerName。
+(She stares at you.)
+（她盯着你看。）
+(She gives you a stern look.)
+（她严肃地看着你。）
+This isn't working for me.  (She releases you and points at your clothes.)
+这对我来说不行。 （她松开你，指着你的衣服。）
+My wonderful submissive, since you are exceeding my expectations, I have a gift for you.
+我出色的顺从者，既然你超出了我的预期，我有礼物给你。
+This weekend, you shall enjoy your first controlled orgasm.
+这个周末，你将享受到第一次受控的高潮。
+(She pulls on your ropes and drags you along in bed.)
+（她拉着你的绳子，把你拖进床上。）
+Remember that I own this body, and each climax is a favor I grant.
+记住，我拥有这具身体，每一次高潮都是我给予的恩惠。
+Am I not generous?
+我是不是不慷慨？
+(She shakes her head no.)  This foul language made me change my mind.  We shall skip intercourse.
+（她摇头拒绝。） 这句脏话让我改变了主意。 我们就不做房了。
+It shall be a pleasant experience for us both.
+这对我们俩来说都会是一次愉快的经历。
+(She steps up angrily.)  This unpleasant comment made me change my mind, little one.
+（她愤怒地走上前。） 这句不愉快的话让我改变了主意，小家伙。
+Remember that my generosity is motivated by your behavior.
+记住，我的慷慨是因为你的行为。
+Unauthorized orgasms shall get you punished.  Patience is a virtue.
+未经授权的高潮会让你受到惩罚。 耐心是一种美德。
+(She strips and pushes you down on the bed, facing your thighs.  You can smell her arousal.)
+（她脱光衣服，把你推倒在床上，面向你的大腿。 你能闻到她的兴奋。）
+Orgasms must be approved and earned.  Work shall be required for them.
+高潮必须经过批准和赢得。 他们需要工作。
+Get busy, my submissive.
+快点行动吧，我的顺从者。
+(You eagerly get closer to lick her juices.  She also plunges in.)
+（你迫不及待地靠近舔舐她的体液。 她也跳了进去。）
+(She shivers as you get closer to nuzzle her clitoris.  She also plunges in.)
+（当你靠近蹭她的时，她颤抖着。 她也跳了进去。）
+(She stops, dresses and sits you back up.)  Your lack of motivation made you lose your orgasm.
+（她停下，穿好衣服，让你坐起来。） 你缺乏动力导致你失去了高潮。
+(You quickly get busy quickly and push your tongue deep inside.  She follows your moves.)
+（你迅速忙碌起来，舌头深深地伸入。 她跟着你的动作。）
+(She steps up and dresses angrily.)  This rude kick made you lose your bed access, little one.
+（她愤怒地走上前穿好衣服。） 这粗鲁的踢子让你失去了床上的通道，小家伙。
+(She wraps her legs around you tightly.  Pushing you closer and making it hard to breathe.)
+（她紧紧地用双腿缠住你。 把你推得更近，让你呼吸困难。）
+Ah!  (She starts to sweat and moan.)  Not yet, little one.  
+啊！ （她开始出汗呻吟。） 还没，小家伙。  
+Pursue your endeavor.
+坚持你的事业。
+(You both continue your naughty job, while moaning in unison.)
+（你们继续着调皮的手淫，同时同时呻吟。）
+(She wraps her legs very tight.  You almost suffocate as you get a powerful orgasm.)
+（她把腿缠得很紧。 你几乎窒息，感受到强烈的高潮。）
+Your every move, your sexuality, even your breathing is mine.
+你的每一个动作、你的性取向，甚至你的呼吸都是我的。
+(She squeezes your head harder, making you gasp for air.)
+（她更用力地捏着你的头，让你喘不过气来。）
+Not now, continue.
+现在不行，继续。
+(Her body starts to tremble rapidly, you can feel she's about to climax.)
+（她的身体开始剧烈颤抖，你能感觉到她即将达到高潮。）
+(She moans and rocks her legs madly, shaking your squeezed head.)
+（她呻吟着疯狂地摇晃双腿，摇晃着你被挤压的头。）
+Now!
+现在！
+(You continue to lick eagerly as she stops working and gets a silent but powerful orgasm.)
+（你继续急切地舔着，她停止工作，默默而强烈地高潮。）
+(She stops, dresses and angrily sits you back up.)  You certainly picked the worst time to get lazy.
+（她停下脚步，穿好衣服，愤怒地把你扶起来。） 你真是选了最糟糕的时机懒惰。
+(You both tremble and share a long and powerful orgasm.)
+（你们颤抖着，共享一场漫长而强烈的高潮。）
+My little one.  My wonderful submissive.  That was amazing.
+我的小宝贝。 我那了不起的顺从者。 太棒了。
+Our Dominant and submissive journey is only beginning and its already pure bliss.
+我们的主导与顺从之旅才刚刚开始，这已经是纯粹的幸福。
+I'm thrilled about getting full ownership.  I do not regret my proposal at the museum.
+我对获得全权感到非常兴奋。 我不后悔在博物馆的求婚。
+To show my appreciation, you shall sleep bound in my bed tonight.
+为了表达我的感激，今晚你得绑着睡在我的床上。
+(She takes rapid breath, recovering slowly from her orgasm.)
+（她急促地呼吸，缓缓从高潮中恢复过来。）
+You missed your opportunity, little one.  It seems that I shall have the sole orgasm.
+你错过了机会，小家伙。 看来我将独自高潮。
+Do not be sad, perfect timing is hard to achieve.
+别难过，完美的时机很难实现。
+You shall have other opportunities to climax when ordered, for a more fulfilling experience.
+你会有其他机会在被命令时达到高潮，带来更满足的体验。
+We shall sleep together tonight but more ropes are required first.
+今晚我们会一起睡，但先需要更多绳子。
+(You tremble from a long orgasm as your body struggles for air.)
+（你因长时间的高潮颤抖，身体挣扎着呼吸。）
+(She squeezes your head harshly for a few more seconds before letting you go.)
+（她又用力捏了捏你的头几秒钟才松开你。）
+Submissive, I do not wish to hear your excuses, you failed.
+顺从者，我不想听你的借口，你失败了。
+It means that you require more training and discipline.
+这意味着你需要更多的培训和纪律。
+As punishment, you lost access to my bed.  You shall sleep restrained on the ground.
+作为惩罚，你被剥夺了使用我的床的机会。 你将被束缚在地上睡觉。
+My submissive, since you are meeting some of my expectations, I shall reward you.
+我的顺从者，既然你符合了我的一些期望，我会奖励你。
+This weekend, you shall have the privilege of sleeping in my bed.
+这个周末，你将有幸睡在我的床上。
+This favor is only meant for good girls.  If you fail to please me, the floor shall await you.
+这份恩惠只属于乖女孩。 如果你不能取悦我，地板将等着你。
+(She ponders and then smirks.)  This unpleasant comment made me change my mind, little one.
+（她沉思了一下，然后露出一丝得意的笑容。） 这句不愉快的话让我改变了主意，小家伙。
+(She frowns and then smirks.)  This cocky comment made me change my mind, little one.
+（她皱眉，然后露出一丝坏笑。） 这句自负的话让我改变了主意，小家伙。
+Sleeping in bondage is a positive experience for most submissives.
+对大多数顺从者来说，睡在束缚中是一种积极的体验。
+(She helps you to get comfortable in her bed.)
+（她帮你在她的床上找个舒服的姿势。）
+(She notices your phone and smirks while capturing a naughty image of you.)
+（她注意到你的手机，一边偷笑一边拍下你的调皮照片。）
+The restraints shall slowly become a blanket.  Keeping you warm and ensuring a sound sleep.
+束缚将慢慢变成一条毯子。 让你保持温暖，确保你安稳入睡。
+(She thinks aloud and gets more ropes.)  In fact, let's be certain that you don't get cold.
+（她自言自语，拿了更多绳子。） 事实上，我们要确保你不会觉得冷。
+(She tightens many new ropes around your legs, until you can barely move.)
+（她给你绑上了许多新的绳索，直到你几乎动弹不得。）
+(She uses your phone to immortalize your strict rope bondage.)
+（她用你的手机记录了你严格的绳索束缚。）
+Sleeping restrained is an acquiring taste.  If you cannot do it, meditate on serving me better.
+睡眠被限制是一种获得性。 如果你做不到，就冥想更好地侍奉我。
+(She stares at the gag.)  Little one, do you snore?
+（她盯着口塞。） 小家伙，你会打呼噜吗？
+Answering with a question is not what I expect from you.  (She grabs the gag.)
+用问题回答不是我对你的期望。 （她抓住了口塞。）
+I shall trust you tonight.  Do not disappoint me.
+今晚我会信任你。 别让我失望。
+Your honesty is appreciated, but a gag is still required.
+感谢你的坦诚，但仍然需要一个口化的话。
+You can sleep ungagged then.  Do not disappoint me.
+那你可以不加口舌睡觉。 别让我失望。
+(She smirks and grabs the gag.)
+（她得意地笑着抓住了口塞。）
+I can and I shall.  (She grabs the gag.)
+我能做到，而且我会做到。 （她抓住了口塞。）
+(She straps a small ballgag around your head and lays with you.)
+（她给你头上绑上一个小球塞，躺在你身边。）
+To pursue your training, I require a good and silent night of sleep.
+为了继续你的训练，我需要一个安静而安详的睡眠。
+(She smiles and cuddles in bed with you.)
+（她微笑着，依偎在你床上。）
+(You will sleep together, while you are bound in very secure ropes.)
+（你们将一起睡觉，同时被非常牢固的绳索绑住。）
+(Morning finally comes and she wakes up.  You did not rest that much.)
+（早晨终于来了，她醒了。 你没怎么休息。）
+(She slides her hands all over you, slowly undoing the knots to release you.)
+（她双手在你身上滑动，慢慢解开结，释放你。）
+My submissive, I shall be harsh, you are not yet meeting my expectations.
+我的顺从者，我要说得很严厉，你还没达到我的期望。
+You are not allowed in my bed tonight.  You shall sleep bound on the floor.
+今晚你不准上我的床。 你将被绑在地板上睡觉。
+This poor attitude shall not get you in my bed, little one.
+你这坏脾气可不能让你上我的床，小家伙。
+Learn to please me and your journey shall become more pleasant.
+学会取悦我，你的旅程会更加愉快。
+I'm certain you shall learn from it.
+我相信你会从中学到东西。
+These words are pleasant to me.  You might find your way to my bed soon.
+这些话让我感到愉快。 你很快就能找到我的床。
+Sleeping in bondage shall be a positive experience for you.
+被束缚睡觉对你来说会是一次积极的体验。
+(She grabs more ropes and comes closer.)
+（她抓起更多绳索，走近。）
+(She puts you in a strict hogtie.)
+（她把你绑得很严。）
+(She notices your phone and immortalizes your hogtie.)
+（她注意到你的手机，把你的猪皮永远定格了。）
+You might not rest much, but you shall meditate on how to serve me better.
+你可能休息不多，但你会冥想如何更好地侍奉我。
+(She stares at a ballgag on a shelve.)  Little one, do you snore?
+（她盯着架子上的一个口塞。） 小家伙，你会打呼噜吗？
+(She straps a small ballgag around your head.)
+（她给你头上绑了一个小球塞。）
+(She uses your phone and snaps a very kinky picture of you.)
+（她用你的手机拍了张非常的照片。）
+(She gets to bed, leaving you bound on the floor for the night.)
+（她上床睡觉，留下你被绑在地板上度过一夜。）
+(You struggle as hard as you can but cannot reach any knots.)
+（你拼命挣扎，却无法碰到任何结。）
+(You struggle playfully in the ropes, not really trying to escape.)
+（你在绳索中顽皮挣扎，并非真正想逃脱。）
+(You take a deep breath and slowly accept the ropes.)
+（你深吸一口气，慢慢接受绳索。）
+(It will be tough to sleep like that.  You won't be able to rest much.)
+（那样睡觉会很难受。 你很难好好休息。）
+(Morning finally comes, you did not sleep much.)
+（早晨终于来了，你没怎么睡。）
+(She comes back to untie you.)
+（她回来解开你的绳子。）
+Rise and shine my young submissive, you shall catch your bus soon.
+起床吧，我年轻的顺从者，你很快就能赶上公交车了。
+This weekend was an introduction to submission.  Your journey is only starting.
+这个周末是对服从的初级介绍。 你的旅程才刚刚开始。
+Under my protective wing, you shall blossom and become what you truly aim for.
+在我的庇护下，你将绽放，成为你真正追求的目标。
+I shall ask you the same question as in the museum.  Answer with your heart.
+我会问你和在博物馆里一样的问题。 用你的心回答。
+Young lady, shall you submit to me?
+小姐，你愿意向我屈服吗？
+(She smiles widely as you get on your knees.)
+（你跪下时，她露出灿烂的笑容。）
+I'm very disappointed but I respect your honesty.  (She points at your clothes.)
+我很失望，但我尊重你的诚实。 （她指着你的衣服。）
+For the second time, you've embraced your submission toward me.
+你第二次接受了对我的臣服。
+Using your free will, you've surrendered control of this body that was once yours.
+用你的自由意志，你已经放弃了对这具曾经属于你的身体的控制。
+Be warned, my submissive, the next time I ask you this question shall be the last.
+警告你，我的顺从者，下次我问你这个问题，将是最后一次。
+If you accept once again, you shall never make another choice in your life.  You shall be fully mine.
+如果你再次接受，你一生中将永远不会做出其他选择。 你将完全属于我。
+Keep that thought in mind and get dressed.  Your bus shall not wait, young submissive.
+记住这个想法，赶紧穿衣服。 你的公交车不会等，年轻的顺从者。
+(You dress back up and she escorts you out.)
+（你重新穿好衣服，她护送你离开。）
+We shall meet again next weekend to pursue this journey together.
+我们将在下周末再次相聚，共同踏上这段旅程。
+Until then, stay professional on college grounds.  Our pupils are our priority.
+在那之前，在校园内保持专业。 我们的学生是我们的首要任务。
+(You think about your growing submission as you head back to your apartment.)
+（你想着自己日益增长的顺从，回到公寓。）
+(Having been dismissed by Evelyn, you head back to your apartment.)
+（被伊芙琳打发走后，你回到了自己的公寓。）
+(Open the door for her.)
+（帮她开门。）
+I must be honest.  I want to stop this trial.
+我必须坦白。 我想终止这场审判。
+(Nod and follow her.)
+（点头跟着她走。）
+Naked again?
+又裸体了？
+Yes!  It's very warm here.
+是的！ 这里很暖和。
+I love to get naked for you.
+我喜欢为你脱光。
+(Blush and look down.)
+（脸红，低头看。）
+Evelyn, I cannot do it.  I quit.
+伊芙琳，我做不到。 我辞职了。
+(Smile and kneel happily.)
+（笑着开心地跪下。）
+Yes Miss.  (Kneel down.)
+是的，小姐。 （跪下。）
+(Sigh and get on your knees.)
+（叹气，跪下。）
+(Swiftly give your hands.)
+（迅速把手交出来。）
+(Resist a little before giving your hands.)
+（在伸出手之前，先稍微忍耐一下。）
+(Sigh and give your hands.)
+（叹气，把手伸出来。）
+(Smile widely and give your hands.)
+（笑得灿烂，伸出手。）
+No more bondage.  I'm going home.
+不再束缚。 我要回家了。
+Munggmmh!
+砰！
+(Promptly start to dance.)
+（立刻开始跳舞。）
+(Blush and slowly dance for her.)
+（脸红，慢慢地为她跳舞。）
+(Freeze speechless.)
+（僵住，哑口无言。）
+(Stand there confused.)
+（站在那里一脸困惑。）
+(Flip her your middle finger behind your back.)
+（在背后竖中指给她。）
+(Refuse to move.)
+（拒绝移动。）
+(Move forward confidently.)
+（自信地前进。）
+(Move forward very carefully.)
+（小心前进。）
+(Shiver nervously.)
+（紧张地打了个寒颤。）
+(Make a thumbs up behind your back.)
+（背后竖起大拇指。）
+(Nod confidently, be cocky.)
+（自信地点头，要自信。）
+(Nod rapidly.)
+（快速点头。）
+Urrgnmn!
+呃！
+Yes, Mistress.
+是的，夫人。
+No, I'm sorry.
+不，抱歉。
+I vow to be obedient.
+我发誓要服从。
+I vow to be loving.
+我发誓要充满爱心。
+I vow to be strong.
+我发誓要坚强。
+I vow to have fun.
+我发誓要玩得开心。
+That's a bad idea.
+那是个坏主意。
+Are you sure?
+你确定吗？
+Mistress, be careful.
+夫人，小心点。
+(Smile and point to your phone.)
+（微笑，指着你的手机。）
+What can I do?
+我该怎么办？
+We can play tic-tac-toe.
+我们可以玩井字棋。
+With your pantyhose on?
+穿着连裤袜？
+Can I offer you an orgasm?
+我能给你一个高潮吗？
+(Slide your head between her legs.)
+（把头滑到她两腿之间。）
+(Lick her pussy slowly and skillfully.)
+（慢慢而熟练地舔她的阴部。）
+(Play with her clitoris passionately.)
+（热情地玩弄她的。）
+(Trust your tongue to penetrate her pussy.)
+（相信你的舌头，穿透她的阴道。）
+(Rub your nose against her clitoris and lick her pussy rapidly.)
+（用鼻子蹭她的阴蒂，快速舔她的阴部。）
+(Lick to suck her juices through the nylon fabric.)
+（舔着，透过尼龙布料吸吮她的体液。）
+(Don't do anything.)
+（别做任何事。）
+Without my hands?
+没有我的手？
+Yes, Mistress.  (Work with your mouth eagerly.)
+是的，夫人。 （用嘴急切地工作。）
+I guess I can try.  (Work with your mouth reluctantly.)
+我想我可以试试。 （勉强用嘴巴操作。）
+This is disgusting.
+这太恶心了。
+Mistress, I must refuse.
+夫人，我必须拒绝。
+Wow!  You're so sexy.  (Remove her pantyhose.)
+哇！ 你真性感。 （脱掉她的丝袜。）
+This is gross.
+这太恶心了。
+Mistress, this is an honor.  (Remove her pantyhose.)
+夫人，能见到我很荣幸。 （脱掉她的丝袜。）
+This isn't hygienic.
+这不卫生。
+My pleasure!  (Lick her foot passionately.)
+不客气！ （热情地舔她的脚。）
+Of course, Mistress.  (Blush and kiss her foot.)
+当然，夫人。 （脸红并亲吻她的脚。）
+Eeeew!  What a bad idea!
+呃！ 真是个坏主意！
+(She instructed you to wear your white top once again.)
+（她让你再次穿上白色上衣。）
+(You reach her house, getting ready for another weekend of submission.)
+（你到达她家，准备迎接又一个顺从的周末。）
+It is a pleasure to see you once again, my submissive.
+很高兴再次见到你，我的顺从者。
+This weekend shall be a milestone in our relationship.
+这个周末将是我们关系中的一个里程碑。
+We have much to discuss, step inside, my girl.
+我们有很多话要谈，进来吧，姑娘。
+(She smirks and guides you inside.)
+（她带着一丝得意的笑容，带你进去。）
+(She seems surprised but enjoys your initiative.)
+（她似乎有些惊讶，但很享受你的主动性。）
+(She sighs loudly.)  I am very disappointed, but I respect your honesty.
+（她大声叹气。） 我很失望，但我尊重你的坦诚。
+(She guides you inside.)
+（她引导你进去。）
+As our relationship and your submission progresses, stricter rules shall be enforced.
+随着我们的关系和你的服从进展，将会执行更严格的规则。
+I do not expect you to think anymore.  You shall listen to my voice and obey right away.
+我不指望你再思考了。 你必须听我的话，立刻服从。
+Get naked.
+脱光衣服。
+(She sighs loudly and helps you to strip down.)
+（她大声叹气，帮你脱衣服。）
+(She laughs as you strip happily.)
+（她笑着看你开心地脱衣服。）
+(She smiles as you strip sensually.)
+（她微笑着看着你性感地脱衣。）
+(You blush and shyly strip for her.)
+（你脸红了，害羞地为她脱光衣服。）
+I am very disappointed, but I respect your honesty.  (She points at the door.)
+我很失望，但我尊重你的坦诚。 （她指着门。）
+(She grins and looks at you as you lean on the couch.)
+（她咧嘴笑着看着你，你靠在沙发上。）
+As your body is already claimed, I shall control your mind.
+既然你的身体已经被占有，我将控制你的心智。
+This weekend shall be an epiphany on complete surrender.
+这个周末将是关于彻底投降的顿悟。
+(She snaps a picture.)  I shall also keep souvenirs of these moments.
+（她拍了张照片。） 我也会保留这些时刻的纪念品。
+At the end of it, the dilemma of a permanent submission shall be presented.
+最后，将呈现永久服从的困境。
+(She sits on the couch.)  Come closer, on your knees.
+（她坐在沙发上。） 靠近点，跪下。
+I am very disappointed, but I respect your honesty.  (She points to your clothes.)
+我很失望，但我尊重你的坦诚。 （她指着你的衣服。）
+(You kneel next to Evelyn, displaying a huge smile.)
+（你跪在伊芙琳身旁，露出灿烂的笑容。）
+(You kneel next to her as she stares at you.)
+（你跪在她身旁，她凝视着你。）
+(You kneel reluctantly as she shakes her head from left to right.)
+（你不情愿地跪下，她左右摇头。）
+Last weekend, you were restrained to surrender your body.
+上周末，你被限制了交出身体。
+Today, you shall be bound, gagged and blindfolded.
+今天，你将被绑起来，堵上嘴，蒙上眼睛。
+Your mind and your will shall be mine, and only mine.
+你的思想和意志将属于我，只属于我。
+Present your hands, my submissive.
+把手举起来，我的顺从者。
+(She pushes your arms behind your back, preparing a tight bondage.)
+（她把你的手臂推到背后，准备紧紧束缚。）
+(She restricts your hands tightly behind your back.  Leaving you very helpless.)
+（她把你的手紧紧地绑在背后。 让你非常无助。）
+Once gagged and blindfolded, you shall lose your senses.
+一旦被堵住嘴和蒙上眼睛，你就会失去理智。
+Your sole focus shall be my words, my commands.
+你唯一的关注点将是我的话语和命令。
+(She pulls your hair back and picks up a ball gag.)
+（她把你的头发往后拉，拿起一个口球。）
+(She buckles the ball gag tightly, leaving you speechless.)
+（她紧紧扣上口球，让你哑口无言。）
+This gag shall be a present, a memento of your submission, keep it nearby.
+这个口塞将作为礼物，作为你臣服的纪念，放在身边。
+Right now, I do not expect any words or consent from you.  I own you.
+现在，我不指望你说话或同意。 我拥有你。
+(She picks up your phone and captures this naughty moment.)
+（她接起你的手机，捕捉了这个调皮的瞬间。）
+The only voice that is required is mine.  Your owner's voice.
+唯一需要的声音就是我自己。 你夫人的声音。
+You shall not talk or think, you shall obey right away.
+你不能说话或思考，必须立刻服从。
+Close your eyes, trust your owner and listen to my next command...
+闭上眼睛，相信你的夫人，听我下一个命令......
+Dance!
+跳舞！
+(She shakes her head from left to right.)  You failed, my girl.  Time for cecity.
+（她左右摇头。） 你失败了，我的女孩。 该吃点东西了。
+(With no hesitation, you quickly start to dance in ropes.)
+（你毫不犹豫地迅速开始在绳索中跳舞。）
+(She sighs as you slowly start to dance.)  I expect more haste from you, my girl.
+（她叹了口气，你慢慢开始跳舞。） 我希望你能更快点，姑娘。
+(She shakes her head from left to right.)  Aren't you clueless.  Time for cecity.
+（她左右摇头。） 你真是糊涂。 该吃点东西了。
+(You shake your hips slowly, trying to please her eyes.)
+（你慢慢摇动臀部，试图取悦她的眼睛。）
+(She takes a few pictures, making sure to send you one.)
+（她拍了几张照片，还特意发给你一张。）
+(You step on the coffee table and twirk your butt in front of your Dominant.)
+（你踩上咖啡桌，在主导者面前扭动臀部。）
+(She smirks and takes many photos of the sexy scene.)
+（她带着坏笑，拍了很多性感场景的照片。）
+(You finish by struggling sensually against the ropes.)
+（你最后在绳索上性感地挣扎。）
+(She uses your own phone to add a few pictures on it.)
+（她用你的手机给手机加了几张照片。）
+That is enough, on your knees.  (You kneel back for her.)
+够了，跪下。 （你跪下为她。）
+(She produces a blindfold and smirks.)
+（她拿出眼罩，露出一丝得意的笑容。）
+(She leaves you in the dark, hearing only her voice.)
+（她把你留在黑暗中，只听见她的声音。）
+You do not need to talk, see or think.  All that is required is to follow my commands.
+你不需要说话、看见或思考。 只需服从我的命令。
+(You can hear a phone taking a picture.)
+（你能听到手机拍照的声音。）
+(She grabs your ropes and helps you up.)
+（她抓住你的绳子，帮你站起来。）
+Hear my voice and obey.
+听我的声音，服从。
+Take twelve small steps in front of you, then turn left.
+在你前面走十二小步，然后左转。
+(She sighs loudly and fetches you.)  Total trust shall require more training.
+（她长叹一声，叫你过来。） 完全信任需要更多培训。
+Unacceptable!  (She rushes to release you, giving you back your clothes.)
+不可接受！ （她急忙放开你，把衣服还给你。）
+(She curses and fetches you.)  This is highly disappointing.
+（她咒骂着叫你。） 这让人非常失望。
+(You follow her orders confidently and take the steps.)
+（你自信地服从她的命令，迈出了步伐。）
+(You step slowly and carefully, making sure not to fall.)
+（你缓慢而小心地迈步，确保不摔倒。）
+(She makes you walk in her house blindfolded.)
+（她让你蒙着眼睛走进她家。）
+(You almost trip a few times, it's hard to keep balance.)
+（你差点绊倒好几次，很难保持平衡。）
+(You can hear her unlocking a door.)
+（你能听到她开门的声音。）
+(You step in a room with a distinct brick smell.)
+（你走进一个弥漫着明显砖味的房间。）
+This room is very special, very few know about it.
+这个房间非常特别，知道它的人很少。
+You shan't see it today but experience it with your other senses.
+你今天看不到，但用其他感官去体验它。
+(She pushes you forward and ropes your legs on some furniture.)
+（她把你推向前，把你的腿绑在家具上。）
+Today, you shall experience my special sybian saddle.
+今天，你将体验我那种特殊的赛比安马鞍。
+It is a powerful masturbation device with acute odds of multiple orgasms.
+它是一种强力的自慰装置，极高的几率出现多次高潮。
+The ultimate test of will and obedience.
+意志与服从的终极考验。
+(You shiver nervously as you hear her walk in the room.)
+（听到她走进房间时，你紧张地打了个寒颤。）
+(You nod slowly as you hear her walk in the room.)
+（你听到她走进房间，慢慢点头。）
+(You make a thumbs up as you hear her walk in the room.)
+（你听到她走进房间时竖起大拇指。）
+(You nod confidently as you hear her walk in the room.)
+（你听到她走进房间，自信地点头。）
+Climax only and exactly when authorized.
+只有在授权时才高潮。
+(You can hear her turn a dial.  The machine slowly comes to life.)
+（你能听到她转动旋钮的声音。 机器慢慢启动。）
+It shall be a hard task.  My voice is the final trigger for your pleasure.
+这将是一项艰巨的任务。 我的声音是你快感的最后触发点。
+(You shiver from the machine as she captures the moment.)
+（你因机器而颤抖，她捕捉着这一刻。）
+Your mind and body are mine, listen closely...  (She turns the dial again.)
+你的心和身体都是我的，仔细听...... （她又转动了旋钮。）
+(She stops the machine and gets behind you, allowing you to catch your breath.)
+（她停下机器，站到你身后，让你喘口气。）
+My girl, you were amazing.  I am very proud of you.
+我的女孩，你太棒了。 我为你感到骄傲。
+You did very well, my girl.  We shall train you on the saddle again.
+你做得很好，我的姑娘。 我们会再次训练你骑马。
+Lots more saddle training is required, but I see potential in you.
+还需要更多的马鞍训练，但我看到你有潜力。
+You did poorly, I expected more from you.  Lots of training is required.
+你表现不好，我对你期望更高。 需要大量培训。
+That was pathetic, you have no self-control.  Both shocking and depressing.
+真可悲，你一点自制力都没有。 既令人震惊又令人沮丧。
+Enough!  Is this a farce to you?  I am furious and appalled.  (She releases you and points at your clothes.)
+够了！ 这对你来说是个闹剧吗？ 我感到愤怒和震惊。 （她松开你，指着你的衣服。）
+You seem exhausted, I shall allow some rest.  (She unties your legs.)
+你看起来很累，我会让你休息一下。 （她解开你的腿。）
+There is a bed behind you.  It shall be where you sleep tonight.
+你身后有张床。 今晚你就在这里睡觉。
+A night alone in this state shall help you to meditate on your submission.
+独自一人在这种状态下过一夜，将帮助你冥想你的臣服。
+Tomorrow is decision day.  Think about it carefully.
+明天是决策日。 仔细想想。
+(She helps you down and chains your ankle to the bed.)
+（她帮你下床，把你的脚踝锁在床上。）
+Sleep well, my submissive.
+晚安，我的顺从者。
+(You can hear her take a picture before leaving.)
+（你可以听到她离开前拍了张照片。）
+(She leaves you alone in the dark, chained and helpless.)
+（她把你一个人留在黑暗中，被锁链束缚，无助。）
+(You test the ropes for a while but cannot get loose or reach a knot.)
+（你试绳子一会儿，但无法松开或打结。）
+(You crawl in bed and find a pillow to get some rest.)
+（你爬上床找个枕头休息。）
+(You try to sleep in this tight bondage as best as you can.)
+（你尽量在这紧绷的束缚中入睡。）
+(After many hours, you can hear a door that unlocks once again.)
+（几个小时后，你又听到门被解锁的声音。）
+Rise and shine, my submissive.
+起床吧，我的顺从者。
+(You hear play on her phone.)  Another souvenir of your submission.
+（你听到她手机里播放的声音。） 又一份你投稿的纪念品。
+Did you sleep well?
+你睡得好吗？
+You are such a lovely submissive.  (She unlocks your chain and helps you up.)
+你真是个可爱的顺从者。 （她解开你的锁链，帮你站起来。）
+You truly are an amazing submissive.  (She unlocks your chain and helps you up.)
+你真是个了不起的顺从者。 （她解开你的锁链，帮你站起来。）
+You shall learn to enjoy with time.  (She unlocks your chain and helps you up.)
+随着时间推移，你会学会享受。 （她解开你的锁链，帮你站起来。）
+Do not fight, embrace your fate.  (She unlocks your chain and helps you up.)
+不要战斗，拥抱你的命运。 （她解开你的锁链，帮你站起来。）
+We shall leave this room for now.  We have much to discuss.
+我们暂时离开这个房间。 我们有很多话要谈。
+Walk, my girl.  (She grabs your ropes to guide you.)
+走吧，我的女孩。 （她抓住你的绳索引导你。）
+(You recognize the smell of Evelyn's bedroom.)
+（你认出了伊芙琳卧室的味道。）
+(She sighs and releases you from your bondage.)
+（她叹了口气，松开了你的束缚。）
+On this day, you shall make the most important decision of your life, maybe your last one.
+在这一天，你将做出人生中最重要的决定，也许是最后一个决定。
+I require total control of you.  I shall own your body, mind and soul.
+我需要对你的完全控制。 我将拥有你的身体、心灵和灵魂。
+If you accept, you shall become my personal and permanent slave.
+如果你接受，你将成为我的私人且永久的奴隶。
+(She helps you down on your knees.)  Listen carefully.
+（她帮你跪下。） 仔细听。
+As your Mistress, I shall make every decision for you.
+作为你的夫人，我会替你做所有决定。
+As my slave, you shall serve me in any fashion I desire or serve others if I require it.
+作为我的奴隶，你可以以我想要的任何方式侍奉我，或者如果我需要，也可以为他人效力。
+As my property, you are required to surrender all your documents.
+作为我的财产，你必须交出所有证件。
+Your credit cards, bank accounts, passport and legal documents shall be managed carefully.
+您的信用卡、银行账户、护照及法律文件应被妥善管理。
+When an election comes, voting as commanded is now required.
+选举一到，必须按规定投票。
+Your apartment shall be forfeited, professional movers hired so nothing get damaged.
+你的公寓将被没收，会雇佣专业搬家公司，确保不会有任何损坏。
+I shall ensure that you stay healthy and well fed.  A strict diet is required.
+我会确保你健康且吃得饱。 必须严格控制饮食。
+You shall keep your phone but not as an administrator.  New control features are required.
+你必须保留手机，但不能作为管理员。 需要新的控制功能。
+(She inspects your phone and captures the moment on it.)
+（她检查你的手机，记录下了这一刻。）
+As teacher, your position is safe as long as your work is serious and satisfactory.
+作为教师，只要你的工作认真且令人满意，你的职位是安全的。
+I shall drive you to and from work every day.  Wandering away from college ground is not permitted.
+我每天送你上下班。 禁止在大学场地外乱逛。
+At home, you shall wear a locked collar and address me as "Mistress".
+在家里，你要戴上锁着的项圈，称呼我为“夫人”。
+(She takes a long deep breath and releases your head.)
+（她深吸一口气，松开你的头。）
+(She stares at you deeply, taking a serious tone.)
+（她深深地盯着你，语气严肃。）
+PlayerName, do you consent on becoming my permanent slave?
+PlayerName，你同意成为我的永久奴隶吗？
+(She stares at you and makes a huge smile.)
+（她盯着你，露出灿烂的笑容。）
+(She sighs loudly.)  I am very disappointed.  (She releases you and points at your clothes.)
+（她大声叹气。） 我非常失望。 （她松开你，指着你的衣服。）
+I admit I did not sleep much last night.  I was awake analyzing our relationship.
+我承认我昨晚没怎么睡。 我醒着，分析我们的关系。
+I am afraid you do not match my definition of the perfect submissive.
+恐怕你不符合我心目中的完美顺从者。
+Please get dressed, PlayerName.  (She points to your clothes.)
+请穿好衣服，PlayerName。 （她指着你的衣服。）
+You are now my complete property.  Consent shan't be required anymore.
+你现在是我所有的财产。 不再需要同意。
+My slave, I vow to be honest, strict and fair.
+我的奴隶，我发誓要诚实、严厉和公正。
+(She looks at you.)
+（她看着你。）
+(She pets your head.)  Of course.
+（她抚摸你的头。） 当然。
+(She smiles at you.)  Very good.
+（她对你微笑。） 非常好。
+(She smirks.)  Strength shall be my responsibility.
+（她露出一丝坏笑。） 力量将是我的责任。
+(She rolls her eyes up.)  What a poor vow.
+（她翻了个白眼。） 多么糟糕的誓言。
+Slave, present your neck.  (She produces a collar.)
+奴隶，把脖子伸出来。 （她拿出一个项圈。）
+(She locks the heavy collar around your neck securely.)
+（她把沉重的项圈牢牢锁在你脖子上。）
+This collar is a symbol of your slavery at home, wear it with pride.
+这条项圈是你在家奴役的象征，骄傲地佩戴吧。
+(She pulls out her phone and takes many pictures, some for you.)
+（她掏出手机拍了很多照片，有些是给你的。）
+We shall now alter your phone and assign me as sole administrator for it.
+我们现在将修改您的手机，并指定我为唯一的管理员。
+I and only I decide what is good or bad.  (She picks up your phone.)
+只有我自己决定什么是好什么是坏。 （她接了你的电话。）
+You are a good slave.  (She picks up your phone.)
+你是个好奴隶。 （她接了你的电话。）
+Do not discuss.  (She picks up your phone.)
+不要讨论。 （她接了你的电话。）
+Of course.  (She picks up your phone.)
+当然。 （她接了你的电话。）
+(She smiles and picks up your phone.)
+（她微笑着接起你的手机。）
+(With your help, she reprograms your phone and installs some applications.)
+（在你的帮助下，她重新编程了你的手机并安装了一些应用程序。）
+Consider yourself lucky, most are not aware that they are enslaved by technology.
+你应该觉得幸运，大多数人并不知道自己被科技奴役。
+(She finishes with your phone and leaves it for you.)
+（她收拾完你的手机，把它留给你。）
+(She grabs your collar and stares at you.)
+（她抓住你的衣领，盯着你看。）
+My lovely slave, my cherished possession.  I have a task for you.
+我可爱的奴隶，我珍贵的财产。 我有个任务给你。
+(She removes her skirt and brings you closer.)
+（她脱下裙子，把你拉近。）
+(She slowly opens her legs.)  You shall help me to unwind.
+（她慢慢张开双腿。） 你会帮我放松。
+It seems that I was not clear enough.  (She sighs and pulls you close.)
+看来我说得不够清楚。 （她叹了口气，把你拉近。）
+Do not be ridiculous.  (She pulls you close.)
+别傻了。 （她把你拉近。）
+(She nods and pulls you close.)
+（她点点头，把你拉近。）
+This is music to my ears.  (She pulls you close.)
+这对我来说简直是天籁之音。 （她把你拉近。）
+(She grins as you quickly move close.)
+（她咧嘴笑着，你迅速靠近。）
+(She blocks your head in between her legs.)
+（她用双腿挡住你的头。）
+Very good, repeat what you did under my office desk.
+很好，重复你在我办公桌下做的事。
+I trust that further explanations are not required.
+我相信不需要更多解释。
+The pantyhose shall augment the difficulty of your assignment.
+连裤袜会增加你作业的难度。
+Serve me well, your owner's happiness is all that matters to you.
+好好侍奉我，夫人的幸福才是你最在乎的。
+(You are very close to her pussy and can smell her juices.)
+（你离她的阴部非常近，还能闻到她的体液味。）
+(She trembles a little but remains in control.)
+（她微微颤抖，但依然控制住了。）
+(You work hard as she starts to moan and shiver.)
+（你努力工作，她开始呻吟颤抖。）
+(She doesn't react much as your tongue is barred by the nylon.)
+（她的舌头被尼龙挡住，她几乎没有反应。）
+(She shivers a little but remains in control.)
+（她微微颤抖，但依然控制住了。）
+(She sighs loudly as you don't do anything.)
+（她大声叹气，因为你什么都没做。）
+In the next weeks, you shall be trained on how to please your Mistress better.
+接下来的几周，你将接受如何更好地取悦夫人的训练。
+For now, we have more pressing matters.  (She pushes you and dresses back.)
+现在，我们有更紧迫的事情。 （她推开你，穿回去。）
+(She squeezes your head firmly between her thighs as you work with your tongue.)
+（她用舌头紧紧夹住你的头，双腿间紧紧夹住。）
+(She trembles and lose herself for a few seconds, getting a sweet orgasm.)
+（她颤抖着，迷失了几秒钟，享受着甜美的高潮。）
+Astounding!   I am lost for words.
+真是令人惊叹！  我无言以对。
+(She slowly recovers.)  My slave, this pleasure shall be required once again in the future.
+（她慢慢恢复过来。） 我的奴隶，这份快乐将来还将再次被需要。
+My slave, my possession, I have a task for you.
+我的奴隶，我的财产，我有个任务交给你。
+As my object, you are mandated to adore the ground I walk on.
+作为我的目标，你必须爱我走过的土地。
+Remove my shoes.
+脱掉我的鞋子。
+Such a clueless slave.  (She removes her shoes by herself.)
+真是个无知的奴隶。 （她自己脱鞋。）
+(You work passionately to remove her shoes with your mouth.)
+（你用嘴激情地帮她脱鞋。）
+(You work reluctantly to remove her shoes with your mouth.)
+（你不情愿地用嘴帮她脱鞋。）
+Enough!  (She slaps your face and takes a few seconds to cool down.)
+够了！ （她拍了你一巴掌，花了几秒钟冷静下来。）
+(She takes a long breath.)  Fine, we shall forget this for now.
+（她深吸一口气。） 好吧，我们暂时忘了这事。
+(She puts her foot on the tip of your mouth.)
+（她把脚放在你嘴角。）
+My slave, more work seems to be required.
+我的奴隶，似乎还需要更多工作。
+(She captures the moment on her phone, sending you a copy.)
+（她用手机记录下了这一刻，并发给你一份。）
+(She taps your lips with her toes.)
+（她用脚趾轻轻敲你的嘴唇。）
+(You grab her pantyhose with your teeth and slowly slide them down.)
+（你用牙齿抓住她的连裤袜，慢慢地往下滑。）
+Fine, we shall forget this for now.  (She puts her shoes back.)
+好吧，我们暂时忘了这事。 （她把鞋子放回去。）
+My words are laws, and my body shall be adored.
+我的话就是律法，我的身体将被宠爱。
+Treasure each moment you can touch me, on any part of my body.
+珍惜你能触碰我的每一刻，无论是身体的任何部位。
+Worship my foot, show me your devotion.
+崇拜我的脚，向我展示你的虔诚。
+Fine, future training shall be required.  (She dresses back.)
+好吧，未来的培训必须进行。 （她穿回去。）
+(She smiles as you lick her foot and toes slowly.)
+（你慢慢舔她的脚和脚趾时，她微笑着。）
+(She grins as you kiss her foot and toes submissively.)
+（当你顺从地吻她的脚和脚趾时，她咧嘴笑了。）
+Enough!  (She gets angry and dresses back.)
+够了！ （她生气了，穿回去了。）
+As your Mistress, I'm now your only priority.
+作为你的夫人，我现在是你唯一的优先事项。
+Your first thoughts in the morning and your last one at night are about pleasing me.
+你早上的第一个念头和晚上的最后一个念头，都是为了取悦我。
+You shall worship my body, day and night.
+你将昼夜敬拜我的身体。
+That's enough for now, your owner is pleased.  (She dresses back.)
+现在够了，你的夫人很满意。 （她穿回去。）
+We have lots to do this weekend.  (She confiscates your money and credit cards.)
+这个周末我们有很多事情要做。 （她没收了你的钱和信用卡。）
+Transferring your assets and preparing a new restricted bank account shall take a while.
+转移资产和准备新的受限银行账户需要一段时间。
+Starting next week, everything should settle down as your slavery routine begins.
+从下周开始，随着你的奴役生活开始，一切都会平静下来。
+(You are now Evelyn's permanent possession and live with her.)
+（你现在是伊芙琳的永久财产，和她一起生活。）
+(Your apartment, documents and your freedom have been taken away.)
+（你的公寓、文件和自由都被剥夺了。）
+(Your teacher's career continues, another week of work will begin soon.)
+（你的老师工作还在继续，新的一周工作很快就要开始了。）
+I hope I'll be able to follow you.
+希望我能跟随你。
+I'm ready to serve you, Mistress Evelyn.
+我准备好为您服务了，伊芙琳夫人。
+(Rush to open the door for her.)
+（赶紧帮她开门。）
+I have second thoughts about being your slave.
+我对做你的奴隶有点犹豫了。
+What rules?
+什么规则？
+Can we review that rule about being naked?
+我们能不能重新审视一下关于裸体的规定？
+It's wonderful to get naked for you.
+为你脱光真是太好了。
+(Blush and strip down.)
+（脸红脱光。）
+Are you sure this is a good idea?
+你确定这是个好主意吗？
+Mistress, I want to be with you.
+夫人，我想和你在一起。
+It sounds very thrilling.
+听起来非常刺激。
+(Nod slowly and stay silent.)
+（慢慢点头，保持沉默。）
+Very good, Miss Jane.
+非常好，简小姐。
+Fine, let's do this quickly.
+好吧，快点。
+Is being naked necessary?
+裸体有必要吗？
+This is very humiliating.
+这太丢人了。
+You better not take pictures.
+你最好别拍照。
+Do I get some money for this?
+我能拿到钱吗？
+(Make it clear that you're not having fun.)
+（明确表示你并不开心。）
+(Never look at her in the eyes.)
+（永远不要直视她的眼睛。）
+(Smile and look positive.)
+（笑一笑，保持积极。）
+(Act like you're the top slave in the club.)
+（表现得像你是俱乐部里的头号奴隶。）
+(Treat them like sisters.)
+（把她们当姐妹一样对待。）
+(Ignore them.)
+（忽略他们。）
+(Focus mainly on your club slave work.)
+（主要专注于你的俱乐部奴隶工作。）
+(Bow and be polite to them.)
+（鞠躬并礼貌地对待他们。）
+(Try to help when you have free time.)
+（有空的时候尽量帮忙。）
+Hey sis, looking cute.
+嘿，姐，看起来很可爱。
+We can agree to keep this secret.
+我们可以同意保守这个秘密。
+My submissive, I hope you enforce your limits.
+我的顺从者，我希望你能坚持你的界限。
+Big sister, it's nice to submit next to you.
+姐姐，能在你身边服从真好。
+(Stay silent.)
+（保持安静。）
+(Pretend you don't know her.)
+（假装你不认识她。）
+It was ok.
+还行。
+I don't think I'll do it again.
+我想我不会再做了。
+It was horrible.
+那真是太可怕了。
+I loved it.
+我很喜欢。
+Next time I'll be a customer.
+下次我会做顾客。
+I'm a little scared.
+我有点害怕。
+You're quick with restraints.
+你绑绳真快。
+(Chew on your gag.)
+（咬咬你的口塞。）
+(Get a quick orgasm.)
+（快速高潮。）
+(Stand strong.)
+（坚强站立。）
+(Hold still.)
+（别动。）
+(Turn and present your arms.)
+（转身，举起你的手臂。）
+Hold on.  A running tack?
+等等。 跑道具？
+I don't think this is a good idea.
+我觉得这不是个好主意。
+Mistress, I will be your pony girl?
+夫人，我愿意做你的小马女孩吗？
+Some fresh air sounds wonderful.
+呼吸点新鲜空气听起来很棒。
+(Shrug and look at the ground.)
+（耸耸肩，低头看着地面。）
+(Nod rapidly and stretch your legs.)
+（快速点头，伸展双腿。）
+(Make a cocky pause and wink at her.)
+（故意停顿一下，向她眨眼。）
+Dirt has no chance against me.
+泥土根本不是我的对手。
+It will be a boring day.
+这将是无聊的一天。
+I love to get dirty for you, Mistress.
+我喜欢为你弄脏自己，夫人。
+Could we clean up tomorrow?
+我们明天能清理一下吗？
+(Nod and go get the tools.)
+（点头，去拿工具。）
+(Focus on the shower room.)
+（专注于淋浴间。）
+(Focus on the bedroom.)
+（专注于卧室。）
+(Focus on the kitchen.)
+（专注于厨房。）
+I have some nice perfume.
+我有些香水。
+I thrive to always smell good for you.
+我总是想让你闻起来好闻。
+I will work hard to keep up your standard.
+我会努力保持你的标准。
+(Nod and moan softly.)
+（点头轻声呻吟。）
+(Shrug with your shoulders.)
+（耸耸肩。）
+Can you at least put the radio on?
+你至少能开收音机吗？
+It sounds like a kinky Saturday night, Mistress.
+听起来像个怪异的周六晚上，夫人。
+Very well.
+很好。
+This is bullshit.
+这太扯了。
+Can you at least put the tv on?
+你至少能开电视吗？
+(Read a romance novel.)
+（读言情小说。）
+(Read medieval poems.)
+（阅读中世纪诗歌。）
+(Read a sci-fi novel.)
+（读科幻小说。）
+(Read on algebra and trigonometry.)
+（阅读代数和三角学相关内容。）
+(Read a conspiracy theorist book.)
+（读一本阴谋论者的书。）
+(Read a book on tv celebrities.)
+（读一本关于电视名人的书。）
+(Read a detective novel.)
+（读侦探小说。）
+(Play a first person shooter.)
+（玩第一人称射击游戏。）
+(Play an easy puzzle game.)
+（玩一个简单的益智游戏。）
+(Play a role playing game.)
+（玩个角色扮演游戏。）
+(Play a sport game.)
+（玩体育游戏。）
+(Play a city management game.)
+（玩城市管理游戏。）
+(Play a survival game.)
+（玩个生存游戏。）
+It's not that generous.  You will have your fun.
+这可不算慷慨。 你会玩得开心的。
+You're very generous, Mistress Evelyn.
+你真慷慨，伊芙琳夫人。
+I'm not in the mood for sex.
+我没心情做爱。
+Please go easy on me.
+请对我宽容点。
+A fair challenge can be fun.
+公平的挑战可以很有趣。
+I'm up for any challenge.
+我愿意接受任何挑战。
+(Stay passive, pretending it didn't hurt.)
+（保持被动，假装不痛。）
+(Nod and whimper in your gag.)
+（点头，嘴里哽咽。）
+(Shake your head no, in defiance.)
+（摇头拒绝，表示反抗。）
+(Shrug your shoulders.)
+（耸耸肩。）
+(Moan of pleasure from the pain.)
+（因疼痛而发出的愉悦呻吟。）
+(Nod your head rapidly.)
+（快速点头。）
+(Wave her your middle finger.)
+（向她竖中指。）
+(Evelyn drives you back to her house, your private Dominant chauffeur.)
+（伊芙琳开车送你回她家，你的私人主导司机。）
+(You talk a little about work but mostly about your submission.)
+（你稍微谈了一点工作，但更多是关于你的投稿。）
+(As her slave, you will need to put efforts to keep her pleased every weekend.)
+（作为她的奴隶，你每个周末都需要努力让她满意。）
+(Don't take her love for granted, you will need to keep the passion burning.)
+（别把她的爱视为理所当然，你需要保持激情燃烧。）
+(She unlocks the car door as you both walk toward the house.)
+（她们一起走向房子时，她打开了车门。）
+My slave, we have a busy weekend ahead of us.
+我的奴隶，我们接下来的周末很忙。
+I trust you have plenty of energy.
+我相信你精力充沛。
+You require to believe in yourself first.  We shall work on that.  (She guides you inside.)
+你首先需要相信自己。 我们会努力改进。 （她引导你进去。）
+(She frowns and pushes you inside.)   Do not be ridiculous, slaves don't have second thoughts.
+（她皱眉，把你推了进去。）  别傻了，奴隶不会有后悔。
+Slave, you better know the house rules by now.
+奴隶，你最好早就知道家规了。
+Slave girl, you better know the house rules by now.
+奴隶女孩，你最好早就知道家规了。
+Girl, you must know the house rules by now.
+姑娘，你现在应该知道家规了吧。
+You must know the house rules by now.
+你现在应该已经知道家规了吧。
+I am certain that you remember the house rules by now.
+我相信你现在应该还记得家规了。
+(She stares at you silently.)
+（她默默地盯着你看。）
+(She shakes her head from left to right and helps you to strip.)
+（她左右摇头，帮你脱衣服。）
+(She grins and inspects you as you lean on the couch.)
+（她咧嘴笑着，打量着你，你靠在沙发上。）
+You look gorgeous my slave, continue to keep this body of mine in good shape.
+你看起来真漂亮，我的奴隶，继续保持我的身体好好。
+I am pleased to see that this body of mine is kept in shape.
+我很高兴看到我的身体保持了良好的状态。
+You have cut corners on your healthy diet.  This body of mine is losing its appeal.
+你在健康饮食上偷工减料了。 我的身体魅力正在减退。
+(She snaps a picture.)  A souvenir of your rare uncollared moments.
+（她拍了张照片。） 你难得无项圈时刻的纪念品。
+(She quickly picks your collar from her locked drawer.)
+（她迅速从锁着的抽屉里拿起你的项圈。）
+(She grins as you kneel down, securing the collar around your neck.)
+（她咧嘴笑着，你跪下，系好项圈。）
+Tonight, you shall experience the local BDSM club.
+今晚，你将体验当地的BDSM俱乐部。
+Tonight, you shall experience my private dungeon once again.
+今晚，你将再次体验我的私人地牢。
+The Bondage Club isn't that far away.  A short car ride.
+束缚俱乐部也不远。 短短的车程。
+Go get your cute little white top, my girl.  I shall also dress up for the occasion.
+去拿你那件可爱的小白上衣，女孩。 我也会为这个场合打扮一番。
+(You both go change and return.  She prepared a special Dominant outfit.)
+（你们俩去换衣服然后回来。 她准备了一套特别的主导服装。）
+These garments shall project our roles as Dominant and submissive.  You are what you wear.
+这些服装将展现我们作为主导者和顺从者的角色。 你就是你所穿的。
+(She takes a pose as you save a picture of her.)
+（你保存她的照片时，她摆了个姿势。）
+(She picks up her car keys.)  Get moving, slave girl.
+（她拿起车钥匙。） 快动起来，奴隶女孩。
+(You enter the Bondage Club together, it's a huge BDSM club that never seems to close.)
+（你们一起进入束缚俱乐部，那是一个庞大的BDSM俱乐部，似乎永远关不了。）
+(You enter the Bondage Club again.  A few maids and slaves salute you.)
+（你再次进入束缚俱乐部。 几个女仆和奴隶向你敬礼。）
+(Evelyn talks with a maid for a while, then signs a contract with her.)
+（伊芙琳与一名女仆交谈了一会儿，随后与她签订了合同。）
+Slave, there is no prejudice here.  You can be yourself and submit fully in a public environment.
+奴隶，这里没有偏见。 你可以做自己，在公开环境中完全服从。
+Slave, you remember the Bondage Club.  The main rule here is to be yourself and not judge others.
+奴隶，你还记得束缚俱乐部吧。 这里的主要规则是做自己，不要评判别人。
+You shall be a club slave tonight, collared and owned by the organization.
+今晚你将成为俱乐部的奴隶，被组织戴上项圈并拥有。
+Do not discuss or negotiate, your contract is already signed.
+不要讨论或谈判，你的合同已经签好了。
+We shall reunite later, when your contract is over.
+等你的合同结束后，我们再见。
+(She nods.)  It shall be a positive experience.
+（她点点头。） 这将是一次积极的体验。
+Public slavery shall be a positive experience for you.
+公开奴役对你来说将是一次积极的体验。
+The organization shall respect your limits and protect you.
+组织应尊重您的权限并保护您。
+I shall pick you up again once the contract has been fulfilled.
+合同完成后我会再来接你。
+(Evelyn leaves you and the maid gets closer to address you.)
+（伊芙琳离开你，女仆走近与你称呼。）
+(She does a maid curtsy.)  I will get you ready for your slave contract.
+（她做了个女仆式的屈膝礼。） 我会帮你准备你的奴隶合同。
+Please strip, your clothes will be lock'd away for the eve.
+请脱光衣服，你的衣服会被锁起来直到前夕。
+You're a sweet submissive, M'lady.
+你是个温柔顺从的人，夫人。
+I like your spirit, M'lady.  Our custom'rs won't wait.
+我喜欢你的精神，夫人。 我们的海关人员不会等。
+Absolutely, it's the sec clause of your contract, M'lady.
+当然，这是你合同的保密条款，夫人。
+It becomes easier with time.  Practice m'kes perfect, M'lady.
+时间久了会变得容易些。 练习得很完美，夫人。
+Only your own'r is allowed to take pictures of you.  We protect our slaves, M'lady.
+只有你自己的人可以给你拍照。 我们保护我们的奴隶，夫人。
+Yes, your own'r gets paid.  It's in the contract, M'lady.
+是的，你自己的人会拿工资。 合同里有，夫人。
+(You strip as the maid picks your clothes to lock them away.)
+（你脱衣服，女仆帮你挑衣服锁起来。）
+Since this is your first time, I'll watch ov'r you to make sure you're fine, M'lady.
+既然这是你第一次，我会一直盯着你，确保你没事，夫人。
+You've done this before, but rememb'r that maid Jane is here if you need her, M'lady.
+你以前做过这种事，但请记住，女仆简在这里，如果你需要她，夫人。
+Just ring the bell or yell "mom" if you get you'self in too many ropes.
+只要按铃，或者如果陷入太多困境就喊“妈妈”。
+Please show your neck for the official club slave coll'r.
+请为官方俱乐部奴隶领袖露脖子。
+Your owner coll'r will be safe and lock'd back once this is over, M'lady.
+等这事结束后，你的夫人被锁起来了，夫人。
+(She fastens the collar around your neck, locking it twice.)
+（她把项圈扣在你脖子上，锁上了两圈。）
+This coll'r is to show that you are own'd by the club for the eve.
+这份合作是为了表明你在夜晚被俱乐部拥有。
+You will please our custom'rs as best as you can, within your limits.
+你会尽力在你的限制内取悦我们的海关。
+Come with me, our clients are waiting, M'lady.
+跟我来，我们的客户在等我，夫人。
+(She leads you to the main areas of the Bondage Club so you can start your shift.)
+（她带你去束缚俱乐部的主要区域，让你开始你的班次。）
+(Being a club slave isn't that hard.)
+（做俱乐部奴隶其实没那么难。）
+(Part of the job is to be on display, an eye candy.)
+（工作的一部分就是被展示，成为视觉盛宴。）
+(It's quite humiliating, but the customers are friendly and respectful.)
+（虽然很丢人，但顾客们都很友好且尊重。）
+(Of course, you also spend part of the evening restrained.)
+（当然，你也会在晚上有一段时间被束缚。）
+(The club has hundreds of different restraints for you to experience.)
+（俱乐部有数百种不同的束缚装置供你体验。）
+(It's impossible to try everything in a single evening.)
+（一个晚上不可能尝试所有东西。）
+(You meet Evelyn randomly on a few occasions.)
+（你偶尔会遇到伊芙琳几次。）
+(How do you act when she's around?)
+（她在场时你会怎么表现？）
+(She looks disappointed as you don't seem to have a good time.)
+（她看起来很失望，因为你似乎并不开心。）
+(Respectfully, you never dare to look directly at your owner.)
+（恭敬地说，你从不敢直视夫人。）
+(She smiles back, seeming happy that you're having a good time.)
+（她回以微笑，似乎很高兴你玩得开心。）
+(She laughs seeing you act like the boss of the slaves.)
+（她看到你像奴隶老板一样，忍不住笑了。）
+(Your Mistress always seems proud to display you to others.)
+（你的夫人总是很自豪地向别人展示你。）
+(Your Mistress doesn't have much time for you.  She also mingles with others.)
+（你的夫人没多少时间陪你。 她也会和其他人打交道。）
+(You explore the club.  There are lots of naughty rooms and dungeons.)
+（你探索俱乐部。 有很多调皮的房间和地牢。）
+(You meet some Mistresses, the owners of the organization.)
+（你会遇到一些夫人，他们是组织的所有者。）
+(They make sure you are safe and feel protected while working.)
+（他们确保你工作时安全且感到安全。）
+(Through the evening, you meet many maids, including Jane.)
+（整个晚上，你遇到了许多女仆，包括简。）
+(They are there to help you if you get stuck on a device.)
+（如果你卡在设备上，他们会帮你。）
+(How do you act with them?)
+（你怎么和他们相处？）
+(They seem to appreciate the kindness.)
+（他们似乎很感激这份善意。）
+(You stay cold to them, mostly ignoring the maid sorority.)
+（你对她们保持冷淡，大多无视女仆姐妹会。）
+(You stay professional and display hard work on your contract.)
+（你保持专业，合同上展现出努力。）
+(You stay polite and treat them with lots of respect.)
+（你保持礼貌，尊重他们。）
+(You try to help them when it's possible, but you already have lots of work.)
+（你尽量帮忙，但你已经有很多工作了。）
+(You also meet other club slaves.  Your sisters for the night.)
+（你还会遇到其他俱乐部奴隶。 今晚是你的姐妹们。）
+(They make you kneel next to a familiar face.  Sarah is also a club slave tonight.)
+（他们让你跪在熟悉的面孔旁边。 莎拉今晚也是俱乐部的奴隶。）
+(Some are starting and others have lots of experience.)
+（有些刚入职，有些经验丰富。）
+(You recognize each other but quickly blush and turn to face away.  You can hear her giggles.)
+（你们认出彼此，但很快脸红转过头去。 你能听到她的咯咯笑声。）
+(You spend some time on knees with other slaves, until called away.)
+（你会和其他奴隶一起跪地待一段时间，直到被召唤离开。）
+(Will you whisper something to her?)
+（你会对她低声说点什么吗？）
+(She giggles some more and whispers back.)  You also look adorable.
+（她又咯咯笑了几声，低声回应。） 你看起来也很可爱。
+(She whispers back.)  I agree.
+（她低声回应。） 我同意。
+(She whispers back.)  Oh!  Of course, Miss PlayerName.  I will make you proud.
+（她低声回应。） 哦！ 当然，PlayerName小姐。 我会让你骄傲的。
+(She whispers back.)  Little sis, it's a huge thrill to kneel next to you.  Let me know if you need help.
+（她低声回应。） 小妹，能跪在你身边真是太激动了。 需要帮助告诉我。
+(You both stay silent and submissive.)
+（你们都保持沉默和顺从。）
+(She grumbles a little but focuses on her own contract.)
+（她嘟囔了几句，但专注于自己的合同。）
+(You spend some time on knees, next to your submissive, until you are called away.)
+（你跪在顺从者旁边，直到被召唤离开。）
+(You spend some time on knees, next to your big sister, until you are called away.)
+（你跪着陪着姐姐，直到被叫走。）
+(You spend some time on knees, next to your student, until you are called away.)
+（你跪着陪着学生，直到被叫走。）
+(You get bound once again.  Bondage happens often in the club.)
+（你又一次被绑住了。 束缚在俱乐部里经常发生。）
+(Your contract period is over.  You return to Jane to get released.)
+（你的合同期已结束。 你回到简身边寻求释放。）
+(Maid Jane comes to your rescue quickly, she seems very protective.)
+（简女仆迅速来救你，她看起来非常保护你。）
+Well done, M'lady.  Your first contract is compl'te.
+干得好，夫人。 你的第一份合同已经完成。
+Well done, M'lady.  Anoth'r contract done.
+干得好，夫人。 又一份合同完成了。
+Did you enjoy your Bondage Club slave wo'k?
+你喜欢你的束缚俱乐部奴隶wo'k吗？
+(She nods and goes get your clothes.)
+（她点点头，去拿你的衣服。）
+Slave don't control that.  (She goes get your clothes.)
+奴隶无法控制这些。 （她去拿你的衣服。）
+We'll try to make it bett'r next time.  (She goes get your clothes.)
+下次我们会尽量让它更好。 （她去拿你的衣服。）
+That's great to hear.  (She goes get your clothes.)
+听你这么说真好。 （她去拿你的衣服。）
+(She laughs and goes get your clothes.)
+（她笑着去拿你的衣服。）
+(You dress back up and she escorts you to the entrance.)
+（你重新穿好衣服，她护送你到入口。）
+Thanks for your h'rd work, M'lady.
+谢谢你的努力，夫人。
+Stay here, I will go get your own'r.
+你留在这里，我去拿你自己的。
+(Evelyn comes back with the maid after a while.)
+（过了一会儿，伊芙琳和女仆一起回来了。）
+Thank you, maid Jane.  I see that my slave worked hard in a secure environment.
+谢谢你，简女仆。 我看到我的奴隶在安全的环境中努力工作。
+The payment shall be invested in her.  To train her further in the ways of submission.
+这笔报酬将投资于她。 进一步训练她顺从的方式。
+(They both nod and Evelyn drives you back home.)
+（她们都点头，伊芙琳开车送你回家。）
+(It's already very late when you get in bed.  You will only have a few hours of sleep.)
+（你上床时已经很晚了。 你只能睡几个小时。）
+(Even with such little time, she stills restrain you very securely for the night.)
+（即使时间不多，她依然牢牢地束缚着你，度过了一夜。）
+(Sleep tight.)
+（晚安。）
+(Saturday morning comes quickly.)
+（周六早晨来得很快。）
+You already know the rules of the dungeon, you are not allowed to see it.
+你已经知道地下城的规则，但你不允许看到它。
+Get up, you shall be blindfolded and gagged, slave.
+起来，你将被蒙上眼睛和堵嘴，奴隶。
+Do not overthink, simply trust your owner.
+不要想太多，只要信任你的夫人。
+These comments are not necessary nor welcome.
+这些评论既非必要，也不受欢迎。
+(She nods slowly.)
+（她慢慢点头。）
+(She picks a ball gag and a blindfold from her locked drawer.)
+（她从锁着的抽屉里拿出一个口球和一个眼罩。）
+(Her house quickly turns dark under the thick leather.)
+（她的房子很快在厚重的皮革下变得昏暗。）
+(You can hear her opening another drawer, searching for something else.)
+（你能听到她打开另一个抽屉，寻找别的东西。）
+(You listen closely and hear the sound of a picture being taken.)
+（你仔细听，听到拍照声。）
+(You can feel your arms wrapped in thick leather behind your back.)
+（你能感觉到双臂被厚重的皮革包裹在背后。）
+(You tug on the leather device, but your arms can barely move.)
+（你拉扯着皮质装置，但手臂几乎动弹不得。）
+(You slowly adjust to the rigid fabric of the restraint.)
+（你慢慢适应束缚的坚硬布料。）
+(You can hear her walking away, leaving you alone.)
+（你能听到她走开的声音，留下你一个人。）
+(You wait patiently in the tight restraint, struggling is futile.)
+（你耐心地在紧绷的束缚中等待，挣扎毫无意义。）
+(After a while, you hear the sounds of stilettos coming back to you.)
+（过了一会儿，你听到细高跟鞋的声音又回到了你耳边。）
+(Your owner doesn't say a word and drags you by the collar.)
+（你的夫人一句话也没说，直接拉着你的衣领。）
+(Evelyn opens a metal door and makes you walk inside.)
+（伊芙琳打开一扇金属门，让你走进去。）
+(You quickly recognize the smell of brick and steel from her dungeon.)
+（你很快就认出了她地牢里砖石和钢铁的味道。）
+Slave, the sybian horse shall be your trainer for the next hours.
+奴隶，西比安马将是你接下来几个小时的训练师。
+(She makes you walk on the cold floor in the dark.)
+（她让你在黑暗中走在冰冷的地板上。）
+(She ropes you on the horse, making sure you cannot escape it.)
+（她把你套在马上，确保你无法逃脱。）
+This body of mine shall experience pleasure on my command, it does not have free will.
+我的身体将在我的命令下体验快乐，它没有自由意志。
+(She turns the machine on low speed.  You can feel the vibration on your pussy lips.)
+（她把机器调得很慢。 你能感受到阴唇上的震动。）
+Do not think, climax only and exactly on my command.
+别想，只有我命令时才会高潮。
+(You can feel the vibrations slowly increasing.)
+（你能感觉到震动慢慢增强。）
+(You get a surprisingly quick orgasm.)
+（你意外地快速高潮。）
+This body is mine.  Its pleasure is under my complete control.
+这具身体是我的。 它的快乐完全由我掌控。
+(You can hear her turning around you.)
+（你能听到她转身的声音。）
+Not yet.
+还没有。
+(You get a quick but strong orgasm.)
+（你会获得快速但强烈的高潮。）
+(You stand strong, holding your pleasure.)
+（你坚定地站着，紧紧抓住快感。）
+(She increases the power of the machine.  It's getting hard to resist.)
+（她增强了机器的威力。 越来越难以抗拒了。）
+Do not think, a slave does not think, it obeys.
+不要思考，奴隶不会思考，而是服从。
+(She caresses your leg softly.)
+（她轻轻抚摸你的腿。）
+(You hold still, trying as best as you can to control yourself.)
+（你保持不动，尽力控制自己。）
+(You lose yourself and get a powerful orgasm.)
+（你迷失自我，获得强烈的高潮。）
+Willpower is not required, obedience is.
+不需要意志力，服从才是必需的。
+(You feel the machine buzzing at full speed.)
+（你能感觉到机器全速嗡嗡作响。）
+Let your Mistress voice be your guide.
+让你的夫人之声成为你的指引。
+(You stand strong, controlling your body with an iron will.)
+（你坚定地站着，铁一般的意志控制着自己的身体。）
+(You can feel the machine turning off.)
+（你能感觉到机器关闭了。）
+Slave, you missed your mark.  This will of steel is highly disappointing.
+奴隶，你没打中目标。 这种钢铁般的意志令人极为失望。
+Further sybian training shall be required later.
+后续还需进行更多Sybian训练。
+(She keeps the machine at full power as you scream from an intense orgasm.)
+（她让机器全速运转，你在强烈高潮中尖叫。）
+Orgasms are mine to give or to take away.  Do not take them for granted.
+高潮是我自己给予或夺走的。 不要把它们视为理所当然。
+(You can hear the sound of her phone taking a picture.)
+（你能听到她手机拍照的声音。）
+You have exceeded my expectations, my slave girl.  Your owner is proud.
+你超出了我的期望，我的奴隶女孩。 你的夫人很自豪。
+(You slowly recover as you feel the machine being turned off.)
+（你慢慢恢复过来，感觉机器被关闭了。）
+(She sighs loudly.  You can hear the disappointment in her voice.)
+（她长叹一声。 你能从她的声音中听出失望。）
+Slave, you failed miserably.  That unapproved orgasm was extremely disappointing.
+奴隶，你彻底失败了。 那次未经批准的高潮让我极度失望。
+(She helps you off the device.)
+（她帮你把装置从上面拿下来。）
+This body of mine needs some rest, we shall vacate the dungeon.
+我的身体需要休息，我们会离开地牢。
+This body of mine needs some rest, and we already have the perfect location.
+我的身体需要休息，我们已经有了完美的位置。
+(She grabs your collar again and takes you to her bedroom.)
+（她又抓住你的衣领，带你去了她的卧室。）
+(You can hear her changing clothes.  She doesn't release you.)
+（你能听到她换衣服的声音。 她不会放你走。）
+I trust that you are now accustomed to sleeping restrained.
+我相信你现在已经习惯了被束缚睡觉。
+Tonight, you shall have the privilege of sleeping in my bed.
+今晚，你将有幸睡在我的床上。
+Tonight, you shall rest restrained on the ground, close to your owner.
+今晚，你将被束缚在地上休息，靠近你的夫人。
+(She drags you on her bed, keeping you bound securely for the night.)
+（她把你拖上床，牢牢绑着你过夜。）
+(She falls asleep first, cuddling with you.  You slowly follow her.)
+（她先睡着了，依偎着你。 你慢慢跟着她。）
+(It will be a very tight but cuddly night.)
+（今晚会非常紧凑但又温馨。）
+(She wakes up first and proceeds to release you.)
+（她先醒来，然后放开了你。）
+(She helps you down on the floor, keeping you bound securely for the night.)
+（她帮你趴在地板上，牢牢绑住你一夜。）
+(You struggle in the dark for a while, hearing her snore softly.)
+（你在黑暗中挣扎了一会儿，听着她轻轻打鼾。）
+(It will be a very tight night.)
+（今晚会非常紧张。）
+(She finally wakes up and proceeds to release you.)
+（她终于醒来，开始放开你。）
+(She pushes you on the dungeon bed, chaining your ankle to the wall.)
+（她把你推倒在地牢床上，把你的脚踝锁在墙上。）
+(You struggle in vain as you hear the metal door closing for the night.)
+（你徒劳地挣扎着，听到金属门关上，准备入夜。）
+(It will be a very tight and cold night.)
+（今晚将非常紧绷且寒冷。）
+(She finally comes to bring you back to her bedroom, releasing you.)
+（她终于来把你带回卧室，放开你。）
+(She stretches and pets your head lovingly as the sun rises once again.)
+（她伸展身体，温柔地抚摸你的头，太阳再次升起。）
+(She stretches and puts two fingers on your head as the sun rises once again.)
+（她伸了个懒腰，两根手指放在你头上，太阳再次升起。）
+Rise and shine, slave girl.  Saturday is a great day for exercise.
+起床了，奴隶女孩。 周六是锻炼的好日子。
+We shall wander outside and get some fresh air.  Jogging awaits.
+我们去外面走走，呼吸点新鲜空气。 慢跑在等着你。
+We shall combine our work out with actual cleaning chores for the house.
+我们会把锻炼和家务结合起来。
+As you can guess, it shall not be ordinary jogging.  Tight control is required.
+正如你所料，这绝非普通的慢跑。 需要严格的控制。
+Present your arms, I shall prepare your running tack.
+举起武器，我来准备你的跑道具。
+(She opens a drawer containing a few restraints.)
+（她打开一个抽屉，里面有几条束缚。）
+(She frowns and opens a drawer containing a few restraints.)
+（她皱眉，打开一个抽屉，里面有几件束缚。）
+(She grumbles and opens a drawer containing a few restraints.)
+（她嘟囔着打开一个抽屉，里面有几个束缚。）
+(She smirks and opens a drawer containing a few restraints.)
+（她得意地笑了笑，打开一个抽屉，里面有几个束缚物。）
+(She smiles and opens a drawer containing a few restraints.)
+（她微笑着打开一个抽屉，里面有几件束缚。）
+(She straps a tight armbinder around your arms and locks a harness gag in your mouth.)
+（她给你绑上紧绷的臂束，嘴里锁住了安全带口塞。）
+Back then, my family owned many horses.  We used to go riding in the trails.
+那时，我家养了很多马。 我们以前常去小径上骑马。
+Times have changed but I still can have my own pony.
+时代变了，但我依然可以拥有自己的小马。
+Exercise is important for everyone, even for an animal like you.
+锻炼对每个人都很重要，即使是像你这样的动物。
+(She captures your pony look on her phone.)
+（她用手机捕捉到你的小马造型。）
+Do not wander, pony girl.  I shall return very soon.
+别乱跑，小马女孩。 我很快会回来。
+(She leaves you to go change.)
+（她让你去换衣服。）
+(You tug against the tight leather and chew on the gag, but nothing moves.)
+（你拉扯紧绷的皮革，咬着口塞，但什么都没动。）
+(Evelyn comes back rapidly, wearing her gym clothes.)
+（伊芙琳迅速回来，穿着运动服。）
+You are slowly adjusting to your new reality, pony girl.
+你正在慢慢适应你的新现实，小马女孩。
+Are you prepared for a long run?
+你准备好长跑了吗？
+Do not be scared, little foal.  This event shall improve your confidence.
+别害怕，小马驹。 这个活动将提升你的信心。
+We shall test your breed, little foal.
+我们要测试你的品种，小马驹。
+You're a motivated foal.  We shall test your breed.
+你是一匹有动力的小马驹。 我们会测试你的品种。
+What a proud foal!  We shall test your breed rigorously.
+多么骄傲的小马驹！ 我们将严格测试你的品种。
+Get moving!  (She grabs your collar and leads you outside.)
+快点！ （她抓住你的衣领，带你走到外面。）
+(She stares at you in disbelief.)  You are an amazing pony.  You make me proud.
+（她难以置信地盯着你。） 你是一匹了不起的小马。 你让我感到骄傲。
+(She smiles at you.)  You did very well, my pony.  Continue your training.
+（她对你微笑。） 你做得很好，我的小马。 继续训练。
+(She looks at you.)  More training is required, but I see potential in you, my pony.
+（她看着你。） 还需要更多训练，但我看到你有潜力，我的小马。
+(She seems disappointed.)  You require lots more training, you are not in good shape, my pony.
+（她看起来很失望。） 你需要更多的训练，你的身体状况不好，我的小马。
+(She shakes her head from left to right.)  That was pathetic, lots of improvements are required, pony girl.
+（她左右摇头。） 真可悲，还有很多改进的地方，小马女孩。
+(She sighs loudly and shakes her fist in anger.)  What a shameful performance.  A true mockery.
+（她大声叹气，愤怒地挥拳。） 真是丢脸的表现。 真是个嘲弄。
+Come inside, pony girl.  It's time for your shower.
+进来吧，小马女孩。 该洗澡了。
+(She drags you inside and releases you.)
+（她把你拖进去又放开你。）
+Think of it as actual slave work.  Being fully submissive can mean getting dirty.
+把它当作真正的奴隶劳动。 完全顺从可能意味着弄脏自己。
+Fetch the cleaning tools.
+去拿清洁工具。
+This is music to my ears.  (You go get the tools.)
+这对我来说简直是天籁之音。 （你去拿工具。）
+Complaining shan't make it go faster.  (You go get the tools.)
+抱怨也不会让它更快。 （你去拿工具。）
+(She smirks as you go get the tools.)
+（你去拿工具时，她露出一丝得意的笑容。）
+(She frowns as you go get the tools.)
+（她皱眉，你去拿工具。）
+(She stares at you as you go get the tools.)
+（你去拿工具时，她盯着你看。）
+(The house rooms need to be cleaned on a rotation.)
+（宿舍房间需要轮流清洁。）
+(On which area will you focus today?)
+（你今天会专注于哪个领域？）
+(She nods in approval as you head to the dirty shower room.)
+（她点头表示赞许，你走向脏兮兮的淋浴间。）
+(She shakes her head from left to right as you focus on the shower room again.)
+（她左右摇头，你又把注意力放回淋浴间。）
+(She nods in approval as you start cleaning the bedroom.)
+（当你开始打扫卧室时，她点头表示赞许。）
+(She shakes her head from left to right as you focus on the bedroom again.)
+（她左右摇头，你又把注意力放回卧室。）
+(She nods in approval as you head to the kitchen.)
+（她点头表示赞许，你走向厨房。）
+(She shakes her head from left to right as you focus on the kitchen again.)
+（她左右摇头，你又把注意力放回厨房。）
+(She gags you as you work hard on the scrubbing the showers.)
+（你努力擦洗淋浴时，她呛住了你。）
+(She reminds you that maids are meant to work, not to talk.)
+（她提醒你，女仆是用来工作的，不是用来说话的。）
+(Using the sponge, you clean every tile and corner on your knees.)
+（用海绵清理膝盖上的每一块瓷砖和角落。）
+(Evelyn comes to check on you from time to time.)
+（伊芙琳时不时会来看你。）
+(She keeps a souvenir of your hard work and sends you a copy.)
+（她留着你辛勤工作的纪念品，寄给你一份。）
+(Once everything is done, Evelyn starts to strip naked.)
+（一切结束后，伊芙琳开始脱光衣服。）
+(She gags you as you pick up a broom and work on the dust.) 
+（你拿起扫帚清理尘土时，她让你呛咳。） 
+(You work hard on dusting and cleaning the bedroom.)
+（你努力擦灰和打扫卧室。）
+(Once everything is done, she tells you that you will shower together.)
+（一切结束后，她告诉你你们会一起洗澡。）
+(She gags you as you pick up a towel and start cleaning the kitchen.) 
+（你拿起毛巾开始打扫厨房时，她让你呛咳。） 
+(You work hard on removing the cooking stains and cleaning the dishes.)
+（你努力去除烹饪污渍和洗碗。）
+(She leads you to the shower room and removes her clothes.)
+（她带你去淋浴间，脱下衣服。）
+After hard work, this body of mine requires cleaning.
+经过一番努力，我的身体需要清洗。
+Your daily shower shall be in strict bondage, as usual.
+你们的日常淋浴将像往常一样严格被束缚。
+Remember that poor hygiene shall get you punished.
+记住，卫生不好会被惩罚。
+(She frowns.)  Nonsense, you shall not put cheap scents on this body of mine.
+（她皱眉。） 胡说，你不能在我这身身上放廉价香味。
+(She smiles.)  This is music to my ears, slave girl.
+（她微笑着。） 这对我来说简直是天音，奴隶女孩。
+(She nods in agreement with you.)
+（她点头表示同意。）
+My standards are high.  I shall never settle for less.
+我的标准很高。 我绝不会妥协。
+(She picks up restraints and takes you to the shower.)
+（她拿起束缚带你去洗澡。）
+(She secures your bondage and turns on the water.)
+（她固定好你的束缚，打开水。）
+A shower with your owner is a privilege, not a right.
+和夫人一起洗澡是一种特权，不是权利。
+Remember that I could simply turn the hose on you.
+记住，我可以直接把水管对付你。
+I trust that you are keeping these genitals of mine sparkling clean.
+我相信你一直在保持我的生殖器干净如闪。
+Of course you are, slave girl.
+当然是你，奴隶女孩。
+Of course you are.
+当然了。
+This lousy answer does not satisfy me.
+这个糟糕的回答让我不满意。
+(She slaps your breast.)  We shall remedy that soon.
+（她拍了拍你的胸部。） 我们很快就会解决这个问题。
+(She finishes washing you both.  It's a ritual that seems very important to her.)
+（她帮你们俩洗完澡。 这是她觉得非常重要的仪式。）
+(As she leaves the shower, she grabs her phone to capture a portrait.)
+（她离开淋浴间时，拿起手机准备拍下肖像。）
+(She releases you and exits the shower.)
+（她放开你，走出淋浴间。）
+Now that we are clean, we can return to my bedroom.
+现在我们洗干净了，可以回我的卧室了。
+(She dresses back up as you wait on your knees for the next orders.)
+（她穿好衣服，你跪着等待下一个订单。）
+Slave, I require some time alone to work for college tonight.
+奴隶，我今晚需要一些独处时间为大学工作。
+Slave girl, I require some time alone to work for college tonight.
+奴隶女孩，我今晚需要一些独处时间去为大学工作。
+Girl, I require some time alone to work for college tonight.
+姑娘，我今晚需要一些独处时间去上大学工作。
+I require some time alone to work for college tonight.
+我今晚需要一些独处时间去为大学工作。
+Sorry, I require some time alone to work for college tonight.
+抱歉，我今晚需要一些独处时间去做大学的工作。
+Tonight, I shall install a cage for you in the living room.
+今晚，我将在客厅为你安装一个笼子。
+You shall be restrained, gagged and blindfolded in it, completely helpless.
+你将被束缚、堵住嘴、蒙住眼睛，完全无助。
+An absolute slave like you needs to be patient while her owner works.
+像你这样彻底的奴隶，需要耐心等待夫人工作。
+Come with me.
+跟我来。
+(She frowns and shakes her head from left to right.)  Absolutely not.
+（她皱眉，左右摇头。） 绝对不是。
+(She smirks and nods.)  Indeed.
+（她得意地笑着点头。） 确实如此。
+(She nods slowly and stays silent.)
+（她慢慢点头，保持沉默。）
+Really?  Then you shall also sleep in that cage.
+真的吗？ 那你也要睡在那个笼子里。
+(She prepares the cage and restrains you securely in it.)
+（她准备好笼子，牢牢地将你束缚在里面。）
+(You can hear the sound of her heels leaving the room.)
+（你能听到她高跟鞋离开房间的声音。）
+(It will be a cold and boring evening alone.)
+（这将是一个寒冷无聊的夜晚。）
+(She doesn't come back on that night.  You will sleep caged.)
+（那天晚上她没有回来。 你会被关在笼子里睡觉。）
+(You barely sleep in the cold cage, it's very hard to get comfy.)
+（你几乎不睡在冰冷的笼子里，很难找到舒服的状态。）
+(As morning comes, she releases you and takes you to her bedroom.)
+（天亮时，她放开你，带你去她的卧室。）
+Tonight, you shall be restrained and kept helpless on the living room couch.
+今晚，你将被束缚，无助地躺在客厅的沙发上。
+A good slave needs to be patient while her owner works.
+一个好奴隶需要耐心等待夫人工作。
+Really?  Then a steel cage shall suit you better.
+真的吗？ 那钢笼更适合你。
+(She locks you securely on the couch and walks away.)
+（她把你锁在沙发上，转身离开。）
+(It will be a slow and boring evening alone.)
+（今晚会是一个缓慢而无聊的独处夜晚。）
+(She doesn't call you back for bed, she might have too much work to do.)
+（她没有叫你回去睡觉，可能还有太多工作要做。）
+(You will sleep bound on her couch, trying not to urinate on it.)
+（你会被绑在她的沙发上睡觉，尽量不在沙发上尿尿。）
+Tonight, you shall be restrained in the living room in a position that allows you to read.
+今晚，你将被限制在客厅，以一个可以阅读的姿势。
+I have an expansive selection of books you can enjoy.
+我有丰富的书籍选择，供你欣赏。
+(She walks with you to the living room, getting some restraints.)
+（她陪你走向客厅，拿起束缚。）
+(She gags you securely and cuffs your hands in front to help you study.)
+（她给你塞上嘴，双手铐在前面帮你学习。）
+You can read tonight in the living room.  Studying shall enhance your cerebral cortex.
+今晚你可以在客厅看书。 学习可以增强你的大脑皮层。
+(She walks away, leaving you to read alone.)
+（她走开了，留下你独自阅读。）
+(She has many books to pick from, it's impossible to try everything.)
+（她有很多书可选，不可能什么都试。）
+(What will you read?)
+（你会读什么？）
+(Evelyn walks by randomly while you read, she laughs at your book selection.)
+（伊芙琳在你读书时会随机路过，她会笑你选的书。）
+(Evelyn walks by randomly while you read, she smiles seeing your book selection.)
+（伊芙琳在你读书时会随机路过，看到你选的书时她微笑了。）
+(Evelyn walks by randomly while you read, she doesn't seem to mind your book selection.)
+（伊芙琳在你读书时会随机路过，她似乎并不介意你的书选。）
+(Evelyn walks by randomly while you read, she says it should help your students.)
+（伊芙琳在你读书时会随机路过，她说这对学生有帮助。）
+(Evelyn walks by randomly while you read, she says this trash knowledge might corrupt the students.)
+（伊芙琳在你读书时会随机路过，她说这些垃圾知识可能会腐蚀学生。）
+(Evelyn walks by randomly while you read, she sighs at your book selection.)
+（伊芙琳在你读书时路过，她叹了口气。）
+(Evelyn walks by randomly while you read, she seems intrigued by your book selection.)
+（伊芙琳在你读书时会随机路过，似乎对你的书选很感兴趣。）
+(Your Mistress doesn't call you back for bed, she might have too much work to do.)
+（你的夫人不会叫你回去睡觉，她可能有太多工作要做。）
+(You can read very late and sleep on the couch.)
+（你可以很晚看书，睡沙发。）
+(As morning comes, she calls you back to her bedroom.)
+（天亮时，她叫你回卧室。）
+You are free to do as you please, you can play video games if you desire.
+你可以随心所欲，如果愿意可以玩电子游戏。
+(She guides you to the living room but leaves you there alone.)
+（她带你去客厅，却让你独自一人。）
+(You pick up the controller and start to look for a game.)
+（你拿起手柄开始找游戏。）
+(What will you play?)
+（你会弹什么？）
+(Evelyn walks by randomly while you play, she seems to disagree with the violence in your game.)
+（Evelyn在你玩的时候会随机路过，她似乎不同意你游戏中的暴力设定。）
+(Evelyn walks by randomly while you play, she rolls her eyes at your game selection.)
+（伊芙琳在你玩游戏时会随机路过，她对你的游戏选择翻了个白眼。）
+(Evelyn walks by randomly while you play, she smiles seeing your game selection.)
+（Evelyn 会在你玩游戏时随机路过，看到你选的游戏时会微笑。）
+(Evelyn walks by randomly while you play, she sighs seeing your game selection.)
+（伊芙琳在你玩游戏时会随机路过，看到你的游戏选择她叹了口气。）
+(Evelyn walks by randomly while you play, she seems impressed by your game selection.)
+（伊芙琳在你玩游戏时会随机路过，似乎对你的游戏选择印象深刻。）
+(Evelyn walks by randomly while you play, she seems intrigued by your game selection.)
+（伊芙琳在你玩游戏时会随机路过，她似乎对你的游戏选择很感兴趣。）
+(You can play very late and sleep on the couch.)
+（你可以玩到很晚，睡沙发。）
+(You get comfy on your knees again, waiting for Sunday's planning.)
+（你又舒服地跪着，等待周日的筹备。）
+My wonderful girl, I know I was swamped with work yesterday.
+我亲爱的女孩，我知道我昨天工作忙得不可开交。
+I know I was swamped with work yesterday.
+我知道昨天工作忙得不可开交。
+(She gets serious.)  Slave, we need to talk.
+（她变得严肃起来。） 奴隶，我们得谈谈。
+I want you to remember that I love you very much.  You are my utmost priority.
+我想让你记住，我非常爱你。 你是我最优先考虑的。
+Today, I intend on spending some quality time with you.
+今天，我打算和你共度美好时光。
+(She smiles at you and picks some rope.)
+（她对你微笑，捡起一根绳子。）
+(She tightly binds your arms behind your back, making a big smirk.)
+（她紧紧地把你的手臂绑在背后，露出一抹大大的笑容。）
+(She moves seductively to sit on the bed.)
+（她诱惑地坐到床上。）
+Further training shall be required in the next weeks.
+接下来的几周内还需要进一步的培训。
+Your Mistress is your sole priority.  (She dresses back angrily.)
+你的夫人是你唯一的优先。 （她愤怒地穿回去。）
+Today shall be a good day to discuss rules and expectations.
+今天将是讨论规则和期望的好日子。
+(She slowly recovers and pushes you back.)
+（她慢慢恢复，推开你。）
+My slave, this pleasure shall be required many more times in the future
+我的奴隶，这份快乐以后还会被需要很多次
+Today shall be a good day to discuss intimacy.
+今天将是讨论亲密关系的好日子。
+(She strips down and swiftly ropes you on her bed.)
+（她脱光衣服，迅速把你绑在床上。）
+(You get comfy together as she smiles at you.)
+（你们一起舒服地坐在一起，她对你微笑。）
+Remember that I own this body.  Each climax is a favor I grant.
+记住，这具身体属于我。 每一次高潮都是我帮忙的。
+This foul language made me change my mind.  We shall skip intercourse.  (She sighs loudly.)
+这句脏话让我改变了主意。 我们就不做房了。 （她大声叹气。）
+This unpleasant comment made me change my mind.  (She sighs loudly.)
+这句不愉快的评论让我改变了主意。 （她大声叹气。）
+Fine, if you do not require pleasure, it shall not be granted.  (She sighs loudly.)
+好吧，如果你不要求快乐，那就不满足。 （她大声叹气。）
+(She puts her glasses away, facing your thighs.  You can smell her arousal.)
+（她收起眼镜，面向你的大腿。 你能闻到她的兴奋。）
+Get busy, slave girl.
+快点忙吧，奴隶女孩。
+Your lack of motivation made you lose your orgasm.  (She pushes you back.)
+你缺乏动力导致你失去了高潮。 （她把你推开。）
+This rude kick made you lose your bed access, slave.  (She pushes you back.)
+这粗暴的踢子让你失去了床位，奴隶。 （她把你推开。）
+Ah!  (She starts to sweat and moan.)  Not yet, slave girl.
+啊！ （她开始出汗呻吟。） 还没，奴隶女孩。
+You certainly picked the worst time to get lazy.  (She pushes you back.)
+你真是选了最糟糕的时机懒惰。 （她把你推开。）
+My girl, my slave.  That was amazing.
+我的女孩，我的奴隶。 太棒了。
+This is heaven, pure extasy and bliss.
+这就是天堂，纯粹的狂喜与极乐。
+(She steps back and puts her glasses on, smiling at you.)
+（她后退一步，戴上眼镜，对你微笑。）
+We have some topics to resolve but sexuality isn't one of them.
+我们有一些话题需要解决，但性取向不是其中之一。
+If you are not motivated or forget that my pleasure comes first, you shall not climax.
+如果你没有动力，或者忘了我的快感优先，你就无法达到高潮。
+It seems that more sexual training shall be required, we have lots to explore.
+看来还需要更多的性训练，我们有很多可以探索的地方。
+Today shall be a good day to discuss sexual preferences.
+今天将是讨论性取向的好日子。
+This unapproved orgasm was infuriating.  You have no self-control.
+这种未经批准的高潮令人愤怒。 你一点自制力都没有。
+A lot more sexual training shall be required.
+还需要更多的性训练。
+Even if our relationship has its ups and downs, you are my priority.
+即使我们的关系有起有落，你也是我的首要任务。
+Today, I intend on spending more time with you.
+今天，我打算多花时间陪你。
+(She grins and picks some rope.)
+（她咧嘴笑着，捡起了一些绳子。）
+(She tightly binds your arms behind your back, inspecting her work.)
+（她紧紧地把你的手臂绑在背后，仔细检查着自己的作品。）
+As your Mistress, I am your only priority.  You shall worship my body, day and night.
+作为你的夫人，我是你唯一的优先。 你将昼夜敬拜我的身体。
+Today shall be a good day to discuss devotion.
+今天将是讨论虔诚的好日子。
+(She removes your ropes and takes a more serious tone.)
+（她解开你的绳索，语气变得严肃。）
+Slave, do not bargain or complain when you are required to please me.
+奴隶，当你需要取悦我时，不要讨价还价或抱怨。
+You shall not think or struggle, obedience is the only path.
+你不可思考或挣扎，服从是唯一的道路。
+Today shall be a good day to discuss slavery.
+今天将是讨论奴隶制的好日子。
+My slave, my possession, let's have a leisure day together.
+我的奴隶，我的财产，让我们一起悠闲地度过一天。
+Go get the chess board from the drawer, we shall enjoy a few games.
+去抽屉里拿棋盘，我们来玩几盘。
+(You bring the chess board on the bed, starting to put the pieces.)
+（你把棋盘搬到床上，开始摆放棋子。）
+Slave girl, are you up for a challenge?
+奴隶女孩，你准备好挑战了吗？
+(She gulps and nods.)  We shall see about that.
+（她咽了口口水，点了点头。） 我们拭目以待。
+(She smirks after her victory.)  There is no shame in defeat, my possession.
+（她在胜利后露出一丝得意的笑容。） 失败无耻，我的财产。
+(She smiles at you.)  Congratulations my girl, you played beyond my expectations.
+（她对你微笑。） 恭喜你，我的女孩，你的表现超出了我的预期。
+We shall review that match and the opening moves.
+我们将回顾那场比赛及其开局动作。
+(You play a few more games before getting tired.)
+（你又玩了几局才累了。）
+Things are not going properly between us.
+我们之间的关系不太顺利。
+I must admit that I am not enjoying my time with you.
+我必须承认，我并不喜欢和你在一起的时光。
+You are my toy, my possession, but you do not fulfill your duty.
+你是我的玩具，我的财产，但你没有履行你的责任。
+You are my toy, my possession, yet I do not desire you anymore.  The warning did not work.
+你是我的玩具，我的财产，但我不再渴望你。 警告没有起作用。
+(She picks up many restraints from the drawer.)
+（她从抽屉里拿起许多束缚物。）
+(She taps her foot on the ground.  You can hear her breath loudly.)
+（她用脚轻轻敲击地面。 你能听到她的呼吸声很大。）
+A broken toy can be repaired, at least I hope so.
+坏掉的玩具是可以修好的，至少我希望如此。
+(She drags you forcefully on her lap.)
+（她用力把你拉到腿上。）
+(She drags you on her lap, getting ready for a vigorous spanking.)
+（她把你拉到腿上，准备挨一顿狠狠的打屁股。）
+Slave, hear me and hear me well.
+奴隶，听我说，听我说。
+This spanking today is a warning, the sole one.
+今天的这场打屁股是唯一的警告。
+As my toy, your only duty is to bring me pleasure, joy and felicity.
+作为我的玩具，你唯一的职责就是带给我快乐、喜悦和幸福。
+If you fail at your sole endeavor, you are worthless.
+如果你在唯一的努力上失败了，你一文不值。
+What could I do with a possession that has no value?
+我能拿一个毫无价值的物品做什么？
+I shall get rid of it.
+我会处理掉它。
+(She stops.)  Do you understand?
+（她停下了。） 明白吗？
+(She squeezes your butt and puts you down.)
+（她捏了捏你的屁股，把你放下。）
+(She caresses your butt and puts you down.)
+（她抚摸你的屁股，然后把你放下。）
+(She doesn't say a word and puts you back down.)
+（她一句话也没说，把你放回去。）
+(She removes your restraints, keeping her serious tone.)
+（她解开束缚，语气严肃。）
+I hope you have heeded my words and understood their severity.
+我希望你听从了我的话，明白了它们的严重性。
+This warning is the final one, remember it well.
+这是最后一条警告，记住它。
+Your perfect obedience shall be the key to opening my heart once again.
+你完美的顺从将是再次打开我心扉的关键。
+I have had enough.  Your fate is sealed.
+我受够了。 你的命运已经注定。
+Slave, yesterday I talked with a possible new Mistress for you.
+奴隶，昨天我和一个可能的新情妇谈过。
+I shall contact her right now, to complete the transaction.
+我现在就联系她，完成交易。
+(She ropes you very tightly, much harsher than usual.)
+（她用绳子绑得非常紧，比平时更严厉。）
+Slave, I made a special phone call yesterday.
+奴隶，我昨天打了个特别的电话。
+I called your new Mistress.  You have been sold.
+我打电话给你的新夫人了。 你已经被卖了。
+Her bodyguard shall come to pick you up soon.  You shall join her harem.
+她的保镖很快就会来接你。 你将加入她的后宫。
+There's no need to cry or protest, the transaction cannot be undone.
+无需哭泣或抗议，交易无法撤销。
+Be good for her or you shall suffer a lot more than here.
+乖乖的，否则你会比这里受更多苦。
+(Evelyn sold you like an unwanted toy, you will meet your new Mistress soon.)
+（伊芙琳把你当成不受欢迎的玩具卖了，你很快就会见到你的新夫人。）
+(Your life will change considerably.  Your chances of escaping are very slim.)
+（你的生活将发生重大变化。 你逃脱的机会非常渺茫。）
+(You discuss for a while and spend the rest of the day with your Mistress.)
+（你们讨论了一会儿，剩下的时间都和夫人在一起。）
+(You talk about your role as her permanent slave and her role as your owner.)
+（你谈到了你作为她永久奴隶的角色，以及她作为你夫人的角色。）
+(You also plan your next week at the college.  It will come very soon...)
+（你也计划了下周在大学的学习。 很快就会到来的......）

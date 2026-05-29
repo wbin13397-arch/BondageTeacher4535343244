@@ -1,20 +1,20 @@
-And a huge thank you to all the fans!
-衷心感谢所有粉丝！
 Bondage Teacher
-束缚教师
+束缚老师
 Cheats are active
-作弊已激活
-English
-英语
-Français
-法语
-Load game
-加载游戏
+作弊激活 作弊已激活
 New game
-新游戏
-Thank you
-谢谢
+新游戏 新游戏
+Load game
+加载游戏 加载游戏
+English
+语言EN 英语
+Français
+LanguageFR Français
+Chinese
+LanguageCN 到英语
 This game is made possible by our patrons:
-这款游戏由我们的赞助人支持：
-到英语
-切换到英语
+CreditTypePatrons 这款游戏得以实现，感谢我们的赞助者：
+And a huge thank you to all the fans!
+致谢类型粉丝们：非常感谢所有粉丝！
+Thank you
+谢谢你

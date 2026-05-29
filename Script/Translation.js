@@ -16,13 +16,13 @@ var TranslationDictionary = [
 		Files: [
 		]
 	},
-/*	{
-		LanguageCode: "DE",
-		LanguageName: "Deutsch",
-		EnglishName: "German",
-		Files: [
-		]
-	},*/
+	/*	{
+			LanguageCode: "DE",
+			LanguageName: "Deutsch",
+			EnglishName: "German",
+			Files: [
+			]
+		},*/
 	{
 		LanguageCode: "FR",
 		LanguageName: "Français",
@@ -33,13 +33,13 @@ var TranslationDictionary = [
 			"Screen/Intro/IntroBedroom/Text_IntroBedroom_FR.txt",
 		]
 	},
-/*	{
-		LanguageCode: "RU",
-		LanguageName: "Русский",
-		EnglishName: "Russian",
-		Files: [
-		]
-	},*/
+	/*	{
+			LanguageCode: "RU",
+			LanguageName: "Русский",
+			EnglishName: "Russian",
+			Files: [
+			]
+		},*/
 	{
 		LanguageCode: "CN",
 		LanguageName: "中文",
@@ -61,22 +61,24 @@ var TranslationDictionary = [
 			"Screen/Intro/Start/Text_Start_CN.txt",
 			"Screen/Intro/Warning/Text_Warning_CN.txt",
 			"Screen/MiniGame/FreeBondage/Text_FreeBondage_CN.txt",
+			"Screen/Home/BossHouse/Text_BossHouse_CN.txt",
+			"Screen/Outro/Epilogue/Text_Epilogue_CN.txt"
 		]
 	},
-/*	{
-		LanguageCode: "TW",
-		LanguageName: "繁體中文",
-		EnglishName: "TraditionalChinese",
-		Files: [
-		]
-	},
-	{
-		LanguageCode: "UA",
-		LanguageName: "Українська",
-		EnglishName: "Ukrainian",
-		Files: [
-		]
-	},*/
+	/*	{
+			LanguageCode: "TW",
+			LanguageName: "繁體中文",
+			EnglishName: "TraditionalChinese",
+			Files: [
+			]
+		},
+		{
+			LanguageCode: "UA",
+			LanguageName: "Українська",
+			EnglishName: "Ukrainian",
+			Files: [
+			]
+		},*/
 ];
 
 /**
@@ -139,10 +141,10 @@ function TranslationParseTXT(str) {
  * @returns {string} - The translated string
  */
 function TranslationString(S, T) {
-	if(S && S.trim()){
+	if (S && S.trim()) {
 		S = S.trim();
-		let r = T.findIndex(_=>_===S);
-		if(r >= 0) return T[r+1];
+		let r = T.findIndex(_ => _ === S);
+		if (r >= 0) return T[r + 1];
 	}
 	return S;
 }
@@ -180,15 +182,15 @@ function TranslationTextArray(S, T) {
 function TranslationDialogRun(T) {
 	if (T == null) return;
 	for (let D of DialogCurrent) {
-        if ((D.Option != null) && (D.Option != "")) {
-            D.Option = TranslationString(D.Option, T);
-            D.Option = D.Option.replaceAll("PlayerName", Character[0].DisplayName);
-        }
-        if ((D.Text != null) && (D.Text != "")) {
-            D.Text = TranslationString(D.Text, T);
-            D.Text = D.Text.replaceAll("PlayerName", Character[0].DisplayName);
-        }
-	}		
+		if ((D.Option != null) && (D.Option != "")) {
+			D.Option = TranslationString(D.Option, T);
+			D.Option = D.Option.replaceAll("PlayerName", Character[0].DisplayName);
+		}
+		if ((D.Text != null) && (D.Text != "")) {
+			D.Text = TranslationString(D.Text, T);
+			D.Text = D.Text.replaceAll("PlayerName", Character[0].DisplayName);
+		}
+	}
 }
 
 /**
@@ -199,7 +201,7 @@ function TranslationFixPlayerName() {
 	for (let Line of DialogCurrent) {
 		Line.Option = Line.Option.replaceAll("PlayerName", Character[0].DisplayName);
 		Line.Text = Line.Text.replaceAll("PlayerName", Character[0].DisplayName);
-	}	
+	}
 }
 
 /**
@@ -225,7 +227,7 @@ function TranslationDialogPrepare() {
 		}
 
 		// Gets the translation data before running it
-		CommonGet(FullPath, function() {
+		CommonGet(FullPath, function () {
 			if (this.status == 200) {
 				TranslationCache[FullPath] = TranslationParseTXT(this.responseText);
 				TranslationDialogRun(TranslationCache[FullPath]);
@@ -272,7 +274,7 @@ function TranslationText(Text) {
 
 		// If the translation is available, we open the txt file, parse it and returns the result to build the dialog
 		if (TranslationAvailable(FullPath))
-			CommonGet(FullPath, function() {
+			CommonGet(FullPath, function () {
 				if (this.status == 200) {
 					TranslationCache[FullPath] = TranslationParseTXT(this.responseText);
 					TranslationTextArray(Text, TranslationCache[FullPath]);
@@ -319,7 +321,7 @@ function TranslationAsset(Family) {
 
 		// If the translation is available, we open the txt file, parse it and returns the result to build the dialog
 		if (TranslationAvailable(FullPath))
-			CommonGet(FullPath, function() {
+			CommonGet(FullPath, function () {
 				if (this.status == 200) {
 					TranslationCache[FullPath] = TranslationParseTXT(this.responseText);
 					TranslationAssetProcess(TranslationCache[FullPath]);
@@ -335,7 +337,7 @@ function TranslationAsset(Family) {
  * @param {string} code - The language code to get the human-readable name of.
  * @param {boolean} [english] - Get the english name of it.
  */
-function TranslationGetLanguageName(code, english=false) {
+function TranslationGetLanguageName(code, english = false) {
 	const data = TranslationDictionary.find(d => d.LanguageCode === code);
 	if (!data) return "";
 	return english ? data.EnglishName : data.LanguageName;

@@ -1,828 +1,2128 @@
-"Knock, knock, knock"
-敲敲敲
-(As you hear Yuki working in the cabinet, she closes your gag.)
-（当你听到Yuki在柜子里工作时，她关上了你的口塞。）
-(Cuddle against her legs.)
-（依偎在她的腿上。）
-(Cuff her loosely.)
-（松散地铐住她。）
-(Cuff her regularly.)
-（正常地铐住她。）
-(Cuff her strictly.)
-（严格地铐住她。）
-(Evelyn blushes and looks down.)
-（Evelyn脸红，低头看。）
-(Evelyn looks at you and frowns.)  It's you?  Let's do this quickly.
-（Evelyn看着你皱眉。）是你？我们快点做吧。
-(Evelyn looks at you.)  There you are young lady.
-（Evelyn看着你。）你在这儿啊，小姐。
-(Evelyn pokes you with her shoe.)
-（Evelyn用鞋子戳你。）
-(Evelyn slowly calms down.)
-（Evelyn慢慢平静下来。）
-(Evelyn stares at you with wide eyes and struggles on her cuffs.)
-（Evelyn瞪大眼睛看着你，在手铐上挣扎。）
-(Evelyn tugs on her cuffs as someone knocks again.)
-（当有人再次敲门时，Evelyn拉扯她的手铐。）
-(Evelyn waits for you to talk in your gag.)
-（Evelyn等着你在口塞里说话。）
-(Evelyn waves at you.)  It's a pleasure to see you PlayerName.
-（Evelyn向你挥手。）很高兴见到你，PlayerName。
-(Gag her loosely.)
-（松散地塞住她的嘴。）
-(Gag her safely.)
-（安全地塞住她的嘴。）
-(Gag her tightly.)
-（紧紧地塞住她的嘴。）
-(Get comfy between her legs.)
-（在她腿间舒服地待着。）
-(Go open the door.)
-（去开门。）
-(Her eyes widen.)  Oh lord!
-（她的眼睛瞪大。）天哪！
-(Inside it, you find many cuffs and gags that come with a removable plug and a bottom buckle.)
-（在里面，你发现许多带有可拆卸塞子和底部扣环的手铐和口塞。）
-(Keep on waiting.)
-（继续等待。）
-(Keep your mouth shut.)
-（闭上你的嘴。）
-(Lick her panties through the gag hole.)
-（通过口塞的洞舔她的内裤。）
-(Lick her pussy slowly and skillfully.)
-（缓慢而熟练地舔她的私处。）
-(Lick to suck her juices.)
-（舔吸她的体液。）
-(Nod and whimper.)
-（点头并呜咽。）
-(Nuzzle on her covered clitoris.)
-（在她遮盖的阴蒂上蹭。）
+As you enter the college, a secretary intercepts you.
+当你进入学院时，一名秘书拦住了你。
+She instructs you to report to your boss immediatly.
+她指示你立即向老板汇报。
+You quickly get to Evelyn's office, she's waiting for you.
+你赶紧去伊芙琳的办公室，她在等你。
+As you walk in the halls, a secretary comes to greet you.
+当你走在走廊上时，一位秘书来迎接你。
+She instructs you that your boss Evelyn wants to see you.
+她告诉你，你的老板伊芙琳想见你。
+You rush to the director's office, trying not to be late.
+你急忙赶往主任办公室，尽量不迟到。
+As you get to class, a secretary comes to salute you.
+你走到教室时，一位秘书过来向你敬礼。
+She tells you that Director Evelyn would like to meet.
+她告诉你，伊芙琳主任想见面。
+You quickly go to her office, it will be a hectic day.
+你赶紧去她办公室，那天会很忙。
+Alright.
+好吧。
+You can't be serious!
+你不会是认真的吧！
+Yes Director.
+是，主任。
+I understand your methods.
+我理解你的方法。
+If you try to touch me, I will quit.  (Leave your job.)
+如果你敢碰我，我就不干了。 （辞掉你的工作。）
+Corporal punishment?
+体罚？
+Not yet.
+还没有。
+I did not leave any bruise.
+我没有留下任何淤青。
+InventoryDialogCrop
+鞭子对话
+I'm ready to spank you.
+我准备打你屁股了。
+Please be gentle.
+请温柔点。
+I can handle it.
+我能应付。
+I'm allowed to spank you?
+我可以打你屁股吗？
+I don't like it.
+我不喜欢这样。
+With pleasure.
+很乐意。
+Is it really necessary?
+真的有必要吗？
+I loved it, that was perfect.
+我很喜欢，太完美了。
+I can't wait to try it, Evelyn.
+我迫不及待想试试，伊芙琳。
+Yes Director.  Thank you for the physical demonstration.
+是，主任。 谢谢你的实际演示。
+Simply telling me would be alright.
+直接告诉我就好。
+InventoryDialogPhone
+电话对话
+Gags are dangerous.
+口塞很危险。
+Yes Director.  I've been gagged before.
+是，主任。 我以前被堵过嘴。
+I've used gags on others.
+我也用过口塞对别人。
+I did not.  But I'm curious
+我没有。 但我很好奇
+Please demonstrate the bondage on me Director.
+请给我展示束缚，主任。
+Fine, you can restrain me for the demonstration.
+好吧，你可以让我被束缚，为了示范。
+I'm ready to restrain you.
+我准备束缚你了。
+I'm allowed to restrain you?
+我可以束缚你吗？
+Demonstration isn't needed.  I will be fine.
+不需要演示。 我会没事的。
+This isn't appropriate.
+这不合适。
+Only for your eyes.  (Wink at her.)
+只为你的眼睛。 （向她眨眼。）
+Very well.
+很好。
+I could easily get out.
+我完全可以出去。
+I do feel very secure.
+我确实感到非常安全。
+It's fine.
+没事。
+Aaaaah!
+啊啊啊！
+This isn't needed.  I understand.
+这没必要。 我明白。
 (Open wide for her.)
 （为她张大嘴。）
-(Play with her clitoris passionately.)
-（热情地玩弄她的阴蒂。）
+(Keep your mouth shut.)
+（闭嘴。）
+Wwha hhwoou ih hay?
+哇，呼呼，你？
+Ik honn hhe eechee.
+我知道。
+(Stay silent.)
+（保持安静。）
+(Stay silent and patient.)
+（保持安静，耐心等待。）
+(Scream in your gag.)
+（嘴里尖叫。）
+(Try to escape the cuffs.)
+（试着挣脱手铐。）
+(Cuddle against her legs.)
+（依偎在她的腿上。）
+(Nod and whimper.)
+（点头，呜咽。）
+(Start to get out.)
+（开始出去。）
+(Shake your head no.)
+（摇头，不。）
+(Get comfy between her legs.)
+（在她两腿之间找个舒服的位置。）
+(Rub your gag over her panties.)
+（用你的口塞擦过她的内裤。）
 (Pokes her panties with your nose.)
-（用你的鼻子戳她的内裤。）
+（用鼻子戳她的内裤。）
+(Smell her panties.)
+（闻闻她的内裤味。）
 (Refuse to move or do anything.)
 （拒绝移动或做任何事。）
-(Release her quickly.)
-（迅速释放她。）
-(Rub your gag over her panties.)
-（用你的口塞在她内裤上摩擦。）
-(Rub your nose against her clitoris and lick her pussy rapidly.)
-（用你的鼻子摩擦她的阴蒂并迅速舔她的私处。）
-(Scream in your gag.)
-（在你的口塞里尖叫。）
-(Shake your head no.)
-（摇头表示不。）
-(She aims carefully and spanks your butt to demonstrate.)
-（她仔细瞄准并打你的臀部以示示范。）
-(She arranges her outfit.)  Of course, young lady.
-（她整理她的服装。）当然，小姐。
-(She bends over her desk and puts her palms on it.)
-（她弯腰靠在桌上，双手放在上面。）
-(She bows her head as you unlock and release her.)
-（当你解锁并释放她时，她低下了头。）
-(She chews on the gag and twists her head from left to right.)
-（她咬着口塞，头从左到右扭动。）
-(She closes your gag as you refuse to comply.)
-（当你拒绝服从时，她关上了你的口塞。）
-(She doesn't dare to make any noise.)
-（她不敢发出任何声音。）
-(She frowns and grumbles in her gag.)  Hho aw hhot ehanhin he huhi!
-（她皱着眉头在口塞里咕哝。）谁在那儿弄得我好疼！
-(She frowns as you reluctantly put your palms on her desk.)
-（当你不情愿地把手放在她桌上时，她皱起了眉头。）
-(She frowns while looking at the screen.)  You're doing a horrible job young lady.
-（她看着屏幕皱眉。）你的工作做得太糟糕了，小姐。
-(She frowns.)  My methods are proven.
-（她皱眉。）我的方法是经过验证的。
-(She frowns.)  These methods were already proven before you were born, young lady.
-（她皱眉。）这些方法在你出生前就已经验证过了，小姐。
-(She fumbles with her files as Evelyn grumbles in her gag.)
-（当Evelyn在口塞里咕哝时，她手忙脚乱地翻找文件。）
-(She gasps and starts walking toward Evelyn.)
-（她喘着气，开始走向Evelyn。）
-(She gets impatient and snaps her fingers for you to undress.)
-（她不耐烦地打响指让你脱衣服。）
-(She gets wet and trembles as you lick her panties as best as you can.)
-（当你尽力舔她的内裤时，她湿了并颤抖。）
-(She grins.)  It seems that you've learned from your past experiences.
-（她咧嘴笑。）看来你从过去的经验中学到了东西。
-(She grins.)  The pleasure is mine.
-（她咧嘴笑。）这是我的荣幸。
-(She grins.)  You don't know half of it.
-（她咧嘴笑。）你还不知道一半呢。
-(She grumbles as you reluctantly put your palms on her desk.)
-（当你不情愿地把手放在她桌上时，她咕哝着。）
-(She gulps and nods.)  I understand.
-（她咽了口唾沫并点头。）我明白了。
-(She gulps as you wave your crop.)  I see that you're serious.  Let's do it!
-（当你挥动鞭子时，她咽了口唾沫。）我看你是认真的。来吧！
-(She heads back to her desk.)
-（她回到她的桌子旁。）
-(She helps you a little, as you slowly get out from under the desk.)
-（当你慢慢从桌子底下出来时，她稍微帮了你一把。）
-(She jumps a little but remains in control and keeps on talking.)
-（她稍微跳了一下，但保持控制，继续说话。）
-(She jumps a little on her chair as you poke her pussy.  She tries to focus on her discussion.)
-（当你戳她的私处时，她在椅子上稍微跳了一下，试图专注于她的讨论。）
-(She keeps your head low to make sure you cannot be seen.)
-（她压低你的头，确保你不被看到。）
-(She laughs at you.)  You can try it for my amusement
-（她嘲笑你。）你可以试试，给我找点乐子。
-(She laughs.)  I like the way you think.
-（她笑。）我喜欢你的思维方式。
-(She leans back on her chair and watches you undress.)
-（她靠在椅子上，看着你脱衣服。）
-(She leaves the office in a hurry.)
-（她匆忙离开办公室。）
-(She leaves you with Evelyn and starts to search in a cabinet.)
-（她把你留给Evelyn，开始在柜子里翻找。）
-(She locks both your hands and elbows, securing your arms behind your back.)
-（她锁住你的双手和肘部，将你的手臂固定在背后。）
-(She looks at some student files in her computer.)
-（她在电脑里查看一些学生档案。）
-(She looks at the clock and gets nervous.)
-（她看了看钟，变得紧张起来。）
-(She looks at the screen and smiles.)  It seems that you are doing a fine job.  Congratulations.
-（她看着屏幕微笑。）看来你干得不错。祝贺你。
-(She looks at the screen carefully.)  I'm not seeing much progress so far.
-（她仔细地看着屏幕。）目前我没看到什么进展。
-(She looks at you and nods.)  This is out of protocol, but you seem confident enough.
-（她看着你点头。）这不符合规定，但你看起来足够自信。
-(She looks at you curiously.)
-（她好奇地看着你。）
-(She looks at you nervously as you wait patiently.)
-（当你耐心地等待时，她紧张地看着你。）
-(She moans a little and seems to have a discreet orgasm but remains in control.)
-（她轻声呻吟，似乎有了一次隐秘的高潮，但仍保持控制。）
-(She moves closer with a panel gag.)  The final step is the gag.
-（她拿着面板口塞走近。）最后一步是口塞。
-(She nods and cracks her knuckles.)
-（她点头并掰响手指。）
-(She nods as you unlock and release her.)
-（当你解锁并释放她时，她点了点头。）
-(She nods at you.)  I understand.
-（她对你点头。）我明白了。
-(She nods happily.)  That's how your students should feel.
-（她开心地点头。）这就是你的学生应该感受到的。
-(She nods in agreement.)  I guess I do.
-（她点头表示同意。）我想是的。
-(She nods in agreement.)  Very good.
-（她点头表示同意。）很好。
-(She nods slowly.)
-（她慢慢地点头。）
-(She nods slowly.)  Learning corporal punishment is important.
-（她慢慢地点头。）学习体罚很重要。
-(She nods.)  It certainly shows that you have past experiences.
-（她点头。）这确实表明你有过去的经验。
-(She nods.)  Remember that this is a demonstration.
-（她点头。）记住，这只是一个示范。
-(She nods.)  That's wise.
-（她点头。）这很明智。
-(She nods.)  Use your knowledge wisely.
-（她点头。）明智地运用你的知识。
-(She opens the plug of your gag, letting you breathe easier.)
-（她打开你的口塞插头，让你呼吸更顺畅。）
-(She pinches your nose and forces the gag inside when you breath.)
-（她捏住你的鼻子，在你呼吸时强行塞入口塞。）
-(She places her hand on Evelyn butt, as you get ready to spank her.)
-（当你准备打Evelyn时，她把手放在Evelyn的臀部上。）
-(She produces a briefcase and opens it for you.)
-（她拿出一个公文包并为你打开。）
-(She pulls you in between her legs while Yuki is further back in the room.)
-（当Yuki在房间更远处时，她把你拉到她腿间。）
-(She pushes you on the ground and shoves you under her desk.)
-（她把你推到地上，塞到她的桌子底下。）
-(She returns to her desk.)
-（她回到她的桌子旁。）
-(She rocks her hips a little and shivers as you nuzzle against her panties.)
-（当你蹭她的内裤时，她轻轻摇动臀部并颤抖。）
-(She rolls her chair forward, closing your only way out.)
-（她把椅子往前推，堵住了你唯一的出路。）
-(She screams in her gag as you get to the door to open it.)
-（当你走到门前要开门时，她在口塞里尖叫。）
-(She seems a little shaken.)  That was... excellent.  I'm really impressed.
-（她看起来有点震惊。）那真是……太棒了。我真的很佩服。
-(She seems disappointed but nods.)  Alright.
-（她看起来有点失望但点了点头。）好吧。
-(She seems to appreciate that you quickly release her.)
-（她似乎很感激你迅速释放了她。）
-(She shakes her head from left to right rapidly.)
-（她迅速地左右摇头。）
-(She shakes her head from left to right.)  I highly doubt that.
-（她左右摇头。）我非常怀疑。
-(She shakes her head no.)  I shall decline, young lady.
-（她摇头表示不。）我拒绝，小姐。
-(She shivers a little and moans silently.  She tries to focus on her discussion.)
-（她微微颤抖并无声地呻吟，试图专注于她的讨论。）
-(She shivers a little but remains in control and keeps on talking.)
-（她微微颤抖，但保持控制，继续说话。）
-(She shoves the gag in your mouth and straps it securely.)
-（她把口塞塞进你的嘴里并牢牢系好。）
-(She shoves you back under her desk.)
-（她把你推回桌子底下。）
-(She slides one hand down while talking to Yuki.)
-（她在和Yuki说话时滑下一只手。）
-(She smiles and cracks her knuckles.)
-（她微笑并掰响手指。）
-(She smiles as you rapidly put your palms on her desk.)
-（当你迅速把手放在她桌上时，她微笑。）
-(She smiles at you.)  She is.
-（她对你微笑。）她是的。
-(She smiles.)  Restraining someone can have other uses.
-（她微笑。）束缚某人还有其他用途。
-(She smiles.)  Very good, you're a trooper.
-（她微笑。）很好，你很坚强。
-(She smiles.)  You're kind, young lady.
-（她微笑。）你很善良，小姐。
-(She smirks and cracks her knuckles.)
-（她得意地笑并掰响手指。）
-(She smirks and helps you out from under the desk.)
-（她得意地笑并帮你从桌子底下出来。）
-(She smirks as you quickly put your palms on her desk.)
-（当你迅速把手放在她桌上时，她得意地笑。）
-(She spanks you a few more times, with a grin on her face.)
-（她又打你几下，脸上带着笑容。）
-(She squeezes your head between her legs to muffle the sound.  She tries to focus on her discussion.)
-（她用腿夹住你的头以消音，试图专注于她的讨论。）
-(She stands up and puts her hands behind her back.)
-（她站起来，把手背在身后。）
-(She trembles a little but remains in control and keeps on talking.)
-（她微微颤抖，但保持控制，继续说话。）
-(She tugs her panties to the side, exposing her pussy.)
-（她把内裤拉到一边，露出她的私处。）
-(She tugs on the cuffs to test them.)
-（她拉扯手铐以测试。）
-(She winks back and watches you undress.)
-（她回了个wink，看着你脱衣服。）
-(She wraps her legs around your head, squeezing you close.)
-（她用腿裹住你的头，紧紧挤压。）
-(She's knocking at the door again.)
-（她又在敲门。）
-(Smell her panties.)
-（闻她的内裤。）
-(Someone is knocking at the door and talking loudly.)
-（有人在敲门并大声说话。）
-(Start to get out.)
-（开始出来。）
-(Stay silent and patient.)
-（保持沉默和耐心。）
-(Stay silent and wait.)
-（保持沉默并等待。）
-(Stay silent with her.)
-（和她一起保持沉默。）
-(Stay silent.)
-（保持沉默。）
-(The better the spanking is, the stronger impact it will have on the person.)
-（打得越好，对人的影响越大。）
-(The goal is to align both meters in the middle, in the bullseye, for a perfect spanking.)
-（目标是将两个仪表对齐在中间，命中靶心，以实现完美的打屁股。）
-(The knockings stop after a while.  Everything becomes quiet.)
-（敲门声过了一会儿停止，一切变得安静。）
-(There will be two meters when you spank someone, one for aiming and one for force.)
-（当你打某人时，会有两个仪表，一个用于瞄准，一个用于力度。）
-(Trust your tongue in and out of her pussy lips.)
-（将你的舌头在她私处唇间进出。）
-(Try to escape the cuffs.)
-（试图逃脱手铐。）
+(Lick her panties through the gag hole.)
+（从口球口舔她的内裤。）
 (Tug on the cuffs.)
 （拉扯手铐。）
+(Nuzzle on her covered clitoris.)
+（蹭着她被覆盖的。）
+(Lick her pussy slowly and skillfully.)
+（慢慢而熟练地舔她的阴部。）
+(Play with her clitoris passionately.)
+（热情地玩弄她的。）
+(Trust your tongue in and out of her pussy lips.)
+（相信你的舌头进出她的阴唇。）
+(Rub your nose against her clitoris and lick her pussy rapidly.)
+（用鼻子蹭她的阴蒂，快速舔她的阴部。）
+(Lick to suck her juices.)
+（舔来吸她的汁液。）
+(Cuff her strictly.)
+（严格给她戴上手铐。）
+(Cuff her regularly.)
+（定期给她戴上手铐。）
+(Cuff her loosely.)
+（松松地铐着她。）
+InventoryDialogHandcuffs
+物品栏对话手铐
+No.  This college is weird.
+不。 这所大学很奇怪。
+Only in bed.  (Wink at her.)
+只在床上。 （向她眨眼。）
+I was restrained many times before.
+我以前被束缚过很多次。
+You're not the first girl I get in bondage.
+你不是我第一个被束缚的女孩。
+(Gag her loosely.)
+（松松地堵住她的嘴。）
+(Gag her safely.)
+（安全地堵住她的嘴。）
+(Gag her tightly.)
+（用力堵住她的嘴。）
+InventoryDialogPanelGag
+面板口塞对话
+(Release her quickly.)
+（快放开她。）
+(Stay silent and wait.)
+（保持沉默，等待。）
+(Go open the door.)
+（去开门。）
+I would not want to embarrass you, Director.
+我不想让您难堪，主任。
+Yuki's reaction would have been funny.
+优纪反应会很有趣。
+You have nothing to be embarrassed about.
+你没什么好尴尬的。
+You owe me one Evelyn.
+你欠我一个人情，伊芙琳。
+Isn't it thrilling?
+是不是很刺激？
+Don't be scared.
+别害怕。
+(Stay silent with her.)
+（和她一起保持沉默。）
+(Keep on waiting.)
+（继续等待。）
 (Unlock her promptly.)
-（迅速解锁她。）
-(What will you do?)
-（你会做什么？）
+（快点解锁她。）
+I hope I get to cuff you again.  (Unlock.)
+我希望我还能再给你戴上手铐。 （解锁。）
+Next time you will struggle harder.  (Unlock.)
+下次你会更难挣扎。 （解锁。）
+She's teaching me how to use cuffs.
+她在教我怎么用手铐。
+We are testing the new college equipment.
+我们正在测试新的大学设备。
+Isn't she cute in cuffs?
+她戴着手铐是不是很可爱？
+Evelyn is getting trained.
+伊芙琳正在接受训练。
+She's learning her place.
+她正在学会自己的位置。
+Not now, I'm having fun.
+现在不行，我玩得开心。
+Yes, I'll release her soon.
+是的，我很快会放她走。
+She can struggle some more.
+她还可以再挣扎一下。
+Not until her butt is red.
+除非她的屁股变红。
+No, I need to train on corporal punishment now.
+不，我现在需要训练体罚。
+We must review the art of spanking first.
+我们必须先复习打屁股的艺术。
+Sure, it will be fun to do it together.
+当然，一起做会很有趣。
+You have devious ideas.
+你的想法很狡猾。
+You're reading my mind girl.
+你在读懂我的心思，姑娘。
+No, we should release her now.
+不，我们现在应该放她走。
+Yes Director.  (Go to class.)
+是，主任。 （去上课。）
+Fine.  (Go to class.)
+好吧。 （去上课。）
+Before I go, do you have plans for the weekend?
+走之前，你周末有什么计划吗？
+We could have dinner or go for a walk.
+我们可以一起吃晚饭或者去散步。
+No reason, I should go.  (Go to class.)
+没什么，我该走了。 （去上课。）
+(Evelyn waves at you.)  It's a pleasure to see you PlayerName.
+（伊芙琳向你挥手。） 很高兴见到你，PlayerName。
+(Evelyn looks at you.)  There you are young lady.
+（伊芙琳看着你。） 你来了，小姐。
+(Evelyn looks at you and frowns.)  It's you?  Let's do this quickly.
+（伊芙琳看着你，皱起眉头。） 是你？ 我们快点做吧。
+Come closer, a discussion is required.
+靠近点，需要讨论。
+We have many subjects to review today.
+我们今天有许多主题要复习。
+First, I want to monitor our students' progress with you.
+首先，我想和你一起监测我们学生的进展。
+(She looks at some student files in her computer.)
+（她在电脑里查看一些学生档案。）
+(She looks at the screen and smiles.)  It seems that you are doing a fine job.  Congratulations.
+（她看着屏幕，微笑着。） 看起来你做得很好。 恭喜你。
+(She looks at the screen carefully.)  I'm not seeing much progress so far.
+（她仔细看着屏幕。） 到目前为止我没看到太大进展。
+(She frowns while looking at the screen.)  You're doing a horrible job young lady.
+（她皱眉看着屏幕。） 你做得很糟糕，小姐。
+I'm starting to regret having you on my staff.
+我开始后悔让你加入我的团队了。
+Young lady, you shall be punished for your poor performance.
+小姐，你会因为表现不佳受到惩罚。
+You shall be spanked.
+你会挨打的。
+(She nods and cracks her knuckles.)
+（她点点头，捏了捏指关节。）
+I'm very serious.  (She cracks her knuckles.)
+我很认真。 （她捏了捏指关节。）
+(She smirks and cracks her knuckles.)
+（她得意地笑着，捏了捏指关节。）
+(She smiles and cracks her knuckles.)
+（她微笑着，捏了捏指关节。）
+(She takes a long deep breath.)  We shall end your career then.
+（她深吸一口气。） 那我们就结束你的职业生涯。
+This punishment shall be a lesson for you.
+这次惩罚将成为你的教训。
+You can use corporal punishments to train your students.
+你可以用体罚来训练你的学生。
+It puts them in a submissive state of mind, so they listen and learn better.
+这会让他们处于顺从的心态，从而更好地倾听和学习。
+It should hurt a little but never leave permanent marks or damages.
+应该会有点疼，但绝不会留下永久性的痕迹或损伤。
+Have you used corporal punishment to train our students?
+你们用体罚来训练我们的学生吗？
+The public school system didn't teach you much.
+公立学校系统教给你的东西不多。
+It's not always required.
+这并非总是必须的。
+(She nods in agreement.)  Very good.
+（她点头表示同意。） 非常好。
+(You wave the crop in front of her.)  I see that you are already accustomed to our tools.
+（你在她面前挥舞着马鞭。） 我看你已经习惯了我们的工具。
+Corporal punishments are a good tool to remind our students that they are not in power.
+体罚是提醒学生他们没有权力的好工具。
+They should hurt a little but never leave permanent marks or damages.
+它们应该会有点疼，但绝不会留下永久性的痕迹或损伤。
+We shall do a spanking demonstration this morning.  Are you ready for that?
+我们今天早上要做个体罚示范。 你准备好了吗？
+(She nods.)  Remember that this is a demonstration.
+（她点点头。） 记住，这是一次演示。
+Forget it young lady.  I shall spank you to demonstrate.
+算了，小姐。 我会打你屁股示范。
+You shall be fine.  It's only a demonstration.
+你会没事的。 这只是个示范。
+Of course, it's only a demonstration.
+当然，这只是个演示。
+You are, for the demonstration only.
+你只是为了演示而被关押。
+No young lady.  I shall spank you to demonstrate.
+没有，小姐。 我会打你屁股示范。
+Bend over and put your palms on the desk young lady.
+弯腰，把手掌放在桌子上，小姐。
+(She grumbles as you reluctantly put your palms on her desk.)
+（她嘟囔着，你不情愿地把手掌放在她的桌上。）
+(You put your palms on her desk.)
+（你把手掌放在她的桌子上。）
+(She smirks as you quickly put your palms on her desk.)
+（你迅速把手掌放在她的桌子上时，她露出一丝得意的笑容。）
+(She smiles as you rapidly put your palms on her desk.)
+（你迅速把手掌放在她的桌上时，她微笑着。）
+(She frowns as you reluctantly put your palms on her desk.)
+（你不情愿地把手掌放在她的桌上，她皱起了眉头。）
+Remember, the goal isn't to inflict damage.
+记住，目标不是造成伤害。
+You require to aim properly and use the right amount of force.
+你需要正确瞄准并使用合适的力量。
+Take a deep breath young lady.
+深呼吸，小姐。
+(She aims carefully and spanks your butt to demonstrate.)
+（她瞄准时用屁股拍打你示范。）
+(There will be two meters when you spank someone, one for aiming and one for force.)
+（打屁股时会有两条计尺，一米用于瞄准，一米用于力量。）
+(The goal is to align both meters in the middle, in the bullseye, for a perfect spanking.)
+（目标是将两条计尺对齐在靶心中央，以实现完美的打屁股。）
+(The better the spanking is, the stronger impact it will have on the person.)
+（体罚越好，对当事人的影响就越大。）
+(She spanks you a few more times, with a grin on her face.)
+（她又打了你几下，脸上带着笑容。）
+Is the lesson clear enough young lady?
+小姑娘，教训够清楚了吗？
+(She smiles.)  Very good, you're a trooper.
+（她微笑着。） 很好，你是个勇士。
+(She nods.)  Use your knowledge wisely.
+（她点点头。） 明智地运用你的知识。
+(She grins.)  The pleasure is mine.
+（她咧嘴笑了。） 我很荣幸。
+(She frowns.)  My methods are proven.
+（她皱眉。） 我的方法已经被验证了。
+(She bends over her desk and puts her palms on it.)
+（她弯腰趴在桌子上，双手掌心放在上面。）
+Go ahead PlayerName.
+请讲，PlayerName。
+(You hastily use your phone and snap a stealthy picture before the spanking.)
+（你匆忙用手机偷偷拍了张照片，准备打屁股。）
+Stop!  You're hopeless!  You shall require lots of practice.
+停下！ 你真没救！ 你需要大量练习。
+That's enough!  You require some practice at home young lady.
+够了！ 你需要在家多练习，小姐。
+That wasn't bad.  After more practice you shall get even better.
+还不错。 多练习后你会变得更好。
+Well done PlayerName.  You have a natural talent.
+干得好，PlayerName。 你有天赋。
+(She seems a little shaken.)  That was... excellent.  I'm really impressed.
+（她看起来有点慌乱。） 那真是......太好了。 我真的很佩服。
+Enough corporal punishments.
+体罚够了。
+(She returns to her desk.)
+（她回到自己的办公桌前。）
+I shall give you more tools to help you motivate and discipline our students.
+我会给你更多工具，帮助你激励和管教我们的学生。
+(She produces a briefcase and opens it for you.)
+（她拿出一个公文包，帮你打开。）
+(Inside it, you find many cuffs and gags that come with a removable plug and a bottom buckle.)
+（里面有许多带可拆卸塞子和底部扣的口塞和口塞。）
+These items are for you, they come in many sizes depending on the students and limb.
+这些物品是为你准备的，根据学生和肢体的不同，有多种尺寸。
+These gags are particularly useful, since you can open the front plug at your leisure.
+这些口塞特别实用，因为你可以随时打开前插头。
+Have you used a gag before?
+你用过口塞吗？
+Only in the wrong hands.  Take the items.
+只是落入错误的人手中。 拿走这些物品。
+I bet you were.  Take the items.
+我敢打赌你是。 拿走这些物品。
+That's very good.  Take the items.
+非常好。 拿走这些物品。
+Curiosity is a quality.  Take the items.
+好奇心是一种品质。 拿走这些物品。
+(You keep the items and close the briefcase.)
+（你收拾物品，合上公文包。）
+With multiple restraints and a gag, you can fully control your students.
+通过多重束缚和口塞，你可以完全控制学生。
+We shall do a full bondage demonstration now.
+我们现在要做一场完整的捆绑示范。
+It shall be my pleasure, young lady.
+这是我的荣幸，小姐。
+(She nods slowly.)
+（她慢慢点头。）
+Very well.  We have enough time for it.
+很好。 我们有足够的时间去做。
+Forget it young lady.  You shall be restrained.
+算了，小姐。 你将被约束。
+Indeed, young lady.  We have enough time for it.
+确实如此，小姐。 我们有足够的时间去做。
+No young lady.  You shall be restrained.
+没有，小姐。 你将被约束。
+(She looks at you and nods.)  This is out of protocol, but you seem confident enough.
+（她看着你点头。） 这违反了规定，但你看起来很有自信。
+Demonstration is required, young lady.  You shall be restrained.
+需要示范，小姐。 你将被约束。
+Your teacher's outfit shall not do well.  Our students wear short sleeves.
+你的老师服装可不好。 我们的学生穿短袖。
+Remove your outfit.
+脱掉你的衣服。
+(She gets impatient and snaps her fingers for you to undress.)
+（她不耐烦地打了个响指让你脱衣服。）
+(She winks back and watches you undress.)
+（她眨了眨眼，看着你脱衣服。）
+(She leans back on her chair and watches you undress.)
+（她靠在椅背上，看着你脱衣服。）
+Let me show you how to properly restrain our most troublesome students.
+让我教你如何正确约束我们最麻烦的学生。
+First, I shall use the larger cuffs on your ankles.
+首先，我会给你的脚踝戴上更大的手铐。
+The short chain makes it very hard to walk.
+短链条让走路非常困难。
+(You hear a second click.)  Never forget the double-locking mechanism.
+（你听到第二次咔嗒声。） 永远不要忘记双重锁定机制。
+Next, I shall use two sets of cuffs on your arms.
+接下来，我会给你戴上两副手铐。
+(She locks both your hands and elbows, securing your arms behind your back.)
+（她把你们的手和肘部都锁住，把你的手臂反在身后。）
+The student is completely helpless in this position, she cannot fight back.
+学生在这种情况下完全无助，无法反抗。
+It ensures that both you and her are safe.
+这能确保你和她都安全。
+How does it feel?
+感觉如何？
+(She laughs at you.)  You can try it for my amusement
+（她笑你。） 你可以试试，给我开个乐子
+(She nods happily.)  That's how your students should feel.
+（她开心地点头。） 这才是你的学生应该有的感受。
+It should be both secure and comfortable.
+它应该既安全又舒适。
+(She moves closer with a panel gag.)  The final step is the gag.
+（她用面板塞子靠近。） 最后一步是口塞。
+This gag plugs the mouth, the student is forced to chew on the plastic.
+这个口塞堵住了嘴巴，学生被迫咬着塑料。
+The panel over it silences her and prevents excess drooling on her clothes.
+上面的面板让她安静下来，防止多余的口水滴在衣服上。
+Open wide, young lady.
+张大嘴，小姐。
+(She shoves the gag in your mouth and straps it securely.)
+（她把口塞塞进你嘴里，绑紧。）
+(She pinches your nose and forces the gag inside when you breath.)
+（她捏住你的鼻子，呼吸时强行塞进嘴里。）
+There we go, you are now fully under control.  Try to talk.
+好了，你现在完全被控制了。 试着说话。
+(Evelyn waits for you to talk in your gag.)
+（伊芙琳戴着口塞等你开口。）
+This is music to my ears.
+这对我来说简直是天籁之音。
+Silence is also golden.
+沉默也是金色的。
+(You try to grab your phone, but she gets it first and snaps a picture of you.)
+（你试图拿手机，但她先拿到，拍了你的照片。）
+Once fully bound and silent, your student focus is entirely on what you dictate.
+一旦完全绑定并保持沉默，学生的注意力完全集中在你口述的内容上。
+"Knock, knock, knock"
+“敲”
+(Someone is knocking at the door and talking loudly.)
+（有人敲门，声音很大。）
+Shoot!  Yuki is here for her lost files.
+干！ 优纪找她丢失的文件。
+Quick!  Get under the desk!
+快！ 躲到桌子底下！
+(She pushes you on the ground and shoves you under her desk.)
+（她把你推倒在地，然后把你推到桌子底下。）
+(You can hear someone entering the office.)
+（你能听到有人进办公室的声音。）
+(You recognize the voice of your colleague Yuki.)
+（你认出了同事优纪的声音。）
+Oh lord!  Sorry director, I need these files quickly.  I have a class in ten minutes.
+天哪！ 抱歉，主任，我需要快点拿到这些文件。 我十分钟后有课。
+My excuses again for losing them.  It won't happen again, Miss Evelyn.
+又是我丢失它们的借口。 不会再发生了，伊芙琳小姐。
+We shall analyze this blunder later.  Open this cabinet, you should find what you require.
+我们稍后会分析这个错误。 打开这个柜子，你应该能找到你需要的东西。
+(She rolls her chair forward, closing your only way out.)
+（她把椅子推了推，关上了你唯一的出口。）
 (You are stuck under the desk, almost touching her legs.)
-（你被卡在桌子底下，几乎碰到她的腿。）
+（你被困在桌子底下，几乎碰到她的腿。）
+(What will you do?)
+（你打算怎么办？）
+(You remain patient, bound and gagged under her desk for a while.)
+（你耐心地被绑在她桌子下，嘴巴堵住了一会儿。）
+(You try to scream but Evelyn kicks you out of breath and makes loud noises with her chair.)
+（你试图尖叫，但伊芙琳踢你喘不过气，椅子发出响亮的声音。）
+(You test the cuffs for a little while but there's no way you could escape them.)
+（你试探了一会儿手铐，但根本逃不掉。）
+(You begin to cuddle, and she slowly opens her legs for you.)
+（你开始依偎，她慢慢地为你张开双腿。）
 (You begin to cuddle but she gently pushes you back.)
 （你开始依偎，但她轻轻推开你。）
 (You begin to cuddle but she violently kicks you back.)
-（你开始依偎，但她猛烈地踢开你。）
-(You begin to cuddle, and she slowly opens her legs for you.)
-（你开始依偎，她慢慢为你张开腿。）
-(You both stand still and silent.)
-（你们俩静静地站着。）
-(You can hear Yuki picking up papers.)
-（你能听到Yuki在捡纸张。）
-(You can hear someone entering the office.)
-（你能听到有人进入办公室。）
-(You can hear the door closing.  The chair slowly rolls back.)
-（你能听到门关上的声音。椅子慢慢向后滚。）
+（你开始拥抱，但她狠狠地踢了你一脚。）
 (You can hear them talking.)
 （你能听到他们在说话。）
-(You hastily use your phone and snap a stealthy picture before the spanking.)
-（你在打屁股前匆忙用手机偷拍了一张照片。）
-(You hear a second click.)  Never forget the double-locking mechanism.
-（你听到第二次咔嗒声。）永远不要忘记双重锁机制。
-(You keep on waiting for a while.)
-（你继续等待了一会儿。）
-(You keep the items and close the briefcase.)
-（你保留这些物品并关上公文包。）
-(You lock the cuffs around her wrist and ankles.)
-（你将手铐锁在她的手腕和脚踝上。）
-(You lock the cuffs loosely around her wrist and ankles.)
-（你松散地将手铐锁在她的手腕和脚踝上。）
-(You lock the cuffs tightly around her wrist and ankles.)
-（你紧紧地将手铐锁在她的手腕和脚踝上。）
-(You open the door and let Yuki inside.)
-（你开门让Yuki进来。）
-(You promptly leave for detention class.)
-（你迅速前往拘留班。）
-(You put your palms on her desk.)
-（你把手掌放在她的桌上。）
-(You quickly unlock and release her.)
-（你迅速解锁并释放她。）
-(You recognize the voice of your colleague Yuki.)
-（你认出了同事Yuki的声音。）
-(You refuse and slowly get out by yourself.)
-（你拒绝并慢慢自己爬出来。）
-(You remain patient, bound and gagged under her desk for a while.)
-（你保持耐心，被绑着并塞着嘴在她的桌子底下待了一会儿。）
-(You rush to unlock her gag and cuffs.)
-（你急忙解开她的口塞和手铐。）
-(You slowly leave for detention class.)
-（你慢慢前往拘留班。）
-(You smell her legs and humid panties while she focuses on her discussion.)
-（当她专注于讨论时，你闻着她的大腿和潮湿的内裤。）
-(You stand still, not moving or saying a word.)
-（你静静地站着，不动也不说话。）
-(You step forward to gag her loosely.)
-（你走上前松散地塞住她的嘴。）
-(You step forward to gag her safely.)
-（你走上前安全地塞住她的嘴。）
-(You step forward to gag her tightly.)
-（你走上前紧紧地塞住她的嘴。）
-(You step forward to gag her.)
-（你走上前塞住她的嘴。）
-(You take a picture of Yuki as she's getting ready to spank.)
-（当Yuki准备打屁股时，你拍了一张她的照片。）
-(You take a picture of her as she struggles harder.)
-（当她更用力挣扎时，你拍了一张她的照片。）
-(You take a stealth picture of her as she struggles.)
-（当她挣扎时，你偷拍了一张她的照片。）
-(You test the cuffs for a little while but there's no way you could escape them.)
-（你试了试手铐一会儿，但完全无法逃脱。）
-(You try to calm her down, it seems to work a little.)
-（你试着让她平静下来，似乎有点效果。）
-(You try to grab your phone, but she gets it first and snaps a picture of you.)
-（你试着拿手机，但她先拿到了并拍了你的照片。）
-(You try to reach your phone, but she grabs it first and snaps a picture of you as you get out.)
-（你试着够手机，但她先抢到并在你出来时拍了你的照片。）
-(You try to relax and get comfy between her warm legs while they talk.)
-（当她们说话时，你试着放松，在她温暖的腿间舒服地待着。）
-(You try to scream but Evelyn kicks you out of breath and makes loud noises with her chair.)
-（你试着尖叫，但Evelyn踢得你喘不过气并用椅子制造大声响。）
-(You tug on your restraints as she closes your gag.)
-（当她关上你的口塞时，你拉扯你的束缚。）
-(You wave the crop in front of her.)  I see that you are already accustomed to our tools.
-（你在她面前挥动鞭子。）我看你已经习惯了我们的工具。
-(Your face is forced against her panties.)
-（你的脸被强迫贴着她的内裤。）
-(Yuki enters.)  Greetings Director.  Good morning PlayerName.
-（Yuki进入。）您好，主任。早上好，PlayerName。
-(Yuki leaves the room while Evelyn is mumbling.)
-（当Evelyn在咕哝时，Yuki离开了房间。）
-(Yuki lifts Evelyn arms behind her back, in a spanking position.)
-（Yuki将Evelyn的胳膊抬到背后，摆出打屁股的姿势。）
-(Yuki rushes to the cabinet and picks many papers.)
-（Yuki冲向柜子，拿了许多文件。）
-Aaaaah!
-啊啊啊！
-Absolutely, learning corporal punishment is important.
-绝对，学习体罚很重要。
-Aim carefully at your boss butt.
-仔细瞄准你老板的臀部。
-All my apologies.  You saved my butt once again.
-非常抱歉。你又一次救了我的臀部。
-Alright.
-好吧。
-Apply the right amount of force.
-施加适当的力度。
-As you enter the college, a secretary intercepts you.
-当你进入学院时，一名秘书拦住了你。
-Before I go, do you have plans for the weekend?
-在我走之前，你周末有计划吗？
-Bend over and put your palms on the desk young lady.
-弯下腰，把手掌放在桌上，小姐。
-Clumsy spank.
-笨拙的打屁股。
-Come closer, a discussion is required.
-靠近点，需要讨论。
-Corporal punishment?
-体罚？
-Corporal punishments are a good tool to remind our students that they are not in power.
-体罚是提醒我们的学生他们没有权力的好工具。
-Curiosity is a quality.  Take the items.
-好奇是一种品质。拿走这些物品。
-Demonstration is required, young lady.  You shall be restrained.
-需要示范，小姐。你将被束缚。
-Demonstration isn't needed.  I will be fine.
-不需要示范。我会没事的。
-Director, where did we put the new world maps for history class?
-主任，我们把历史课的新世界地图放在哪里了？
-Director?  Please, may I get in?   I really need these files.
-主任？请问我可以进来吗？我真的很需要这些文件。
-Do you have previous experience with restraints?
-你有使用束缚的经验吗？
-Do you require help to get out?
-你需要帮助出来吗？
-Don't be scared.
-别害怕。
-Enough corporal punishments.
-体罚够了。
-Evelyn is getting trained.
-Evelyn正在接受训练。
-Failed spank.
-失败的打屁股。
-Final accuracy:
-最终准确度：
-Fine, you can restrain me for the demonstration.
-好吧，你可以为了示范束缚我。
-Fine.  (Go to class.)
-好。（去上课。）
-First, I shall use the larger cuffs on your ankles.
-首先，我将在你的脚踝上使用较大的手铐。
-First, I want to monitor our students' progress with you.
-首先，我想和你一起监控学生的进展。
-Forget it young lady.  I shall spank you to demonstrate.
-算了吧，小姐。我将打你以示范。
-Forget it young lady.  You shall be restrained.
-算了吧，小姐。你将被束缚。
-Gags are dangerous.
-口塞很危险。
-Get dressed, young lady.  There's no time to waste.
-穿好衣服，小姐。没有时间浪费。
-Get ready to spank your boss!
-准备好打你老板的屁股！
-Get to detention, young lady.
-去拘留班，小姐。
-Go ahead PlayerName.
-继续，PlayerName。
-Good question.  (She thinks aloud.)
-好问题。（她大声思考。）
-Good spank.
-好的打屁股。
-Have YOU found whaaAAAaat you require Yuki?
-你找到你需要的了吗，Yuki？
-Have you found what you require Yuki?
-你找到你需要的了吗，Yuki？
-Have you used a gag before?
-你以前用过口塞吗？
-Have you used corporal punishment to train our students?
-你用过体罚来训练我们的学生吗？
-Hello down there.  It seems you are quite flexible.
-你好，下面。你看起来很灵活。
-Hham hou hunhok?
-谁解锁了？
-How does it feel?
-感觉如何？
-I bet you were.  Take the items.
-我猜你会的。拿走这些物品。
-I can handle it.
-我能应付。
-I can't wait to try it, Evelyn.
-我迫不及待想试试，Evelyn。
-I could easily get out.
-我可以轻松逃脱。
-I did not leave any bruise.
-我没有留下任何瘀伤。
-I did not.  But I'm curious
-我没有。但我很好奇。
-I do feel very secure.
-我确实感到很安全。
-I don't like it.
-我不喜欢。
-I hope I get to cuff you again.  (Unlock.)
-我希望能再次铐住你。（解锁。）
-I like your attitude PlayerName!
-我喜欢你的态度，PlayerName！
-I loved it, that was perfect.
-我爱死了，太完美了。
-I shall give you more tools to help you motivate and discipline our students.
-我将给你更多工具来帮助你激励和纪律我们的学生。
-I should get my files and get to class.  I will be late.
-我应该拿上我的文件去上课。我要迟到了。
-I understand your methods.
-我理解你的方法。
-I was restrained many times before.
-我以前被束缚过很多次。
-I would not want to embarrass you, Director.
-我不想让你难堪，主任。
-I'm allowed to restrain you?
-我可以束缚你吗？
-I'm allowed to spank you?
-我可以打你吗？
-I'm ready to restrain you.
-我准备好束缚你了。
-I'm ready to spank you.
-我准备好打你了。
-I'm starting to regret having you on my staff.
-我开始后悔让你加入我的团队。
-I'm training her personally.  She shall be fine.
-我亲自训练她。她会没事的。
-I'm very serious.  (She cracks her knuckles.)
-我很认真。（她掰响手指。）
-I've done cuffs training years ago, but I ended up bound.
-我多年前做过手铐训练，但最后还是被绑住了。
-I've seen the new teacher with your secretary.  How is PlayerName handling detention?
-我看到新老师和你的秘书在一起。PlayerName在拘留班表现如何？
-I've used gags on others.
-我给别人用过口塞。
-Ik honn hhe eechee.
-我知道谁是老师。
-Indeed, young lady.  We have enough time for it.
-确实，小姐。我们有足够的时间。
-InventoryDialogCrop
-物品对话：鞭子
-InventoryDialogHandcuffs
-物品对话：手铐
-InventoryDialogPanelGag
-物品对话：面板口塞
-InventoryDialogPhone
-物品对话：手机
-Is it really necessary?
-真的有必要吗？
-Is that acceptable Director?
-这可以吗，主任？
-Is the lesson clear enough young lady?
-这堂课够清楚了吗，小姐？
-Isn't it thrilling?
-这不是很刺激吗？
-Isn't she cute in cuffs?
-她戴着手铐不是很可爱吗？
-It ensures that both you and her are safe.
-它确保你和她都安全。
-It needs to be tight enough so the student cannot spit it out, but not too tight so it hurts her.
-它需要足够紧以防学生吐出，但不能太紧以至于伤害她。
-It puts them in a submissive state of mind, so they listen and learn better.
-它让她们处于一种顺从的心态，以便她们更好地倾听和学习。
-It shall be my pleasure, young lady.
-这将是我的荣幸，小姐。
-It should be both secure and comfortable.
-它应该既安全又舒适。
-It should hurt a little but never leave permanent marks or damages.
-它应该有点疼，但绝不留下永久的痕迹或伤害。
-It's fine.
-没问题。
-It's not always required.
-这并不总是必要的。
-It's time to set you free.  You have detention to supervise.
-是时候放你自由了。你有拘留班要监督。
-Let me show you how to properly restrain our most troublesome students.
-让我教你如何正确束缚我们最麻烦的学生。
-Mmniis ish aw wo aag a huhen.
-这是给谁的口塞？
-My apologies for losing them.
-我为丢失它们道歉。
-My excuses again for losing them.  It won't happen again, Miss Evelyn.
-再次为丢失它们致歉。不会再发生了，Evelyn小姐。
-Next time you will struggle harder.  (Unlock.)
-下次你会挣扎得更厉害。（解锁。）
-Next, I shall use two sets of cuffs on your arms.
-接下来，我将在你的手臂上使用两套手铐。
-No reason, I should go.  (Go to class.)
-没理由，我该走了。（去上课。）
-No young lady.  I shall spank you to demonstrate.
-不，小姐。我将打你以示范。
-No young lady.  You shall be restrained.
-不，小姐。你将被束缚。
-No, I need to train on corporal punishment now.
-不，我现在需要体罚训练。
-No, we should release her now.
-不，我们现在应该释放她。
-No.  This college is weird.
-不。这个学院很怪。
-Not now, I'm having fun.
-现在不行，我在玩得开心。
-Not until her butt is red.
-除非她的臀部变红。
-Not yet.
-还没。
-Now get to your class.  (She points at the door as you start walking.)
-现在去你的课。（她指着门，你开始走。）
-Of course, it's only a demonstration.
-当然，这只是一个示范。
-Oh lord!  Director!
-天哪！主任！
-Oh lord!  I need to head to class.  Have a good day, Miss Evelyn.
-天哪！我得去上课了。祝你一天愉快，Evelyn小姐。
-Oh lord!  I understand.
-天哪！我明白了。
-Oh lord!  I'm not sure you're doing it right PlayerName.
-天哪！我不确定你做得对，PlayerName。
-Oh lord!  It looks like it.
-天哪！看起来是的。
-Oh lord!  She certainly can.
-天哪！她当然可以。
-Oh lord!  Sorry director, I need these files quickly.  I have a class in ten minutes.
-天哪！对不起，主任，我需要这些文件，十分钟后我有课。
-Oh lord!  Thank you PlayerName.  Thank you Director.
-天哪！谢谢你，PlayerName。谢谢主任。
 Oh lord!  Thanks Director, I have everything I need.
-天哪！谢谢主任，我已经拿到了我需要的一切。
-Oh lord!  The corporal punishment training is also important.
-天哪！体罚训练也很重要。
-Oh lord!  You're amazing PlayerName, we all could learn from your technique.
-天哪！你太棒了，PlayerName，我们都能从你的技术中学到东西。
-Oh lord!  You're horrible at it.  Forget it PlayerName.
-天哪！你太糟糕了。算了吧，PlayerName。
-Oh lord!  You're learning well, you will be good soon PlayerName.
-天哪！你学得很好，很快就会很出色，PlayerName。
-Oh lord!  You're very good at it, you don't need any training PlayerName.
-天哪！你很擅长这个，你不需要任何训练，PlayerName。
-Once fully bound and silent, your student focus is entirely on what you dictate.
-一旦完全被束缚并沉默，你的学生注意力将完全集中在你所指示的事情上。
-Only for your eyes.  (Wink at her.)
-仅供你欣赏。（对她眨眼。）
-Only in bed.  (Wink at her.)
-只在床上。（对她眨眼。）
-Only in the wrong hands.  Take the items.
-只有在错误的人手中。拿走这些物品。
-Oomp!  Ish uhi!
-唔！是这个！
-Open wide, young lady.
-张大嘴，小姐。
-Passable spank.
-尚可的打屁股。
-Perfect spank.
-完美的打屁股。
-PlayerName, what is going on?
-PlayerName，发生了什么？
-Please be gentle.
-请轻一点。
-Please demonstrate the bondage on me Director.
-请在我身上示范束缚，主任。
-Quick!  Get under the desk!
-快！钻到桌子底下！
-Remember, the goal isn't to inflict damage.
-记住，目标不是造成伤害。
-Remove your outfit.
-脱掉你的衣服。
-She can struggle some more.
-她可以再挣扎一下。
-She has a strong personality, don't worry about her.
-她个性很强，不用担心她。
-She instructs you to report to your boss immediatly.
-她指示你立即向你的老板汇报。
+天哪！ 谢谢主任，我有我需要的一切。
+All my apologies.  You saved my butt once again.
+非常抱歉。 你又救了我一命。
+I've seen the new teacher with your secretary.  How is PlayerName handling detention?
+我见过新老师和你的秘书在一起。 PlayerName 是如何处理留校察看的？
+(Evelyn pokes you with her shoe.)
+（伊芙琳用鞋子戳了戳你。）
+I'm training her personally.  She shall be fine.
+我亲自训练她。 她会没事的。
 She still requires lots of training.  I shall make sure she can do it.
-她还需要很多训练。我会确保她能做到。
-She's learning her place.
-她正在学会自己的位置。
-She's teaching me how to use cuffs.
-她正在教我如何使用手铐。
-Shoot!  Yuki is here for her lost files.
-糟了！Yuki来找她丢失的文件了。
-Silence is also golden.
-沉默也是金。
-Simply telling me would be alright.
-简单告诉我就可以了。
-Since she's not able to talk, I can guide you with spankings.
-既然她不能说话，我可以用打屁股来指导你。
-Sorry for interrupting, I will get my missing files quickly.
-抱歉打扰了，我会很快拿到我丢失的文件。
-Spanking Evelyn
-打Evelyn的屁股
-Stop!  You're hopeless!  You shall require lots of practice.
-停！你没救了！你需要多练习。
-Sure, it will be fun to do it together.
-当然，一起做会很有趣。
-Take a deep breath young lady.
-深呼吸，小姐。
-Thank you Director, I will be on my way.
-谢谢主任，我这就走。
-Thank you PlayerName.  I'm in a hurry.  I need to pick up my files for...
-谢谢你，PlayerName。我很赶时间。我需要拿我的文件去……
-Thank you for releasing me so hastily.  It would have been embarrassing.
-谢谢你这么快释放我。否则会很尴尬。
-That wasn't bad.  After more practice you shall get even better.
-那还不错。再多练习你会更好的。
-That's a fair suggestion.  Let's meet this weekend for an activity.
-这是个不错的建议。我们周末见面做点活动吧。
-That's enough!  You require some practice at home young lady.
-够了！你需要在家里多练习，小姐。
-That's very good.  Take the items.
-很好。拿走这些物品。
+她仍然需要大量训练。 我会确保她能做到。
+She has a strong personality, don't worry about her.
+她性格很强，别担心她。
+Oh lord!  I need to head to class.  Have a good day, Miss Evelyn.
+天哪！ 我得去上课了。 祝你今天愉快，伊芙琳小姐。
+(You can hear the door closing.  The chair slowly rolls back.)
+（你能听到门关上的声音。 椅子慢慢地向后滚动。）
+Hello down there.  It seems you are quite flexible.
+你好，下面。 看起来你很灵活。
+Do you require help to get out?
+你需要帮助才能离开吗？
+(She smirks and helps you out from under the desk.)
+（她得意地笑着，帮你从桌子底下爬出来。）
+(She helps you a little, as you slowly get out from under the desk.)
+（她帮了你一点忙，你慢慢从桌子底下出来。）
+(You refuse and slowly get out by yourself.)
+（你拒绝了，慢慢自己走了出来。）
+(You try to reach your phone, but she grabs it first and snaps a picture of you as you get out.)
+（你试图拿手机，但她先抢过，拍了你下车时的照片。）
+It's time to set you free.  You have detention to supervise.
+是时候让你自由了。 你有留校察看要监督。
+Get dressed, young lady.  There's no time to waste.
+穿好衣服，小姐。 时间不多了。
+(She pulls you in between her legs while Yuki is further back in the room.)
+（她把你拉进双腿之间，而优纪则在房间里更远处。）
+Director, where did we put the new world maps for history class?
+主任，我们把历史课的新世界地图放哪儿了？
+Good question.  (She thinks aloud.)
+好问题。 （她自言自语。）
+(You try to relax and get comfy between her warm legs while they talk.)
+（你试着放松，舒适地躺在她温暖的双腿之间，听他们交谈。）
+(She shivers a little and moans silently.  She tries to focus on her discussion.)
+（她微微颤抖，默默呻吟。 她努力专注于讨论。）
+(She jumps a little on her chair as you poke her pussy.  She tries to focus on her discussion.)
+（你戳她阴部时，她在椅子上跳了一下。 她努力专注于讨论。）
+(She squeezes your head between her legs to muffle the sound.  She tries to focus on her discussion.)
+（她用双腿夹住你的头，试图压低声音。 她努力专注于讨论。）
+(You smell her legs and humid panties while she focuses on her discussion.)
+（你闻到她的腿和潮湿的内裤味，她专注于讨论。）
+(She opens the plug of your gag, letting you breathe easier.)
+（她打开你的口塞，让你呼吸更顺畅。）
+(She keeps your head low to make sure you cannot be seen.)
+（她让你低着头，确保你不被发现。）
+(She wraps her legs around your head, squeezing you close.)
+（她用双腿缠住你的头，紧紧抱住你。）
+(Your face is forced against her panties.)
+（你的脸被强行压在她的内裤上。）
+(She closes your gag as you refuse to comply.)
+（你拒绝配合，她帮你塞上嘴。）
+(She gets wet and trembles as you lick her panties as best as you can.)
+（她湿润颤抖着，你尽力舔她的内裤。）
+(You tug on your restraints as she closes your gag.)
+（当她拉上你的口塞时，你拉紧束缚。）
+(She rocks her hips a little and shivers as you nuzzle against her panties.)
+（她轻轻摇动臀部，当你蹭着她的内裤时，她微微颤抖。）
+(She slides one hand down while talking to Yuki.)
+（她一边和优纪说话一边滑下一只手。）
+(She tugs her panties to the side, exposing her pussy.)
+（她把内裤拉到一边，露出了阴部。）
+(She trembles a little but remains in control and keeps on talking.)
+（她微微颤抖，但依然保持控制，继续说话。）
+(She moans a little and seems to have a discreet orgasm but remains in control.)
+（她轻声呻吟，似乎有一次低调的高潮，但依然控制着自己。）
+(She jumps a little but remains in control and keeps on talking.)
+（她有点跳了一下，但依然控制住自己，继续说话。）
+(She shivers a little but remains in control and keeps on talking.)
+（她微微颤抖，但依然控制住自己，继续说话。）
+Have YOU found whaaAAAaat you require Yuki?
+你找到你需要的东西了吗,优纪？
+Have you found what you require Yuki?
+你找到你需要的东西了吗，优纪？
+(As you hear Yuki working in the cabinet, she closes your gag.)
+（当你听到优纪在橱柜里工作时，她帮你塞上了嘴。）
+(She shoves you back under her desk.)
+（她把你推回桌子底下。）
+(You can hear Yuki picking up papers.)
+（你能听到优纪捡起文件的声音。）
+(She stands up and puts her hands behind her back.)
+（她站起身，双手背在身后。）
+You shall cuff my hands and feet.  Then silence me with a gag.
+你得铐住我的手脚。 那就用口球让我闭嘴。
+Use the larger cuffs for my feet, and the smaller ones on my hands.
+脚用大手铐，手用小手铐。
+(You lock the cuffs tightly around her wrist and ankles.)
+（你把手铐紧紧锁在她的手腕和脚踝上。）
+(You lock the cuffs around her wrist and ankles.)
+（你把手铐锁在她的手腕和脚踝上。）
+(You lock the cuffs loosely around her wrist and ankles.)
+（你松松地锁住她的手腕和脚踝。）
+(She tugs on the cuffs to test them.)
+（她拉了拉手铐试探。）
+(You take a stealth picture of her as she struggles.)
+（你偷偷拍下她挣扎的画面。）
+Well done, PlayerName.  You have a natural talent.  I'm impressed.
+干得好，PlayerName。 你有天赋。 我很佩服。
+Well done, young lady.  This is how you secure a student.
+干得好，小姐。 这就是你获得学生资格的方式。
+Do you have previous experience with restraints?
+你之前有使用约束器的经验吗？
+(She frowns.)  These methods were already proven before you were born, young lady.
+（她皱眉。） 这些方法在你出生前就已经被证明了，年轻的姑娘。
+(She smiles.)  Restraining someone can have other uses.
+（她微笑着。） 约束某人还有其他用途。
+(She grins.)  It seems that you've learned from your past experiences.
+（她咧嘴笑了。） 看起来你已经从过去的经历中吸取了教训。
+(She nods.)  It certainly shows that you have past experiences.
+（她点点头。） 这确实说明你有过去的经历。
 The final step is the gag.
 最后一步是口塞。
-The panel over it silences her and prevents excess drooling on her clothes.
-上面的面板让她安静并防止过多口水滴到衣服上。
-The public school system didn't teach you much.
-公立学校系统没教你多少东西。
-The short chain makes it very hard to walk.
-短链让走路非常困难。
-The student is completely helpless in this position, she cannot fight back.
-在这个位置，学生完全无助，她无法反抗。
-The training session changed a lot.  I did not expect to see that.
-训练课程改变了很多。我没想到会看到这个。
-There we go, you are now fully under control.  Try to talk.
-好了，你现在完全被控制了。试着说话。
-These gags are particularly useful, since you can open the front plug at your leisure.
-这些口塞特别有用，因为你可以随意打开前面的塞子。
-These items are for you, they come in many sizes depending on the students and limb.
-这些物品是给你的，它们有多种尺寸，取决于学生和肢体。
-They should hurt a little but never leave permanent marks or damages.
-它们应该有点疼，但绝不留下永久的痕迹或伤害。
-This gag plugs the mouth, the student is forced to chew on the plastic.
-这个口塞堵住嘴，学生被迫咬塑料。
-This is music to my ears.
-这对我来说是天籁之音。
-This isn't appropriate.
-这不合适。
-This isn't needed.  I understand.
-这不需要。我明白了。
-This punishment shall be a lesson for you.
-这次惩罚将给你一个教训。
-This training did not turn out as expected but I'm sure you learned plenty.
-这次训练没有如预期，但你肯定学到了很多。
+It needs to be tight enough so the student cannot spit it out, but not too tight so it hurts her.
+绳索要紧到学生无法吐出来，但又不能太紧以免疼痛。
 Try it on me for a minute.  We'll see if you can adjust it properly.
-在我身上试一分钟。我们看看你能不能调整好。
-Use the larger cuffs for my feet, and the smaller ones on my hands.
-用较大的手铐铐我的脚，较小的铐我的手。
-Use your new tools wisely.  Keep our college safe and secure.
-明智地使用你的新工具。保持我们学院的安全。
-Use your new tools wisely.  Maybe we shall continue what you've started under the desk another time.
-明智地使用你的新工具。也许我们下次会继续你在桌子底下开始的事情。
-Very well.
-很好。
-Very well.  We have enough time for it.
-很好。我们有足够的时间。
-We are testing the new college equipment.
-我们在测试新的学院设备。
+试试我一会儿。 我们看看你能不能调整好。
+(You step forward to gag her loosely.)
+（你上前松松地堵住她的嘴。）
+(You step forward to gag her safely.)
+（你上前一步，安全地堵住她的嘴。）
+(You step forward to gag her tightly.)
+（你上前紧紧堵住她的嘴。）
+(You step forward to gag her.)
+（你上前堵住她的嘴。）
+(She chews on the gag and twists her head from left to right.)
+（她咬着口塞，左右扭头。）
+Mmniis ish aw wo aag a huhen.
+我真是太好了。
+Oomp!  Ish uhi!
+哎呀！ 伊什，呃希！
+(Evelyn tugs on her cuffs as someone knocks again.)
+（有人敲门时，伊芙琳拉了拉手铐。）
+(You take a picture of her as she struggles harder.)
+（你拍下她挣扎时的照片。）
+Director?  Please, may I get in?   I really need these files.
+主任？ 请允许我进去吗？  我真的很需要这些文件。
+(Evelyn stares at you with wide eyes and struggles on her cuffs.)
+（伊芙琳睁大眼睛盯着你，挣扎着解开手铐。）
+(You rush to unlock her gag and cuffs.)
+（你急忙解开她的口塞和手铐。）
+(You stand still, not moving or saying a word.)
+（你站着一动不动，一句话也没说。）
+(She screams in her gag as you get to the door to open it.)
+（当你走到门口开门时，她在嘴里尖叫。）
+(She seems to appreciate that you quickly release her.)
+（她似乎很感激你很快放开了她。）
+Yuki, please come inside.
+优纪，请进来。
+(Yuki enters.)  Greetings Director.  Good morning PlayerName.
+（优纪进来了。） 主任您好。 早上好，PlayerName。
+Sorry for interrupting, I will get my missing files quickly.
+抱歉打扰了，我会很快拿回丢失的文件。
+My apologies for losing them.
+很抱歉丢失了它们。
+(Yuki rushes to the cabinet and picks many papers.)
+（优纪急忙走向柜子，挑起许多纸张。）
+Thank you Director, I will be on my way.
+谢谢主任，我这就走。
+(She leaves the office in a hurry.)
+（她匆匆离开办公室。）
+Thank you for releasing me so hastily.  It would have been embarrassing.
+谢谢你这么快放我走。 那会很尴尬。
+(She arranges her outfit.)  Of course, young lady.
+（她整理着自己的服装。） 当然，小姐。
+(She shakes her head from left to right.)  I highly doubt that.
+（她左右摇头。） 我非常怀疑。
+(She smiles.)  You're kind, young lady.
+（她微笑着。） 你真善良，小姐。
+(She nods in agreement.)  I guess I do.
+（她点头表示同意。） 我想我确实有。
+(She heads back to her desk.)
+（她回到了自己的办公桌。）
+(She looks at you nervously as you wait patiently.)
+（她紧张地看着你，你耐心等待。）
+(She doesn't dare to make any noise.)
+（她不敢发出任何声音。）
+(She shakes her head from left to right rapidly.)
+（她快速地左右摇头。）
+(You try to calm her down, it seems to work a little.)
+（你试着安抚她，似乎有点效果。）
+(You both stand still and silent.)
+（你们都静静地站着，沉默不语。）
+(She's knocking at the door again.)
+（她又敲门了。）
+(You keep on waiting for a while.)
+（你又等了一会儿。）
+(The knockings stop after a while.  Everything becomes quiet.)
+（敲门声过了一会儿就停了。 一切变得安静。）
+(Evelyn slowly calms down.)
+（伊芙琳慢慢平静下来。）
+Hham hou hunhok?
+哈姆侯勋霍克？
+(You quickly unlock and release her.)
+（你迅速解锁并释放她。）
+(She nods as you unlock and release her.)
+（你解锁又放开她时，她点了点头。）
+(She bows her head as you unlock and release her.)
+（当你解锁又放开她时，她低下了头。）
+This training did not turn out as expected but I'm sure you learned plenty.
+这次训练结果不如预期，但我相信你学到了很多。
+(You open the door and let Yuki inside.)
+（你开门让优纪进来。）
+Thank you PlayerName.  I'm in a hurry.  I need to pick up my files for...
+谢谢你，PlayerName。 我很着急。 我得去拿我的档案......
+(She gasps and starts walking toward Evelyn.)
+（她倒吸一口气，开始朝伊芙琳走去。）
+Oh lord!  Director!
+天哪！ 主任！
+(Evelyn blushes and looks down.)
+（伊芙琳脸红，低下头。）
+PlayerName, what is going on?
+PlayerName，发生了什么事？
+Oh lord!  I understand.
+天哪！ 我明白。
+(She nods at you.)  I understand.
+（她向你点头。） 我明白。
+(She smiles at you.)  She is.
+（她对你微笑。） 她是。
+(She gulps and nods.)  I understand.
+（她咽了口口水，点了点头。） 我明白。
+(Her eyes widen.)  Oh lord!
+（她的眼睛睁大了。） 天哪！
+I've done cuffs training years ago, but I ended up bound.
+我多年前做过手铐训练，但最后还是被绑住了。
+The training session changed a lot.  I did not expect to see that.
+训练内容发生了很大变化。 我没想到会看到这样的情况。
+Will you release her now?
+你现在会放她走吗？
+Oh lord!  It looks like it.
+天哪！ 看起来是这样。
+(She nods.)  That's wise.
+（她点点头。） 这很明智。
+Oh lord!  She certainly can.
+天哪！ 她当然可以。
+Oh lord!  The corporal punishment training is also important.
+天哪！ 体罚训练同样重要。
+Absolutely, learning corporal punishment is important.
+当然，学习体罚很重要。
+(She nods slowly.)  Learning corporal punishment is important.
+（她慢慢点头。） 学习体罚很重要。
+Since she's not able to talk, I can guide you with spankings.
+既然她不能说话，我可以用打屁股指导你。
+Is that acceptable Director?
+这样可以吗，主任？
+(She frowns and grumbles in her gag.)  Hho aw hhot ehanhin he huhi!
+（她皱眉，嘴里嘟囔着。） 呼啊，好啊，哪里的，呼呼！
+Yes Director.  It's my pleasure to help.  (She winks at you.)
+是，主任。 能帮上忙是我的荣幸。 （她向你眨眼。）
+(Yuki lifts Evelyn arms behind her back, in a spanking position.)
+（优纪把伊芙琳的手臂举到背后，摆出打屁股的姿势。）
+(You take a picture of Yuki as she's getting ready to spank.)
+（你拍了一张优纪准备打屁股的照片。）
 We can spank her turn by turn.  It will be easier to learn.
-我们可以轮流打她。这样学起来更容易。
-We could have dinner or go for a walk.
-我们可以一起吃晚餐或去散步。
-We have many subjects to review today.
-我们今天有很多主题要复习。
-We must review the art of spanking first.
-我们必须先复习打屁股的艺术。
-We shall analyze this blunder later.  Open this cabinet, you should find what you require.
-我们稍后会分析这个失误。打开这个柜子，你应该能找到你需要的。
-We shall do a full bondage demonstration now.
-我们现在将进行完整的束缚示范。
-We shall do a spanking demonstration this morning.  Are you ready for that?
-我们今天上午将进行打屁股示范。你准备好了吗？
-Well done PlayerName.  You have a natural talent.
-干得好，PlayerName。你有天赋。
-Well done, PlayerName.  You have a natural talent.  I'm impressed.
-干得好，PlayerName。你有天赋。我很佩服。
-Well done, young lady.  This is how you secure a student.
-干得好，小姐。这就是如何固定一个学生。
+我们可以轮流打她屁股。 这样会更容易学习。
+Would that work for you PlayerName?
+这样对你有用吗，PlayerName？
+I like your attitude PlayerName!
+我喜欢你的态度，PlayerName！
+(She grins.)  You don't know half of it.
+（她咧嘴笑了。） 你只知道一半。
+(She laughs.)  I like the way you think.
+（她笑了。） 我喜欢你的想法。
+(She seems disappointed but nods.)  Alright.
+（她看起来有些失望，但还是点了点头。） 好吧。
+(She gulps as you wave your crop.)  I see that you're serious.  Let's do it!
+（你挥舞着马鞭，她咽了口口水。） 我看得出你是认真的。 开始吧！
+(She places her hand on Evelyn butt, as you get ready to spank her.)
+（她把手放在伊芙琳的屁股上，你准备打她屁股。）
+Oh lord!  You're horrible at it.  Forget it PlayerName.
+天哪！ 你太糟糕了。 算了，PlayerName。
+Oh lord!  I'm not sure you're doing it right PlayerName.
+天哪！ 我不确定你做得对，PlayerName。
+Oh lord!  You're learning well, you will be good soon PlayerName.
+天哪！ 你学得很好，很快就会变好，PlayerName。
+Oh lord!  You're very good at it, you don't need any training PlayerName.
+天哪！ 你很擅长，根本不需要训练，PlayerName。
+Oh lord!  You're amazing PlayerName, we all could learn from your technique.
+天哪！ 你太棒了，PlayerName，我们都能从你的技巧中学习。
+(She looks at the clock and gets nervous.)
+（她看了看钟，开始紧张。）
+I should get my files and get to class.  I will be late.
+我该拿文件去上课了。 我会迟到。
+(She leaves you with Evelyn and starts to search in a cabinet.)
+（她把你留给伊芙琳，开始在橱柜里找东西。）
+(She fumbles with her files as Evelyn grumbles in her gag.)
+（她笨拙地摆弄着文件，伊芙琳在嘴里嘟囔着。）
+Oh lord!  Thank you PlayerName.  Thank you Director.
+天哪！ 谢谢你，PlayerName。 谢谢主任。
+(Yuki leaves the room while Evelyn is mumbling.)
+（优纪离开房间时，伊芙琳还在嘟囔着。）
+Use your new tools wisely.  Keep our college safe and secure.
+明智地使用你的新工具。 保护我们的学院安全可靠。
+Use your new tools wisely.  Maybe we shall continue what you've started under the desk another time.
+明智地使用你的新工具。 也许我们以后再继续你在办公桌下开始的事。
+Get to detention, young lady.
+去留校察看，小姐。
+(You promptly leave for detention class.)
+（你立刻去了留校察看课。）
+(You slowly leave for detention class.)
+（你慢慢去留校察看。）
+(She looks at you curiously.)
+（她好奇地看着你。）
 Why do you ask?
 你为什么问？
-Will you release her now?
-你现在会释放她吗？
-With multiple restraints and a gag, you can fully control your students.
-用多个束缚和口塞，你可以完全控制你的学生。
-With pleasure.
-很乐意。
-Would that work for you PlayerName?
-这对你来说可以吗，PlayerName？
-Wwha hhwoou ih hay?
-你在说什么？
-Yes Director.
-是的，主任。
-Yes Director.  (Go to class.)
-是的，主任。（去上课。）
-Yes Director.  I've been gagged before.
-是的，主任。我以前被塞过嘴。
-Yes Director.  It's my pleasure to help.  (She winks at you.)
-是的，主任。很高兴能帮忙。（她对你眨眼。）
-Yes Director.  Thank you for the physical demonstration.
-是的，主任。谢谢你的实际示范。
-Yes, I'll release her soon.
-是的，我很快会释放她。
-You are, for the demonstration only.
-你是，仅用于示范。
-You can use corporal punishments to train your students.
-你可以用体罚来训练你的学生。
-You can't be serious!
-你不是认真的吧！
-You have devious ideas.
-你有狡猾的想法。
-You have nothing to be embarrassed about.
-你没有什么可尴尬的。
-You owe me one Evelyn.
-你欠我一个人情，Evelyn。
-You quickly get to Evelyn's office, she's waiting for you.
-你迅速到达Evelyn的办公室，她在等你。
-You require to aim properly and use the right amount of force.
-你需要正确瞄准并使用适当的力度。
-You shall be fine.  It's only a demonstration.
-你会没事的。这只是一个示范。
-You shall be spanked.
-你将被打屁股。
-You shall cuff my hands and feet.  Then silence me with a gag.
-你将铐住我的手脚。然后用口塞让我安静。
-You're not the first girl I get in bondage.
-你不是我第一个束缚的女孩。
-You're reading my mind girl.
-你在读我的心，女孩。
-Young lady, you shall be punished for your poor performance.
-小姐，你将因表现不佳而受到惩罚。
-Your teacher's outfit shall not do well.  Our students wear short sleeves.
-你的教师装扮不太合适。我们的学生穿短袖。
-Yuki's reaction would have been funny.
-Yuki的反应会很好笑。
-Yuki, please come inside.
-Yuki，请进来。
+That's a fair suggestion.  Let's meet this weekend for an activity.
+这是个合理的建议。 我们这个周末见面参加活动吧。
+(She shakes her head no.)  I shall decline, young lady.
+（她摇头拒绝。） 我会拒绝，小姐。
+Now get to your class.  (She points at the door as you start walking.)
+现在去你的教室。 （她指着门，你开始走路。）
+You won't touch me, my submissive.
+你碰不到我，我的顺从者。
+My girl, you will not spank me.
+姑娘，你不能打我屁股。
+I want to keep my job
+我想保住我的工作
+I want to become a good teacher.
+我想成为一名好老师。
+I want to quit.  (Leave your job.)
+我想辞职。 （辞掉你的工作。）
+That's enough, my girl.  I'm keeping this job.
+够了，姑娘。 我会留住这份工作。
+I understand.
+我明白。
+Yes, Director.  I understand very well.
+是，主任。 我非常理解。
+Don't worry, the grades will improve.
+别担心，成绩会提升的。
+Fuck this work.  (Leave your job.)
+去他妈的这活儿。 （辞掉你的工作。）
+(Smirk.)  I'm eager to see that place.
+（坏笑。） 我很想去看看那个地方。
+(Follow her silently.)
+（默默跟着她。）
+Please lead the way, Director.
+请带路，主任。
+Do you torture students here?
+你们在这里折磨学生吗？
+To correct bad behavior?
+纠正不良行为？
+This place is scary.
+这地方很吓人。
+I don't know.
+我不知道。
+SecretDialog
+秘密对话
+A quiet place is healthy to focus.
+安静的地方有助于专注。
+This is inhumane.
+这太不人道了。
+I would be scared to be locked up here.
+我会害怕被关在这里。
+I'm glad to have this tool available.
+我很高兴有这个工具可用。
+InventoryDialogPaddle
+InventoryDialogPaddle
+I don't.
+我没有。
+I've been caged by my lover.
+我被我的爱人囚禁着。
+I've been stuck in an elevator, does it count?
+我被困在电梯里，算吗？
+Yes, I've caged my girlfriend.
+是的，我把我女朋友关起来了。
+Cages are immoral.
+笼子是不道德的。
+My pleasure Miss.  I hope we get one at home.
+很高兴，小姐。 希望我们家能买到。
+Yes, Director.  (Get in the cage.)
+是，主任。 （进笼子里。）
+Will you lock it?
+你会锁门吗？
+Trying the cage isn't needed.  I understand.
+没必要试笼子。 我明白。
+No, you will demonstrate the cage yourself.
+不，你得亲自演示这个笼子。
+My sweet submissive, get in that cage.
+我亲爱的顺从者，进笼子里去。
+I don't understand.
+我不明白。
+The cuffs?
+手铐？
+I will certainly cuff them inside.
+我肯定会把他们铐进去。
+See ya later!
+回头见！
+Alone like that?  What about spiders?
+就这样一个人？ 蜘蛛呢？
+(Nod slowly.)  Yes, Director.
+（慢慢点头。） 是，主任。
+(Nod slowly.)  Of course, Miss Evelyn.
+（慢慢点头。） 当然，伊芙琳小姐。
+Wait!  I have severe arachnophobia!  (Panic.)
+等等！ 我有严重的蜘蛛恐惧症！ （恐慌。）
+Oh!  Great idea!  (Cuff her wrists.)
+哦！ 好主意！ （给她戴上手铐。）
+(Grin and cuff her wrists.)
+（咧嘴笑着，给她戴上手铐。）
+Please give me your hands, Director.  (Cuff her.)
+主任，请把手给我。 （给她戴上手铐。）
+I understand the cage.  There's no need to add cuffs.
+我理解笼子的感觉。 不需要加手铐。
+Very good, but I could not cuff you, Director.
+很好，但我没法给你戴上手铐，主任。
+I don't have any questions, Miss Director.
+我没有问题，主任小姐。
+That's enough, I understand.
+够了，我明白了。
+(Swiftly cuff her ankles.)
+（迅速给她戴上脚铐。）
+One question, can I do that?  (Cuff her ankles.)
+有个问题，我可以这么做吗？ （给她脚踝铐起来。）
+(Nod and release her.)
+（点头，放开她。）
+Of course, Miss Director.  (Release her.)
+当然，主任小姐。 （放了她。）
+Next time I'll add more restraints.  (Release her.)
+下次我会加更多束缚。 （放了她。）
+No, you're too cute all locked up.  (Leave her.)
+不，你被关起来太可爱了。 （放开她。）
+No, you will begin your own training.  (Leave her.)
+不，你将开始自己的训练。 （放开她。）
+My girl, I will leave you locked here.  (Leave her.)
+姑娘，我会把你锁在这里。 （放开她。）
+(Evelyn waves at you.)  It is a pleasure to see you, PlayerName.
+（伊芙琳向你挥手。） 很高兴见到你，PlayerName。
+(Evelyn looks at you.)  There you are, young lady.
+（伊芙琳看着你。） 给你，小姐。
+Please come closer, a discussion is required.
+请靠近点，需要讨论。
+Come here, a discussion is required.
+过来，需要讨论。
+As usual, we require to review the quality of your work.
+一如既往，我们需要审核您的作品质量。
+(She lowers her voice.)  Miss PlayerName, I trust that you remember our agreement.
+（她压低声音。） PlayerName小姐，我相信你还记得我们的约定。
+(She lowers her voice.)  My submissive girl, I trust that you remember our agreement.
+（她压低声音。） 我顺从的女孩，我相信你还记得我们的约定。
+(She keeps her voice low.)  I do remember the quality of your work under my desk.
+（她压低声音。） 我记得你在我办公桌下的作品质量。
+Our college has high standards that we must comply to.
+我们学院有很高的标准，必须遵守。
+I am your submissive outside of college, but on these grounds, I am your director.
+我大学外是你的顺从者，但基于这些理由，我是你的主任。
+Being professional is of the upmost importance for our careers.
+专业对我们的职业生涯至关重要。
+You fully submit to me outside of college, but on these grounds, I am your director and nothing else.
+你在大学之外完全服从我，但基于这些理由，我只是你的主任，别无他物。
+We shall monitor our students' progress in your first month.
+我们将在你们第一个月内监测学生的进展。
+(She looks at the screen with a huge smile.)  You are doing a tremendous job.  Congratulations.
+（她带着灿烂的笑容看着屏幕。） 你做得非常出色。 恭喜你。
+(She looks at the screen and smiles.)  You seem to be doing a fine job.  Progress is on the horizon.
+（她看着屏幕，微笑着。） 你看起来做得不错。 进步正在前方。
+(She looks at the screen carefully.)  I am not seeing much progress so far.
+（她仔细看着屏幕。） 到目前为止，我没看到太大进展。
+(She frowns while looking at the screen.)  You are doing a very poor job, young lady.
+（她皱眉看着屏幕。） 你做得很差，小姐。
+(She stares at the screen and gets angry.)  Young lady, this is disastrous.  You are doing a horrible job.
+（她盯着屏幕，生气了。） 小姐，这太糟糕了。 你做得很糟糕。
+With such results, you shall surely teach your own class next semester.
+有了这样的成绩，你下学期肯定能教自己的班了。
+Let's not waste any time talking.  On this day, I have another tool to offer you.
+别浪费时间说了。 今天，我还有另一个工具要给你。
+I must admit that I now have remorse about hiring you.
+我现在对雇佣你感到有些后悔。
+To motivate you, and for our students' future, a punishment is required.
+为了激励你，也为了我们学生的未来，需要惩罚。
+Young lady, you shall be spanked.
+小姐，你会挨打的。
+Once again, you shall be spanked.
+你将再次挨打。
+I am very serious.  (She cracks her knuckles.)
+我很认真。 （她捏了捏指关节。）
+(She gulps and lowers her voice again.)  Yes Miss.  Sorry Miss.
+（她咽了口口水，又压低了声音。） 是的，小姐。 抱歉，小姐。
+I hope this second spanking shall teach you a lesson.
+我希望这第二次打屁股能给你一个教训。
+Bend over and put your palms on the desk, young lady.
+弯腰，把手掌放在桌子上，小姐。
+I shall not leave marks but ensure that you remember your lesson.
+我不会留下痕迹，但一定要记住你的教训。
+(She aims carefully and spanks your butt hard.)
+（她瞄准得很准，狠狠地打了你的屁股。）
+Pain and humiliation are key here, not violence.
+这里的关键是痛苦和羞辱，而不是暴力。
+Good spanking should be more mental than physical.
+好的体罚应该更多是心理上的，而非身体上的。
+Remember that your career depends on your performance.
+记住，你的职业生涯取决于你的表现。
+And remember that your job depends on me.
+记住，你的工作取决于我。
+(She whispers.)  This spanking shall be repeated at home, with full force.
+（她低声说。） 这种体罚将在家中重演，且全力以赴。
+Stricter labor shall save your butt at our next meeting.
+更严格的劳动会在我们下次会议上救你一命。
+(She stops and takes a deep breath.)
+（她停下来，深吸一口气。）
+I hope that lesson was clear and understood.
+我希望这个教训是清晰且被理解的。
+You require harder work to improve our students' grades.
+你们需要更努力的努力来提升学生的成绩。
+(She returns to her desk.) 
+（她回到自己的办公桌前。） 
+To help you improve, I have another tool to offer.
+为了帮助你提升，我还有另一种工具。
+I have serious doubts about keeping you on our staff.
+我对你继续留在我们团队里有严重的怀疑。
+You do not have what it takes to be a proper teacher.
+你没有成为一名合格教师的条件。
+Do you wish to give up and quit your job?
+你想放弃并辞职吗？
+(She looks at the computer once again.)
+（她又看了看电脑。）
+(She nods and looks at the computer once again.)
+（她点点头，再次看向电脑。）
+(She sighs and nods.)  Teaching was never in your blood, young lady.
+（她叹了口气，点了点头。） 教书从来不是你的天赋，小姐。
+I shall give you one last chance.
+我给你最后一次机会。
+If our students' grades do not improve, you shall be expelled.
+如果我们学生的成绩没有提升，你将被开除。
+Do you understand?
+明白吗？
+Very well.  I do hope this is correct.
+很好。 我真心希望这是正确的。
+Very good, young lady.
+很好，小姐。
+(She nods.)  I shall remember these words.
+（她点点头。） 我会记住这些话。
+(She frowns at you.)  This is the final nail in the coffin.
+（她皱眉看着你。） 这是压垮一切的最后一根稻草。
+There is a special place that you can use for discipline, the basement.
+有一个特别的地方可以用来纪律，那就是地下室。
+Down there, we have special tools to break the most rebellious pupils.
+下面有特殊工具能打败最叛逆的学生。
+Please follow me, we shall visit the college basement together.
+请跟我来，我们一起去大学地下室。
+Come with me, I shall show you the college basement.
+跟我来，我带你去大学地下室。
+I do enjoy this attitude, please come with me.  (She leaves her desk.)
+我很喜欢这种态度，请跟我来。 （她离开了办公桌。）
+(She leaves her desk and guides you down.)
+（她离开办公桌，引导你下楼。）
+Stay close, young lady.  (She leaves her desk and guides you down.)
+靠近点，小姐。 （她离开办公桌，引导你下楼。）
+Welcome to the college basement.  Please be careful if you have arachnophobia.
+欢迎来到大学地下室。 如果你有蜘蛛恐惧症，请务必小心。
+This is our college basement.  Be careful with spiders.
+这是我们大学的地下室。 小心蜘蛛。
+This is the basement.  The spiders shall not hurt you.
+这是地下室。 蜘蛛不会伤害你。
+I know this location is cold and humid, we do not heat it.
+我知道这个地方又冷又潮湿，我们不加热。
+This area is mostly a warehouse to store our obsolete documents and tools.
+这个区域主要是用来存放我们过时的文件和工具的仓库。
+It has another function, can you guess how this basement can be used?
+它还有另一个功能，你能猜到这个地下室是怎么用的吗？
+We shall not use that word.  We use this room as a last resort to straighten up our students.
+我们不会用那个词。 我们把这个房间作为最后手段来整理学生。
+(She nods in agreement.)  Absolutely.  It is a last resort tool to straighten up our students
+（她点头表示同意。） 绝对是。 它是最后的手段，用来矫正我们的学生
+Do not be scared, you have the key.  It is a last resort room to straighten up our students
+别害怕，你有钥匙。 这是最后的手段，用来整理学生
+(She sighs.)  We use this room as a last resort tool to straighten up our students.
+（她叹气。） 我们把这个房间当作最后的工具，用来整理学生。
+(She smirks as you pick the wooden paddle on the wall.)  No desobedient posterior shall be spared.
+（当你捡起墙上的木桨时，她露出一丝得意的笑容。） 任何不服从的后方都不会被放过。
+If a pupil got sent to detention by a teacher and still cannot behave with you, you can bring her here.
+如果有学生被老师留校察看，但仍然无法和你相处，你可以把她带到这里。
+We shall explore.  I hope you do not fear the dark.  (She guides you further.)
+我们将探索。 我希望你不害怕黑暗。 （她引导你继续前行。）
+Miss PlayerName, we can explore the darker places together if you desire.  (She guides you further.)
+PlayerName小姐，如果你愿意，我们可以一起探索更黑暗的地方。 （她引导你继续前行。）
+We shall explore.  Do not fear the dark my submissive.  I am with you.  (She guides you further.)
+我们将探索。 不要害怕黑暗，我的臣服者。 我支持你。 （她引导你继续前行。）
+(You both walk in the basement and end up in a place with old desks and chairs.)
+（你们俩走进地下室，最终来到一个有旧书桌和椅子的地方。）
+These desks are not adequate for class anymore but can be used here.
+这些课桌已不适合上课，但可以在这里使用。
+If the college is too noisy for our students to focus, you can relocate them.
+如果学院太吵，学生无法集中注意力，你可以把他们搬走。
+(She frowns as you take a picture.)  It is disrespectful to use a phone while conversing.
+（你拍照时她皱眉。） 在交谈时使用电话是不尊重的。
+When in need, your cuffs can be used to restrain a pupil to a desk.
+需要时，你的手铐可以用来将学生束缚在课桌上。
+How do you feel about this secluded study room?
+你觉得这个隐秘的书房怎么样？
+(She nods in agreement.)  We think alike, young lady.
+（她点头表示同意。） 我们想法相似，小姐。
+(She frowns at you.)  Our methods are strict, but they have proven results.
+（她皱眉看着你。） 我们的方法很严格，但已经证明了成效。
+Do not be afraid, young lady.  We require you to be strong as detention manager.
+别害怕，小姐。 我们要求你作为拘留管理人坚强。
+It shall be a nice addition to your arsenal.
+这将是你武器库中的一个不错补充。
+(She laughs as you spin the paddle.)  It should also motivate them to study harder.
+（她笑着看你转动桨。） 这也应该激励他们更加努力学习。
+The basement is mostly used to dissuade future disobedience, not traumatize.
+地下室主要用来阻止未来的不服从，而不是造成创伤。
+A single visit downstairs can correct bad behavior, but if it does not work...  (She guides you further.)
+下楼一次就能纠正坏习惯，但如果不行...... （她引导你继续前行。）
+We have a few cages to lock up and isolate unruly students.
+我们有几个笼子要关起来，隔离那些不守规矩的学生。
+This specific cage heavily restricts the student movements.
+这个特定的笼子严重限制了学生的行动。
+Do you have any experience with cages?
+你有笼子的经验吗？
+This is fine, we shall create that experience today.
+这很好，我们今天就要创造这样的体验。
+(She smirks.)  It shall be a different experience today, young lady.
+（她露出一丝坏笑。） 今天的体验将会不同，年轻女士。
+Yes and no.  Today's experience shall be a little different.
+是也不是。 今天的体验将有些不同。
+(She nods and giggles softly.)  It shall be a different experience today.
+（她点点头，轻声笑了起来。） 今天的体验将会有所不同。
+Young lady, any tool that brings a bright future to our students is moral.  You shall understand today.
+小姐，任何能为学生带来光明未来的工具都是道德的。 你今天会明白的。
+Being isolated can be scary at first, but it becomes a moment of meditation.
+孤立一开始可能令人害怕，但这会成为冥想的时刻。
+Alone in a cage, the person can think about her behavior and how to correct it.
+独自一人被关在笼子里，这个人可以思考自己的行为以及如何纠正。
+To understand the feeling, I suggest you try the cage yourself.
+要理解这种感觉，我建议你自己试试笼子。
+Please step inside for a few minutes.
+请进去几分钟。
+Get inside for a few minutes, young lady.
+进去坐几分钟，小姐。
+Careful what you wish for my little.  (She pats your butt as you step inside the cage.)
+小心你对我小家伙的愿望。 （你走进笼子时，她拍了拍你的屁股。）
+You might learn about yourself in the process.  (She grins as you step in the cage.)
+你可能会在这个过程中更了解自己。 （当你踏入笼子时，她露出笑容。）
+Of course, young lady.  (She sighs loudly and guides you in the cage.)
+当然，小姐。 （她长叹一声，引导你进笼子。）
+You do understand quickly.  This tour is not required.  (She walks back with you.)
+你理解得很快。 此参观并非必需。 （她和你一起走回去。）
+Do not discuss my methods, young lady.  (She sighs and guides you in the cage.)
+别谈我的方法，小姐。 （她叹了口气，把你带进笼子里。）
+What?  I mean...  That...  Alright.  (She blushes and advances toward the cage.)
+什么？ 我是说...... 那个...... 好吧。 （她脸红着，朝笼子走去。）
+Respect the college hierarchy, young lady.  Step inside.  (She guides you in the cage.)
+尊重学院的等级制度，小姐。 进来吧。 （她在笼子里引导你。）
+Absolutely, Miss PlayerName.  (She blushes and advances toward the cage.)
+当然，PlayerName小姐。 （她脸红着，朝笼子走去。）
+(You smack her butt with the crop as she steps in the cage.)  Ow!  Fine!  I'll demonstrate the cage.
+（她踏进笼子时，你用鞭子拍打她的屁股。） 哎哟！ 好吧！ 我来演示一下这个笼子。
+(You smack her butt with the paddle as she steps in the cage.)  Ow!  Fine!  I'll demonstrate the cage.
+（她踏进笼子时，你用拍子拍打她的屁股。） 哎哟！ 好吧！ 我来演示一下这个笼子。
+(You squeeze yourself inside as she locks the cage.)
+（她锁上笼子时，你挤进去。）
+The feeling of claustrophobia can be intense at first, but it shall slowly settle down.
+幽闭恐惧感一开始可能很强烈，但会慢慢缓解。
+(You try to pick up your phone, but she swiftly gets it and captures the moment.)
+（你试图拿起手机，但她迅速接住并捕捉了这一刻。）
+Being locked in a cage is humiliating.  The stigmas of an animal, a slave or a prisoner.
+被关在笼子里是羞辱。 动物、奴隶或囚犯的污名。
+Your school material can be used in conjunction with this tool.
+你的学校资料可以与此工具结合使用。
+Aren't you clueless?  I shall demonstrate.  (She gets some handcuffs.)
+你不懂吗？ 我来演示。 （她被戴上手铐。）
+Absolutely.  (She gets some handcuffs.)
+绝对是。 （她被戴上手铐。）
+Great minds think alike.  (She gets some handcuffs.)
+英雄所见略同。 （她被戴上手铐。）
+(You stare at her cuffs as she grins.)
+（你盯着她的袖口看，她咧嘴笑着。）
+(She grabs your hands and forces them behind your back.)
+（她抓住你的手，强行把它们背到背后。）
+Adding restraints shall put emphasis on the feeling of helplessness.
+增加束缚会强调无助感。
+In this predicament, you have neither control nor power.
+在这种情况下，你既没有控制权，也没有权力。
+I shall leave you alone to experience the helplessness fully.
+我会让你独自感受无助。
+(She rolls her eyes up and starts to walk away.)
+（她翻了个白眼，开始离开。）
+You shall survive, young lady. (She starts to walk away.)
+你会挺过来的，小姐。（她开始离开。）
+(She smirks and starts to walk away.)
+（她带着一丝坏笑，开始离开。）
+You are a delightful submissive.  (She smirks and starts to walk away.)
+你是个可爱的顺从者。 （她带着一丝坏笑，开始离开。）
+(She sighs loudly and starts to release you.)  Fine, we shall conclude this visit promptly.
+（她长叹一声，开始松开你。） 好，我们会尽快结束这次拜访。
+Phobias are hard to vanquish, young lady.  You should work on yours.
+恐惧症很难克服，小姐。 你应该改进你的。
+We shall return upstairs, far from spiders.  I do hope this location shall be a useful tool.
+我们会回到楼上，远离蜘蛛。 我真心希望这个地点能成为一个有用的工具。
+(You can hear her heels hitting the staircase as she goes up.)
+（你能听到她高跟鞋踩楼梯的声音。）
+(A loud noise of a door closing can be heard, then everything goes silent.)
+（门关上的巨响响起，然后一切归于寂静。）
+(Your eyes slowly adjust to the darkness, you now see clearer in the dark.)
+（你的眼睛慢慢适应黑暗，现在在黑暗中看得更清楚了。）
+(You can see insects crawling in the dark, some are getting closer.)
+（你可以看到黑暗中爬行的昆虫，有些正在靠近。）
+(As time goes by, more and more spiders enter the cage.)
+（随着时间推移，越来越多的蜘蛛进入笼子。）
+(It will be hard to avoid or chase away these creatures, but you can try.)
+（躲避或驱赶这些生物很难，但你可以尝试。）
+(After lots of struggles, you manage to chase all the spiders away.)
+（经过一番挣扎，你终于把所有蜘蛛都赶走了。）
+(Exhausted, you give up and let the spiders crawl over you and inside your clothes.)
+（筋疲力尽，你放弃了，让蜘蛛爬满你和衣服。）
+(You wait alone for a few more minutes, then you hear the door again.)
+（你独自等了几分钟，然后又听到门的声音。）
+(Her heels click on the stairs one by one as she gets closer.)
+（她的高跟鞋在楼梯上一层又一声地敲击着，越走越近。）
+Young lady, you look terrific.  It was a great experience after all.
+小姐，你看起来真棒。 毕竟这是一次很棒的经历。
+Young lady, you look very well.  It was a good experience.
+小姐，你看起来很好。 这是一次很好的经历。
+Young lady, you look well.  It was a positive experience.
+小姐，你看起来不错。 这是一次积极的经历。
+Young lady, you do not look well.  It was not a positive experience.
+小姐，你看起来不太好。 这并不是一次积极的经历。
+Young lady, you look awful.  It was a horrible experience for you.
+小姐，你看起来糟透了。 对你来说，那是一次可怕的经历。
+Young lady, you look pathetic.  It was an ordeal to you.
+小姐，你看起来很可怜。 对你来说，这简直是一场折磨。
+(She bends down to release you.)
+（她弯腰放开你。）
+My sincere apologies.  My trip upstairs was extended for longer than expected.
+我真诚地道歉。 我上楼的路程比预期的要长。
+We must return to work.  I hope this room shall be used when required.
+我们必须回去工作。 希望这间房间在需要时能被使用。
+(She slowly squeezes herself into the cage as you lock it.)
+（你锁上笼子时，她慢慢地挤进了笼子里。）
+I see that you found the locking mechanism hastily.  Be careful with that key.
+我看到你是匆忙找到了锁具。 小心那把钥匙。
+(She blushes and doesn't seem to appreciate that you capture the moment.)
+（她脸红了，似乎不喜欢你捕捉这一刻。）
+Once a pupil is locked inside, she becomes truly helpless, a prisoner.
+一旦学生被锁在里面，她就真正无助，成为囚徒。
+(She jumps out of surprise as you cuff her hands.)  That...  was hasty.  Well done.
+（你给她手铐时，她吓了一跳。） 那个...... 太匆忙了。 干得好。
+(She jumps out of surprise as you hit the cage with the crop.)  Oh!  A crop can be used also.
+（当你用马鞭击中笼子时，她惊跳了起来。） 哦！ 也可以使用农作物。
+(She jumps out of surprise as you hit the cage with the paddle.)  Oh!  A paddle can be used also.
+（当你用桨击中笼子时，她惊跳了起来。） 哦！ 也可以用桨。
+Your set of cuffs can be used in conjunction with this tool.
+你的一套手铐可以配合这个工具一起使用。
+(You pull her hands outside the cage to cuff them.)
+（你把她的手拉出笼子，给她戴上手铐。）
+Very well, I am sure you understand how to use this tool.
+很好，我相信你已经明白如何使用这个工具。
+I understand, I hope you shall muster the courage later to use this tool fully.
+我明白了，希望你以后能鼓起勇气充分利用这个工具。
+Adding restraints puts emphasis on the feeling of helplessness.
+加绑带会强调无助感。
+(You snap a quick picture of her in this predicament.)
+（你迅速拍了张她处于困境中的照片。）
+The humiliation becomes greater.  The stigmas of an animal, a slave or a prisoner.
+羞辱感会加剧。 动物、奴隶或囚犯的污名。
+(You swiftly pull her legs outside and cuff them.)  Young lady... this is out of training scope.
+（你迅速把她的腿拉到外面，给她戴上手铐。） 小姐......这超出了培训范围。
+In this predicament, our students have neither control nor power.
+在这种情况下，我们的学生既没有控制权，也没有权力。
+We can now conclude, unless you have questions.
+我们现在可以结束了，除非你有问题。
+Very good, I am certain you shall use this tool in a proper manner.
+很好，我相信你会正确使用这个工具。
+(You quickly pull her feet outside the cage to cuff them.)
+（你迅速把她的脚拉出笼子，给她戴上手铐。）
+Do what?  (As she answers, you pull her feet outside the cage to cuff them.)
+做什么？ （她回答时，你把她的脚拉出笼子，给她戴上手铐。）
+(You pull her feet outside the cage to cuff them.)
+（你把她的脚拉出笼子，给她戴上手铐。）
+(She struggles awkwardly and uncomfortably, cuffed in the cage.)
+（她被铐在笼子里，挣扎着，既尴尬又不舒服。）
+You certainly know how to use the school material.
+你确实很懂得如何使用学校的教材。
+(You take a picture as she struggles and sighs.)
+（你拍了张照片，她挣扎着叹气。）
+True helplessness shall help your students to reach a submissive state.
+真正的无助感会帮助你的学生达到顺从状态。
+Once in that submissive head space, they obey and learn a lot faster.
+一旦进入那种顺从的心态，他们会服从并更快学会。
+(She shivers.)  I adore when you get me in that submissive head space, Miss PlayerName.
+（她打了个寒颤。） 我喜欢你让我进入那种顺从的心态，Miss PlayerName。
+(You capture the moment as she starts to get cramps.)
+（你捕捉了她开始抽筋的瞬间。）
+(She struggles once more in vain to test her predicament.)
+（她再次徒劳地挣扎，试图试探自己的困境。）
+I think we covered the cage topic well enough.
+我觉得我们已经把笼子的话题讲得够清楚了。
+We shall conclude this tour.  It is now time to release me.
+我们将结束这次巡演。 现在是时候释放我了。
+(You unlock her as she slowly gets out.)
+（你帮她解开锁，她慢慢出来。）
+(She stares with wide eyes as you grab the basement key from her purse.)
+（当你从她包里拿出地下室钥匙时，她睁大眼睛盯着你。）
+Thanks a lot.  I usually let the teachers experience the cage.
+非常感谢。 我通常让老师们体验一下笼子。
+Let us conclude this tour and walk back.  I shall give you the key.
+让我们结束这次参观，回去吧。 我会把钥匙给你。
+Young La... PlayerName...  Are you serious?
+年轻姑娘......PlayerName...... 你是认真的吗？
+Miss PlayerName...  Are you serious?
+PlayerName小姐...... 你是认真的吗？
+You cannot leave me locked up here.
+你不能把我关在这里。
+I have work to do.  It might take hours until someone comes here.
+我有工作要做。 可能要几个小时才有人来。
+(You head for the stairs with the basement key as she struggles madly.)
+（你拿着地下室钥匙朝楼梯走去，她拼命挣扎。）
+You fool!  I shall remember this offense!  Help!
+你这个笨蛋！ 我会记住这次冒犯！ 帮助！
+Miss PlayerName!  I shall be a good submissive!  Help!
+Miss PlayerName！ 我会做个好顺从者！ 帮助！
+(You leave her furious in her cage and head back to detention class.)
+（你把她愤怒地关在笼子里，自己回去上留校察看课。）
+(She gives you the key for the college basement.)
+（她给了你大学地下室的钥匙。）
+Use the basement wisely.  It shall help students who have gone astray.
+明智地利用地下室。 它将帮助那些迷失方向的学生。
+Now, get to detention, our pupils shall not wait.
+现在，去留堂，我们的学生不能等。
+Young lady, I shall not repeat the same mistake.  Get to your class.
+小姐，我不会再犯同样的错误。 去你的教室。
+Young lady, I did not expect that question.
+小姐，我没想到会问这个问题。
+That is a fair suggestion.  We could gather this weekend for an activity.  I accept.
+这是个合理的建议。 我们可以这个周末聚在一起参加活动。 我接受。
+(You quickly leave the basement, heading for detention.)
+（你迅速离开地下室，前往留校察看。）
+Now, get to your class.  (You walk back up as she locks the door behind.)
+现在，去你的教室。 （她锁上门时你走回去。）
+Yes, Mistress Evelyn.
+是的，伊芙琳夫人。
+Alright, I accept.
+好吧，我接受。
+I cannot do that.
+我做不到。
+Are you insane?
+你疯了吗？
+From now on, you shall not be employed in this establishment.  You are fired.
+从现在起，你不得再在这里工作。 你被解雇了。
+You shall return the documents and tools acquired from the college.
+你应归还从学院获得的文件和工具。
+(She lowers her voice.)  Miss PlayerName...
+（她压低声音。） PlayerName小姐......
+(She lowers her voice.)  My girl...
+（她压低声音。） 我的女孩......
+If you need work references, I shall help you to acquire another job.
+如果你需要工作推荐信，我会帮你找另一份工作。
+If you need work references, contact my secretary.
+如果你需要工作推荐信，联系我的秘书。
+Don't bother me with any work references, they shall be negative.
+别用工作推荐信打扰我，肯定是负面的。
+Do not worry, you still have a place to stay at my home.
+别担心，你在我家还有地方住。
+I shall not be your submissive anymore, I'm breaking up.
+我不会再做你的顺从者了，我要分手了。
+(She gets to the door and looks at you.)
+（她走到门口，看着你。）
+Please leave Miss PlayerName, you shall require the bus back to my house.
+请离开，PlayerName小姐，你需要坐公交回我家。
+You can be comfortable at home while you wait.  I promise to be back early.
+等待期间你可以在家舒适地待着。 我保证会早点回来。
+(You lost your job as a teacher.  This story ends here.)
+（你失去了教师的工作。 故事到此结束。）
+If you desire, you have a place to stay at my home.
+如果你愿意，我家有地方住。
+I shall not keep you as a submissive, you are dismissed from my home.
+我不会把你留作顺从者，你被逐出我的家。
+Shall you be my permanent house slave?
+你愿意做我永远的家奴吗？
+(She makes a large grin.)  Good girl.
+（她露出灿烂的笑容。） 乖孩子。
+(She nods.)  Very good.
+（她点点头。） 非常好。
+(She sighs loudly.)  I understand.
+（她大声叹气。） 我明白。
+(She clinches her fists but doesn't say a word.)
+（她握紧拳头，却一句话也没说。）
+You shall take the bus back home and wait for me inside, naked.
+你得坐公交回家，在里面等我，赤裸着。
+I shall prepare a simpler life for you, free of mundane work.
+我会为你准备一个更简单的生活，没有枯燥的工作。
+(She gets to the door and stares at you.)
+（她走到门口，盯着你看。）
+Get out PlayerName, this office and college are off limits to you.
+滚出去，PlayerName，这个办公室和大学都禁止你进入。
+Should I publish the images of your cage trip?
+我应该发布你笼子旅行的照片吗？
+Mistress, could you help me keep my job?
+夫人，您能帮我保住工作吗？
+You can fire me, I don't care.
+你可以开除我，我不在乎。
+Fine, I will quit.
+好吧，我辞职。
+I'm sure there's a third option!
+我相信还有第三种选择！
+No.  What is it?
+不。 怎么了？
+(Blush and nod.)
+（脸红点头。）
+Yes, medieval tools are fascinating.
+是的，中世纪工具确实很有趣。
+I've locked up some girls before.
+我以前关过几个女孩。
+You could wear it to show me.
+你可以戴着给我看。
+I could wear it, but don't lock it.
+我可以戴，但别锁。
+(Blush.)  Please demonstrate on me, Director.
+（脸红。） 请在我面前演示，主任。
+I'm fine, we can skip the demonstration.
+我没事，我们可以跳过演示。
+I understand but I don't like it.
+我理解，但我不喜欢。
+It will be an excellent tool for our pupils.
+这将是我们学生的绝佳工具。
+Yes!  And it looks good on you.
+是的！ 而且你穿起来很好看。
+This might be too strict for our students.
+这对我们的学生来说可能太严格了。
+Really?  Could we add some cuffs now?
+真的吗？ 我们现在能加点手铐吗？
+You will demonstrate in cuffs then.
+到时候你就要戴上手铐示范。
+There's no need for that.  I understand everything.
+没必要。 我明白一切。
+InventoryDialogCuffs
+物品栏对话手铐
+Yes Yuki!  Come inside!
+是的，优纪！ 进来！
+(Stay silent also.)
+（也保持沉默。）
+Yeah, she's now a slut.
+是的，她现在是个荡妇。
+Yes, our Director was generous.
+是的，我们的主任很慷慨。
+It's not luck, it's control.
+这不是运气，而是控制力。
+Isn't she cute like that?
+她这样是不是很可爱？
+I will decide when she gets out.
+等她出来我再决定。
+I'm not telling you.
+我不告诉你。
+I'll let you know during lunch break.
+午休时我会告诉你。
+Would you like to decide and keep the key?
+你想决定并保留钥匙吗？
+Yuki, you should also wear a belt.
+优纪，你也应该系皮带。
+You might be right, but you've heard the boss.
+你可能说得对，但你听老板说的话。
+You're cute when you're shy.
+你害羞的时候很可爱。
+Do you complain all day?
+你整天抱怨吗？
+Yes, Director.
+是，主任。
+Fine, but this is boring.
+好吧，但这太无聊了。
+Too bad, you look good like that.
+可惜，你这样看起来真好。
+(Think aloud.)  I don't think so.
+（大声思考。） 我觉得不行。
+No girls, you're staying in steel.
+不行，女孩们，你得留在钢铁里。
+Of course, dear Director.
+当然，亲爱的主任。
+Too bad, it looks good on you.
+可惜，穿在你身上挺好看的。
+Do it yourself.
+你自己动手。
+I'm not sure about that.
+我不太确定。
+No, you're staying locked.
+不，你得一直锁着。
+My cherished slave, you will stay locked.
+我心爱的奴隶，你将被锁住。
+Really?  What if someone comes here?
+真的吗？ 如果有人来这里怎么办？
+Fine, but let's do this quickly.
+好吧，但我们得快点。
+Yes, Mistress.  My pleasure.
+是的，夫人。 不客气。
+I'm nervous, director.
+我很紧张，主任。
+(Smile and raise your arms.)
+（笑一笑，举起你的手臂。）
+You enjoy this way too much.
+你太享受这一切了。
+(Sigh and raise your arms.)
+（叹气，举起手臂。）
+Yes!  (Shake your hips and nods rapidly.)
+是的！ （摇动臀部，快速点头。）
+That sounds like a good combo.
+听起来是个不错的组合。
+(Open your briefcase.)
+（打开你的公文包。）
+A demonstration is not needed.
+不需要演示。
+My pleasure, Director Evelyn.
+很荣幸，伊芙琳主任。
+Our pupil's security comes first.  (Wink at her.)
+学生的安全是第一位的。 （向她眨眼。）
+I also hope to demonstrate at home, Mistress.
+我也希望在家里示范，女主人。
+(Go hide under her desk.)
+（去躲到她的桌子底下。）
+(Stay with Evelyn.)
+（和伊芙琳在一起。）
+(Refuse to do anything.)
+（拒绝做任何事。）
+(Shake your head and struggle hard.)
+（摇头，拼命挣扎。）
+(Nod and struggle happily.)
+（点头，开心地挣扎。）
+(Shrug and chew on the gag.)
+（耸耸肩，咀嚼着口塞。）
+(Wink at Yuki and shake your hips.)
+（向优纪眨眼，摇摆臀部。）
+(Nod and blush red.)
+（点头，脸红。）
+(Shake your head and blush red.)
+（摇摇头，脸红。）
+(Mumble in your gag.)
+（嘴里嘟囔着。）
+(Wink to her.)
+（向她眨眼。）
+(Point rapidly at her.)
+（快速指向她。）
+(Make a thumbs down.)
+（竖起大拇指。）
+(Make a thumbs up.)
+（竖起大拇指。）
+(Flip your middle finger.)
+（竖中指。）
+Once again, a review of the quality of your work is needed.
+再次强调，需要对你作品质量进行审查。
+(She keeps her voice low.)  I remember with disgust being forsaken in that cage.
+（她压低声音。） 我厌恶地记得被遗弃在那个笼子里。
+We shall monitor our students' progress.
+我们将监督学生的进步。
+(She frowns while looking at the screen.)  You are doing a poor job, young lady.
+（她皱眉看着屏幕。） 你做得很差，小姐。
+(She stares at the screen and gets angry.)  Young lady, this is not working.  You are doing an awful job.
+（她盯着屏幕，生气了。） 小姐，这样不行。 你做得很糟糕。
+With such results, we shall surely give you a raise next semester.
+有了这样的成绩，我们下学期肯定会给你加薪。
+Let's conclude this review.  I have another tool for your arsenal.
+让我们结束这篇评测。 我还有另一件工具可以给你准备。
+Hiring you might have been a mistake on my part.
+雇佣你可能是我的错误。
+(Her eyes widen and she lowers her voice.)  Fine, we shall postpone this spanking.
+（她睁大了眼睛，声音压低了。） 好吧，我们推迟这次打屁股。
+It seems that frequent spankings might be mandatory for you.
+看起来频繁的体罚对你来说可能是强制的。
+Take a deep breath, young lady.
+深呼吸，小姐。
+This punishment is over.  I have another tool for your arsenal.
+这惩罚结束了。 我还有另一件工具可以给你准备。
+You have been warned previously about being expelled.  Things did not improve.
+你之前已经被警告过会被开除。 情况没有改善。
+(She gives you a stern look and checks her computer again.)
+（她严肃地看了你一眼，又检查了一下电脑。）
+(Her eyes widen and she lowers her voice.)  Fine, we shall postpone that review.
+（她睁大了眼睛，声音压低了。） 好吧，我们推迟那次审查。
+This discussion is over.  I have another tool for your arsenal.
+这场讨论结束。 我还有另一件工具可以给你准备。
+Young lady, your teaching record gives us two choices.
+小姐，你的教学记录给了我们两个选择。
+Should I fire you or would you like to quit on your own?
+我应该解雇你，还是你想自己辞职？
+(She shakes her head from left to right.)  Teaching is not in your blood, young lady.
+（她左右摇头。） 教书不是你的天性，小姐。
+(She shakes her head from left to right.)  Teaching is not in your blood, my slave.
+（她左右摇头。） 教书不是你的天赋，我的奴隶。
+(She puts a large metallic item on her desk.)
+（她把一个大型金属物品放在桌上。）
+Have you seen a similar device before?
+你见过类似的设备吗？
+You need to review your history books, young lady.
+你得复习一下你的历史书，小姐。
+(She smirks.)  It seems that you have previous experience.
+（她露出一丝坏笑。） 看起来你有之前的经验。
+(She nods in agreement.)  Quite fascinating.
+（她点头表示同意。） 相当有趣。
+(She nods rapidly.)  I am impressed.
+（她迅速点头。） 我很佩服。
+This chastity belt is used to control our students' hormones.
+这条贞操带用来控制学生的激素。
+It is a device from an older era with a modern touch.
+它是一个带有现代感的老时代设备。
+A student can wear it all day or night with no major discomfort.
+学生可以全天候佩戴，无需明显不适。
+Under its shield, no sexual activity can occur.
+在它的护盾下，无法发生性行为。
+It can be a tool to punish or help if your pupil lacks focus.
+如果你的学生注意力不集中，它可以作为惩罚或帮助的工具。
+(She stares at you.)
+（她盯着你看。）
+Mistress, it will be my pleasure to wear it for you as demonstration.
+夫人，我很荣幸为您佩戴它作为示范。
+Slave, you will wear it as demonstration.
+奴隶，你要戴着它作为示范。
+Is a demonstration required?
+需要示范吗？
+(She nods slowly.)  Fine, I am willing to demonstrate it on myself.
+（她慢慢点头。） 好吧，我愿意自己演示一下。
+(She shakes her head from left to right.)  Young lady, we will demonstrate on yourself.
+（她左右摇头。） 小姐，我们来给你演示一下。
+The locking mechanism is part of the demonstration.
+锁定机构是演示的一部分。
+You will make a fine model, young lady.
+你会成为一个好模特，小姐。
+(She nods in agreement.)  Please take a few belts before you vacate.
+（她点头表示同意。） 请在离开前先喝几条腰带。
+I shall undress promptly to show you how to attach it.
+我会立刻脱衣服，教你如何安装。
+(She removes her outfit and puts it away.)
+（她脱下衣服收好。）
+This device can be worn with or without undergarments.
+该装置可穿戴内衣或不穿内衣。
+It depends on how long you require the chastity sentence to last.
+这取决于你要求贞操期持续多久。
+The mechanism locks around the waist and over the vulva.
+该机构锁在腰部和外阴处。
+(She slides the belt around her hips as you take the key.)
+（你接过钥匙时，她把皮带套在腰间。）
+(She shivers as you lock the device securely in place.)
+（你把装置牢牢锁住时，她不禁打了个寒颤。）
+The steel is strong, but it shall not bruise the skin or rust.
+钢铁坚固，但不会伤皮肤或生锈。
+(She frowns as you capture the moment.)  These kinds of pictures are forbidden on college ground.
+（她皱眉，你捕捉到这一刻。） 这类照片在大学场地上是被禁止的。
+Can you now fathom the enforced control?
+你现在能理解这种强制控制吗？
+(She frowns.)  Do not judge too hastily.
+（她皱眉。） 不要太急于下结论。
+(She nods in agreement.)  We think alike.
+（她点头表示同意。） 我们想法相似。
+(She blushes a little.)  I guess this esthetic is also a positive.
+（她微微脸红。） 我想这种美学也是个优点。
+(She shakes her head no.)  Do not discard this tool too quickly.
+（她摇头拒绝。） 不要太快放弃这个工具。
+(She jumps out of surprise as you whip her butt.)  You do fathom!
+（你抽打她屁股时，她吓得跳了起来。） 你能理解！
+(She blushes as you pick the large paddle and hit her butt.)  You do fathom!
+（当你拿起大拍子拍她屁股时，她脸红了。） 你能理解！
+Chastity can help a student to focus on schoolwork or protect against predators.
+贞操能帮助学生专注于学业或防御掠食者。
+Removing the device later can become a reward for good behavior.
+之后摘下设备可以成为对良好行为的奖励。
+Mistress, it can also be a reward if your slave pleased you.  (She winks at you.)
+女主人，如果你的奴隶让你满意，这也可以是奖励。 （她向你眨眼。）
+You can use it in combination with your other tools for a greater effect.
+你可以和其他工具结合使用，效果更佳。
+(She laughs out loud and grabs the cuffs for you.)  We certainly can.
+（她大笑出声，帮你抓住手铐。） 我们当然可以。
+(She gulps and nods as you pick the cuffs.)
+（你拿起手铐时，她咽了口口水点头。）
+You are a fast learner.  We can conclude this demonstration.
+你学得很快。 我们可以结束这次演示。
+You could also add more cuffs or a gag for maximal security.
+你也可以加装更多手铐或口塞，以增加最大安全性。
+(She tries to look away as you save an image on your phone.)
+（当你在手机上保存一张照片时，她试图移开视线。）
+In this attire, the sole focus of your pupil should be learning.
+穿着这套衣服，学生唯一的目标应是学习。
+It's a strict and humiliating lesson that will be engraved in their mind.
+这是一堂严厉且屈辱的教训，将铭刻在他们心中。
+Knock, knock, knock.
+敲。
+(Someone knocks at the door.  You recognize your colleague Yuki's voice.)
+（有人敲门。 你认出了同事优纪的声音。）
+Director, can I come in?  I need the new history tests.
+主任，我可以进来吗？ 我需要新的历史测试。
+(Evelyn trembles from embarrassment, keeping her voice down.)
+（伊芙琳因尴尬而颤抖，压低声音。）
+Young lady, stay silent until she goes away.
+小姐，安静，直到她走开。
+Mistress, can we please stay silent until she goes away?
+夫人，我们能不能安静到她走？
+(She stops talking, what will you do?)
+（她停下话语，你打算怎么办？）
+(The door opens right away and Yuki steps in.)
+（门立刻打开，优纪走了进去。）
+(You both stay silent but the door opens anyway and Yuki steps in.)
+（你们都保持沉默，但门还是开了，优纪走了进来。）
+Oh lord!  (Her eyes widen as she stares at Evelyn.)
+天哪！ （她瞪大眼睛盯着伊芙琳。）
+Director, what is going on?
+主任，发生什么事了？
+Yuki, we are demonstrating the tools to enforce student's concentration.
+优纪，我们正在演示强制学生专注的工具。
+I trust that you remember the same training you had years ago.
+我相信你还记得多年前的同样训练。
+(She nods.)  In my training, I was wearing the belt. 
+（她点点头。） 训练时我戴着腰带。 
+Times have changed, you're lucky PlayerName.
+时代变了，你真幸运，PlayerName。
+(She stares at you.)  Oh lord!  I would not use that word for our Director.
+（她盯着你看。） 天哪！ 我不会用那个词来形容我们的主任。
+(She nods in agreement.)  Oh lord!  She spoiled you.
+（她点头表示同意。） 天哪！ 她宠坏了你。
+(She gulps and nods.)  Oh lord!  You are right.
+（她咽了口口水，点了点头。） 天哪！ 你说得对。
+(She smiles and nods.)  Oh lord!  Very cute.
+（她微笑着点头。） 天哪！ 非常可爱。
+(They get closer.)  The cuffs are a nice bonus.  She looks very helpless.
+（他们越来越近。） 手铐是个不错的额外奖励。 她看起来非常无助。
+Director, it's a rare sight to see you bound.
+主任，看到你被绑着真是难得的景象。
+(Yuki smiles for the picture.)  Send me a copy!
+（优纪为照片微笑。） 给我发一份！
+PlayerName, will she wear the belt for a while?
+PlayerName，她会戴腰带一段时间吗？
+(She laughs.)  It seems that your plan has some holes.
+（她笑了。） 看起来你的计划有些漏洞。
+(She nods slowly.)  You're the boss!
+（她慢慢点头。） 你是老板！
+Fine!  You're no fun.
+好吧！ 你一点都不好玩。
+(She winks at you and makes a thumbs up.)
+（她向你眨眼，竖起大拇指。）
+(She smirks and ponders for a little while.)
+（她带着一丝得意的笑容，沉思了一会儿。）
+(She shivers and her eyes widen.)
+（她打了个寒颤，眼睛睁大。）
+I do love this idea.  (She puts the key in her purse.)
+我真的很喜欢这个想法。 （她把钥匙放进包里。）
+Don't worry, Director.  I'll be back later.
+别担心，主任。 我待会儿回来。
+(She looks at the clock.)  Oh lord!  I will be late.
+（她看了看时钟。） 天哪！ 我会迟到。
+Don't mind me, I'll pick the history tests and go.
+别管我，我选历史考试就走。
+(She picks up some papers and leaves in a hurry with the belt key.)
+（她拿起一些文件，匆匆带着皮带钥匙离开了。）
+Young lady, if she does not come back today, you shall both get punished.
+小姐，如果她今天不回来，你们俩都会受到惩罚。
+Mistress, I am unsure of your plan, but I shall trust your judgment.
+夫人，我不确定您的计划，但我会相信您的判断。
+Time is running out.  We should conclude that demonstration.
+时间不多了。 我们应该结束那场演示。
+(You uncuff her hands as she gets her clothes.)
+（你帮她解开手铐，她拿好衣服。）
+Why should I...  That would not...  I need to hurry...  Director!
+我为什么要...... 那样做不会...... 我得快点...... 主任！
+(Yuki seems nervous as Evelyn stares at her.)
+（优纪显得很紧张，伊芙琳盯着她看。）
+Yuki, your co-worker training is more important.  We shall demonstrate together.
+优纪，你的同事培训更重要。 我们将一起示威。
+Yuki, your class is more important, have you lost track of time?
+优纪，你的课更重要，你是不是忘了时间？
+(Yuki blushes and slowly removes her teacher outfit.)
+（优纪脸红了，慢慢脱下了老师的服装。）
+PlayerName...  This is...  I mean...  Is this...
+PlayerName...... 这是...... 我是说...... 这是......
+(She looks at her feet as you capture the moment on your phone.)
+（她看着自己的脚，你用手机捕捉这一刻。）
+Oh lord!  This is not necessary.
+天哪！ 这没必要。
+I guess our Director's word is law.
+我想我们主任的话就是法律。
+Well thank you PlayerName, that's kind.
+谢谢你，PlayerName，真好。
+I don't!  Why are you so mean?
+我没有！ 你怎么这么刻薄？
+(She bites her lips and moans as you swing the crop on her butt.)
+（她咬着嘴唇呻吟着，你挥舞着鞭子在她屁股上。）
+(She jumps and screams as you paddle her butt hard.)
+（当你用力划她的屁股时，她跳起来尖叫。）
+(You lock the belt around her hips and the cuffs behind her back.)
+（你把皮带锁在她臀部，手铐背在背后。）
+(Yuki sighs loudly as you double-check the locks.)
+（优纪大声叹气，你仔细检查锁。）
+(She seems to disapprove of the belted picture.)
+（她似乎不赞成那张系腰带的照片。）
+This is tight.  (The teacher tugs on the cuffs in vain, giving up quickly.)
+这很紧。 （老师徒劳地拉扯手铐，很快放弃。）
+Ok PlayerName, you now know how to use these belts.
+好了，PlayerName，你现在知道怎么用这些腰带了。
+(They look at each other and blush.)
+（他们互相看了看，脸红了。）
+Oh lord!  Director!  This is so strange.
+天哪！ 主任！ 这太奇怪了。
+I agree this is out of protocol, but proper equipment training is important.
+我同意这违反了规定，但正确的装备培训很重要。
+PlayerName, it seems that you have now mastered these tools.
+PlayerName，看来你现在已经掌握了这些工具。
+(She frowns as you take a picture.)  This memento is highly unnecessary.
+（你拍照时她皱眉。） 这个纪念品其实完全没必要。
+We should unlock and conclude this demonstration.
+我们应该解锁并结束这场示威。
+(They seem relieved as you release them both promptly.)
+（当你迅速放开他们时，他们似乎松了口气。）
+(They frown as you release them both reluctantly.)
+（当你不情愿地放开他们时，他们皱起了眉头。）
+(They giggle as you release them both playfully.)
+（当你调皮地放开他们时，他们咯咯笑着。）
+Are you sincere?  What are you planning?
+你是真心的吗？ 你打算做什么？
+(She seems shocked by your answer.)
+（她似乎对你的回答感到震惊。）
+Thank you, I trust that you shall use these tools with caution.
+谢谢，我相信你会谨慎使用这些工具。
+(Yuki looks at the clock and jumps.)  Oh lord!  I will be late.
+（优纪看了看钟，吓了一跳。） 天哪！ 我会迟到。
+(She picks up some papers and leaves in a hurry.)
+（她拿起一些文件匆匆离开。）
+(Evelyn returns to her desk, leaving the belt on it.)
+（伊芙琳回到她的办公桌前，把皮带留在桌上。）
+Please take some belts before you vacate.
+请在搬离前带上几条皮带。
+You will both keep the belt for the day, as a reminder of me.
+你们今天都得留着腰带，作为对我的纪念。
+I'll come back after class to unlock you.
+我下课后会回来帮你解锁。
+And I'm keeping a souvenir.  (You take a picture of them.)
+我会留个纪念品。 （你给他们拍了张照片。）
+(Evelyn takes a deep breath.)  Fine, but do not forget to come back.
+（伊芙琳深吸一口气。） 好吧，但别忘了回来。
+(Evelyn shivers and bows her head.)  Please do not forget to come back.
+（伊芙琳打了个寒颤，低下头。） 请别忘了回来。
+(Yuki trembles.)  Oh lord!  Yeah!  And don't lose the keys!
+（优纪在颤抖。） 天哪！ 是的！ 别丢钥匙！
+(You unlock the cuffs as they quickly pick their clothes.)
+（他们迅速挑选衣服时，你解开了手铐。）
+(They both dress back, concealing the locked device.)
+（他们都穿回去，遮住了锁着的装置。）
+It feels so strange to wear that hidden belt.
+戴着那条隐藏的皮带感觉真奇怪。
+(Evelyn returns to her desk, you can hear a faint metal sound as she sits.)
+（伊芙琳回到她的办公桌前，坐下时能听到隐约的金属声。）
+Young lady, I did not expect you to take such a strong initiative.
+小姐，我没想到你会采取这么强硬的主动。
+Mistress, it was quite a thrill to see you Dominate both of us.
+女主人，看到你支配我们俩真是激动人心。
+Please take a few belts before you vacate.
+请在离开前先喝几条腰带。
+That was quite embarrassing.  She needs to stop barging in my office.
+那真是太尴尬了。 她得别再闯进我的办公室了。
+She's right about the time.  We can conclude this demonstration.
+她说得对，时间是对的。 我们可以结束这次演示。
+(You get closer to unlock her cuffs.)
+（你靠近去解开她的手铐。）
+Young lady, it is time to unlock the belt.
+小姐，是时候解开皮带了。
+Mistress, can you please unlock the belt?
+夫人，您能解开皮带吗？
+(She grins as you unlock the belt.)
+（当你解锁腰带时，她咧嘴笑了。）
+(She smiles as you unlock the belt.)
+（当你解开腰带时，她微笑着。）
+You have a feisty temper.  (You hand her to key to unlock the belt.)
+你脾气很火爆。 （你把钥匙交给她，用来解锁腰带。）
+Not sure about that?  What does it imply?
+不确定吗？ 这意味着什么？
+(She seems stunned by your answer.)
+（她似乎被你的回答震惊了。）
+(She blushes and looks down.)  Mistress, I was secretly hoping you would say that.
+（她脸红了，低下头。） 夫人，我暗自希望您这么说。
+(You release her as she hands you the devices.)
+（你松开她，她把装置递给你。）
+You will keep the belt for the day, as a reminder of me.
+你今天会留着腰带，作为对我的纪念。
+My girl, you will keep the belt for the day, so you remember your submission.
+姑娘，你今天会保留腰带，记住你的降服。
+You will keep it on the way home.  I will unlock you when we get there.
+你回家的路上会保留它。 到了那里我会帮你解锁。
+(She takes a deep breath.)  Fine, but do not forget to come back.
+（她深吸一口气。） 好吧，但别忘了回来。
+(She nods submissively.)  Yes Mistress, I understand.
+（她顺从地点头。） 是的，夫人，我明白。
+(She dresses back, concealing the locked device.)
+（她穿回衣服，遮住了锁着的装置。）
+You should understand how it feels to be chaste before enforcing it on our pupils.
+在强迫学生守贞之前，你应该明白什么是感受。
+Please undress, keep only your underwear.
+请脱衣服，只带内衣。
+Get in your underwear.
+穿上内裤。
+(She frowns.)  The quicker you comply, the lesser the chances.
+（她皱眉。） 你越快配合，成功的机会就越小。
+Absolutely.  We have no time to waste.
+绝对是。 我们没有时间浪费。
+(She snaps her fingers and stares at you.)
+（她打了个响指，盯着你看。）
+Good girl.  (She smiles and stares at you.)
+乖孩子。 （她微笑着盯着你看。）
+(You put your clothes away as she holds the belt.)
+（你收拾衣服，她握着皮带。）
+Raise your arms, young lady.
+举起你的手臂，小姐。
+Do not worry.  This is purely for your education.  (She gets the belt around your hips.)
+别担心。 这纯粹是为了你的教育。 （她把皮带套在你的腰间。）
+(She also smiles and gets the belt around your hips.)
+（她还笑了，把皮带系在你的腰间。）
+Nonsense, this is purely for your education.  (She gets the belt around your hips.)
+别傻了，这纯粹是为了你的教育。 （她把皮带套在你的腰间。）
+(You comply as she gets the belt around your hips.)
+（你顺从地让她把皮带套在你的臀部。）
+(She frowns and gets the belt around your hips.)
+（她皱眉，把皮带套在你的腰间。）
+(The locked belt holds firmly in place.  It's heavy but you could still walk normally.)
+（锁着的皮带牢牢固定着。 虽然很重，但你仍然可以正常走路。）
+(She grabs your phone and captures the moment.)
+（她拿起你的手机，记录下了这一刻。）
+(She frowns.)  Do not judge too hastily, this is an acquiring taste.
+（她皱眉。） 不要太快下结论，这是一种逐渐获得的品味。
+(She looks at you and smiles.)  This is quite positive.
+（她看着你，微笑着。） 这非常积极。
+(She rolls her eyes up.)  Do not discard this tool too quickly.
+（她翻了个白眼。） 不要太快放弃这个工具。
+It can be used in combination with your other tools for a greater effect.
+它可以与其他工具结合使用，效果更佳。
+Let me demonstrate with handcuffs and a gag.
+让我用手铐和堵嘴来演示。
+(She smiles and picks more restraints.)
+（她微笑着，又挑了更多束缚。）
+(She picks more restraints from it.)
+（她从中挑出更多束缚。）
+(She grumbles and picks more restraints.)
+（她嘟囔着，又挑了更多束缚。）
+(She smirks and picks more restraints.)
+（她得意地笑了笑，又挑了更多束缚。）
+(She winks back and picks more restraints.)
+（她眨眼回以，又挑了更多束缚。）
+(She pets your head and picks more restraints.)
+（她抚摸你的头，挑选更多束缚。）
+(She secures your arms behind your back and silences you with a tight panel gag.)
+（她把你的手臂绑在背后，用紧紧的面板塞住你。）
+You could also add more cuffs for maximal security.
+你也可以加装更多手铐以增加安全性。
+(She saves a few pictures on her phone, sending you the best one.)
+（她在手机里保存了几张照片，发给你最棒的一张。）
+In this attire, your sole focus should be learning.
+穿着这身衣服，你唯一关注的目标应该是学习。
+I trust that you are learning a lesson right now.
+我相信你现在正在学到教训。
+(Evelyn whispers to you.)  PlayerName, revenge is best served cold.
+（伊芙琳低声对你说。） PlayerName，复仇最好冷静。
+(Evelyn looks at you and makes an evil grin.)
+（伊芙琳看着你，露出邪恶的笑容。）
+(Evelyn whispers to you.)  Young lady, conceal yourself under my desk.
+（伊芙琳低声对你说。） 小姐，躲到我桌子底下。
+(She goes silent and points to her desk.)
+（她沉默了，指向自己的办公桌。）
+You know how to fit under there.  (She points to her desk.)
+你知道怎么钻进去。 （她指着自己的桌子。）
+(You rush to hide under her desk.)
+（你急忙躲到她的桌子底下。）
+(She seems surprised that you don't seize your chance to hide.)
+（她似乎很惊讶你没有抓住机会躲藏。）
+(You hide under Evelyn's desk as you hear Yuki enter.)
+（你躲到伊芙琳的桌子底下，听到优纪进来。）
+(You hide under Evelyn's desk once again as you hear Yuki enter.)
+（你又躲到伊芙琳的桌子底下，听到优纪走进来。）
+(The belt digs into your skin in this awkward position, but you remain silent.)
+（皮带在这尴尬的姿势里刺入皮肤，但你保持沉默。）
+Oh lord!  Sorry Director.  I thought I picked the tests yesterday.
+天哪！ 对不起，主任。 我以为我昨天选了测试。
+I will be quick, don't worry.
+我会很快的，别担心。
+(You can hear them searching in the office, picking up papers.)
+（你能听到他们在办公室里搜寻，捡起文件。）
+(Evelyn maneuvers and seems to make sure Yuki cannot see you.)
+（伊芙琳巧妙地调整姿势，似乎确保优纪看不到你。）
+Oh lord!  I cannot be late.  Thanks for helping.
+天哪！ 我不能迟到。 谢谢你的帮助。
+Please have a good day, Director.
+请您有美好的一天，主任。
+(You can hear Yuki leaving the office.)
+（你能听到优纪离开办公室的声音。）
+(Evelyn comes back to help you stand up.)
+（伊芙琳回来帮你站起来。）
+(Evelyn comes back but doesn't help you, she sits in her chair.)
+（伊芙琳回来了，但没有帮你，她坐在椅子上。）
+(She grabs your hair and pulls you in between her legs.)
+（她抓住你的头发，把你拉进她的双腿之间。）
+(She holds your head firmly and removes the plug from your gag.)
+（她紧紧抓住你的头，拔掉了塞子。）
+Slave, show your devotion quickly, time is against us.
+奴隶，快点表现出你的忠诚，时间不等人。
+(Your face is forced against her panties.  She's already wet.)
+（你的脸被强行压在她的内裤上。 她已经湿透了。）
+(She trembles a little but remains in control.)
+（她微微颤抖，但依然控制住了。）
+(She moans a little and seems to have a discreet orgasm.)
+（她轻轻呻吟，似乎悄悄达到了高潮。）
+(She jumps a little but remains in control.)
+（她微微一跳，但依然控制住了。）
+(She shivers a little but remains in control.)
+（她微微颤抖，但依然控制住了。）
+(She rages and pulls on your hair.)
+（她愤怒地拉扯你的头发。）
+Slave, you haaaAAAaave an amazing tongue.  We shall repeat this more frequently.
+奴隶，你真是太棒的舌头了。 我们会更频繁地重复这个。
+Slave, you did not perform as expected.  More training shall be required.
+奴隶，你的表现没有达到预期。 还需要更多培训。
+(She opens her legs and puts back the plug on your gag.)
+（她张开双腿，重新给你的塞子塞上。）
+(She gets up from the chair and helps you to stand up.)
+（她从椅子上站起来，帮你站起来。）
+It would have been embarrassing for you, young lady.
+那会让你尴尬的，小姐。
+(She yells at the door.)  Yes Yuki, come in.
+（她对着门喊。） 是的，优纪，进来吧。
+Oh lord!  (Her eyes widen as she stares at you.)
+天哪！ （她瞪大眼睛盯着你看。）
+Director, is she getting punished?
+主任，她要受罚了吗？
+She is testing her new tool.  A demonstration is worth a thousand words.
+她正在测试她的新工具。 一次示范胜过千言万语。
+(Yuki laughs as they both nod.)
+（优纪笑着，两人点头。）
+(Yuki laughs out loud as Evelyn stares at her.)
+（优纪大笑出声，伊芙琳盯着她看。）
+All that steel must be heavy.  You look like a prisoner.
+那么多钢材一定很重。 你看起来像个囚犯。
+Are you enjoying the bonus class, PlayerName?
+你喜欢这个额外职业吗，PlayerName？
+(She nods and looks at the clock.)
+（她点点头，看了看时钟。）
+(She looks at the clock.)
+（她看了看时钟。）
+(She smiles and looks at the clock.)
+（她微笑着看了看时钟。）
+(She smirks and looks at the clock.)
+（她得意地笑了笑，看了看时钟。）
+(She rummages in the office.)  Oh lord!  I'll pick the tests and go.
+（她在办公室里翻找。） 天哪！ 我来选测试然后走。
+Don't mind me, I will be quick, don't worry.
+别管我，我会很快的，别担心。
+Yuki, you laugh and mock her predicament with such glee.
+优纪，你笑着嘲笑她的困境，满是欢快。
+Tell her how many times you barged in my office for missing material.
+告诉她你因为缺材料闯进我办公室多少次了。
+(Yuki blushes and looks at the floor, seeming nervous.)
+（优纪脸红了，低头看着地板，显得有些紧张。）
+Oh lord!  I mean...  Director...  I was...  It was...
+天哪！ 我是说...... 主任...... 我...... 那是......
+I'm sorry.  (She stares at her feet with shame.)
+对不起。 （她羞愧地盯着自己的脚。）
+Get in your undergarment.  You shall endure the same predicament.
+穿上你的内衣。 你也将面临同样的困境。
+(Evelyn gives a stern look as Yuki slowly strips down.)
+（伊芙琳严肃地看着优纪，优纪慢慢脱光。）
+Director...  This is...  I mean...  Is this...
+主任...... 这是...... 我是说...... 这是......
+(Evelyn stays stoic and takes a picture on her phone, sending you a copy.)
+（伊芙琳保持冷静，用手机拍了张照片，发给你一份。）
+Oh lord!  I learned my lesson.  I promise!
+天哪！ 我吸取了教训。 我保证！
+(Evelyn grabs more restraints and moves toward your colleague.)
+（伊芙琳抓起更多束缚，朝你的同事走去。）
+(Yuki sighs loudly in her gag, as Evelyn doubles-check all the locks.)
+（优纪在嘴里大声叹气，伊芙琳则仔细检查所有锁。）
+(She blushes red as the Director takes a photo and sends it to everyone.)
+（当主任拍了张照片并发给大家时，她脸红了。）
+(The teacher tugs on the cuffs in vain, giving up quickly.)
+（老师徒劳地拉扯手铐，很快放弃。）
+Justice is served.  You should know better than to ridicule a co-worker.
+正义得以伸张。 你应该知道不该嘲笑同事。
+I must acknowledge, this is stunning.  You make quite a pair like that.
+我必须承认，这真是令人震惊。 你们真是一对。
+Chastity can be enforced on multiple students, especially if they get too intimate with each other.
+贞操可以对多名学生强制执行，尤其是当他们彼此关系过于亲密时。
+Situations like that can occur quite often in an all-girl academy like ours. 
+在我们这样的全女子学院，这种情况经常发生。 
+Did you two learned something today?
+你们俩今天学到了什么吗？
+(Yuki stares at you, not knowing how to answer.)
+（优纪盯着你，不知道该怎么回答。）
+(She sighs as you mumble as few incomprehensible words in your gag.)
+（她叹了口气，你嘴里含糊地嘟囔着几句听不懂的话。）
+(She shrugs and winks back at you.)
+（她耸耸肩，回眨眼。）
+(She looks down as you point at her.)
+（你指着她时，她低头看着她。）
+(She seems disappointed as you make a thumbs down.)
+（当你竖起大拇指时，她似乎有些失望。）
+(She nods rapidly and makes a thumbs up back to you.)
+（她迅速点头，回以竖起大拇指。）
+(She looks furious as you make a rude gesture to her.)
+（当你对她做出无礼的手势时，她看起来很生气。）
+(Yuki looks at the time and starts to panic.  Evelyn gets the keys to release her.)
+（优纪看了看时间，开始慌张。 伊芙琳拿到了钥匙释放她。）
+Oh lord!  I will be late!  I'm late!
+天哪！ 我要迟到了！ 我迟到了！
+My notes!  My tests!  My clothes!
+我的笔记！ 我的测试！ 我的衣服！
+(She quickly picks up her stuff and leaves the class.)
+（她迅速收拾东西离开了教室。）
+It must have been embarrassing for you, revenge is sweet.
+你一定很尴尬，复仇是甜蜜的。
+It must have been embarrassing for you, young lady.
+这对你来说一定很尴尬吧，小姐。
+(She looks at the clock.)  This concludes our little demonstration.
+（她看了看时钟。） 我们的小演示到此结束。
+I hope it helped you to understand how our students shall feel.
+希望这能帮助你理解我们的学生们将会有什么感受。
+(She grabs the keys to release you.)
+（她拿起钥匙放开你。）
+I trust that you learned more by wearing than simple theory.
+我相信你通过穿戴学到的比简单的理论还多。
+(You give her your phone for a quick picture in your undies.)
+（你把手机递给她，让她在内裤里快速拍张照片。）
+Dress back and take a few belts before you vacate.  (You pick up your outfit.)
+穿回去，带几条皮带后再离开。 （你拿起你的衣服。）
+(You put a few chastity belts in your briefcase.)
+（你在公文包里放了几条贞操带。）
+Employ these devices wisely, our students require to focus on college.
+明智地使用这些工具，我们的学生需要专注于大学。
+Now, get to detention, our pupils are expecting your presence.
+现在，去留校察看，我们的学生们在等你。
