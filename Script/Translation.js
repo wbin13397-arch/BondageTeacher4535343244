@@ -62,7 +62,8 @@ var TranslationDictionary = [
 			"Screen/Intro/Warning/Text_Warning_CN.txt",
 			"Screen/MiniGame/FreeBondage/Text_FreeBondage_CN.txt",
 			"Screen/Home/BossHouse/Text_BossHouse_CN.txt",
-			"Screen/Outro/Epilogue/Text_Epilogue_CN.txt"
+			"Screen/Outro/Epilogue/Text_Epilogue_CN.txt",
+			"Screen/MiniGame/Text_MiniGame_CN.txt",
 		]
 	},
 	/*	{
