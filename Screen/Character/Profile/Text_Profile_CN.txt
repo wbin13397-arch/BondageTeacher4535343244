@@ -1,174 +1,460 @@
-18
-18
-19
-19
-20
-20
-23
-23
-24
-24
-31
-31
-37
-37
-Addicted to weed, she's been in detention more than anyone else.
-她沉迷于大麻，被留校察看的次数比任何人都多。
-After many interviews, she got her first teaching job at a college uptown.
-经过多次面试，她在市区的一所大学获得了第一份教师工作。
+Previous
+之前
+Next
+下一个
+Picture
+图片
+Inventory
+库存
+Close
+结束
+MainCharacter
+主角
+Age
+年龄
+AgeTeacher
+年龄老师
+AgeMia
+年龄米娅
+AgeEvelyn
+年龄伊芙琳
+AgeSidney
+年龄西德尼
+AgeSarah
+年龄莎拉
+AgeAmanda
+年龄阿曼达
+AgeSam
+年龄山姆
+AgeYuki
+年龄优纪
+AgeJane
+年龄简
+AgeCharlotte
+年龄夏洛特
+BirthWeekMia
+出生周米娅
+Job
+工作
+JobTeacher
+职业生涯老师
+JobMia
+职业生涯米娅
+JobEvelyn
+职业生涯·伊芙琳
+JobSidney
+职业生涯·西德尼
+JobSarah
+职业生涯莎拉
+JobAmanda
+职业生涯阿曼达
+JobSam
+职业生涯萨姆里迪
+JobYuki
+职业生涯优纪
+JobJane
+职业生涯简
+JobCharlotte
+职业生涯夏洛特
+Grades
+等级
+Career
+职业生涯
+CareerSidney0
+职业生涯西德尼0
+CareerSidney1
+职业生涯西德尼1
+CareerSidney2
+职业生涯西德尼2
+CareerSidney3
+职业生涯西德尼3
+CareerSidney4
+职业生涯西德尼4
+CareerSidney5
+职业生涯西德尼5
+CareerSidney6
+职业生涯西德尼6
+CareerSidney7
+职业生涯西德尼7
+CareerSidney8
+职业生涯西德尼8
+CareerSidney9
+职业生涯西德尼9
+CareerSidney10
+职业生涯西德尼10
+CareerSarah0
+职业生涯莎拉0
+CareerSarah1
+职业生涯莎拉1
+CareerSarah2
+职业生涯莎拉2
+CareerSarah3
+职业生涯莎拉3
+CareerSarah4
+职业生涯莎拉4
+CareerSarah5
+职业生涯莎拉5
+CareerSarah6
+职业生涯莎拉6
+CareerSarah7
+职业生涯莎拉7
+CareerSarah8
+职业生涯莎拉8
+CareerSarah9
+职业生涯莎拉9
+CareerSarah10
+职业生涯莎拉10
+CareerAmanda0
+职业生涯阿曼达0
+CareerAmanda1
+职业生涯阿曼达1
+CareerAmanda2
+职业生涯阿曼达2
+CareerAmanda3
+职业生涯阿曼达3
+CareerAmanda4
+职业生涯阿曼达4
+CareerAmanda5
+职业生涯阿曼达5
+CareerAmanda6
+职业生涯阿曼达6
+CareerAmanda7
+职业生涯阿曼达7
+CareerAmanda8
+职业生涯阿曼达8
+CareerAmanda9
+职业生涯阿曼达9
+CareerAmanda10
+职业生涯阿曼达10
+CareerSam0
+职业生涯萨姆里迪0
+CareerSam1
+职业生涯萨姆里迪1
+CareerSam2
+职业生涯萨姆里迪2
+CareerSam3
+职业生涯萨姆里迪3
+CareerSam4
+职业生涯萨姆里迪4
+CareerSam5
+职业生涯萨姆里迪5
+CareerSam6
+职业生涯萨姆里迪6
+CareerSam7
+职业生涯萨姆里迪7
+CareerSam8
+职业生涯萨姆里迪8
+CareerSam9
+职业生涯萨姆里迪9
+CareerSam10
+职业生涯萨姆里迪10
+InfoTeacher0
+信息老师0
+InfoTeacher1
+信息老师1
+InfoTeacher2
+信息老师2
+InfoTeacher3
+信息老师3
+InfoTeacher3Single
+信息老师3单身
+InfoMia0
+米娅信息0
+InfoMia1
+米娅信息1
+InfoMia2
+米娅信息2
+InfoMia3
+米娅信息3
+InfoMia3Single
+米娅信息3单身
+InfoMia3Dominate
+米娅信息3支配
+InfoMia3Submit
+米娅信息3服从
+InfoEvelyn0
+伊芙琳信息0
+InfoEvelyn1
+伊芙琳信息1
+InfoEvelyn2
+伊芙琳信息2
+InfoEvelyn3
+伊芙琳信息3
+InfoEvelyn3Dominate
+伊芙琳信息3支配
+InfoEvelyn3Submit
+伊芙琳信息3服从
+InfoSidney0
+西德尼信息0
+InfoSidney1
+西德尼信息1
+InfoSidney2
+西德尼信息2
+InfoSidney3
+西德尼信息3
+InfoSidney3Dominate
+西德尼信息3支配
+InfoSidney3Submit
+西德尼信息3服从
+InfoSarah0
+莎拉信息0
+InfoSarah1
+莎拉信息1
+InfoSarah2
+莎拉信息2
+InfoSarah3
+莎拉信息3
+InfoSarah3Dominate
+莎拉信息3支配
+InfoSarah3Submit
+莎拉信息3服从
+InfoAmanda0
+阿曼达信息0
+InfoAmanda1
+阿曼达信息1
+InfoAmanda2
+阿曼达信息2
+InfoAmanda3
+阿曼达信息3
+InfoSam0
+萨姆里迪信息0
+InfoSam1
+萨姆里迪信息1
+InfoSam2
+萨姆里迪信息2
+InfoSam3
+萨姆里迪信息3
+InfoYuki0
+优纪信息0
+InfoYuki1
+优纪信息1
+InfoYuki2
+优纪信息2
+InfoYuki3
+优纪信息3
+InfoJane0
+简信息0
+InfoJane1
+简信息1
+InfoJane2
+简信息2
+InfoJane3
+简信息3
+InfoCharlotte0
+夏洛特信息0
+InfoCharlotte1
+夏洛特信息1
+InfoCharlotte2
+夏洛特信息2
+InfoCharlotte3
+夏洛特信息3
+Pictures
+图片
+Main character
+主要角色
 Age:
 年龄：
-Amanda is a kind-hearted, strong-willed and studious college girl.
-Amanda是一个心地善良、意志坚强且勤奋学习的女大学生。
-B Movie Actress
-B级电影演员
-Bum
-流浪汉
-Cat Lady
-猫女
-Chemist
-化学家
-Close
-关闭
-Crackhead
-瘾君子
+Job:
+工作：
+Teacher
+教师
+Unemployed
+失业
 Director
-主任
-Evelyn is confident, strict and well-organized.  The definition of a workaholic.
-Evelyn自信、严格且井井有条，是典型的工作狂。
-Expected career:
-预期职业：
+导演
+Student
+学生
+Maid
+女仆
+Barmaid
+酒吧女招待
 Expected grades:
 预期成绩：
-Failed Writer
-失败的作家
-Famous Author
-著名作家
-Film Makeup Artist
-电影化妆师
-Fraud Victim
-诈骗受害者
+Expected career:
+预期职业生涯：
+Crackhead
+瘾君子
+Junkie
+瘾君子
+Bum
+流浪汉
+Pusher
+推手
 Garbage Collector
 垃圾收集员
 Gardener
 园丁
-Groupie
-追星族
-Hairdresser
-理发师
-Her job is to guide and train teachers.  She rules them with an iron fist.
-她的工作是指导和培训教师，并以铁腕管理他们。
-Her lack of focus and seriousness greatly affects her grades.
-她缺乏专注和认真，严重影响了成绩。
-Her parents are slowly giving up on her and stopped sending her money.
-她的父母逐渐对她失去信心，并停止给她寄钱。
-Her very close friend Sarah is the only bad influence on her grades.
-她非常亲密的朋友Sarah是唯一对她成绩产生负面影响的人。
 Herbalist
 草药师
+Chemist
+化学家
+Pharmacist
+药剂师
+Researcher
+研究员
+Inventor
+发明家
+Sexual Slave
+奴隶
+Prostitute
+妓女
+Sex Cam Girl
+性爱摄像头女孩
+Groupie
+追星族
+Porn Actress
+色情女演员
+Hairdresser
+理发师
+Theater Actress
+戏剧演员
+Film Makeup Artist
+电影化妆师
+B Movie Actress
+B级电影女演员
+Movie Director
+电影导演
 Hollywood Star
 好莱坞明星
 Homeless
-无家可归
-Inventor
-发明家
-Inventory
-物品栏
-Job:
-职业：
-Journalist
-记者
-Junkie
-吸毒者
-Main character
-主角
-Mia is easy-going and kind of lazy.  She considers herself to be a foodie.
-Mia性格随和且有点懒，她认为自己是个吃货。
-Movie Director
-电影导演
-Next
-下一步
-Novelist
-小说家
-Pharmacist
-药剂师
-Pictures
-图片
-PlayerName is studious, hard-working and can be a little anxious.
-PlayerName勤奋努力，但有时会有点焦虑。
-Porn Actress
-色情演员
-Previous
-上一步
-Prostitute
-妓女
-Pusher
-毒贩
-Researcher
-研究员
-Sarah is a lighthearted, adventurous and exuberant college girl.
-Sarah是一个轻松、爱冒险且充满活力的女大学生。
+无家可归者
+Fraud Victim
+欺诈受害者
+Cat Lady
+猫女士
+Failed Writer
+失败的作家
 School Aide
 学校助理
-School Director
-学校主任
+Journalist
+记者生涯
 School Teacher
-学校教师
-Sex Cam Girl
-网络情色主播
-Sexual Slave
-性奴
-She broke up with PlayerName and did not give any news since then.
-她与PlayerName分手后就再也没有消息。
-She dated other teachers in the past but now lives alone with her cats.
-她曾与其他教师交往，但现在独自和猫生活。
-She doesn't have a partner or any children.  Her career always comes first.
-她没有伴侣或孩子，事业始终放在第一位。
+教师生涯
+Novelist
+小说家
+School Director
+校长
+Famous Author
+著名作家
+Exiled
+流亡
+Disgraced
+蒙羞
+Disinherited
+被剥夺继承权
+Secretary
+秘书
+Third Heir
+第三任继承人
+Human Ressource
+人类资源
+Second Heir
+第二继承人
+Businesswoman
+商人
+First Heir
+第一继承人
+Oligarch
+寡头
+Mogul
+莫卧儿
+PlayerName is studious, hard-working and can be a little anxious.
+PlayerName勤奋、勤奋，有时会有些焦虑。
 She earned her bachelor's degree while working a full-time restaurant job.
-她在餐厅全职工作的同时获得了学士学位。
-She never got promoted because of her numerous blunders and addictions.
-由于多次失误和各种瘾，她从未获得晋升。
-She took a few classes but never got a diploma and has been unemployed for months.
-她上过几门课但从未获得文凭，已经失业数月。
-She works hard on her homework and get great results on her exams.
-她认真完成作业，考试成绩优异。
-She's a recovering alcoholic and takes lots of pills for different problems.
-她正在戒酒，并为各种问题服用大量药物。
-She's been employed by the college for years and got promoted to director.
-她在大学工作多年，并被晋升为主任。
-She's known to flirt a lot and was caught making up with students.
-她以爱调情著称，并曾被发现与学生亲热。
-She's known to pick fights with her college roommate Sarah.
-她以经常与大学室友Sarah争吵而闻名。
-She's living alone in an apartment downtown.  Her ex Mia moved out.
-她独自住在市中心的公寓里，前任Mia已经搬走。
+她在全职餐饮工作期间获得了学士学位。
+After many interviews, she got her first teaching job at a college uptown.
+经过多次面试，她在市中心的一所大学获得了第一份教职。
 She's living in a small apartment downtown with her girlfriend Mia.
-她与女友Mia住在市中心的一间小公寓里。
+她和女友米娅住在市中心一间小公寓里。
+She's living alone in an apartment downtown.  Her ex Mia moved out.
+她一个人住在市中心的公寓里。 她的前任米娅搬出去了。
+Mia is easy-going and kind of lazy.  She considers herself to be a foodie.
+米娅性格随和，有点懒散。 她自认为是个美食爱好者。
+She took a few classes but never got a diploma and has been unemployed for months.
+她上过几门课，但从未拿到文凭，已经失业好几个月了。
+Her parents are slowly giving up on her and stopped sending her money.
+她的父母正在慢慢放弃她，停止给她寄钱。
 She's living in a small apartment downtown with her girlfriend PlayerName.
-她与女友PlayerName住在市中心的一间小公寓里。
+她和女友PlayerName住在市中心一间小公寓里。
+She broke up with PlayerName and did not give any news since then.
+她和PlayerName分手了，之后没有再有任何消息。
 She's living in a small apartment with her Dominant lover PlayerName.
-她与她的支配型恋人PlayerName住在一间小公寓里。
+她和她的主导情人PlayerName住在一间小公寓里。
 She's living in a small apartment with her submissive lover PlayerName.
-她与她的顺从型恋人PlayerName住在一间小公寓里。
-She's often in detention for talking in class or texting on her phone.
-她经常因课堂讲话或发短信而被留校察看。
-She's older than most students because she failed many classes.
-她比大多数学生年长，因为她多门课程不及格。
-She's one of the youngest students, skipping a school year in the past.
-她是最年轻的学生之一，曾经跳过一年级。
-Sidney is a short-tempered, impolite and rebellious college girl.
-Sidney是一个脾气暴躁、不礼貌且叛逆的女大学生。
-Student
-学生
-Teacher
-教师
-Teacher PlayerName became her personal submissive outside of work.
-教师PlayerName在工作之外成为她的个人顺从者。
+她和她顺从的情人PlayerName住在一间小公寓里。
+Evelyn is confident, strict and well-organized.  The definition of a workaholic.
+伊芙琳自信、严谨且组织严谨。 这就是工作狂的定义。
+She's been employed by the college for years and got promoted to director.
+她在学院工作多年，后来晋升为主任。
+Her job is to guide and train teachers.  She rules them with an iron fist.
+她的工作是指导和培训教师。 她用铁腕统治着他们。
+She doesn't have a partner or any children.  Her career always comes first.
+她没有伴侣，也没有孩子。 她的事业永远是第一位。
 Teacher PlayerName is her Dominant, she controls her life outside of work.
-教师PlayerName是她的支配者，控制她工作之外的生活。
-Theater Actress
-戏剧演员
-Unemployed
-失业
+PlayerName老师 是她的主导者，她控制着工作之外的生活。
+Teacher PlayerName became her personal submissive outside of work.
+PlayerName老师成了她工作之外的私人顺从者。
+Sidney is a short-tempered, impolite and rebellious college girl.
+西德尼是个脾气暴躁、无礼且叛逆的大学生。
+She's older than most students because she failed many classes.
+她比大多数学生年长，因为她挂了很多课。
+Addicted to weed, she's been in detention more than anyone else.
+她沉迷于大麻，被留校察看的时间比任何人都多。
+She's known to pick fights with her college roommate Sarah.
+她以与大学室友莎拉吵架而闻名。
+She submitted to PlayerName and will need lots of training.
+她服从给了PlayerName，需要大量培训。
+She's blackmailing PlayerName as her own personal bitch.
+她把PlayerName当成自己的私下人来勒索。
+Sarah is a lighthearted, adventurous and exuberant college girl.
+莎拉是一个轻松、爱冒险且充满活力的大学生。
+Her lack of focus and seriousness greatly affects her grades.
+她缺乏专注和严肃性极大地影响了她的成绩。
+She's often in detention for talking in class or texting on her phone.
+她经常因为在课堂上说话或发短信而被留校察看。
+She's known to flirt a lot and was caught making up with students.
+她以经常调情著称，还被抓到和学生和好。
+She surrendered her freedom to her Dominant teacher PlayerName.
+她将自由交给了她的主导老师PlayerName。
+She's taken her submissive teacher PlayerName as little sister.
+她把顺从的老师PlayerName当作妹妹。
+Amanda is a kind-hearted, strong-willed and studious college girl.
+阿曼达是一个善良、意志坚定且勤奋的大学女生。
+She's one of the youngest students, skipping a school year in the past.
+她是最年轻的学生之一，过去曾跳过一学年。
+She works hard on her homework and get great results on her exams.
+她努力做作业，考试成绩也很好。
+Her very close friend Sarah is the only bad influence on her grades.
+她非常亲密的朋友莎拉是她成绩中唯一的负面影响。
+Samriddhi is a foreign student, the second daughter of a rich oligarch.
+萨姆里迪是一名外国学生，一位富有寡头的次女。
+She studies administration and economics to inherit her father empire.
+她学习行政和经济学，以继承父亲的帝国。
+She's a good student but is known to bribe her way for better grades.
+她是个好学生，但以用贿赂换取更好成绩而闻名。
+Since she's foreign and of noble descent, she doesn't have many friends.
+由于她是外籍且出身贵族，朋友不多。
 Yuki is a lonely and clumsy teacher.  Employed by the college for seven years.
-Yuki是一个孤独且笨拙的教师，在这所大学工作了七年。
+优纪是个孤独笨拙的老师。 在学院工作了七年。
+She never got promoted because of her numerous blunders and addictions.
+她因为多次失误和成瘾而未能晋升。
+She's a recovering alcoholic and takes lots of pills for different problems.
+她是个戒酒者，服用很多药来治疗各种问题。
+She dated other teachers in the past but now lives alone with her cats.
+她以前和其他老师约会过，但现在独自和她的猫一起生活。
+Jane is a seasoned maid, working for the Bondage Club for two decades.
+简是一名经验丰富的女佣，在束缚俱乐部工作了二十年。
+She might look old and petite, but she's very talented with restraints.
+她看起来老小，但束缚力极强。
+In the sorority, she's often called mom, because of her protective nature.
+在姐妹会里，她常被叫做妈妈，因为她有保护欲。
+She's not great with words or remembering names, calling everyone M'lady.
+她不擅长用词和记名字，叫每个人都是“夫人”。
+Charlotte is Mia's little sister, she works in a country bar out of town.
+夏洛特是米娅的小妹妹，她在城外的乡村酒吧工作。
+She's been unlucky in dating, getting only bad boys or one night stand.
+她在约会方面运气不好，只遇到坏男孩或一夜情。
+She loves to party and getting drunk quickly.  She never refuses a beer.
+她喜欢派对和快速喝醉。 她从不拒绝啤酒。
+Mia and her are not very close, she mostly visit when she needs a bed.
+米娅和她关系不算亲密，她大多是在需要床位时来访。
